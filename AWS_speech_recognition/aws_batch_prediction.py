@@ -39,29 +39,79 @@ for current_path in list_of_audios:
     job_name = "{}_440_aolme_{}".format(name_of_job, cnt)
     job_uri = "s3://myaolmebucket/{}".format(current_name)
     transcribe = boto3.client('transcribe')
-    transcribe.start_transcription_job(
-        TranscriptionJobName=job_name,
-        Media={'MediaFileUri': job_uri},
-        MediaFormat='wav',
-        # LanguageCode='es-ES',
-        IdentifyLanguage=True,
-        LanguageOptions=['en-US'|'es-ES'|'es-US'],
-        # JobExecutionSettings = {"AllowDeferredExecution": True},
-        Settings = {"ShowAlternatives": True, "MaxAlternatives": 4}
-    )
-    while True:
-        status = transcribe.get_transcription_job(TranscriptionJobName=job_name)
-        if status['TranscriptionJob']['TranscriptionJobStatus'] in ['COMPLETED', 'FAILED']:
-            break
-        time.sleep(5)
-
-    if status['TranscriptionJob']['TranscriptionJobStatus'] == "COMPLETED":
-        data = pd.read_json(status['TranscriptionJob']['Transcript']['TranscriptFileUri'])
-        print("{} / {} completed".format(cnt, num_total))
-        my_transcription = data['results'][2][0]['transcript']
-    elif status['TranscriptionJob']['TranscriptionJobStatus'] == "FAILED":
-        print("Transcript Failed")
-        my_transcription = ""
+    
+    if pred_col_name == 'bilingual':
+    
+        transcribe.start_transcription_job(
+            TranscriptionJobName=job_name,
+            Media={'MediaFileUri': job_uri},
+            MediaFormat='wav',
+            # LanguageCode='es-ES',
+            IdentifyLanguage=True,
+            LanguageOptions=['en-US', 'es-ES', 'es-US'],
+            # JobExecutionSettings = {"AllowDeferredExecution": True},
+            Settings = {"ShowAlternatives": True, "MaxAlternatives": 4}
+        )
+        while True:
+            status = transcribe.get_transcription_job(TranscriptionJobName=job_name)
+            if status['TranscriptionJob']['TranscriptionJobStatus'] in ['COMPLETED', 'FAILED']:
+                break
+            time.sleep(5)
+    
+        if status['TranscriptionJob']['TranscriptionJobStatus'] == "COMPLETED":
+            data = pd.read_json(status['TranscriptionJob']['Transcript']['TranscriptFileUri'])
+            print("{} / {} completed".format(cnt, num_total))
+            my_transcription = data['results'][4][0]['transcript'] 
+        elif status['TranscriptionJob']['TranscriptionJobStatus'] == "FAILED":
+            print("Transcript Failed")
+            my_transcription = ""
+    
+    elif pred_col_name == 'spanish':
+        transcribe.start_transcription_job(
+            TranscriptionJobName=job_name,
+            Media={'MediaFileUri': job_uri},
+            MediaFormat='wav',
+            LanguageCode='es-US',
+            Settings = {"ShowAlternatives": True, "MaxAlternatives": 4}
+        )
+        while True:
+            status = transcribe.get_transcription_job(TranscriptionJobName=job_name)
+            if status['TranscriptionJob']['TranscriptionJobStatus'] in ['COMPLETED', 'FAILED']:
+                break
+            time.sleep(5)
+    
+        if status['TranscriptionJob']['TranscriptionJobStatus'] == "COMPLETED":
+            data = pd.read_json(status['TranscriptionJob']['Transcript']['TranscriptFileUri'])
+            print("{} / {} completed".format(cnt, num_total))
+            my_transcription = data['results'][2][0]['transcript'] 
+        elif status['TranscriptionJob']['TranscriptionJobStatus'] == "FAILED":
+            print("Transcript Failed")
+            my_transcription = ""
+    
+    elif pred_col_name == 'english':
+        transcribe.start_transcription_job(
+            TranscriptionJobName=job_name,
+            Media={'MediaFileUri': job_uri},
+            MediaFormat='wav',
+            LanguageCode='en-US',
+            Settings = {"ShowAlternatives": True, "MaxAlternatives": 4}
+        )
+        while True:
+            status = transcribe.get_transcription_job(TranscriptionJobName=job_name)
+            if status['TranscriptionJob']['TranscriptionJobStatus'] in ['COMPLETED', 'FAILED']:
+                break
+            time.sleep(5)
+    
+        if status['TranscriptionJob']['TranscriptionJobStatus'] == "COMPLETED":
+            data = pd.read_json(status['TranscriptionJob']['Transcript']['TranscriptFileUri'])
+            print("{} / {} completed".format(cnt, num_total))
+            my_transcription = data['results'][2][0]['transcript'] 
+        elif status['TranscriptionJob']['TranscriptionJobStatus'] == "FAILED":
+            print("Transcript Failed")
+            my_transcription = ""
+    else:
+        print("Wrong language option")
+        sys.exit()
 
     cnt = cnt + 1
 

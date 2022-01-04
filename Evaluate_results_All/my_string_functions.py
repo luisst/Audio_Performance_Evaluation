@@ -206,9 +206,8 @@ def check_binary(string) :
         return False
 
 
-def std_my_phrases(my_input_str):
+def std_my_phrases(my_input_str, empty_counter=0):
 
-    empty_counter = 0
     if my_input_str == 'nan':
         empty_counter = empty_counter + 1
         return " ", empty_counter
@@ -259,20 +258,38 @@ def std_my_phrases(my_input_str):
 
 def cer_phonemes(my_gt, my_pred, lang):
     c_sep = Separator(phone='_', syllable='', word=' ') #custom separator
+    B_E = 'espeak' #back end
 
     #Parameters for phonemizer
     if lang == 'english':
         L = 'en-us'
+        my_gt_phones = phonemize(my_gt, L, B_E, c_sep)[:-2]
+        my_pred_phones = phonemize(my_pred, L, B_E, c_sep)[:-2]
+        print(my_gt_phones)
+        print(my_pred_phones)
+        phones_prob = cer(my_gt_phones, my_pred_phones)
+        return phones_prob
     elif lang == 'spanish':
         L = 'es-419'
+        my_gt_phones = phonemize(my_gt, L, B_E, c_sep)[:-2]
+        my_pred_phones = phonemize(my_pred, L, B_E, c_sep)[:-2]
+        print(my_gt_phones)
+        print(my_pred_phones)
+        phones_prob = cer(my_gt_phones, my_pred_phones)
+        return phones_prob
+    elif lang == 'bilingual':
+        my_gt_phones_eng = phonemize(my_gt, 'en-us', B_E, c_sep)[:-2]
+        my_pred_phones_eng = phonemize(my_pred, 'en-us', B_E, c_sep)[:-2]
+        phones_prob_eng = cer(my_gt_phones_eng, my_pred_phones_eng)
+
+        my_gt_phones_spa = phonemize(my_gt, 'es-419', B_E, c_sep)[:-2]
+        my_pred_phones_spa = phonemize(my_pred, 'es-419', B_E, c_sep)[:-2]
+        phones_prob_spa = cer(my_gt_phones_spa, my_pred_phones_spa)
+
+        phones_prob_bilingual = min(phones_prob_eng, phones_prob_spa)
+        return phones_prob_bilingual
     else:
         print(" error ")
+        return 1
         #language 'es-la' latin-america, 'es' spain
-    B_E = 'espeak' #back end
 
-    my_gt_phones = phonemize(my_gt, L, B_E, c_sep)[:-2]
-    my_pred_phones = phonemize(my_pred, L, B_E, c_sep)[:-2]
-    print(my_gt_phones)
-    print(my_pred_phones)
-    phones_prob = cer(my_gt_phones, my_pred_phones)
-    return phones_prob

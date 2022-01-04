@@ -79,7 +79,8 @@ def write_my_csv(*args, **kwargs):
     """
 
 
-    my_df = pd.DataFrame(index=False)
+    # my_df = pd.DataFrame(index=False)
+    my_df = pd.DataFrame()
 
     csv_path = kwargs['path']
     columns_values = kwargs['cols']
@@ -94,7 +95,7 @@ def write_my_csv(*args, **kwargs):
 
     idx = 0
     for current_list in args:
-        df[columns_values[idx]] = current_list
+        my_df[columns_values[idx]] = current_list
         idx = idx + 1
 
     today_date = '_' + str(datetime.date.today())
