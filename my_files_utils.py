@@ -77,13 +77,15 @@ def write_my_csv(*args, **kwargs):
         - cols: List of names for columns (matched to args)
         - path: output_path for the csv
     """
-
+    defaultKwargs = { 'time_format': True, 'txt_flag': False }
+    kwargs = { **defaultKwargs, **kwargs }
 
     # my_df = pd.DataFrame(index=False)
     my_df = pd.DataFrame()
 
     csv_path = kwargs['path']
     columns_values = kwargs['cols']
+
 
     # check if csv file exists
     check_csv_exists(csv_path)
@@ -99,9 +101,23 @@ def write_my_csv(*args, **kwargs):
         idx = idx + 1
 
     today_date = '_' + str(datetime.date.today())
-    full_output_csv_path = '/'.join(csv_path.split('/')[0:-1]) + '/' + csv_path.split('/')[-1][0:-4] + today_date + '.csv'
-    my_df.to_csv(csv_path)
+    datetime_object = datetime.datetime.now()
+    time_f = "-{:d}_{:02d}".format(datetime_object.hour, datetime_object.minute)
 
+    if kwargs['time_format']:
+        if kwargs['txt_flag']:
+            full_output_csv_path = '/'.join(csv_path.split('/')[0:-1]) + '/' + csv_path.split('/')[-1][0:-4] + today_date + time_f + '.txt'
+            my_df.to_csv(full_output_csv_path, header=False, sep='\t', index=False)
+        else:
+            full_output_csv_path = '/'.join(csv_path.split('/')[0:-1]) + '/' + csv_path.split('/')[-1][0:-4] + today_date + time_f + '.csv'
+            my_df.to_csv(full_output_csv_path, index=False)
+    else:
+        if kwargs['txt_flag']:
+            full_output_csv_path = '/'.join(csv_path.split('/')[0:-1]) + '/' + csv_path.split('/')[-1][0:-4] + '.txt'
+            my_df.to_csv(full_output_csv_path, header=False, sep='\t', index=False)
+        else:
+            full_output_csv_path = '/'.join(csv_path.split('/')[0:-1]) + '/' + csv_path.split('/')[-1][0:-4] + '.csv'
+            my_df.to_csv(full_output_csv_path, index=False)
 
 ###   #   #   #       Files processes        #  #  #
 
@@ -141,7 +157,7 @@ def get_pathsList_from_transcript(transcript_path, csv_flag=False):
         return path_list
 
 
-def get_list_of_GT(folder_path, csv_flag=False):
+def get_list_of_GT(folder_path, csv_flag=False, single_col=False):
 
     transcript_path = locate_single_txt(folder_path)
 
@@ -149,7 +165,10 @@ def get_list_of_GT(folder_path, csv_flag=False):
         check_ending_format(transcript_path, 'txt')
 
         transcript_data = pd.read_csv(transcript_path, sep="\t", header=None, index_col=False)
-        GT_list = transcript_data[1].tolist()
+        if single_col:
+            GT_list = transcript_data[0].tolist()
+        else:
+            GT_list = transcript_data[1].tolist()            
         return GT_list
 
 
