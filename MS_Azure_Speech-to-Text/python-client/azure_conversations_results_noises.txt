@@ -1,0 +1,867 @@
+
+G-C1L2P-Jun20-A-Jacob_q2_01-12_00000.wav
+	1 (0.39): Really.
+	2 (0.39): Good.
+
+G-C2L1P-Apr12-A-Allan_q2_01-05_00110.wav
+	1 (0.13): Nothing.
+
+G-C2L1P-Apr19-D-Chaitu_q2_01-05_00258.wav
+	1 (0.33): That
+	2 (0.33): 1.
+
+G-C2L1P-Apr19-D-Chaitu_q2_05-05_00324.wav
+	1 (0.03): 7.
+
+G-C2L1P-Feb16-D-Chaitu_q2_01-05_00353.wav
+	1 (0.74): OK, So what else can you do?
+
+G-C2L1P-Feb16-D-Chaitu_q2_01-05_00341.wav
+	1 (0.06): Control.
+
+G-C2L1P-Apr12-A-Allan_q2_01-05_00151.wav
+	1 (0.02): Clear.
+	2 (0.02): That
+
+G-C2L1P-Apr12-A-Allan_q2_01-05_00118.wav
+	1 (0.43): We were made.
+
+G-C1L2P-Jun20-A-Jacob_q2_01-12_00034.wav
+	1 (0.02): 1000
+
+G-C2L1P-Apr12-A-Allan_q2_05-05_00183.wav
+	1 (0.19): Therefore, round with.
+
+G-C2L1P-Feb16-D-Chaitu_q2_01-05_00352.wav
+	1 (0.02): Hello.
+
+G-C2L1P-Feb16-D-Chaitu_q2_01-05_00395.wav
+	1 (0.64): This is pretty.
+
+G-C2L1P-Apr19-D-Chaitu_q2_01-05_00273.wav
+	1 (0.32): The closing bracket.
+
+G-C2L1P-Apr12-A-Allan_q2_05-05_00222.wav
+	1 (0.77): You know you wanted.
+
+G-C2L1P-Feb16-D-Chaitu_q2_01-05_00399.wav
+	1 (0.54): Thank.
+	2 (0.54): You
+
+G-C2L1P-Apr12-A-Allan_q2_05-05_00193.wav
+	1 (0.00): Yeah.
+
+G-C2L1P-Apr12-A-Allan_q2_01-05_00127.wav
+	1 (0.18): That
+	2 (0.18): I.
+
+G-C2L1P-Apr12-A-Allan_q2_01-05_00123.wav
+	1 (0.44): What are you doing?
+
+G-C1L2P-Jun20-A-Jacob_q2_12-12_00074.wav
+	1 (0.21): Is going to deliver.
+
+G-C1L2P-Jun20-A-Jacob_q2_01-12_00014.wav
+	1 (0.59): And.
+	2 (0.59): Then
+
+G-C2L1P-Apr19-D-Chaitu_q2_01-05_00259.wav
+	1 (0.31): Lower the volume.
+
+G-C1L2P-Jun20-A-Jacob_q2_01-12_00019.wav
+	1 (0.41): One of those for one.
+
+G-C2L1P-Apr12-A-Allan_q2_01-05_00141.wav
+	1 (0.69): I don't know how.
+
+G-C2L1P-Apr12-A-Allan_q2_05-05_00188.wav
+	1 (0.53): We're doing all the projects there.
+	2 (0.53): So they can look at all of them.
+
+G-C2L1P-Feb16-D-Chaitu_q2_01-05_00400.wav
+	1 (0.24): Being
+	2 (0.24): there.
+
+G-C2L1P-Apr12-A-Allan_q2_01-05_00160.wav
+	1 (0.04): ****.
+
+G-C2L1P-Apr19-D-Chaitu_q2_05-05_00291.wav
+	1 (0.71): Though we do the grace.
+
+G-C2L1P-Apr19-D-Chaitu_q2_05-05_00300.wav
+	1 (0.78): Thank.
+	2 (0.78): You
+
+G-C2L1P-Feb16-D-Chaitu_q2_01-05_00374.wav
+	1 (0.09): Please.
+
+G-C2L1P-Apr12-A-Allan_q2_01-05_00152.wav
+	1 (0.13): Because.
+
+G-C2L1P-Apr19-D-Chaitu_q2_01-05_00280.wav
+	1 (0.49): Thank.
+	2 (0.49): You
+
+G-C2L1P-Feb16-D-Chaitu_q2_01-05_00394.wav
+	1 (0.50): Do you want me that game Monday?
+
+G-C2L1P-Feb16-D-Chaitu_q2_01-05_00339.wav
+	1 (0.51): People get sick.
+
+G-C2L1P-Feb16-D-Chaitu_q2_01-05_00357.wav
+	1 (0.36): G.
+
+G-C2L1P-Apr12-A-Allan_q2_01-05_00135.wav
+	1 (0.05): OK.
+
+G-C2L1P-Feb16-D-Chaitu_q2_01-05_00336.wav
+	1 (0.22): To the front.
+
+G-C1L2P-Jun20-A-Jacob_q2_01-12_00011.wav
+	1 (0.52): Good.
+	2 (0.52): Morning.
+
+G-C2L1P-Apr12-A-Allan_q2_05-05_00190.wav
+	1 (0.11): Just.
+	2 (0.03): Girl.
+
+G-C2L1P-Apr12-A-Allan_q2_05-05_00204.wav
+	1 (0.33): Those getting mad.
+
+G-C1L2P-Jun20-A-Jacob_q2_01-12_00002.wav
+	1 (0.76): Well.
+
+G-C2L1P-Apr12-A-Allan_q2_01-05_00120.wav
+	1 (0.08): Aye.
+
+G-C1L2P-Jun20-A-Jacob_q2_01-12_00031.wav
+	1 (0.04): Both.
+
+G-C2L1P-Feb16-D-Chaitu_q2_01-05_00366.wav
+	1 (0.10): So after training.
+
+G-C2L1P-Feb16-D-Chaitu_q2_01-05_00389.wav
+	1 (0.28): 2.
+
+G-C2L1P-Feb16-D-Chaitu_q2_01-05_00360.wav
+	1 (0.51): Two places to work in England.
+
+G-C2L1P-Apr19-D-Chaitu_q2_05-05_00333.wav
+	1 (0.17): So.
+
+G-C2L1P-Apr19-D-Chaitu_q2_01-05_00283.wav
+	1 (0.04): And.
+
+G-C1L2P-Jun20-A-Jacob_q2_01-12_00029.wav
+	1 (0.16): Right?
+
+G-C1L2P-Jun20-A-Jacob_q2_01-12_00017.wav
+	1 (0.14): Using.
+
+G-C2L1P-Apr12-A-Allan_q2_05-05_00184.wav
+	1 (0.45): Which I don't like you.
+	2 (0.08): So.
+
+G-C1L2P-Jun20-A-Jacob_q2_12-12_00093.wav
+	1 (0.03): Programming.
+
+G-C2L1P-Apr19-D-Chaitu_q2_05-05_00308.wav
+	1 (0.57): So it's gonna feel.
+
+G-C2L1P-Apr12-A-Allan_q2_05-05_00205.wav
+	1 (0.37): It's gonna be like.
+
+G-C1L2P-Jun20-A-Jacob_q2_12-12_00076.wav
+	1 (0.35): Love.
+	2 (0.35): You
+
+G-C2L1P-Apr19-D-Chaitu_q2_01-05_00272.wav
+	1 (0.35): Mint.
+
+G-C1L2P-Jun20-A-Jacob_q2_01-12_00058.wav
+	1 (0.22): There were some.
+
+G-C1L2P-Jun20-A-Jacob_q2_12-12_00094.wav
+	1 (0.26): Yeah.
+
+G-C2L1P-Apr19-D-Chaitu_q2_01-05_00229.wav
+	1 (0.19): Who got famous by 10?
+
+G-C2L1P-Apr19-D-Chaitu_q2_01-05_00234.wav
+	1 (0.45): How?
+	2 (0.45): Often.
+
+G-C2L1P-Apr12-A-Allan_q2_01-05_00130.wav
+	1 (0.74): You know?
+
+G-C2L1P-Apr12-A-Allan_q2_01-05_00107.wav
+	1 (0.01): Message.
+
+G-C1L2P-Jun20-A-Jacob_q2_01-12_00062.wav
+	1 (0.01): Yeah.
+
+G-C2L1P-Apr19-D-Chaitu_q2_01-05_00257.wav
+	1 (0.84): If you look at it.
+
+G-C2L1P-Apr19-D-Chaitu_q2_05-05_00329.wav
+	1 (0.40): We're going with the Bahamas.
+
+G-C2L1P-Apr19-D-Chaitu_q2_01-05_00239.wav
+	1 (0.41): What I think.
+
+G-C1L2P-Jun20-A-Jacob_q2_01-12_00010.wav
+	1 (0.60): English English.
+	1 (0.51): He said.
+
+G-C1L2P-Jun20-A-Jacob_q2_01-12_00043.wav
+	1 (0.39): OK.
+
+G-C2L1P-Apr12-A-Allan_q2_01-05_00175.wav
+	1 (0.62): From the way.
+
+G-C2L1P-Apr12-A-Allan_q2_01-05_00140.wav
+	1 (0.36): The user down there.
+
+G-C2L1P-Apr12-A-Allan_q2_01-05_00150.wav
+	1 (0.36): Different think about what they.
+	2 (0.36): Want to see?
+
+G-C2L1P-Apr12-A-Allan_q2_05-05_00219.wav
+	1 (0.15): Of the bodies.
+
+G-C1L2P-Jun20-A-Jacob_q2_01-12_00064.wav
+	1 (0.48): Yeah.
+
+G-C2L1P-Apr19-D-Chaitu_q2_01-05_00245.wav
+	1 (0.06): OK.
+
+G-C2L1P-Apr12-A-Allan_q2_01-05_00137.wav
+	1 (0.16): Maybe?
+
+G-C1L2P-Jun20-A-Jacob_q2_01-12_00057.wav
+	1 (0.35): Loaded.
+	2 (0.35): With.
+
+G-C2L1P-Feb16-D-Chaitu_q2_01-05_00375.wav
+	1 (0.20): Right?
+
+G-C2L1P-Apr12-A-Allan_q2_01-05_00103.wav
+	1 (0.05): Family.
+	2 (0.55): It would be not running.
+
+G-C2L1P-Apr12-A-Allan_q2_01-05_00172.wav
+	1 (0.06): But
+	1 (0.30): open the.
+
+G-C2L1P-Apr19-D-Chaitu_q2_01-05_00284.wav
+	1 (0.30): Put in my brother.
+
+G-C2L1P-Feb16-D-Chaitu_q2_01-05_00387.wav
+	1 (0.68): If you are the correct.
+
+G-C2L1P-Apr12-A-Allan_q2_05-05_00200.wav
+	1 (0.12): Here.
+
+G-C2L1P-Apr19-D-Chaitu_q2_01-05_00250.wav
+	1 (0.13): Carriage.
+
+G-C2L1P-Apr19-D-Chaitu_q2_01-05_00230.wav
+	1 (0.15): These are among the electronics.
+
+G-C2L1P-Feb16-D-Chaitu_q2_01-05_00381.wav
+	1 (0.28): Two and three.
+
+G-C2L1P-Apr12-A-Allan_q2_01-05_00121.wav
+	1 (0.21): Understanding.
+	2 (0.21): And.
+
+G-C1L2P-Jun20-A-Jacob_q2_01-12_00069.wav
+	1 (0.58): Yeah.
+
+G-C2L1P-Feb16-D-Chaitu_q2_01-05_00342.wav
+	1 (0.50): I mean that's tomorrow.
+
+G-C1L2P-Jun20-A-Jacob_q2_01-12_00020.wav
+	1 (0.09): Inquiring what had.
+
+G-C1L2P-Jun20-A-Jacob_q2_01-12_00036.wav
+	1 (0.81): You need to.
+	1 (0.11): No.
+
+G-C2L1P-Feb16-D-Chaitu_q2_01-05_00349.wav
+	1 (0.31): Stick.
+	2 (0.27): Yes.
+
+G-C2L1P-Feb16-D-Chaitu_q2_01-05_00367.wav
+	1 (0.53): I think this question.
+
+G-C1L2P-Jun20-A-Jacob_q2_12-12_00091.wav
+	1 (0.42): You know this time.
+
+G-C2L1P-Apr12-A-Allan_q2_01-05_00149.wav
+	1 (0.48): What do you mean?
+
+G-C1L2P-Jun20-A-Jacob_q2_12-12_00096.wav
+	1 (0.00): Umm?
+
+G-C1L2P-Jun20-A-Jacob_q2_01-12_00066.wav
+	1 (0.03): Fake.
+	2 (0.03): News.
+
+G-C2L1P-Apr19-D-Chaitu_q2_01-05_00255.wav
+	1 (0.65): That would be.
+
+G-C1L2P-Jun20-A-Jacob_q2_01-12_00021.wav
+	1 (0.41): OK.
+
+G-C2L1P-Apr12-A-Allan_q2_01-05_00116.wav
+	1 (0.01): Every.
+	2 (0.01): Edge.
+
+G-C2L1P-Feb16-D-Chaitu_q2_01-05_00363.wav
+	1 (0.18): Those images of.
+	2 (0.18): Yeah.
+
+G-C2L1P-Feb16-D-Chaitu_q2_01-05_00368.wav
+	1 (0.68): That are on the board.
+
+G-C2L1P-Apr19-D-Chaitu_q2_05-05_00309.wav
+	1 (0.37): The.
+	2 (0.37): Child
+
+G-C2L1P-Apr12-A-Allan_q2_05-05_00177.wav
+	1 (0.16): 2nd.
+	2 (0.16): 1.
+
+G-C2L1P-Apr19-D-Chaitu_q2_01-05_00285.wav
+	1 (0.53): Yeah, so what's that going to do?
+
+G-C2L1P-Apr12-A-Allan_q2_05-05_00207.wav
+	1 (0.24): I just
+
+G-C2L1P-Apr19-D-Chaitu_q2_05-05_00332.wav
+	1 (0.58): Let me know what's going.
+	2 (0.58): On let me know.
+
+G-C1L2P-Jun20-A-Jacob_q2_01-12_00065.wav
+	1 (0.13): So you know.
+	1 (0.54): Are you?
+
+G-C2L1P-Apr12-A-Allan_q2_05-05_00189.wav
+	1 (0.56): You don't have one.
+
+G-C2L1P-Apr19-D-Chaitu_q2_05-05_00304.wav
+	1 (0.38): It seems that.
+
+G-C2L1P-Apr19-D-Chaitu_q2_01-05_00267.wav
+	1 (0.66): OK, I can make this more.
+
+G-C1L2P-Jun20-A-Jacob_q2_01-12_00059.wav
+	1 (0.32): Understanding.
+	2 (0.32): Of.
+
+G-C2L1P-Feb16-D-Chaitu_q2_01-05_00355.wav
+	1 (0.43): Yeah, they won the two one.
+
+G-C2L1P-Apr12-A-Allan_q2_01-05_00148.wav
+	1 (0.72): That's what it is.
+
+G-C2L1P-Apr19-D-Chaitu_q2_01-05_00246.wav
+	1 (0.49): Is.
+	2 (0.49): That
+
+G-C1L2P-Jun20-A-Jacob_q2_01-12_00004.wav
+	1 (0.71): Yes.
+
+G-C2L1P-Apr19-D-Chaitu_q2_01-05_00261.wav
+	1 (0.10): Yes.
+
+G-C2L1P-Apr12-A-Allan_q2_05-05_00179.wav
+	1 (0.32): So those little.
+
+G-C2L1P-Apr12-A-Allan_q2_05-05_00210.wav
+	1 (0.43): That's.
+	2 (0.43): It.
+
+G-C2L1P-Apr12-A-Allan_q2_01-05_00128.wav
+	1 (0.03): OK.
+
+G-C2L1P-Feb16-D-Chaitu_q2_01-05_00347.wav
+	1 (0.24): And in this country.
+
+G-C2L1P-Apr12-A-Allan_q2_05-05_00209.wav
+	1 (0.49): Yeah.
+
+G-C2L1P-Apr19-D-Chaitu_q2_05-05_00315.wav
+	1 (0.36): Believe.
+	2 (0.36): It.
+
+G-C2L1P-Apr12-A-Allan_q2_01-05_00145.wav
+	1 (0.60): We made it.
+
+G-C2L1P-Apr19-D-Chaitu_q2_01-05_00265.wav
+	1 (0.41): Yeah, for those.
+
+G-C2L1P-Feb16-D-Chaitu_q2_01-05_00348.wav
+	1 (0.29): Done.
+
+G-C2L1P-Feb16-D-Chaitu_q2_01-05_00403.wav
+	1 (0.44): It's like, Umm?
+
+G-C2L1P-Apr19-D-Chaitu_q2_05-05_00293.wav
+	1 (0.23): In the background.
+
+G-C1L2P-Jun20-A-Jacob_q2_01-12_00003.wav
+	1 (0.29): Because.
+
+G-C2L1P-Apr19-D-Chaitu_q2_05-05_00310.wav
+	1 (0.31): Don't know.
+
+G-C2L1P-Apr12-A-Allan_q2_05-05_00214.wav
+	1 (0.69): You
+	2 (0.69): know?
+
+G-C2L1P-Feb16-D-Chaitu_q2_01-05_00351.wav
+	1 (0.10): Hello.
+
+G-C2L1P-Apr12-A-Allan_q2_01-05_00114.wav
+	1 (0.09): Goodnight
+
+G-C2L1P-Apr12-A-Allan_q2_01-05_00105.wav
+	1 (0.12): My.
+	2 (0.12): Dog.
+
+G-C1L2P-Jun20-A-Jacob_q2_12-12_00084.wav
+	1 (0.42): Funny.
+
+G-C2L1P-Feb16-D-Chaitu_q2_01-05_00372.wav
+	1 (0.09): Quiet.
+
+G-C2L1P-Apr12-A-Allan_q2_05-05_00213.wav
+	1 (0.55): Yeah you can.
+
+G-C2L1P-Apr12-A-Allan_q2_05-05_00186.wav
+	1 (0.12): Have
+	2 (0.12): you?
+
+G-C2L1P-Apr19-D-Chaitu_q2_01-05_00235.wav
+	1 (0.00): Vinegar.
+
+G-C1L2P-Jun20-A-Jacob_q2_01-12_00050.wav
+	1 (0.18): Another
+
+G-C2L1P-Feb16-D-Chaitu_q2_01-05_00380.wav
+	1 (0.03): He
+	2 (0.03): also.
+
+G-C2L1P-Apr12-A-Allan_q2_01-05_00102.wav
+	1 (0.24): Now you have this.
+
+G-C2L1P-Apr12-A-Allan_q2_01-05_00131.wav
+	1 (0.31): Here.
+	2 (0.31): OK.
+
+G-C2L1P-Feb16-D-Chaitu_q2_01-05_00408.wav
+	1 (0.12): No.
+
+G-C2L1P-Feb16-D-Chaitu_q2_01-05_00386.wav
+	1 (0.49): Thank.
+	2 (0.49): You
+
+G-C2L1P-Apr19-D-Chaitu_q2_01-05_00262.wav
+	1 (0.65): Sort.
+	2 (0.65): Of.
+
+G-C1L2P-Jun20-A-Jacob_q2_01-12_00016.wav
+	1 (0.59): Thank you.
+
+G-C2L1P-Apr12-A-Allan_q2_05-05_00194.wav
+	1 (0.11): And.
+
+G-C2L1P-Apr19-D-Chaitu_q2_05-05_00313.wav
+	1 (0.04): 4.
+	2 (0.02): Dead.
+
+G-C2L1P-Apr19-D-Chaitu_q2_05-05_00299.wav
+	1 (0.18): And.
+	2 (0.18): Daniel.
+
+G-C2L1P-Apr12-A-Allan_q2_01-05_00168.wav
+	1 (0.61): Do not put it in.
+
+G-C2L1P-Apr12-A-Allan_q2_01-05_00133.wav
+	1 (0.03): 3.
+	2 (0.03): D.
+
+G-C2L1P-Apr12-A-Allan_q2_01-05_00108.wav
+	1 (0.53): The.
+	2 (0.53): 1st.
+
+G-C2L1P-Apr12-A-Allan_q2_01-05_00156.wav
+	1 (0.16): The difference in money.
+
+G-C1L2P-Jun20-A-Jacob_q2_01-12_00008.wav
+	1 (0.42): Doesn't.
+
+G-C2L1P-Feb16-D-Chaitu_q2_01-05_00354.wav
+	1 (0.31): That's.
+	2 (0.31): OK.
+
+G-C2L1P-Feb16-D-Chaitu_q2_01-05_00359.wav
+	1 (0.30): We thought we knew.
+
+G-C2L1P-Apr19-D-Chaitu_q2_05-05_00316.wav
+	1 (0.12): 2.
+
+G-C2L1P-Apr19-D-Chaitu_q2_01-05_00281.wav
+	1 (0.43): So you need to do.
+
+G-C1L2P-Jun20-A-Jacob_q2_01-12_00005.wav
+	1 (0.66): And then what?
+
+G-C2L1P-Apr19-D-Chaitu_q2_01-05_00266.wav
+	1 (0.24): Not going to go eat.
+
+G-C2L1P-Apr12-A-Allan_q2_01-05_00155.wav
+	1 (0.35): Over.
+	2 (0.35): Here.
+
+G-C1L2P-Jun20-A-Jacob_q2_12-12_00078.wav
+	1 (0.01): Gary.
+
+G-C2L1P-Apr12-A-Allan_q2_01-05_00171.wav
+	1 (0.16): People running around.
+	2 (0.16): You
+
+G-C2L1P-Apr19-D-Chaitu_q2_01-05_00270.wav
+	1 (0.03): Anyway.
+
+G-C2L1P-Feb16-D-Chaitu_q2_01-05_00371.wav
+	1 (0.35): If we could send the.
+	2 (0.35): Premises
+
+G-C1L2P-Jun20-A-Jacob_q2_12-12_00082.wav
+	1 (0.11): Cortana.
+
+G-C2L1P-Apr19-D-Chaitu_q2_05-05_00322.wav
+	1 (0.37): You
+	2 (0.37): should.
+
+G-C2L1P-Apr19-D-Chaitu_q2_01-05_00240.wav
+	1 (0.28): To.
+	2 (0.28): Become.
+
+G-C1L2P-Jun20-A-Jacob_q2_12-12_00085.wav
+	1 (0.54): Are you there?
+	1 (0.40): From here.
+
+G-C2L1P-Apr12-A-Allan_q2_01-05_00099.wav
+	1 (0.40): Trouble this week.
+
+G-C1L2P-Jun20-A-Jacob_q2_12-12_00090.wav
+	1 (0.04): When?
+
+G-C2L1P-Feb16-D-Chaitu_q2_01-05_00407.wav
+	1 (0.30): Samantha.
+
+G-C2L1P-Apr12-A-Allan_q2_01-05_00126.wav
+	1 (0.26): Sorry, but.
+	2 (0.26): Thank you.
+
+G-C2L1P-Apr12-A-Allan_q2_05-05_00224.wav
+	1 (0.01): OK.
+
+G-C2L1P-Apr12-A-Allan_q2_01-05_00157.wav
+	1 (0.05): Enter.
+
+G-C2L1P-Feb16-D-Chaitu_q2_01-05_00340.wav
+	1 (0.11): Yeah.
+
+G-C2L1P-Feb16-D-Chaitu_q2_01-05_00401.wav
+	1 (0.40): Ohh
+
+G-C2L1P-Apr12-A-Allan_q2_01-05_00166.wav
+	1 (0.42): Oh, really, what?
+	2 (0.42): Are you thinking?
+
+G-C1L2P-Jun20-A-Jacob_q2_01-12_00024.wav
+	1 (0.21): Of course it's not.
+
+G-C2L1P-Apr12-A-Allan_q2_05-05_00185.wav
+	1 (0.61): Right?
+
+G-C1L2P-Jun20-A-Jacob_q2_01-12_00051.wav
+	1 (0.08): Now.
+
+G-C1L2P-Jun20-A-Jacob_q2_01-12_00007.wav
+	1 (0.41): Yeah.
+
+G-C2L1P-Feb16-D-Chaitu_q2_01-05_00376.wav
+	1 (0.25): Hello.
+	2 (0.25): Cortana.
+
+G-C2L1P-Apr12-A-Allan_q2_01-05_00153.wav
+	1 (0.04): Enter.
+
+G-C2L1P-Apr12-A-Allan_q2_05-05_00176.wav
+	1 (0.05): Here.
+
+G-C2L1P-Apr19-D-Chaitu_q2_01-05_00282.wav
+	1 (0.18): 4 hours.
+	1 (0.46): Level.
+
+G-C2L1P-Apr12-A-Allan_q2_01-05_00158.wav
+	1 (0.21): Wonderful and not telling the world.
+
+G-C2L1P-Apr12-A-Allan_q2_01-05_00109.wav
+	1 (0.01): So.
+
+G-C2L1P-Apr12-A-Allan_q2_01-05_00122.wav
+	1 (0.51): I know.
+
+G-C1L2P-Jun20-A-Jacob_q2_12-12_00077.wav
+	1 (0.67): Here.
+
+G-C2L1P-Apr12-A-Allan_q2_01-05_00100.wav
+	1 (0.32): Who are you?
+	1 (0.01): So.
+
+G-C2L1P-Apr19-D-Chaitu_q2_01-05_00238.wav
+	1 (0.23): Well, I mean like.
+
+G-C2L1P-Apr12-A-Allan_q2_01-05_00134.wav
+	1 (0.18): Highlighted here.
+	2 (0.18): Is more.
+
+G-C2L1P-Apr19-D-Chaitu_q2_05-05_00306.wav
+	1 (0.41): Yeah.
+
+G-C2L1P-Feb16-D-Chaitu_q2_01-05_00344.wav
+	1 (0.71): Don't we have?
+
+G-C2L1P-Apr12-A-Allan_q2_01-05_00147.wav
+	1 (0.12): His.
+	2 (0.12): Father
+
+G-C2L1P-Apr12-A-Allan_q2_05-05_00223.wav
+	1 (0.17): Question.
+
+G-C2L1P-Apr12-A-Allan_q2_05-05_00218.wav
+	1 (0.08): Yeah.
+
+G-C2L1P-Apr19-D-Chaitu_q2_01-05_00277.wav
+	1 (0.11): Get them for.
+	2 (0.11): You
+
+G-C1L2P-Jun20-A-Jacob_q2_01-12_00032.wav
+	1 (0.09): Getting
+
+G-C2L1P-Apr19-D-Chaitu_q2_05-05_00312.wav
+	1 (0.63): You're.
+	2 (0.63): Making
+
+G-C1L2P-Jun20-A-Jacob_q2_01-12_00047.wav
+	1 (0.87): You
+	2 (0.87): know?
+
+G-C2L1P-Feb16-D-Chaitu_q2_01-05_00393.wav
+	1 (0.57): OK.
+
+G-C1L2P-Jun20-A-Jacob_q2_01-12_00030.wav
+	1 (0.23): Because.
+
+G-C2L1P-Feb16-D-Chaitu_q2_01-05_00346.wav
+	1 (0.01): OK.
+
+G-C1L2P-Jun20-A-Jacob_q2_01-12_00028.wav
+	1 (0.52): So we said.
+
+G-C2L1P-Apr19-D-Chaitu_q2_01-05_00244.wav
+	1 (0.01): So.
+
+G-C1L2P-Jun20-A-Jacob_q2_01-12_00063.wav
+	1 (0.35): 004
+	2 (0.35): +2.
+
+G-C2L1P-Feb16-D-Chaitu_q2_01-05_00392.wav
+	1 (0.45): What's the meaning?
+
+G-C1L2P-Jun20-A-Jacob_q2_01-12_00035.wav
+	1 (0.62): That's what happened last night.
+
+G-C2L1P-Apr12-A-Allan_q2_05-05_00220.wav
+	1 (0.07): Very.
+
+G-C2L1P-Feb16-D-Chaitu_q2_01-05_00388.wav
+	1 (0.11): Let's
+	2 (0.11): see.
+
+G-C1L2P-Jun20-A-Jacob_q2_01-12_00015.wav
+	1 (0.64): But
+
+G-C2L1P-Apr19-D-Chaitu_q2_01-05_00242.wav
+	1 (0.02): Batman.
+
+G-C2L1P-Apr19-D-Chaitu_q2_05-05_00295.wav
+	1 (0.03): Breakfast.
+
+G-C2L1P-Apr12-A-Allan_q2_05-05_00192.wav
+	1 (0.03): Beautiful.
+
+G-C2L1P-Feb16-D-Chaitu_q2_01-05_00377.wav
+	1 (0.31): Now look at this number.
+
+G-C1L2P-Jun20-A-Jacob_q2_01-12_00068.wav
+	1 (0.72): You
+	2 (0.72): have.
+
+G-C2L1P-Apr12-A-Allan_q2_05-05_00211.wav
+	1 (0.00): Good.
+
+G-C1L2P-Jun20-A-Jacob_q2_01-12_00025.wav
+	1 (0.08): OK this one.
+
+G-C2L1P-Feb16-D-Chaitu_q2_01-05_00356.wav
+	1 (0.57): But you wanted to know.
+
+G-C1L2P-Jun20-A-Jacob_q2_12-12_00087.wav
+	1 (0.01): Condition.
+
+G-C2L1P-Apr19-D-Chaitu_q2_05-05_00328.wav
+	1 (0.49): I need a.
+
+G-C2L1P-Apr12-A-Allan_q2_05-05_00180.wav
+	1 (0.19): Hope his thinking.
+
+G-C2L1P-Apr19-D-Chaitu_q2_05-05_00318.wav
+	1 (0.08): Umm?
+
+G-C2L1P-Apr12-A-Allan_q2_05-05_00215.wav
+	1 (0.19): OK.
+
+G-C1L2P-Jun20-A-Jacob_q2_01-12_00009.wav
+	1 (0.57): It's not done.
+
+G-C2L1P-Apr12-A-Allan_q2_05-05_00197.wav
+	1 (0.31): We
+	2 (0.31): went.
+
+G-C2L1P-Apr19-D-Chaitu_q2_01-05_00248.wav
+	1 (0.72): The.
+	2 (0.72): Major.
+
+G-C1L2P-Jun20-A-Jacob_q2_12-12_00088.wav
+	1 (0.41): OK on this.
+
+G-C2L1P-Apr19-D-Chaitu_q2_01-05_00231.wav
+	1 (0.43): OK.
+
+G-C2L1P-Apr12-A-Allan_q2_01-05_00163.wav
+	1 (0.12): And the majority.
+
+G-C2L1P-Apr12-A-Allan_q2_01-05_00164.wav
+	1 (0.33): Another
+	2 (0.33): number.
+
+G-C1L2P-Jun20-A-Jacob_q2_12-12_00095.wav
+	1 (0.02): Women's Day
+
+G-C2L1P-Apr12-A-Allan_q2_05-05_00178.wav
+	1 (0.52): See.
+	2 (0.52): You
+
+G-C2L1P-Apr19-D-Chaitu_q2_01-05_00247.wav
+	1 (0.37): This what exactly?
+
+G-C2L1P-Apr12-A-Allan_q2_05-05_00181.wav
+	1 (0.25): To bring back the.
+
+G-C2L1P-Apr12-A-Allan_q2_01-05_00112.wav
+	1 (0.18): Within.
+	2 (0.18): This.
+
+G-C2L1P-Apr19-D-Chaitu_q2_05-05_00297.wav
+	1 (0.30): OK.
+
+G-C2L1P-Feb16-D-Chaitu_q2_01-05_00365.wav
+	1 (0.05): OK.
+
+G-C2L1P-Apr12-A-Allan_q2_05-05_00187.wav
+	1 (0.26): From the first one.
+
+G-C2L1P-Apr12-A-Allan_q2_01-05_00165.wav
+	1 (0.07): What?
+	1 (0.44): You know what you think?
+
+G-C1L2P-Jun20-A-Jacob_q2_01-12_00018.wav
+	1 (0.09): Events
+
+G-C2L1P-Feb16-D-Chaitu_q2_01-05_00383.wav
+	1 (0.22): People like that.
+
+G-C2L1P-Feb16-D-Chaitu_q2_01-05_00335.wav
+	1 (0.20): He's talking about.
+
+G-C1L2P-Jun20-A-Jacob_q2_12-12_00089.wav
+	1 (0.38): You
+	2 (0.38): have.
+
+G-C2L1P-Apr12-A-Allan_q2_01-05_00132.wav
+	1 (0.38): What do you do?
+
+G-C2L1P-Apr19-D-Chaitu_q2_05-05_00301.wav
+	1 (0.04): 63
+
+G-C2L1P-Apr12-A-Allan_q2_01-05_00106.wav
+	1 (0.27): OK.
+
+G-C2L1P-Feb16-D-Chaitu_q2_01-05_00338.wav
+	1 (0.15): Your.
+	2 (0.15): Girlfriend.
+
+G-C2L1P-Apr19-D-Chaitu_q2_05-05_00311.wav
+	1 (0.84): Did you go?
+
+G-C1L2P-Jun20-A-Jacob_q2_12-12_00081.wav
+	1 (0.18): Going.
+
+G-C1L2P-Jun20-A-Jacob_q2_12-12_00092.wav
+	1 (0.27): Thank.
+	2 (0.27): You
+
+G-C1L2P-Jun20-A-Jacob_q2_01-12_00037.wav
+	1 (0.18): Of the hand.
+
+G-C1L2P-Jun20-A-Jacob_q2_12-12_00083.wav
+	1 (0.29): Once again.
+	1 (0.25): The first
+
+G-C2L1P-Apr12-A-Allan_q2_01-05_00161.wav
+	1 (0.12): Their coverage.
+
+G-C2L1P-Apr19-D-Chaitu_q2_01-05_00264.wav
+	1 (0.51): Jail on you.
+	1 (0.12): There.
+
+G-C2L1P-Apr19-D-Chaitu_q2_05-05_00303.wav
+	1 (0.13): Cracking
+
+G-C2L1P-Apr12-A-Allan_q2_01-05_00170.wav
+	1 (0.09): The mascot.
+
+G-C2L1P-Apr19-D-Chaitu_q2_01-05_00260.wav
+	1 (0.77): I.
+	2 (0.77): Mean.
+
+G-C2L1P-Apr12-A-Allan_q2_01-05_00115.wav
+	1 (0.18): It's because.
+	2 (0.18): Actually nothing.
+
+G-C2L1P-Feb16-D-Chaitu_q2_01-05_00345.wav
+	1 (0.05): OK.
+
+G-C2L1P-Apr19-D-Chaitu_q2_05-05_00326.wav
+	1 (0.07): Yeah.
+
+G-C2L1P-Apr19-D-Chaitu_q2_05-05_00325.wav
+	1 (0.02): Function.

@@ -1,0 +1,3315 @@
+06/03/2022 06:38:32 PM MDT Starting transcription client...
+06/03/2022 06:38:33 PM MDT Created new transcription with id '7bce082d-4131-4ed6-950f-cf5cb3903a9a' in region southcentralus
+06/03/2022 06:38:33 PM MDT Checking status.
+06/03/2022 06:38:38 PM MDT Transcriptions status: Running
+06/03/2022 06:38:43 PM MDT Transcriptions status: Running
+06/03/2022 06:38:49 PM MDT Transcriptions status: Running
+06/03/2022 06:38:54 PM MDT Transcriptions status: Running
+06/03/2022 06:38:59 PM MDT Transcriptions status: Running
+06/03/2022 06:39:04 PM MDT Transcriptions status: Running
+06/03/2022 06:39:09 PM MDT Transcriptions status: Running
+06/03/2022 06:39:14 PM MDT Transcriptions status: Running
+06/03/2022 06:39:19 PM MDT Transcriptions status: Running
+06/03/2022 06:39:24 PM MDT Transcriptions status: Running
+06/03/2022 06:39:29 PM MDT Transcriptions status: Running
+06/03/2022 06:39:34 PM MDT Transcriptions status: Running
+06/03/2022 06:39:39 PM MDT Transcriptions status: Running
+06/03/2022 06:39:45 PM MDT Transcriptions status: Running
+06/03/2022 06:39:50 PM MDT Transcriptions status: Running
+06/03/2022 06:39:55 PM MDT Transcriptions status: Running
+06/03/2022 06:40:00 PM MDT Transcriptions status: Running
+06/03/2022 06:40:05 PM MDT Transcriptions status: Succeeded
+06/03/2022 06:40:06 PM MDT Results for testsetp2/G-C3L1P-Mar21-A-Venkatesh_q2_01-05_ot17.wav.json:
+{
+  "source": "https://longaudiosaolme.blob.core.windows.net/testsetp2/G-C3L1P-Mar21-A-Venkatesh_q2_01-05_ot17.wav",
+  "timestamp": "2022-06-04T00:39:25Z",
+  "durationInTicks": 140000000,
+  "duration": "PT14S",
+  "combinedRecognizedPhrases": [
+    {
+      "channel": 0,
+      "lexical": "i have one two four eight sixteen these are the numbers that we could play right now and it's thirty two right so if i do like what's that noise part of what you do",
+      "itn": "i have 1248 sixteen these are the numbers that we could play right now and it's 32 right so if i do like what's that noise part of what you do",
+      "maskedITN": "i have 1248 sixteen these are the numbers that we could play right now and it's 32 right so if i do like what's that noise part of what you do",
+      "display": "I have 1248 sixteen. These are the numbers that we could play right now and it's 32 right? So if I do like what's that noise? Part of what you do?"
+    }
+  ],
+  "recognizedPhrases": [
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT1.12S",
+      "duration": "PT11.21S",
+      "offsetInTicks": 11200000.0,
+      "durationInTicks": 112100000.0,
+      "nBest": [
+        {
+          "confidence": 0.45812106,
+          "lexical": "i have one two four eight sixteen these are the numbers that we could play right now and it's thirty two right so if i do like what's that noise part of what you do",
+          "itn": "i have 1248 sixteen these are the numbers that we could play right now and it's 32 right so if i do like what's that noise part of what you do",
+          "maskedITN": "i have 1248 sixteen these are the numbers that we could play right now and it's 32 right so if i do like what's that noise part of what you do",
+          "display": "I have 1248 sixteen. These are the numbers that we could play right now and it's 32 right? So if I do like what's that noise? Part of what you do?"
+        }
+      ]
+    }
+  ]
+}
+06/03/2022 06:40:06 PM MDT Results for testsetp2/G-C2L1P-Feb16-B-Shelby_q2_03-05_ot11.wav.json:
+{
+  "source": "https://longaudiosaolme.blob.core.windows.net/testsetp2/G-C2L1P-Feb16-B-Shelby_q2_03-05_ot11.wav",
+  "timestamp": "2022-06-04T00:39:42Z",
+  "durationInTicks": 190000000,
+  "duration": "PT19S",
+  "combinedRecognizedPhrases": [
+    {
+      "channel": 0,
+      "lexical": "the general user every user or but what you're saying what what what were you doing explorer the the graph the graphical user interface or the GY allows us to navigate",
+      "itn": "the general user every user or but what you're saying what what what were you doing explorer the the graph the graphical user interface or the GY allows us to navigate",
+      "maskedITN": "the general user every user or but what you're saying what what what were you doing explorer the the graph the graphical user interface or the gy allows us to navigate",
+      "display": "The general user, every user or. But what you're saying, what what? What were you doing? Explorer. The the graph the graphical user interface or the GY allows us to navigate."
+    }
+  ],
+  "recognizedPhrases": [
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT0.06S",
+      "duration": "PT3.26S",
+      "offsetInTicks": 600000.0,
+      "durationInTicks": 32600000.0,
+      "nBest": [
+        {
+          "confidence": 0.4010288,
+          "lexical": "the general user every user or",
+          "itn": "the general user every user or",
+          "maskedITN": "the general user every user or",
+          "display": "The general user, every user or."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT4.89S",
+      "duration": "PT3.42S",
+      "offsetInTicks": 48900000.0,
+      "durationInTicks": 34200000.0,
+      "nBest": [
+        {
+          "confidence": 0.3616604,
+          "lexical": "but what you're saying what what what were you doing",
+          "itn": "but what you're saying what what what were you doing",
+          "maskedITN": "but what you're saying what what what were you doing",
+          "display": "But what you're saying, what what? What were you doing?"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT9.18S",
+      "duration": "PT0.61S",
+      "offsetInTicks": 91800000.0,
+      "durationInTicks": 6100000.0,
+      "nBest": [
+        {
+          "confidence": 0.19944304,
+          "lexical": "explorer",
+          "itn": "explorer",
+          "maskedITN": "explorer",
+          "display": "Explorer."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT10.56S",
+      "duration": "PT8.33S",
+      "offsetInTicks": 105600000.0,
+      "durationInTicks": 83300000.0,
+      "nBest": [
+        {
+          "confidence": 0.73337144,
+          "lexical": "the the graph the graphical user interface or the GY allows us to navigate",
+          "itn": "the the graph the graphical user interface or the GY allows us to navigate",
+          "maskedITN": "the the graph the graphical user interface or the gy allows us to navigate",
+          "display": "The the graph the graphical user interface or the GY allows us to navigate."
+        }
+      ]
+    }
+  ]
+}
+06/03/2022 06:40:06 PM MDT Results for testsetp2/G-C2L1W-Feb27-B-Issac_q2_02-04_ot12.wav.json:
+{
+  "source": "https://longaudiosaolme.blob.core.windows.net/testsetp2/G-C2L1W-Feb27-B-Issac_q2_02-04_ot12.wav",
+  "timestamp": "2022-06-04T00:39:07Z",
+  "durationInTicks": 190000000,
+  "duration": "PT19S",
+  "combinedRecognizedPhrases": [
+    {
+      "channel": 0,
+      "lexical": "office in places where you can play or relax or go to think or play music or be creative whether you're trying to make a lot of money or whether you just want to change the world computer program is incredibly empowering skill to learn i think if someone had told me that",
+      "itn": "office in places where you can play or relax or go to think or play music or be creative whether you're trying to make a lot of money or whether you just want to change the world computer program is incredibly empowering skill to learn i think if someone had told me that",
+      "maskedITN": "office in places where you can play or relax or go to think or play music or be creative whether you're trying to make a lot of money or whether you just want to change the world computer program is incredibly empowering skill to learn i think if someone had told me that",
+      "display": "Office in places where you can play or relax or go to think or play music or be creative. Whether you're trying to make a lot of money or whether you just want to change the world, computer program is incredibly empowering skill to learn. I think if someone had told me that."
+    }
+  ],
+  "recognizedPhrases": [
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT0.06S",
+      "duration": "PT5.16S",
+      "offsetInTicks": 600000.0,
+      "durationInTicks": 51600000.0,
+      "nBest": [
+        {
+          "confidence": 0.7825487,
+          "lexical": "office in places where you can play or relax or go to think or play music or be creative",
+          "itn": "office in places where you can play or relax or go to think or play music or be creative",
+          "maskedITN": "office in places where you can play or relax or go to think or play music or be creative",
+          "display": "Office in places where you can play or relax or go to think or play music or be creative."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT8.62S",
+      "duration": "PT6.07S",
+      "offsetInTicks": 86200000.0,
+      "durationInTicks": 60700000.0,
+      "nBest": [
+        {
+          "confidence": 0.8307057,
+          "lexical": "whether you're trying to make a lot of money or whether you just want to change the world computer program is incredibly empowering skill to learn",
+          "itn": "whether you're trying to make a lot of money or whether you just want to change the world computer program is incredibly empowering skill to learn",
+          "maskedITN": "whether you're trying to make a lot of money or whether you just want to change the world computer program is incredibly empowering skill to learn",
+          "display": "Whether you're trying to make a lot of money or whether you just want to change the world, computer program is incredibly empowering skill to learn."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT14.76S",
+      "duration": "PT2.25S",
+      "offsetInTicks": 147600000.0,
+      "durationInTicks": 22500000.0,
+      "nBest": [
+        {
+          "confidence": 0.8307057,
+          "lexical": "i think if someone had told me that",
+          "itn": "i think if someone had told me that",
+          "maskedITN": "i think if someone had told me that",
+          "display": "I think if someone had told me that."
+        }
+      ]
+    }
+  ]
+}
+06/03/2022 06:40:07 PM MDT Results for testsetp2/G-C3L1P-Mar21-D-Ivonne_q2_03-05_ot18.wav.json:
+{
+  "source": "https://longaudiosaolme.blob.core.windows.net/testsetp2/G-C3L1P-Mar21-D-Ivonne_q2_03-05_ot18.wav",
+  "timestamp": "2022-06-04T00:38:59Z",
+  "durationInTicks": 240000000,
+  "duration": "PT24S",
+  "combinedRecognizedPhrases": [
+    {
+      "channel": 0,
+      "lexical": "what are they i asked you last week in washington middle school and they told me you have to yeah even if you have facilitator so when it's happening or something OK already has it's dated get it done ohio",
+      "itn": "what are they i asked you last week in washington middle school and they told me you have to yeah even if you have facilitator so when it's happening or something OK already has it's dated get it done ohio",
+      "maskedITN": "what are they i asked you last week in washington middle school and they told me you have to yeah even if you have facilitator so when it's happening or something ok already has it's dated get it done ohio",
+      "display": "What are they? I asked you last week in Washington Middle School and they told me you have to. Yeah, even if you have facilitator. So when it's happening or something. OK. Already has. It's dated. Get it done. Ohio."
+    }
+  ],
+  "recognizedPhrases": [
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT0.07S",
+      "duration": "PT7.49S",
+      "offsetInTicks": 700000.0,
+      "durationInTicks": 74900000.0,
+      "nBest": [
+        {
+          "confidence": 0.6714572,
+          "lexical": "what are they i asked you last week in washington middle school and they told me you have to yeah even if you have facilitator",
+          "itn": "what are they i asked you last week in washington middle school and they told me you have to yeah even if you have facilitator",
+          "maskedITN": "what are they i asked you last week in washington middle school and they told me you have to yeah even if you have facilitator",
+          "display": "What are they? I asked you last week in Washington Middle School and they told me you have to. Yeah, even if you have facilitator."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT9.46S",
+      "duration": "PT1.73S",
+      "offsetInTicks": 94600000.0,
+      "durationInTicks": 17300000.0,
+      "nBest": [
+        {
+          "confidence": 0.5464976,
+          "lexical": "so when it's happening or something",
+          "itn": "so when it's happening or something",
+          "maskedITN": "so when it's happening or something",
+          "display": "So when it's happening or something."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT12.51S",
+      "duration": "PT0.35S",
+      "offsetInTicks": 125100000.0,
+      "durationInTicks": 3500000.0,
+      "nBest": [
+        {
+          "confidence": 0.14248955,
+          "lexical": "OK",
+          "itn": "OK",
+          "maskedITN": "ok",
+          "display": "OK."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT15.76S",
+      "duration": "PT0.52S",
+      "offsetInTicks": 157600000.0,
+      "durationInTicks": 5200000.0,
+      "nBest": [
+        {
+          "confidence": 0.51932687,
+          "lexical": "already has",
+          "itn": "already has",
+          "maskedITN": "already has",
+          "display": "Already has."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT18.74S",
+      "duration": "PT0.74S",
+      "offsetInTicks": 187400000.0,
+      "durationInTicks": 7400000.0,
+      "nBest": [
+        {
+          "confidence": 0.13480526,
+          "lexical": "it's dated",
+          "itn": "it's dated",
+          "maskedITN": "it's dated",
+          "display": "It's dated."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT20.91S",
+      "duration": "PT0.67S",
+      "offsetInTicks": 209100000.0,
+      "durationInTicks": 6700000.0,
+      "nBest": [
+        {
+          "confidence": 0.55965775,
+          "lexical": "get it done",
+          "itn": "get it done",
+          "maskedITN": "get it done",
+          "display": "Get it done."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT23.34S",
+      "duration": "PT0.46S",
+      "offsetInTicks": 233400000.0,
+      "durationInTicks": 4600000.0,
+      "nBest": [
+        {
+          "confidence": 0.03748864,
+          "lexical": "ohio",
+          "itn": "ohio",
+          "maskedITN": "ohio",
+          "display": "Ohio."
+        }
+      ]
+    }
+  ]
+}
+06/03/2022 06:40:07 PM MDT Results for testsetp2/G-C3L1P-Feb28-B-Camera2_q2_02-05_ot16.wav.json:
+{
+  "source": "https://longaudiosaolme.blob.core.windows.net/testsetp2/G-C3L1P-Feb28-B-Camera2_q2_02-05_ot16.wav",
+  "timestamp": "2022-06-04T00:39:32Z",
+  "durationInTicks": 220000000,
+  "duration": "PT22S",
+  "combinedRecognizedPhrases": [
+    {
+      "channel": 0,
+      "lexical": "at least i have hands and did the really good job no do it OK you can use this conditions do you want to",
+      "itn": "at least i have hands and did the really good job no do it OK you can use this conditions do you want to",
+      "maskedITN": "at least i have hands and did the really good job no do it ok you can use this conditions do you want to",
+      "display": "At least I have hands. And did the really good job. No. Do it. OK, you can use this. Conditions. Do you want to?"
+    }
+  ],
+  "recognizedPhrases": [
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT0.06S",
+      "duration": "PT1.45S",
+      "offsetInTicks": 600000.0,
+      "durationInTicks": 14500000.0,
+      "nBest": [
+        {
+          "confidence": 0.6599229,
+          "lexical": "at least i have hands",
+          "itn": "at least i have hands",
+          "maskedITN": "at least i have hands",
+          "display": "At least I have hands."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT2.4S",
+      "duration": "PT1.24S",
+      "offsetInTicks": 24000000.0,
+      "durationInTicks": 12400000.0,
+      "nBest": [
+        {
+          "confidence": 0.7747044,
+          "lexical": "and did the really good job",
+          "itn": "and did the really good job",
+          "maskedITN": "and did the really good job",
+          "display": "And did the really good job."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT5.19S",
+      "duration": "PT0.38S",
+      "offsetInTicks": 51900000.0,
+      "durationInTicks": 3800000.0,
+      "nBest": [
+        {
+          "confidence": 0.040626824,
+          "lexical": "no",
+          "itn": "no",
+          "maskedITN": "no",
+          "display": "No."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT8.47S",
+      "duration": "PT0.55S",
+      "offsetInTicks": 84700000.0,
+      "durationInTicks": 5500000.0,
+      "nBest": [
+        {
+          "confidence": 0.39844382,
+          "lexical": "do it",
+          "itn": "do it",
+          "maskedITN": "do it",
+          "display": "Do it."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT11.66S",
+      "duration": "PT1.35S",
+      "offsetInTicks": 116600000.0,
+      "durationInTicks": 13500000.0,
+      "nBest": [
+        {
+          "confidence": 0.8389028,
+          "lexical": "OK you can use this",
+          "itn": "OK you can use this",
+          "maskedITN": "ok you can use this",
+          "display": "OK, you can use this."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT16.11S",
+      "duration": "PT0.45S",
+      "offsetInTicks": 161100000.0,
+      "durationInTicks": 4500000.0,
+      "nBest": [
+        {
+          "confidence": 0.1188702,
+          "lexical": "conditions",
+          "itn": "conditions",
+          "maskedITN": "conditions",
+          "display": "Conditions."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT20.3S",
+      "duration": "PT0.51S",
+      "offsetInTicks": 203000000.0,
+      "durationInTicks": 5100000.0,
+      "nBest": [
+        {
+          "confidence": 0.90630025,
+          "lexical": "do you want to",
+          "itn": "do you want to",
+          "maskedITN": "do you want to",
+          "display": "Do you want to?"
+        }
+      ]
+    }
+  ]
+}
+06/03/2022 06:40:07 PM MDT Results for testsetp2/G-C2L1P-Feb16-B-Shelby_q2_03-05_kw3.wav.json:
+{
+  "source": "https://longaudiosaolme.blob.core.windows.net/testsetp2/G-C2L1P-Feb16-B-Shelby_q2_03-05_kw3.wav",
+  "timestamp": "2022-06-04T00:39:09Z",
+  "durationInTicks": 150000000,
+  "duration": "PT15S",
+  "combinedRecognizedPhrases": [
+    {
+      "channel": 0,
+      "lexical": "let's do those i really like take those apart no we're gonna put too little yeah we're probably messed up program we're probably gonna start learning how to",
+      "itn": "let's do those i really like take those apart no we're gonna put too little yeah we're probably messed up program we're probably gonna start learning how to",
+      "maskedITN": "let's do those i really like take those apart no we're gonna put too little yeah we're probably messed up program we're probably gonna start learning how to",
+      "display": "Let's do those. I really like take those apart. No, we're gonna. Put too little. Yeah, we're probably messed up program. We're probably gonna Start learning how to."
+    }
+  ],
+  "recognizedPhrases": [
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT0.12S",
+      "duration": "PT0.92S",
+      "offsetInTicks": 1200000.0,
+      "durationInTicks": 9200000.0,
+      "nBest": [
+        {
+          "confidence": 0.23441659,
+          "lexical": "let's do those",
+          "itn": "let's do those",
+          "maskedITN": "let's do those",
+          "display": "Let's do those."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT3.84S",
+      "duration": "PT1.99S",
+      "offsetInTicks": 38400000.0,
+      "durationInTicks": 19900000.0,
+      "nBest": [
+        {
+          "confidence": 0.5586681,
+          "lexical": "i really like take those apart",
+          "itn": "i really like take those apart",
+          "maskedITN": "i really like take those apart",
+          "display": "I really like take those apart."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT6.93S",
+      "duration": "PT1.73S",
+      "offsetInTicks": 69300000.0,
+      "durationInTicks": 17300000.0,
+      "nBest": [
+        {
+          "confidence": 0.5586681,
+          "lexical": "no we're",
+          "itn": "no we're",
+          "maskedITN": "no we're",
+          "display": "No, we're"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT8.67S",
+      "duration": "PT0.19S",
+      "offsetInTicks": 86700000.0,
+      "durationInTicks": 1900000.0,
+      "nBest": [
+        {
+          "confidence": 0.5586681,
+          "lexical": "gonna",
+          "itn": "gonna",
+          "maskedITN": "gonna",
+          "display": "gonna."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT8.87S",
+      "duration": "PT0.92S",
+      "offsetInTicks": 88700000.0,
+      "durationInTicks": 9200000.0,
+      "nBest": [
+        {
+          "confidence": 0.5586681,
+          "lexical": "put too little",
+          "itn": "put too little",
+          "maskedITN": "put too little",
+          "display": "Put too little."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT11.44S",
+      "duration": "PT3.09S",
+      "offsetInTicks": 114400000.0,
+      "durationInTicks": 30900000.0,
+      "nBest": [
+        {
+          "confidence": 0.61312515,
+          "lexical": "yeah we're probably messed up program we're probably gonna start learning how to",
+          "itn": "yeah we're probably messed up program we're probably gonna start learning how to",
+          "maskedITN": "yeah we're probably messed up program we're probably gonna start learning how to",
+          "display": "Yeah, we're probably messed up program. We're probably gonna Start learning how to."
+        }
+      ]
+    }
+  ]
+}
+06/03/2022 06:40:07 PM MDT Results for testsetp2/G-C2L1P-Apr12-A-Allan_q2_04-05_kw.wav.json:
+{
+  "source": "https://longaudiosaolme.blob.core.windows.net/testsetp2/G-C2L1P-Apr12-A-Allan_q2_04-05_kw.wav",
+  "timestamp": "2022-06-04T00:39:43Z",
+  "durationInTicks": 250000000,
+  "duration": "PT25S",
+  "combinedRecognizedPhrases": [
+    {
+      "channel": 0,
+      "lexical": "or python would always get one number less so if you want to get this we're going to increase this guy here so instead of seven change and put eight no this year they only coach two",
+      "itn": "or python would always get one number less so if you want to get this we're going to increase this guy here so instead of seven change and put 8 no this year they only coach 2",
+      "maskedITN": "or python would always get one number less so if you want to get this we're going to increase this guy here so instead of seven change and put 8 no this year they only coach 2",
+      "display": "Or Python would always get one number less. So if you want to get this, we're going to increase this guy here. So instead of seven change and put 8. No. This year they only coach. 2."
+    }
+  ],
+  "recognizedPhrases": [
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT0.05S",
+      "duration": "PT4.65S",
+      "offsetInTicks": 500000.0,
+      "durationInTicks": 46500000.0,
+      "nBest": [
+        {
+          "confidence": 0.6592316,
+          "lexical": "or python would always get one number less",
+          "itn": "or python would always get one number less",
+          "maskedITN": "or python would always get one number less",
+          "display": "Or Python would always get one number less."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT5.37S",
+      "duration": "PT8.55S",
+      "offsetInTicks": 53700000.0,
+      "durationInTicks": 85500000.0,
+      "nBest": [
+        {
+          "confidence": 0.7925918,
+          "lexical": "so if you want to get this we're going to increase this guy here so instead of seven change and put eight",
+          "itn": "so if you want to get this we're going to increase this guy here so instead of seven change and put 8",
+          "maskedITN": "so if you want to get this we're going to increase this guy here so instead of seven change and put 8",
+          "display": "So if you want to get this, we're going to increase this guy here. So instead of seven change and put 8."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT17.96S",
+      "duration": "PT0.43S",
+      "offsetInTicks": 179600000.0,
+      "durationInTicks": 4300000.0,
+      "nBest": [
+        {
+          "confidence": 0.28480768,
+          "lexical": "no",
+          "itn": "no",
+          "maskedITN": "no",
+          "display": "No."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT19.96S",
+      "duration": "PT2.19S",
+      "offsetInTicks": 199600000.0,
+      "durationInTicks": 21900000.0,
+      "nBest": [
+        {
+          "confidence": 0.37956366,
+          "lexical": "this year they only coach",
+          "itn": "this year they only coach",
+          "maskedITN": "this year they only coach",
+          "display": "This year they only coach."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT24.47S",
+      "duration": "PT0.43S",
+      "offsetInTicks": 244700000.0,
+      "durationInTicks": 4300000.0,
+      "nBest": [
+        {
+          "confidence": 0.04122001,
+          "lexical": "two",
+          "itn": "2",
+          "maskedITN": "2",
+          "display": "2."
+        }
+      ]
+    }
+  ]
+}
+06/03/2022 06:40:07 PM MDT Results for testsetp2/G-C2L1W-Feb27-B-Issac_q2_02-04_ot14.wav.json:
+{
+  "source": "https://longaudiosaolme.blob.core.windows.net/testsetp2/G-C2L1W-Feb27-B-Issac_q2_02-04_ot14.wav",
+  "timestamp": "2022-06-04T00:39:43Z",
+  "durationInTicks": 230000000,
+  "duration": "PT23S",
+  "combinedRecognizedPhrases": [
+    {
+      "channel": 0,
+      "lexical": "the name of joe how do you get out of it escape you would have to move CD dot dot ohs CD is ready nobody would have known his dot dot dot dot dot dot period period period is it safe",
+      "itn": "the name of joe how do you get out of it escape you would have to move CD dot dot ohs CD is ready nobody would have known his dot dot dot dot dot dot period period period is it safe",
+      "maskedITN": "the name of joe how do you get out of it escape you would have to move cd dot dot ohs cd is ready nobody would have known his dot dot dot dot dot dot period period period is it safe",
+      "display": "The name of Joe. How do you get out of it? Escape? You would have to move CD dot dot OHS. CD is ready. Nobody would have known his......... Is it safe?"
+    }
+  ],
+  "recognizedPhrases": [
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT0.06S",
+      "duration": "PT8.39S",
+      "offsetInTicks": 600000.0,
+      "durationInTicks": 83900000.0,
+      "nBest": [
+        {
+          "confidence": 0.572247,
+          "lexical": "the name of joe how do you get out of it escape you would have to move CD dot dot ohs CD is ready",
+          "itn": "the name of joe how do you get out of it escape you would have to move CD dot dot ohs CD is ready",
+          "maskedITN": "the name of joe how do you get out of it escape you would have to move cd dot dot ohs cd is ready",
+          "display": "The name of Joe. How do you get out of it? Escape? You would have to move CD dot dot OHS. CD is ready."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT10.51S",
+      "duration": "PT9.13S",
+      "offsetInTicks": 105100000.0,
+      "durationInTicks": 91300000.0,
+      "nBest": [
+        {
+          "confidence": 0.7098387,
+          "lexical": "nobody would have known his dot dot dot dot dot dot period period period",
+          "itn": "nobody would have known his dot dot dot dot dot dot period period period",
+          "maskedITN": "nobody would have known his dot dot dot dot dot dot period period period",
+          "display": "Nobody would have known his........."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT21.95S",
+      "duration": "PT0.87S",
+      "offsetInTicks": 219500000.0,
+      "durationInTicks": 8700000.0,
+      "nBest": [
+        {
+          "confidence": 0.67921865,
+          "lexical": "is it safe",
+          "itn": "is it safe",
+          "maskedITN": "is it safe",
+          "display": "Is it safe?"
+        }
+      ]
+    }
+  ]
+}
+06/03/2022 06:40:08 PM MDT Results for testsetp2/G-C2L1P-Feb16-B-Shelby_q2_03-05_ot6.wav.json:
+{
+  "source": "https://longaudiosaolme.blob.core.windows.net/testsetp2/G-C2L1P-Feb16-B-Shelby_q2_03-05_ot6.wav",
+  "timestamp": "2022-06-04T00:39:49Z",
+  "durationInTicks": 220000000,
+  "duration": "PT22S",
+  "combinedRecognizedPhrases": [
+    {
+      "channel": 0,
+      "lexical": "also the personal situation so we can take the meal this can take notes if you want to and then i think there's this quote saved wait what are you two say huh what did you two say that i did not know that there's something called raspberry computer we didn't know there was something called",
+      "itn": "also the personal situation so we can take the meal this can take notes if you want to and then i think there's this quote saved wait what are you 2 say huh what did you two say that i did not know that there's something called raspberry computer we didn't know there was something called",
+      "maskedITN": "also the personal situation so we can take the meal this can take notes if you want to and then i think there's this quote saved wait what are you 2 say huh what did you two say that i did not know that there's something called raspberry computer we didn't know there was something called",
+      "display": "Also the personal situation. So we can. Take the meal. This can take notes if you want to, and then I think. There's this quote saved. Wait, what are you 2 say huh? What did you two say that I did not know that there's something called Raspberry Computer? We didn't know there was something called."
+    }
+  ],
+  "recognizedPhrases": [
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT0.07S",
+      "duration": "PT1.47S",
+      "offsetInTicks": 700000.0,
+      "durationInTicks": 14700000.0,
+      "nBest": [
+        {
+          "confidence": 0.57688016,
+          "lexical": "also the personal situation",
+          "itn": "also the personal situation",
+          "maskedITN": "also the personal situation",
+          "display": "Also the personal situation."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT2.27S",
+      "duration": "PT0.45S",
+      "offsetInTicks": 22700000.0,
+      "durationInTicks": 4500000.0,
+      "nBest": [
+        {
+          "confidence": 0.57688016,
+          "lexical": "so we can",
+          "itn": "so we can",
+          "maskedITN": "so we can",
+          "display": "So we can."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT2.73S",
+      "duration": "PT0.73S",
+      "offsetInTicks": 27300000.0,
+      "durationInTicks": 7300000.0,
+      "nBest": [
+        {
+          "confidence": 0.57688016,
+          "lexical": "take the meal",
+          "itn": "take the meal",
+          "maskedITN": "take the meal",
+          "display": "Take the meal."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT4.05S",
+      "duration": "PT2.18S",
+      "offsetInTicks": 40500000.0,
+      "durationInTicks": 21800000.0,
+      "nBest": [
+        {
+          "confidence": 0.57688016,
+          "lexical": "this can take notes if you want to and then i think",
+          "itn": "this can take notes if you want to and then i think",
+          "maskedITN": "this can take notes if you want to and then i think",
+          "display": "This can take notes if you want to, and then I think."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT8.1S",
+      "duration": "PT1.78S",
+      "offsetInTicks": 81000000.0,
+      "durationInTicks": 17800000.0,
+      "nBest": [
+        {
+          "confidence": 0.3590061,
+          "lexical": "there's this quote saved",
+          "itn": "there's this quote saved",
+          "maskedITN": "there's this quote saved",
+          "display": "There's this quote saved."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT11.98S",
+      "duration": "PT9.7S",
+      "offsetInTicks": 119800000.0,
+      "durationInTicks": 97000000.0,
+      "nBest": [
+        {
+          "confidence": 0.54077375,
+          "lexical": "wait what are you two say huh what did you two say that i did not know that there's something called raspberry computer we didn't know there was something called",
+          "itn": "wait what are you 2 say huh what did you two say that i did not know that there's something called raspberry computer we didn't know there was something called",
+          "maskedITN": "wait what are you 2 say huh what did you two say that i did not know that there's something called raspberry computer we didn't know there was something called",
+          "display": "Wait, what are you 2 say huh? What did you two say that I did not know that there's something called Raspberry Computer? We didn't know there was something called."
+        }
+      ]
+    }
+  ]
+}
+06/03/2022 06:40:08 PM MDT Results for testsetp2/G-C2L1W-Feb27-B-Issac_q2_02-04_kw6.wav.json:
+{
+  "source": "https://longaudiosaolme.blob.core.windows.net/testsetp2/G-C2L1W-Feb27-B-Issac_q2_02-04_kw6.wav",
+  "timestamp": "2022-06-04T00:39:17Z",
+  "durationInTicks": 200000000,
+  "duration": "PT20S",
+  "combinedRecognizedPhrases": [
+    {
+      "channel": 0,
+      "lexical": "there we go and then if you push enter now you're back in ohio how you go out of and then and two so if you guys keep just one more time how do you list all the files in the directory ellis hold on hold on everything else melanie",
+      "itn": "there we go and then if you push enter now you're back in ohio how you go out of and then and two so if you guys keep just one more time how do you list all the files in the directory ellis hold on hold on everything else melanie",
+      "maskedITN": "there we go and then if you push enter now you're back in ohio how you go out of and then and two so if you guys keep just one more time how do you list all the files in the directory ellis hold on hold on everything else melanie",
+      "display": "There we go and then if you push enter now you're back in Ohio. How you go out of and then and two. So if you guys keep just one more time, how do you list all the files in the directory? Ellis hold on hold on everything else, Melanie."
+    }
+  ],
+  "recognizedPhrases": [
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT0.05S",
+      "duration": "PT12.43S",
+      "offsetInTicks": 500000.0,
+      "durationInTicks": 124300000.0,
+      "nBest": [
+        {
+          "confidence": 0.6497769,
+          "lexical": "there we go and then if you push enter now you're back in ohio how you go out of and then and two so if you guys keep just one more time how do you list all the files in the directory",
+          "itn": "there we go and then if you push enter now you're back in ohio how you go out of and then and two so if you guys keep just one more time how do you list all the files in the directory",
+          "maskedITN": "there we go and then if you push enter now you're back in ohio how you go out of and then and two so if you guys keep just one more time how do you list all the files in the directory",
+          "display": "There we go and then if you push enter now you're back in Ohio. How you go out of and then and two. So if you guys keep just one more time, how do you list all the files in the directory?"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT14.84S",
+      "duration": "PT0.58S",
+      "offsetInTicks": 148400000.0,
+      "durationInTicks": 5800000.0,
+      "nBest": [
+        {
+          "confidence": 0.3861034,
+          "lexical": "ellis",
+          "itn": "ellis",
+          "maskedITN": "ellis",
+          "display": "Ellis"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT17.25S",
+      "duration": "PT2.37S",
+      "offsetInTicks": 172500000.0,
+      "durationInTicks": 23700000.0,
+      "nBest": [
+        {
+          "confidence": 0.4084081,
+          "lexical": "hold on hold on everything else melanie",
+          "itn": "hold on hold on everything else melanie",
+          "maskedITN": "hold on hold on everything else melanie",
+          "display": "hold on hold on everything else, Melanie."
+        }
+      ]
+    }
+  ]
+}
+06/03/2022 06:40:09 PM MDT Results for testsetp2/G-C3L1P-Mar21-D-Ivonne_q2_03-05_ot20.wav.json:
+{
+  "source": "https://longaudiosaolme.blob.core.windows.net/testsetp2/G-C3L1P-Mar21-D-Ivonne_q2_03-05_ot20.wav",
+  "timestamp": "2022-06-04T00:39:42Z",
+  "durationInTicks": 250000000,
+  "duration": "PT25S",
+  "combinedRecognizedPhrases": [
+    {
+      "channel": 0,
+      "lexical": "would be tempted no but that's not good enough i said bye now but that's fine if you want to go through this thing so what's this so thank you miss lee what are the",
+      "itn": "would be tempted no but that's not good enough i said bye now but that's fine if you want to go through this thing so what's this so thank you miss lee what are the",
+      "maskedITN": "would be tempted no but that's not good enough i said bye now but that's fine if you want to go through this thing so what's this so thank you miss lee what are the",
+      "display": "Would be tempted. No, but that's not good enough. I said bye now. But that's fine if you want to go through this thing. So what's this? So. Thank you. Miss Lee, what are the?"
+    }
+  ],
+  "recognizedPhrases": [
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT0.1S",
+      "duration": "PT0.8S",
+      "offsetInTicks": 1000000.0,
+      "durationInTicks": 8000000.0,
+      "nBest": [
+        {
+          "confidence": 0.29371098,
+          "lexical": "would be tempted",
+          "itn": "would be tempted",
+          "maskedITN": "would be tempted",
+          "display": "Would be tempted."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT2.22S",
+      "duration": "PT3.49S",
+      "offsetInTicks": 22200000.0,
+      "durationInTicks": 34900000.0,
+      "nBest": [
+        {
+          "confidence": 0.656934,
+          "lexical": "no but that's not good enough i said bye now",
+          "itn": "no but that's not good enough i said bye now",
+          "maskedITN": "no but that's not good enough i said bye now",
+          "display": "No, but that's not good enough. I said bye now."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT7.24S",
+      "duration": "PT2.03S",
+      "offsetInTicks": 72400000.0,
+      "durationInTicks": 20300000.0,
+      "nBest": [
+        {
+          "confidence": 0.6245567,
+          "lexical": "but that's fine if you want to go through this thing",
+          "itn": "but that's fine if you want to go through this thing",
+          "maskedITN": "but that's fine if you want to go through this thing",
+          "display": "But that's fine if you want to go through this thing."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT16.68S",
+      "duration": "PT0.67S",
+      "offsetInTicks": 166800000.0,
+      "durationInTicks": 6700000.0,
+      "nBest": [
+        {
+          "confidence": 0.68755656,
+          "lexical": "so what's this",
+          "itn": "so what's this",
+          "maskedITN": "so what's this",
+          "display": "So what's this?"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT18.89S",
+      "duration": "PT0.45S",
+      "offsetInTicks": 188900000.0,
+      "durationInTicks": 4500000.0,
+      "nBest": [
+        {
+          "confidence": 0.05869341,
+          "lexical": "so",
+          "itn": "so",
+          "maskedITN": "so",
+          "display": "So."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT21.25S",
+      "duration": "PT0.47S",
+      "offsetInTicks": 212500000.0,
+      "durationInTicks": 4700000.0,
+      "nBest": [
+        {
+          "confidence": 0.23647909,
+          "lexical": "thank you",
+          "itn": "thank you",
+          "maskedITN": "thank you",
+          "display": "Thank you."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT23.67S",
+      "duration": "PT1.29S",
+      "offsetInTicks": 236700000.0,
+      "durationInTicks": 12900000.0,
+      "nBest": [
+        {
+          "confidence": 0.23559044,
+          "lexical": "miss lee what are the",
+          "itn": "miss lee what are the",
+          "maskedITN": "miss lee what are the",
+          "display": "Miss Lee, what are the?"
+        }
+      ]
+    }
+  ]
+}
+06/03/2022 06:40:09 PM MDT Results for testsetp2/G-C2L1P-Apr12-A-Allan_q2_04-05_kw2.wav.json:
+{
+  "source": "https://longaudiosaolme.blob.core.windows.net/testsetp2/G-C2L1P-Apr12-A-Allan_q2_04-05_kw2.wav",
+  "timestamp": "2022-06-04T00:40:03Z",
+  "durationInTicks": 400000000,
+  "duration": "PT40S",
+  "combinedRecognizedPhrases": [
+    {
+      "channel": 0,
+      "lexical": "you have to use here pintello is el tres as the as the says the whales trace isolate four or four ohh if you want to paint everything you need the lowest and the highest when you think now there's also chamberlain business so please give zero and wise so blacks out if you put here ten ten you're going to see you're going to tell them like start ten out of the",
+      "itn": "you have to use here pintello is el tres as the as the says the whales trace isolate four or four ohh if you want to paint everything you need the lowest and the highest when you think now there's also chamberlain business so please give zero and wise so blacks out if you put here 1010 you're going to see you're going to tell them like start 10 out of the",
+      "maskedITN": "you have to use here pintello is el tres as the as the says the whales trace isolate four or four ohh if you want to paint everything you need the lowest and the highest when you think now there's also chamberlain business so please give zero and wise so blacks out if you put here 1010 you're going to see you're going to tell them like start 10 out of the",
+      "display": "You have to use here pintello. Is El Tres as the as the? Says the whales trace isolate. Four or four ohh. If you want to paint everything you need the lowest and the highest when you think. Now there's also Chamberlain business. So. Please give zero and wise so blacks out if you put here 1010 you're going to see you're going to tell them like start 10 out of the."
+    }
+  ],
+  "recognizedPhrases": [
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT0.06S",
+      "duration": "PT2.09S",
+      "offsetInTicks": 600000.0,
+      "durationInTicks": 20900000.0,
+      "nBest": [
+        {
+          "confidence": 0.3225628,
+          "lexical": "you have to use here pintello",
+          "itn": "you have to use here pintello",
+          "maskedITN": "you have to use here pintello",
+          "display": "You have to use here pintello."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT2.37S",
+      "duration": "PT3.45S",
+      "offsetInTicks": 23700000.0,
+      "durationInTicks": 34500000.0,
+      "nBest": [
+        {
+          "confidence": 0.47337055,
+          "lexical": "is el tres as the as the",
+          "itn": "is el tres as the as the",
+          "maskedITN": "is el tres as the as the",
+          "display": "Is El Tres as the as the?"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT7.43S",
+      "duration": "PT3.26S",
+      "offsetInTicks": 74300000.0,
+      "durationInTicks": 32600000.0,
+      "nBest": [
+        {
+          "confidence": 0.13911188,
+          "lexical": "says the whales trace isolate",
+          "itn": "says the whales trace isolate",
+          "maskedITN": "says the whales trace isolate",
+          "display": "Says the whales trace isolate."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT12.15S",
+      "duration": "PT1.41S",
+      "offsetInTicks": 121500000.0,
+      "durationInTicks": 14100000.0,
+      "nBest": [
+        {
+          "confidence": 0.6891347,
+          "lexical": "four or four ohh",
+          "itn": "four or four ohh",
+          "maskedITN": "four or four ohh",
+          "display": "Four or four ohh."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT15.81S",
+      "duration": "PT5.84S",
+      "offsetInTicks": 158100000.0,
+      "durationInTicks": 58400000.0,
+      "nBest": [
+        {
+          "confidence": 0.8451441,
+          "lexical": "if you want to paint everything you need the lowest and the highest when you think",
+          "itn": "if you want to paint everything you need the lowest and the highest when you think",
+          "maskedITN": "if you want to paint everything you need the lowest and the highest when you think",
+          "display": "If you want to paint everything you need the lowest and the highest when you think."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT22.79S",
+      "duration": "PT2.92S",
+      "offsetInTicks": 227900000.0,
+      "durationInTicks": 29200000.0,
+      "nBest": [
+        {
+          "confidence": 0.15638728,
+          "lexical": "now there's also chamberlain business",
+          "itn": "now there's also chamberlain business",
+          "maskedITN": "now there's also chamberlain business",
+          "display": "Now there's also Chamberlain business."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT27.26S",
+      "duration": "PT0.4S",
+      "offsetInTicks": 272600000.0,
+      "durationInTicks": 4000000.0,
+      "nBest": [
+        {
+          "confidence": 0.066945106,
+          "lexical": "so",
+          "itn": "so",
+          "maskedITN": "so",
+          "display": "So."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT29.46S",
+      "duration": "PT10.5S",
+      "offsetInTicks": 294600000.0,
+      "durationInTicks": 105000000.0,
+      "nBest": [
+        {
+          "confidence": 0.5630856,
+          "lexical": "please give zero and wise so blacks out if you put here ten ten you're going to see you're going to tell them like start ten out of the",
+          "itn": "please give zero and wise so blacks out if you put here 1010 you're going to see you're going to tell them like start 10 out of the",
+          "maskedITN": "please give zero and wise so blacks out if you put here 1010 you're going to see you're going to tell them like start 10 out of the",
+          "display": "Please give zero and wise so blacks out if you put here 1010 you're going to see you're going to tell them like start 10 out of the."
+        }
+      ]
+    }
+  ]
+}
+06/03/2022 06:40:09 PM MDT Results for testsetp2/G-C2L1P-Apr12-A-Allan_q2_04-05_ot2.wav.json:
+{
+  "source": "https://longaudiosaolme.blob.core.windows.net/testsetp2/G-C2L1P-Apr12-A-Allan_q2_04-05_ot2.wav",
+  "timestamp": "2022-06-04T00:39:44Z",
+  "durationInTicks": 200000000,
+  "duration": "PT20S",
+  "combinedRecognizedPhrases": [
+    {
+      "channel": 0,
+      "lexical": "right right right yeah what's the matter a lot of them now that thus that's what",
+      "itn": "right right right yeah what's the matter a lot of them now that thus that's what",
+      "maskedITN": "right right right yeah what's the matter a lot of them now that thus that's what",
+      "display": "Right, right, right. Yeah. What's the matter? A lot of them. Now that. Thus. That's what."
+    }
+  ],
+  "recognizedPhrases": [
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT3.51S",
+      "duration": "PT1S",
+      "offsetInTicks": 35100000.0,
+      "durationInTicks": 10000000.0,
+      "nBest": [
+        {
+          "confidence": 0.800902,
+          "lexical": "right right right",
+          "itn": "right right right",
+          "maskedITN": "right right right",
+          "display": "Right, right, right."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT5.94S",
+      "duration": "PT0.26S",
+      "offsetInTicks": 59400000.0,
+      "durationInTicks": 2600000.0,
+      "nBest": [
+        {
+          "confidence": 0.83472943,
+          "lexical": "yeah",
+          "itn": "yeah",
+          "maskedITN": "yeah",
+          "display": "Yeah."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT7.08S",
+      "duration": "PT0.9S",
+      "offsetInTicks": 70800000.0,
+      "durationInTicks": 9000000.0,
+      "nBest": [
+        {
+          "confidence": 0.21268748,
+          "lexical": "what's the matter",
+          "itn": "what's the matter",
+          "maskedITN": "what's the matter",
+          "display": "What's the matter?"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT10.03S",
+      "duration": "PT0.56S",
+      "offsetInTicks": 100300000.0,
+      "durationInTicks": 5600000.0,
+      "nBest": [
+        {
+          "confidence": 0.7645803,
+          "lexical": "a lot of them",
+          "itn": "a lot of them",
+          "maskedITN": "a lot of them",
+          "display": "A lot of them."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT12.29S",
+      "duration": "PT0.52S",
+      "offsetInTicks": 122900000.0,
+      "durationInTicks": 5200000.0,
+      "nBest": [
+        {
+          "confidence": 0.46483147,
+          "lexical": "now that",
+          "itn": "now that",
+          "maskedITN": "now that",
+          "display": "Now that."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT15.44S",
+      "duration": "PT0.39S",
+      "offsetInTicks": 154400000.0,
+      "durationInTicks": 3900000.0,
+      "nBest": [
+        {
+          "confidence": 0.60785985,
+          "lexical": "thus",
+          "itn": "thus",
+          "maskedITN": "thus",
+          "display": "Thus."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT19.53S",
+      "duration": "PT0.4S",
+      "offsetInTicks": 195300000.0,
+      "durationInTicks": 4000000.0,
+      "nBest": [
+        {
+          "confidence": 0.7327157,
+          "lexical": "that's what",
+          "itn": "that's what",
+          "maskedITN": "that's what",
+          "display": "That's what."
+        }
+      ]
+    }
+  ]
+}
+06/03/2022 06:40:09 PM MDT Results for testsetp2/G-C2L1P-Feb16-B-Shelby_q2_03-05_ot8.wav.json:
+{
+  "source": "https://longaudiosaolme.blob.core.windows.net/testsetp2/G-C2L1P-Feb16-B-Shelby_q2_03-05_ot8.wav",
+  "timestamp": "2022-06-04T00:39:41Z",
+  "durationInTicks": 200000000,
+  "duration": "PT20S",
+  "combinedRecognizedPhrases": [
+    {
+      "channel": 0,
+      "lexical": "and then this goes here no one does all the math right here i'm gonna put it there we go we go wanna play i wanna play wait was mike in the bar",
+      "itn": "and then this goes here no one does all the math right here i'm gonna put it there we go we go wanna play i wanna play wait was mike in the bar",
+      "maskedITN": "and then this goes here no one does all the math right here i'm gonna put it there we go we go wanna play i wanna play wait was mike in the bar",
+      "display": "And then this goes here. No one does all the math right here. I'm gonna put it. There we go, we go. Wanna play? I wanna play wait was Mike. In the bar."
+    }
+  ],
+  "recognizedPhrases": [
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT0.23S",
+      "duration": "PT4.65S",
+      "offsetInTicks": 2300000.0,
+      "durationInTicks": 46500000.0,
+      "nBest": [
+        {
+          "confidence": 0.7112293,
+          "lexical": "and then this goes here no one does all the math right here",
+          "itn": "and then this goes here no one does all the math right here",
+          "maskedITN": "and then this goes here no one does all the math right here",
+          "display": "And then this goes here. No one does all the math right here."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT6.49S",
+      "duration": "PT0.85S",
+      "offsetInTicks": 64900000.0,
+      "durationInTicks": 8500000.0,
+      "nBest": [
+        {
+          "confidence": 0.81500405,
+          "lexical": "i'm gonna put it",
+          "itn": "i'm gonna put it",
+          "maskedITN": "i'm gonna put it",
+          "display": "I'm gonna put it."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT9.1S",
+      "duration": "PT0.77S",
+      "offsetInTicks": 91000000.0,
+      "durationInTicks": 7700000.0,
+      "nBest": [
+        {
+          "confidence": 0.69971246,
+          "lexical": "there we go we go",
+          "itn": "there we go we go",
+          "maskedITN": "there we go we go",
+          "display": "There we go, we go."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT12.57S",
+      "duration": "PT0.86S",
+      "offsetInTicks": 125700000.0,
+      "durationInTicks": 8600000.0,
+      "nBest": [
+        {
+          "confidence": 0.21485513,
+          "lexical": "wanna play",
+          "itn": "wanna play",
+          "maskedITN": "wanna play",
+          "display": "Wanna play?"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT16.49S",
+      "duration": "PT2.21S",
+      "offsetInTicks": 164900000.0,
+      "durationInTicks": 22100000.0,
+      "nBest": [
+        {
+          "confidence": 0.401732,
+          "lexical": "i wanna play wait was mike",
+          "itn": "i wanna play wait was mike",
+          "maskedITN": "i wanna play wait was mike",
+          "display": "I wanna play wait was Mike."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT18.97S",
+      "duration": "PT0.96S",
+      "offsetInTicks": 189700000.0,
+      "durationInTicks": 9600000.0,
+      "nBest": [
+        {
+          "confidence": 0.18314014,
+          "lexical": "in the bar",
+          "itn": "in the bar",
+          "maskedITN": "in the bar",
+          "display": "In the bar."
+        }
+      ]
+    }
+  ]
+}
+06/03/2022 06:40:10 PM MDT Results for testsetp2/G-C2L1P-Feb16-B-Shelby_q2_03-05_ot9.wav.json:
+{
+  "source": "https://longaudiosaolme.blob.core.windows.net/testsetp2/G-C2L1P-Feb16-B-Shelby_q2_03-05_ot9.wav",
+  "timestamp": "2022-06-04T00:38:59Z",
+  "durationInTicks": 180000000,
+  "duration": "PT18S",
+  "combinedRecognizedPhrases": [
+    {
+      "channel": 0,
+      "lexical": "panda most of the energy waves that can go to the i wonder if i could play a game on here i have something or like how we did with the mouse there was a little chip and kind of like a little little plug into the computer",
+      "itn": "panda most of the energy waves that can go to the i wonder if i could play a game on here i have something or like how we did with the mouse there was a little chip and kind of like a little little plug into the computer",
+      "maskedITN": "panda most of the energy waves that can go to the i wonder if i could play a game on here i have something or like how we did with the mouse there was a little chip and kind of like a little little plug into the computer",
+      "display": "Panda. Most of the energy waves that can go to the. I wonder if I could play a game on here. I. Have something or like how we did with the mouse. There was a little chip and kind of like a little little plug into the. Computer."
+    }
+  ],
+  "recognizedPhrases": [
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT0.63S",
+      "duration": "PT0.47S",
+      "offsetInTicks": 6300000.0,
+      "durationInTicks": 4700000.0,
+      "nBest": [
+        {
+          "confidence": 0.47813052,
+          "lexical": "panda",
+          "itn": "panda",
+          "maskedITN": "panda",
+          "display": "Panda."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT2.57S",
+      "duration": "PT6.52S",
+      "offsetInTicks": 25700000.0,
+      "durationInTicks": 65200000.0,
+      "nBest": [
+        {
+          "confidence": 0.7641135,
+          "lexical": "most of the energy waves that can go to the i wonder if i could play a game on here",
+          "itn": "most of the energy waves that can go to the i wonder if i could play a game on here",
+          "maskedITN": "most of the energy waves that can go to the i wonder if i could play a game on here",
+          "display": "Most of the energy waves that can go to the. I wonder if I could play a game on here."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT9.42S",
+      "duration": "PT0.15S",
+      "offsetInTicks": 94200000.0,
+      "durationInTicks": 1500000.0,
+      "nBest": [
+        {
+          "confidence": 0.7641135,
+          "lexical": "i",
+          "itn": "i",
+          "maskedITN": "i",
+          "display": "I."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT9.58S",
+      "duration": "PT0.17S",
+      "offsetInTicks": 95800000.0,
+      "durationInTicks": 1700000.0,
+      "nBest": [
+        {
+          "confidence": 0.7641135,
+          "lexical": "have",
+          "itn": "have",
+          "maskedITN": "have",
+          "display": "Have"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT9.76S",
+      "duration": "PT7.69S",
+      "offsetInTicks": 97600000.0,
+      "durationInTicks": 76900000.0,
+      "nBest": [
+        {
+          "confidence": 0.7641135,
+          "lexical": "something or like how we did with the mouse there was a little chip and kind of like a little little plug into the",
+          "itn": "something or like how we did with the mouse there was a little chip and kind of like a little little plug into the",
+          "maskedITN": "something or like how we did with the mouse there was a little chip and kind of like a little little plug into the",
+          "display": "something or like how we did with the mouse. There was a little chip and kind of like a little little plug into the."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT17.46S",
+      "duration": "PT0.38S",
+      "offsetInTicks": 174600000.0,
+      "durationInTicks": 3800000.0,
+      "nBest": [
+        {
+          "confidence": 0.7641135,
+          "lexical": "computer",
+          "itn": "computer",
+          "maskedITN": "computer",
+          "display": "Computer."
+        }
+      ]
+    }
+  ]
+}
+06/03/2022 06:40:10 PM MDT Results for testsetp2/G-C3L1P-Mar21-D-Ivonne_q2_03-05_ot19.wav.json:
+{
+  "source": "https://longaudiosaolme.blob.core.windows.net/testsetp2/G-C3L1P-Mar21-D-Ivonne_q2_03-05_ot19.wav",
+  "timestamp": "2022-06-04T00:39:32Z",
+  "durationInTicks": 200000000,
+  "duration": "PT20S",
+  "combinedRecognizedPhrases": [
+    {
+      "channel": 0,
+      "lexical": "zero one so we have to build what we like yes yes no no plus concatenation OK you see the value what's the problem knowing that they have never",
+      "itn": "01 so we have to build what we like yes yes no no plus concatenation OK you see the value what's the problem knowing that they have never",
+      "maskedITN": "01 so we have to build what we like yes yes no no plus concatenation ok you see the value what's the problem knowing that they have never",
+      "display": "01 so we have to build what we like. Yes. Yes, no, no plus concatenation. OK you see the value. What's the problem? Knowing that they have. Never."
+    }
+  ],
+  "recognizedPhrases": [
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT1.32S",
+      "duration": "PT1.03S",
+      "offsetInTicks": 13200000.0,
+      "durationInTicks": 10300000.0,
+      "nBest": [
+        {
+          "confidence": 0.12869532,
+          "lexical": "zero one",
+          "itn": "01",
+          "maskedITN": "01",
+          "display": "01"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT5.49S",
+      "duration": "PT1.81S",
+      "offsetInTicks": 54900000.0,
+      "durationInTicks": 18100000.0,
+      "nBest": [
+        {
+          "confidence": 0.577846,
+          "lexical": "so we have to build what we like",
+          "itn": "so we have to build what we like",
+          "maskedITN": "so we have to build what we like",
+          "display": "so we have to build what we like."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT7.97S",
+      "duration": "PT0.58S",
+      "offsetInTicks": 79700000.0,
+      "durationInTicks": 5800000.0,
+      "nBest": [
+        {
+          "confidence": 0.43231162,
+          "lexical": "yes",
+          "itn": "yes",
+          "maskedITN": "yes",
+          "display": "Yes."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT8.56S",
+      "duration": "PT4.42S",
+      "offsetInTicks": 85600000.0,
+      "durationInTicks": 44200000.0,
+      "nBest": [
+        {
+          "confidence": 0.43231162,
+          "lexical": "yes no no plus concatenation OK you see the value",
+          "itn": "yes no no plus concatenation OK you see the value",
+          "maskedITN": "yes no no plus concatenation ok you see the value",
+          "display": "Yes, no, no plus concatenation. OK you see the value."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT14.54S",
+      "duration": "PT2.01S",
+      "offsetInTicks": 145400000.0,
+      "durationInTicks": 20100000.0,
+      "nBest": [
+        {
+          "confidence": 0.08358526,
+          "lexical": "what's the problem",
+          "itn": "what's the problem",
+          "maskedITN": "what's the problem",
+          "display": "What's the problem?"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT17.99S",
+      "duration": "PT1.65S",
+      "offsetInTicks": 179900000.0,
+      "durationInTicks": 16500000.0,
+      "nBest": [
+        {
+          "confidence": 0.35638535,
+          "lexical": "knowing that they have",
+          "itn": "knowing that they have",
+          "maskedITN": "knowing that they have",
+          "display": "Knowing that they have."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT19.65S",
+      "duration": "PT0.25S",
+      "offsetInTicks": 196500000.0,
+      "durationInTicks": 2500000.0,
+      "nBest": [
+        {
+          "confidence": 0.35638535,
+          "lexical": "never",
+          "itn": "never",
+          "maskedITN": "never",
+          "display": "Never."
+        }
+      ]
+    }
+  ]
+}
+06/03/2022 06:40:10 PM MDT Results for testsetp2/G-C2L1P-Apr12-A-Allan_q2_04-05_ot1.wav.json:
+{
+  "source": "https://longaudiosaolme.blob.core.windows.net/testsetp2/G-C2L1P-Apr12-A-Allan_q2_04-05_ot1.wav",
+  "timestamp": "2022-06-04T00:39:49Z",
+  "durationInTicks": 250000000,
+  "duration": "PT25S",
+  "combinedRecognizedPhrases": [
+    {
+      "channel": 0,
+      "lexical": "he said no you OK it doesn't OK what i what we're trying to do right now is it's true i'm going to think about that no no open up the item you know that way about today OK it's on the road",
+      "itn": "he said no you OK it doesn't OK what i what we're trying to do right now is it's true i'm going to think about that no no open up the item you know that way about today OK it's on the road",
+      "maskedITN": "he said no you ok it doesn't ok what i what we're trying to do right now is it's true i'm going to think about that no no open up the item you know that way about today ok it's on the road",
+      "display": "He said, no, you OK, it doesn't. OK what I what we're trying to do right now is it's true. I'm going to think about that. No no. Open up the item. You know that way about today? OK, it's on the road."
+    }
+  ],
+  "recognizedPhrases": [
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT1.14S",
+      "duration": "PT9.26S",
+      "offsetInTicks": 11400000.0,
+      "durationInTicks": 92600000.0,
+      "nBest": [
+        {
+          "confidence": 0.5239615,
+          "lexical": "he said no you OK it doesn't OK what i what we're trying to do right now is it's true i'm going to think about that",
+          "itn": "he said no you OK it doesn't OK what i what we're trying to do right now is it's true i'm going to think about that",
+          "maskedITN": "he said no you ok it doesn't ok what i what we're trying to do right now is it's true i'm going to think about that",
+          "display": "He said, no, you OK, it doesn't. OK what I what we're trying to do right now is it's true. I'm going to think about that."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT11.97S",
+      "duration": "PT0.65S",
+      "offsetInTicks": 119700000.0,
+      "durationInTicks": 6500000.0,
+      "nBest": [
+        {
+          "confidence": 0.38090304,
+          "lexical": "no no",
+          "itn": "no no",
+          "maskedITN": "no no",
+          "display": "No no."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT15.34S",
+      "duration": "PT0.95S",
+      "offsetInTicks": 153400000.0,
+      "durationInTicks": 9500000.0,
+      "nBest": [
+        {
+          "confidence": 0.6960346,
+          "lexical": "open up the item",
+          "itn": "open up the item",
+          "maskedITN": "open up the item",
+          "display": "Open up the item."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT19.56S",
+      "duration": "PT1.79S",
+      "offsetInTicks": 195600000.0,
+      "durationInTicks": 17900000.0,
+      "nBest": [
+        {
+          "confidence": 0.23722488,
+          "lexical": "you know that way about today",
+          "itn": "you know that way about today",
+          "maskedITN": "you know that way about today",
+          "display": "You know that way about today?"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT23.22S",
+      "duration": "PT0.98S",
+      "offsetInTicks": 232200000.0,
+      "durationInTicks": 9800000.0,
+      "nBest": [
+        {
+          "confidence": 0.54761136,
+          "lexical": "OK it's on the road",
+          "itn": "OK it's on the road",
+          "maskedITN": "ok it's on the road",
+          "display": "OK, it's on the road."
+        }
+      ]
+    }
+  ]
+}
+06/03/2022 06:40:10 PM MDT Results for testsetp2/G-C2L1P-Apr12-A-Allan_q2_04-05_kw1.wav.json:
+{
+  "source": "https://longaudiosaolme.blob.core.windows.net/testsetp2/G-C2L1P-Apr12-A-Allan_q2_04-05_kw1.wav",
+  "timestamp": "2022-06-04T00:39:49Z",
+  "durationInTicks": 250000000,
+  "duration": "PT25S",
+  "combinedRecognizedPhrases": [
+    {
+      "channel": 0,
+      "lexical": "or python would always get one number less so if you want to get this we're going to increase this guy here so instead of seven change and put eight no this year they only coach two",
+      "itn": "or python would always get one number less so if you want to get this we're going to increase this guy here so instead of seven change and put 8 no this year they only coach 2",
+      "maskedITN": "or python would always get one number less so if you want to get this we're going to increase this guy here so instead of seven change and put 8 no this year they only coach 2",
+      "display": "Or Python would always get one number less. So if you want to get this, we're going to increase this guy here. So instead of seven change and put 8. No. This year they only coach. 2."
+    }
+  ],
+  "recognizedPhrases": [
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT0.05S",
+      "duration": "PT4.65S",
+      "offsetInTicks": 500000.0,
+      "durationInTicks": 46500000.0,
+      "nBest": [
+        {
+          "confidence": 0.6592316,
+          "lexical": "or python would always get one number less",
+          "itn": "or python would always get one number less",
+          "maskedITN": "or python would always get one number less",
+          "display": "Or Python would always get one number less."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT5.37S",
+      "duration": "PT8.55S",
+      "offsetInTicks": 53700000.0,
+      "durationInTicks": 85500000.0,
+      "nBest": [
+        {
+          "confidence": 0.7925918,
+          "lexical": "so if you want to get this we're going to increase this guy here so instead of seven change and put eight",
+          "itn": "so if you want to get this we're going to increase this guy here so instead of seven change and put 8",
+          "maskedITN": "so if you want to get this we're going to increase this guy here so instead of seven change and put 8",
+          "display": "So if you want to get this, we're going to increase this guy here. So instead of seven change and put 8."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT17.96S",
+      "duration": "PT0.43S",
+      "offsetInTicks": 179600000.0,
+      "durationInTicks": 4300000.0,
+      "nBest": [
+        {
+          "confidence": 0.28480768,
+          "lexical": "no",
+          "itn": "no",
+          "maskedITN": "no",
+          "display": "No."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT19.96S",
+      "duration": "PT2.19S",
+      "offsetInTicks": 199600000.0,
+      "durationInTicks": 21900000.0,
+      "nBest": [
+        {
+          "confidence": 0.37956366,
+          "lexical": "this year they only coach",
+          "itn": "this year they only coach",
+          "maskedITN": "this year they only coach",
+          "display": "This year they only coach."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT24.47S",
+      "duration": "PT0.43S",
+      "offsetInTicks": 244700000.0,
+      "durationInTicks": 4300000.0,
+      "nBest": [
+        {
+          "confidence": 0.04122001,
+          "lexical": "two",
+          "itn": "2",
+          "maskedITN": "2",
+          "display": "2."
+        }
+      ]
+    }
+  ]
+}
+06/03/2022 06:40:11 PM MDT Results for testsetp2/G-C2L1P-Apr12-A-Allan_q2_04-05_ot4.wav.json:
+{
+  "source": "https://longaudiosaolme.blob.core.windows.net/testsetp2/G-C2L1P-Apr12-A-Allan_q2_04-05_ot4.wav",
+  "timestamp": "2022-06-04T00:38:49Z",
+  "durationInTicks": 290000000,
+  "duration": "PT29S",
+  "combinedRecognizedPhrases": [
+    {
+      "channel": 0,
+      "lexical": "no no right right there the one off of the ground no you don't have access to that so just just how do you open the weather before because you don't need them right there yeah it looks the same just like this OK looks pretty nice",
+      "itn": "no no right right there the one off of the ground no you don't have access to that so just just how do you open the weather before because you don't need them right there yeah it looks the same just like this OK looks pretty nice",
+      "maskedITN": "no no right right there the one off of the ground no you don't have access to that so just just how do you open the weather before because you don't need them right there yeah it looks the same just like this ok looks pretty nice",
+      "display": "No no. Right? Right there. The one off of the ground? No, you don't have access to that, so just just how do you open the weather before? Because you don't need them. Right there. Yeah, it looks the same just like this. OK, looks pretty nice."
+    }
+  ],
+  "recognizedPhrases": [
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT0.09S",
+      "duration": "PT1.01S",
+      "offsetInTicks": 900000.0,
+      "durationInTicks": 10100000.0,
+      "nBest": [
+        {
+          "confidence": 0.016254822,
+          "lexical": "no no",
+          "itn": "no no",
+          "maskedITN": "no no",
+          "display": "No no."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT3.55S",
+      "duration": "PT0.51S",
+      "offsetInTicks": 35500000.0,
+      "durationInTicks": 5100000.0,
+      "nBest": [
+        {
+          "confidence": 0.72593415,
+          "lexical": "right",
+          "itn": "right",
+          "maskedITN": "right",
+          "display": "Right?"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT5.62S",
+      "duration": "PT0.67S",
+      "offsetInTicks": 56200000.0,
+      "durationInTicks": 6700000.0,
+      "nBest": [
+        {
+          "confidence": 0.18977472,
+          "lexical": "right there",
+          "itn": "right there",
+          "maskedITN": "right there",
+          "display": "Right there."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT7.74S",
+      "duration": "PT8.46S",
+      "offsetInTicks": 77400000.0,
+      "durationInTicks": 84600000.0,
+      "nBest": [
+        {
+          "confidence": 0.5376016,
+          "lexical": "the one off of the ground no you don't have access to that so just just how do you open the weather before because you don't need them",
+          "itn": "the one off of the ground no you don't have access to that so just just how do you open the weather before because you don't need them",
+          "maskedITN": "the one off of the ground no you don't have access to that so just just how do you open the weather before because you don't need them",
+          "display": "The one off of the ground? No, you don't have access to that, so just just how do you open the weather before? Because you don't need them."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT20.01S",
+      "duration": "PT0.51S",
+      "offsetInTicks": 200100000.0,
+      "durationInTicks": 5100000.0,
+      "nBest": [
+        {
+          "confidence": 0.6944369,
+          "lexical": "right there",
+          "itn": "right there",
+          "maskedITN": "right there",
+          "display": "Right there."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT22.19S",
+      "duration": "PT2.83S",
+      "offsetInTicks": 221900000.0,
+      "durationInTicks": 28300000.0,
+      "nBest": [
+        {
+          "confidence": 0.792066,
+          "lexical": "yeah it looks the same just like this",
+          "itn": "yeah it looks the same just like this",
+          "maskedITN": "yeah it looks the same just like this",
+          "display": "Yeah, it looks the same just like this."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT26.52S",
+      "duration": "PT2.05S",
+      "offsetInTicks": 265200000.0,
+      "durationInTicks": 20500000.0,
+      "nBest": [
+        {
+          "confidence": 0.7294359,
+          "lexical": "OK looks pretty nice",
+          "itn": "OK looks pretty nice",
+          "maskedITN": "ok looks pretty nice",
+          "display": "OK, looks pretty nice."
+        }
+      ]
+    }
+  ]
+}
+06/03/2022 06:40:11 PM MDT Results for testsetp2/G-C3L1P-Mar21-A-Venkatesh_q2_01-05_kw7.wav.json:
+{
+  "source": "https://longaudiosaolme.blob.core.windows.net/testsetp2/G-C3L1P-Mar21-A-Venkatesh_q2_01-05_kw7.wav",
+  "timestamp": "2022-06-04T00:39:09Z",
+  "durationInTicks": 150000000,
+  "duration": "PT15S",
+  "combinedRecognizedPhrases": [
+    {
+      "channel": 0,
+      "lexical": "to fifty hundred one fifty two hundred find so basically you one way you can two hundred right now like teach them this one OK",
+      "itn": "to 5000 one 5200 find so basically you one way you can 200 right now like teach them this one OK",
+      "maskedITN": "to 5000 one 5200 find so basically you one way you can 200 right now like teach them this one ok",
+      "display": "To 5000 one 5200. Find. So basically you one way you can 200 right now like teach them this one OK."
+    }
+  ],
+  "recognizedPhrases": [
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT0.42S",
+      "duration": "PT2.77S",
+      "offsetInTicks": 4200000.0,
+      "durationInTicks": 27700000.0,
+      "nBest": [
+        {
+          "confidence": 0.73801404,
+          "lexical": "to fifty hundred one fifty two hundred",
+          "itn": "to 5000 one 5200",
+          "maskedITN": "to 5000 one 5200",
+          "display": "To 5000 one 5200."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT4.48S",
+      "duration": "PT0.47S",
+      "offsetInTicks": 44800000.0,
+      "durationInTicks": 4700000.0,
+      "nBest": [
+        {
+          "confidence": 0.0160577,
+          "lexical": "find",
+          "itn": "find",
+          "maskedITN": "find",
+          "display": "Find."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT7.03S",
+      "duration": "PT6.6S",
+      "offsetInTicks": 70300000.0,
+      "durationInTicks": 66000000.0,
+      "nBest": [
+        {
+          "confidence": 0.72308594,
+          "lexical": "so basically you one way you can two hundred right now like teach them this one OK",
+          "itn": "so basically you one way you can 200 right now like teach them this one OK",
+          "maskedITN": "so basically you one way you can 200 right now like teach them this one ok",
+          "display": "So basically you one way you can 200 right now like teach them this one OK."
+        }
+      ]
+    }
+  ]
+}
+06/03/2022 06:40:11 PM MDT Results for testsetp2/G-C2L1P-Feb16-B-Shelby_q2_03-05_kw4.wav.json:
+{
+  "source": "https://longaudiosaolme.blob.core.windows.net/testsetp2/G-C2L1P-Feb16-B-Shelby_q2_03-05_kw4.wav",
+  "timestamp": "2022-06-04T00:39:21Z",
+  "durationInTicks": 220000000,
+  "duration": "PT22S",
+  "combinedRecognizedPhrases": [
+    {
+      "channel": 0,
+      "lexical": "also the personal situation so we can take the meal this can take notes if you want to and then i think there's this quote saved wait what are you two say huh what did you two say that i did not know that there's something called raspberry computer we didn't know there was something called",
+      "itn": "also the personal situation so we can take the meal this can take notes if you want to and then i think there's this quote saved wait what are you 2 say huh what did you two say that i did not know that there's something called raspberry computer we didn't know there was something called",
+      "maskedITN": "also the personal situation so we can take the meal this can take notes if you want to and then i think there's this quote saved wait what are you 2 say huh what did you two say that i did not know that there's something called raspberry computer we didn't know there was something called",
+      "display": "Also the personal situation. So we can. Take the meal. This can take notes if you want to, and then I think. There's this quote saved. Wait, what are you 2 say huh? What did you two say that I did not know that there's something called Raspberry Computer? We didn't know there was something called."
+    }
+  ],
+  "recognizedPhrases": [
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT0.07S",
+      "duration": "PT1.47S",
+      "offsetInTicks": 700000.0,
+      "durationInTicks": 14700000.0,
+      "nBest": [
+        {
+          "confidence": 0.57688016,
+          "lexical": "also the personal situation",
+          "itn": "also the personal situation",
+          "maskedITN": "also the personal situation",
+          "display": "Also the personal situation."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT2.27S",
+      "duration": "PT0.45S",
+      "offsetInTicks": 22700000.0,
+      "durationInTicks": 4500000.0,
+      "nBest": [
+        {
+          "confidence": 0.57688016,
+          "lexical": "so we can",
+          "itn": "so we can",
+          "maskedITN": "so we can",
+          "display": "So we can."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT2.73S",
+      "duration": "PT0.73S",
+      "offsetInTicks": 27300000.0,
+      "durationInTicks": 7300000.0,
+      "nBest": [
+        {
+          "confidence": 0.57688016,
+          "lexical": "take the meal",
+          "itn": "take the meal",
+          "maskedITN": "take the meal",
+          "display": "Take the meal."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT4.05S",
+      "duration": "PT2.18S",
+      "offsetInTicks": 40500000.0,
+      "durationInTicks": 21800000.0,
+      "nBest": [
+        {
+          "confidence": 0.57688016,
+          "lexical": "this can take notes if you want to and then i think",
+          "itn": "this can take notes if you want to and then i think",
+          "maskedITN": "this can take notes if you want to and then i think",
+          "display": "This can take notes if you want to, and then I think."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT8.1S",
+      "duration": "PT1.78S",
+      "offsetInTicks": 81000000.0,
+      "durationInTicks": 17800000.0,
+      "nBest": [
+        {
+          "confidence": 0.3590061,
+          "lexical": "there's this quote saved",
+          "itn": "there's this quote saved",
+          "maskedITN": "there's this quote saved",
+          "display": "There's this quote saved."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT11.98S",
+      "duration": "PT9.7S",
+      "offsetInTicks": 119800000.0,
+      "durationInTicks": 97000000.0,
+      "nBest": [
+        {
+          "confidence": 0.54077375,
+          "lexical": "wait what are you two say huh what did you two say that i did not know that there's something called raspberry computer we didn't know there was something called",
+          "itn": "wait what are you 2 say huh what did you two say that i did not know that there's something called raspberry computer we didn't know there was something called",
+          "maskedITN": "wait what are you 2 say huh what did you two say that i did not know that there's something called raspberry computer we didn't know there was something called",
+          "display": "Wait, what are you 2 say huh? What did you two say that I did not know that there's something called Raspberry Computer? We didn't know there was something called."
+        }
+      ]
+    }
+  ]
+}
+06/03/2022 06:40:12 PM MDT Results for testsetp2/G-C2L1P-Feb16-B-Shelby_q2_03-05_kw5.wav.json:
+{
+  "source": "https://longaudiosaolme.blob.core.windows.net/testsetp2/G-C2L1P-Feb16-B-Shelby_q2_03-05_kw5.wav",
+  "timestamp": "2022-06-04T00:39:40Z",
+  "durationInTicks": 100000000,
+  "duration": "PT10S",
+  "combinedRecognizedPhrases": [
+    {
+      "channel": 0,
+      "lexical": "yeah yeah yeah so it's not necessarily that there's a restraining here so there's a computer in raspberry actually i'm gonna take note right now do something for me",
+      "itn": "yeah yeah yeah so it's not necessarily that there's a restraining here so there's a computer in raspberry actually i'm gonna take note right now do something for me",
+      "maskedITN": "yeah yeah yeah so it's not necessarily that there's a restraining here so there's a computer in raspberry actually i'm gonna take note right now do something for me",
+      "display": "Yeah, yeah, yeah. So it's not necessarily that there's a restraining here, so there's a computer in Raspberry. Actually, I'm gonna take note right now. Do something for me."
+    }
+  ],
+  "recognizedPhrases": [
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT0.23S",
+      "duration": "PT5.69S",
+      "offsetInTicks": 2300000.0,
+      "durationInTicks": 56900000.0,
+      "nBest": [
+        {
+          "confidence": 0.61108977,
+          "lexical": "yeah yeah yeah so it's not necessarily that there's a restraining here so there's a computer in raspberry",
+          "itn": "yeah yeah yeah so it's not necessarily that there's a restraining here so there's a computer in raspberry",
+          "maskedITN": "yeah yeah yeah so it's not necessarily that there's a restraining here so there's a computer in raspberry",
+          "display": "Yeah, yeah, yeah. So it's not necessarily that there's a restraining here, so there's a computer in Raspberry."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT5.93S",
+      "duration": "PT1.81S",
+      "offsetInTicks": 59300000.0,
+      "durationInTicks": 18100000.0,
+      "nBest": [
+        {
+          "confidence": 0.61108977,
+          "lexical": "actually i'm gonna take note right now",
+          "itn": "actually i'm gonna take note right now",
+          "maskedITN": "actually i'm gonna take note right now",
+          "display": "Actually, I'm gonna take note right now."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT9.14S",
+      "duration": "PT0.82S",
+      "offsetInTicks": 91400000.0,
+      "durationInTicks": 8200000.0,
+      "nBest": [
+        {
+          "confidence": 0.41924387,
+          "lexical": "do something for me",
+          "itn": "do something for me",
+          "maskedITN": "do something for me",
+          "display": "Do something for me."
+        }
+      ]
+    }
+  ]
+}
+06/03/2022 06:40:12 PM MDT Results for testsetp2/G-C2L1W-Feb27-B-Issac_q2_02-04_ot13.wav.json:
+{
+  "source": "https://longaudiosaolme.blob.core.windows.net/testsetp2/G-C2L1W-Feb27-B-Issac_q2_02-04_ot13.wav",
+  "timestamp": "2022-06-04T00:38:48Z",
+  "durationInTicks": 220000000,
+  "duration": "PT22S",
+  "combinedRecognizedPhrases": [
+    {
+      "channel": 0,
+      "lexical": "in there what do you do you go to wait just had it oh no no no i know i had to see that no just the files ohh all the files ohg it's dumb and i play you just said it just now M M they're just talking MK MKD i mean i",
+      "itn": "in there what do you do you go to wait just had it oh no no no i know i had to see that no just the files ohh all the files ohg it's dumb and i play you just said it just now M M they're just talking MK MKD i mean i",
+      "maskedITN": "in there what do you do you go to wait just had it oh no no no i know i had to see that no just the files ohh all the files ohg it's dumb and i play you just said it just now m m they're just talking mk mkd i mean i",
+      "display": "In there, what do you do? You go to wait. Just had it. Oh no, no no. I know I had to see that. No, just the files. Ohh all the files ohg it's dumb and. I play. You just said it just now. M. M They're just talking MK. MKD I mean I."
+    }
+  ],
+  "recognizedPhrases": [
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT0.05S",
+      "duration": "PT0.94S",
+      "offsetInTicks": 500000.0,
+      "durationInTicks": 9400000.0,
+      "nBest": [
+        {
+          "confidence": 0.66233873,
+          "lexical": "in there what do you do",
+          "itn": "in there what do you do",
+          "maskedITN": "in there what do you do",
+          "display": "In there, what do you do?"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT1.7S",
+      "duration": "PT6.4S",
+      "offsetInTicks": 17000000.0,
+      "durationInTicks": 64000000.0,
+      "nBest": [
+        {
+          "confidence": 0.66233873,
+          "lexical": "you go to wait just had it oh no no no i know i had to see that",
+          "itn": "you go to wait just had it oh no no no i know i had to see that",
+          "maskedITN": "you go to wait just had it oh no no no i know i had to see that",
+          "display": "You go to wait. Just had it. Oh no, no no. I know I had to see that."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT9.95S",
+      "duration": "PT1.49S",
+      "offsetInTicks": 99500000.0,
+      "durationInTicks": 14900000.0,
+      "nBest": [
+        {
+          "confidence": 0.48385945,
+          "lexical": "no just the files",
+          "itn": "no just the files",
+          "maskedITN": "no just the files",
+          "display": "No, just the files."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT11.45S",
+      "duration": "PT3.29S",
+      "offsetInTicks": 114500000.0,
+      "durationInTicks": 32900000.0,
+      "nBest": [
+        {
+          "confidence": 0.48385945,
+          "lexical": "ohh all the files ohg it's dumb and",
+          "itn": "ohh all the files ohg it's dumb and",
+          "maskedITN": "ohh all the files ohg it's dumb and",
+          "display": "Ohh all the files ohg it's dumb and."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT16.2S",
+      "duration": "PT0.29S",
+      "offsetInTicks": 162000000.0,
+      "durationInTicks": 2900000.0,
+      "nBest": [
+        {
+          "confidence": 0.6133985,
+          "lexical": "i play",
+          "itn": "i play",
+          "maskedITN": "i play",
+          "display": "I play."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT16.8S",
+      "duration": "PT1.39S",
+      "offsetInTicks": 168000000.0,
+      "durationInTicks": 13900000.0,
+      "nBest": [
+        {
+          "confidence": 0.6133985,
+          "lexical": "you just said it just now",
+          "itn": "you just said it just now",
+          "maskedITN": "you just said it just now",
+          "display": "You just said it just now."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT18.26S",
+      "duration": "PT0.63S",
+      "offsetInTicks": 182600000.0,
+      "durationInTicks": 6300000.0,
+      "nBest": [
+        {
+          "confidence": 0.6133985,
+          "lexical": "M",
+          "itn": "M",
+          "maskedITN": "m",
+          "display": "M."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT18.96S",
+      "duration": "PT1.55S",
+      "offsetInTicks": 189600000.0,
+      "durationInTicks": 15500000.0,
+      "nBest": [
+        {
+          "confidence": 0.6133985,
+          "lexical": "M they're just talking MK",
+          "itn": "M they're just talking MK",
+          "maskedITN": "m they're just talking mk",
+          "display": "M They're just talking MK."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT20.52S",
+      "duration": "PT0.49S",
+      "offsetInTicks": 205200000.0,
+      "durationInTicks": 4900000.0,
+      "nBest": [
+        {
+          "confidence": 0.6133985,
+          "lexical": "MKD",
+          "itn": "MKD",
+          "maskedITN": "mkd",
+          "display": "MKD"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT21.02S",
+      "duration": "PT0.59S",
+      "offsetInTicks": 210200000.0,
+      "durationInTicks": 5900000.0,
+      "nBest": [
+        {
+          "confidence": 0.6133985,
+          "lexical": "i mean i",
+          "itn": "i mean i",
+          "maskedITN": "i mean i",
+          "display": "I mean I."
+        }
+      ]
+    }
+  ]
+}
+06/03/2022 06:40:13 PM MDT Results for testsetp2/G-C2L1P-Apr12-A-Allan_q2_04-05_ot3.wav.json:
+{
+  "source": "https://longaudiosaolme.blob.core.windows.net/testsetp2/G-C2L1P-Apr12-A-Allan_q2_04-05_ot3.wav",
+  "timestamp": "2022-06-04T00:39:47Z",
+  "durationInTicks": 320000000,
+  "duration": "PT32S",
+  "combinedRecognizedPhrases": [
+    {
+      "channel": 0,
+      "lexical": "translate hello are you joanna people playing anywhere anyhow that makes sense from now call back to that one go back to that one lasso translate every two lessons come on people you go to the so here's the person who has the last so",
+      "itn": "translate hello are you joanna people playing anywhere anyhow that makes sense from now call back to that one go back to that one lasso translate every two lessons come on people you go to the so here's the person who has the last so",
+      "maskedITN": "translate hello are you joanna people playing anywhere anyhow that makes sense from now call back to that one go back to that one lasso translate every two lessons come on people you go to the so here's the person who has the last so",
+      "display": "Translate hello. Are you Joanna? People playing. Anywhere anyhow that makes sense. From now, call back to that one. Go back to that one. Lasso translate every two lessons. Come on people. You go to the. So here's the person who has the last so."
+    }
+  ],
+  "recognizedPhrases": [
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT0.17S",
+      "duration": "PT1.06S",
+      "offsetInTicks": 1700000.0,
+      "durationInTicks": 10600000.0,
+      "nBest": [
+        {
+          "confidence": 0.005712241,
+          "lexical": "translate",
+          "itn": "translate",
+          "maskedITN": "translate",
+          "display": "Translate"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT3.69S",
+      "duration": "PT0.65S",
+      "offsetInTicks": 36900000.0,
+      "durationInTicks": 6500000.0,
+      "nBest": [
+        {
+          "confidence": 0.20288016,
+          "lexical": "hello",
+          "itn": "hello",
+          "maskedITN": "hello",
+          "display": "hello."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT5.29S",
+      "duration": "PT0.72S",
+      "offsetInTicks": 52900000.0,
+      "durationInTicks": 7200000.0,
+      "nBest": [
+        {
+          "confidence": 0.20288016,
+          "lexical": "are you joanna",
+          "itn": "are you joanna",
+          "maskedITN": "are you joanna",
+          "display": "Are you Joanna?"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT8.64S",
+      "duration": "PT0.93S",
+      "offsetInTicks": 86400000.0,
+      "durationInTicks": 9300000.0,
+      "nBest": [
+        {
+          "confidence": 0.0999584,
+          "lexical": "people playing",
+          "itn": "people playing",
+          "maskedITN": "people playing",
+          "display": "People playing."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT12.73S",
+      "duration": "PT2.12S",
+      "offsetInTicks": 127300000.0,
+      "durationInTicks": 21200000.0,
+      "nBest": [
+        {
+          "confidence": 0.66660535,
+          "lexical": "anywhere anyhow that makes sense",
+          "itn": "anywhere anyhow that makes sense",
+          "maskedITN": "anywhere anyhow that makes sense",
+          "display": "Anywhere anyhow that makes sense."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT16.34S",
+      "duration": "PT2.38S",
+      "offsetInTicks": 163400000.0,
+      "durationInTicks": 23800000.0,
+      "nBest": [
+        {
+          "confidence": 0.42773658,
+          "lexical": "from now call back to that one go back to that one",
+          "itn": "from now call back to that one go back to that one",
+          "maskedITN": "from now call back to that one go back to that one",
+          "display": "From now, call back to that one. Go back to that one."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT20.64S",
+      "duration": "PT0.73S",
+      "offsetInTicks": 206400000.0,
+      "durationInTicks": 7300000.0,
+      "nBest": [
+        {
+          "confidence": 0.27923775,
+          "lexical": "lasso",
+          "itn": "lasso",
+          "maskedITN": "lasso",
+          "display": "Lasso"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT22.69S",
+      "duration": "PT1.35S",
+      "offsetInTicks": 226900000.0,
+      "durationInTicks": 13500000.0,
+      "nBest": [
+        {
+          "confidence": 0.118464574,
+          "lexical": "translate every two lessons",
+          "itn": "translate every two lessons",
+          "maskedITN": "translate every two lessons",
+          "display": "translate every two lessons."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT25.8S",
+      "duration": "PT0.78S",
+      "offsetInTicks": 258000000.0,
+      "durationInTicks": 7800000.0,
+      "nBest": [
+        {
+          "confidence": 0.43784928,
+          "lexical": "come on people",
+          "itn": "come on people",
+          "maskedITN": "come on people",
+          "display": "Come on people."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT27.98S",
+      "duration": "PT3.53S",
+      "offsetInTicks": 279800000.0,
+      "durationInTicks": 35300000.0,
+      "nBest": [
+        {
+          "confidence": 0.71447414,
+          "lexical": "you go to the so here's the person who has the last so",
+          "itn": "you go to the so here's the person who has the last so",
+          "maskedITN": "you go to the so here's the person who has the last so",
+          "display": "You go to the. So here's the person who has the last so."
+        }
+      ]
+    }
+  ]
+}
+06/03/2022 06:40:13 PM MDT Results for testsetp2/G-C3L1P-Mar21-A-Venkatesh_q2_01-05_kw8.wav.json:
+{
+  "source": "https://longaudiosaolme.blob.core.windows.net/testsetp2/G-C3L1P-Mar21-A-Venkatesh_q2_01-05_kw8.wav",
+  "timestamp": "2022-06-04T00:39:37Z",
+  "durationInTicks": 150000000,
+  "duration": "PT15S",
+  "combinedRecognizedPhrases": [
+    {
+      "channel": 0,
+      "lexical": "game star is what it's going by difference and it stops at four so like it goes to three and then once it gets to four there's nothing there",
+      "itn": "game star is what it's going by difference and it stops at 4:00 so like it goes to three and then once it gets to four there's nothing there",
+      "maskedITN": "game star is what it's going by difference and it stops at 4:00 so like it goes to three and then once it gets to four there's nothing there",
+      "display": "Game star is what it's going by. Difference and it stops at 4:00, so like it goes to three and then once it gets to four there's nothing there."
+    }
+  ],
+  "recognizedPhrases": [
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT0.6S",
+      "duration": "PT3.38S",
+      "offsetInTicks": 6000000.0,
+      "durationInTicks": 33800000.0,
+      "nBest": [
+        {
+          "confidence": 0.42170322,
+          "lexical": "game star is what it's going by",
+          "itn": "game star is what it's going by",
+          "maskedITN": "game star is what it's going by",
+          "display": "Game star is what it's going by."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT7.45S",
+      "duration": "PT6.47S",
+      "offsetInTicks": 74500000.0,
+      "durationInTicks": 64700000.0,
+      "nBest": [
+        {
+          "confidence": 0.74678195,
+          "lexical": "difference and it stops at four so like it goes to three and then once it gets to four there's nothing there",
+          "itn": "difference and it stops at 4:00 so like it goes to three and then once it gets to four there's nothing there",
+          "maskedITN": "difference and it stops at 4:00 so like it goes to three and then once it gets to four there's nothing there",
+          "display": "Difference and it stops at 4:00, so like it goes to three and then once it gets to four there's nothing there."
+        }
+      ]
+    }
+  ]
+}
+06/03/2022 06:40:13 PM MDT Results for testsetp2/G-C2L1P-Feb16-B-Shelby_q2_03-05_ot7.wav.json:
+{
+  "source": "https://longaudiosaolme.blob.core.windows.net/testsetp2/G-C2L1P-Feb16-B-Shelby_q2_03-05_ot7.wav",
+  "timestamp": "2022-06-04T00:38:48Z",
+  "durationInTicks": 240000000,
+  "duration": "PT24S",
+  "combinedRecognizedPhrases": [
+    {
+      "channel": 0,
+      "lexical": "loyalty i want to quote the government and the now yeah the last period of the day the power is there",
+      "itn": "loyalty i want to quote the government and the now yeah the last period of the day the power is there",
+      "maskedITN": "loyalty i want to quote the government and the now yeah the last period of the day the power is there",
+      "display": "Loyalty. I want to quote. The government and the. Now. Yeah. The last period of the day. The power is there."
+    }
+  ],
+  "recognizedPhrases": [
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT0.47S",
+      "duration": "PT0.53S",
+      "offsetInTicks": 4700000.0,
+      "durationInTicks": 5300000.0,
+      "nBest": [
+        {
+          "confidence": 0.044412374,
+          "lexical": "loyalty",
+          "itn": "loyalty",
+          "maskedITN": "loyalty",
+          "display": "Loyalty."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT3.08S",
+      "duration": "PT0.97S",
+      "offsetInTicks": 30800000.0,
+      "durationInTicks": 9700000.0,
+      "nBest": [
+        {
+          "confidence": 0.5476825,
+          "lexical": "i want to quote",
+          "itn": "i want to quote",
+          "maskedITN": "i want to quote",
+          "display": "I want to quote."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT5.57S",
+      "duration": "PT1.85S",
+      "offsetInTicks": 55700000.0,
+      "durationInTicks": 18500000.0,
+      "nBest": [
+        {
+          "confidence": 0.1322151,
+          "lexical": "the government and the",
+          "itn": "the government and the",
+          "maskedITN": "the government and the",
+          "display": "The government and the."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT8.9S",
+      "duration": "PT0.45S",
+      "offsetInTicks": 89000000.0,
+      "durationInTicks": 4500000.0,
+      "nBest": [
+        {
+          "confidence": 0.0789437,
+          "lexical": "now",
+          "itn": "now",
+          "maskedITN": "now",
+          "display": "Now."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT16.4S",
+      "duration": "PT0.81S",
+      "offsetInTicks": 164000000.0,
+      "durationInTicks": 8100000.0,
+      "nBest": [
+        {
+          "confidence": 0.09593969,
+          "lexical": "yeah",
+          "itn": "yeah",
+          "maskedITN": "yeah",
+          "display": "Yeah."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT18.85S",
+      "duration": "PT1.05S",
+      "offsetInTicks": 188500000.0,
+      "durationInTicks": 10500000.0,
+      "nBest": [
+        {
+          "confidence": 0.82764125,
+          "lexical": "the last period of the day",
+          "itn": "the last period of the day",
+          "maskedITN": "the last period of the day",
+          "display": "The last period of the day."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT21.5S",
+      "duration": "PT1.28S",
+      "offsetInTicks": 215000000.0,
+      "durationInTicks": 12800000.0,
+      "nBest": [
+        {
+          "confidence": 0.2646168,
+          "lexical": "the power is there",
+          "itn": "the power is there",
+          "maskedITN": "the power is there",
+          "display": "The power is there."
+        }
+      ]
+    }
+  ]
+}
+06/03/2022 06:40:13 PM MDT Results for testsetp2/G-C2L1P-Feb16-B-Shelby_q2_03-05_ot10.wav.json:
+{
+  "source": "https://longaudiosaolme.blob.core.windows.net/testsetp2/G-C2L1P-Feb16-B-Shelby_q2_03-05_ot10.wav",
+  "timestamp": "2022-06-04T00:39:39Z",
+  "durationInTicks": 120000000,
+  "duration": "PT12S",
+  "combinedRecognizedPhrases": [
+    {
+      "channel": 0,
+      "lexical": "we grab let me see the keyboard raspberry pi plugged it in and it said and then as we were really into the chip goes into the pie the raspberry pie",
+      "itn": "we grab let me see the keyboard raspberry pi plugged it in and it said and then as we were really into the chip goes into the pie the raspberry pie",
+      "maskedITN": "we grab let me see the keyboard raspberry pi plugged it in and it said and then as we were really into the chip goes into the pie the raspberry pie",
+      "display": "We grab let me see the keyboard Raspberry Pi, plugged it in and it said and then as we were. Really into the chip goes into the pie. The Raspberry pie."
+    }
+  ],
+  "recognizedPhrases": [
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT0.06S",
+      "duration": "PT6.24S",
+      "offsetInTicks": 600000.0,
+      "durationInTicks": 62400000.0,
+      "nBest": [
+        {
+          "confidence": 0.7550957,
+          "lexical": "we grab let me see the keyboard raspberry pi plugged it in and it said and then as we were",
+          "itn": "we grab let me see the keyboard raspberry pi plugged it in and it said and then as we were",
+          "maskedITN": "we grab let me see the keyboard raspberry pi plugged it in and it said and then as we were",
+          "display": "We grab let me see the keyboard Raspberry Pi, plugged it in and it said and then as we were."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT7.81S",
+      "duration": "PT4.15S",
+      "offsetInTicks": 78100000.0,
+      "durationInTicks": 41500000.0,
+      "nBest": [
+        {
+          "confidence": 0.6849371,
+          "lexical": "really into the chip goes into the pie the raspberry pie",
+          "itn": "really into the chip goes into the pie the raspberry pie",
+          "maskedITN": "really into the chip goes into the pie the raspberry pie",
+          "display": "Really into the chip goes into the pie. The Raspberry pie."
+        }
+      ]
+    }
+  ]
+}
+06/03/2022 06:40:14 PM MDT Results for testsetp2/G-C3L1P-Feb28-B-Camera2_q2_02-05_ot15.wav.json:
+{
+  "source": "https://longaudiosaolme.blob.core.windows.net/testsetp2/G-C3L1P-Feb28-B-Camera2_q2_02-05_ot15.wav",
+  "timestamp": "2022-06-04T00:38:57Z",
+  "durationInTicks": 200000000,
+  "duration": "PT20S",
+  "combinedRecognizedPhrases": [
+    {
+      "channel": 0,
+      "lexical": "first open the terminal women not women not have been like the jupiter notebook and he",
+      "itn": "1st open the terminal women not women not have been like the jupiter notebook and he",
+      "maskedITN": "1st open the terminal women not women not have been like the jupiter notebook and he",
+      "display": "1st. Open the terminal. Women, not women not. Have been like. The Jupiter notebook. And he."
+    }
+  ],
+  "recognizedPhrases": [
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT0.82S",
+      "duration": "PT0.36S",
+      "offsetInTicks": 8200000.0,
+      "durationInTicks": 3600000.0,
+      "nBest": [
+        {
+          "confidence": 0.13759273,
+          "lexical": "first",
+          "itn": "1st",
+          "maskedITN": "1st",
+          "display": "1st."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT8.06S",
+      "duration": "PT1.21S",
+      "offsetInTicks": 80600000.0,
+      "durationInTicks": 12100000.0,
+      "nBest": [
+        {
+          "confidence": 0.4362952,
+          "lexical": "open the terminal",
+          "itn": "open the terminal",
+          "maskedITN": "open the terminal",
+          "display": "Open the terminal."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT10.66S",
+      "duration": "PT1.16S",
+      "offsetInTicks": 106600000.0,
+      "durationInTicks": 11600000.0,
+      "nBest": [
+        {
+          "confidence": 0.3158177,
+          "lexical": "women not women not",
+          "itn": "women not women not",
+          "maskedITN": "women not women not",
+          "display": "Women, not women not."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT13.39S",
+      "duration": "PT0.49S",
+      "offsetInTicks": 133900000.0,
+      "durationInTicks": 4900000.0,
+      "nBest": [
+        {
+          "confidence": 0.74927735,
+          "lexical": "have been like",
+          "itn": "have been like",
+          "maskedITN": "have been like",
+          "display": "Have been like."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT16.39S",
+      "duration": "PT1.12S",
+      "offsetInTicks": 163900000.0,
+      "durationInTicks": 11200000.0,
+      "nBest": [
+        {
+          "confidence": 0.2841156,
+          "lexical": "the jupiter notebook",
+          "itn": "the jupiter notebook",
+          "maskedITN": "the jupiter notebook",
+          "display": "The Jupiter notebook."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT19.28S",
+      "duration": "PT0.61S",
+      "offsetInTicks": 192800000.0,
+      "durationInTicks": 6100000.0,
+      "nBest": [
+        {
+          "confidence": 0.38776314,
+          "lexical": "and he",
+          "itn": "and he",
+          "maskedITN": "and he",
+          "display": "And he."
+        }
+      ]
+    }
+  ]
+}
+06/03/2022 06:40:14 PM MDT Results for testsetp2/G-C2L1P-Feb16-B-Shelby_q2_03-05_ot5.wav.json:
+{
+  "source": "https://longaudiosaolme.blob.core.windows.net/testsetp2/G-C2L1P-Feb16-B-Shelby_q2_03-05_ot5.wav",
+  "timestamp": "2022-06-04T00:39:18Z",
+  "durationInTicks": 150000000,
+  "duration": "PT15S",
+  "combinedRecognizedPhrases": [
+    {
+      "channel": 0,
+      "lexical": "summary expert then you can i mean you can take notes if you want to anyway four signs of healthy take notes and another tends to get distracted they do so sometimes i have to like throw away my actually just like listening",
+      "itn": "summary expert then you can i mean you can take notes if you want to anyway 4 signs of healthy take notes and another tends to get distracted they do so sometimes i have to like throw away my actually just like listening",
+      "maskedITN": "summary expert then you can i mean you can take notes if you want to anyway 4 signs of healthy take notes and another tends to get distracted they do so sometimes i have to like throw away my actually just like listening",
+      "display": "Summary Expert then you can. I mean you can take notes if you want to anyway. 4 signs of healthy, take notes and another tends to get distracted. They do so sometimes I have to like throw away my actually just like listening."
+    }
+  ],
+  "recognizedPhrases": [
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT0.06S",
+      "duration": "PT4.38S",
+      "offsetInTicks": 600000.0,
+      "durationInTicks": 43800000.0,
+      "nBest": [
+        {
+          "confidence": 0.7020867,
+          "lexical": "summary expert then you can i mean you can take notes if you want to anyway",
+          "itn": "summary expert then you can i mean you can take notes if you want to anyway",
+          "maskedITN": "summary expert then you can i mean you can take notes if you want to anyway",
+          "display": "Summary Expert then you can. I mean you can take notes if you want to anyway."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT5.95S",
+      "duration": "PT7.62S",
+      "offsetInTicks": 59500000.0,
+      "durationInTicks": 76200000.0,
+      "nBest": [
+        {
+          "confidence": 0.5596366,
+          "lexical": "four signs of healthy take notes and another tends to get distracted they do so sometimes i have to like throw away my actually just like listening",
+          "itn": "4 signs of healthy take notes and another tends to get distracted they do so sometimes i have to like throw away my actually just like listening",
+          "maskedITN": "4 signs of healthy take notes and another tends to get distracted they do so sometimes i have to like throw away my actually just like listening",
+          "display": "4 signs of healthy, take notes and another tends to get distracted. They do so sometimes I have to like throw away my actually just like listening."
+        }
+      ]
+    }
+  ]
+}

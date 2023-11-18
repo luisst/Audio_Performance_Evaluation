@@ -1,0 +1,25 @@
+Bilingual!!! 900
+
+Azure:
+Plain text: 0.52
+Phonemes: 0.55
+Empty predictions: 218   |   percentage: 24.17%
+
+
+AWS:
+Plain text: -0.14
+Phonemes: -0.12
+Empty predictions: 814   |   percentage: 90.24%
+
+
+Google:
+Plain text: 0.36
+Phonemes: 0.38
+Empty predictions: 366   |   percentage: 40.58%
+
+Bilingual 350+440!!!!
+
+Azure:
+Plain text: 0.54
+Phonemes: 0.57
+Empty predictions: 188   |   percentage: 23.89%

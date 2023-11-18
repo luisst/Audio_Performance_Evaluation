@@ -1,0 +1,1654 @@
+08/02/2021 03:20:12 PM MDT Starting transcription client...
+08/02/2021 03:20:13 PM MDT Created new transcription with id '2c11f745-397b-4d18-89c1-1fdfb6d4f277' in region southcentralus
+08/02/2021 03:20:13 PM MDT Checking status.
+08/02/2021 03:20:18 PM MDT Transcriptions status: Running
+08/02/2021 03:20:23 PM MDT Transcriptions status: Running
+08/02/2021 03:20:28 PM MDT Transcriptions status: Running
+08/02/2021 03:20:33 PM MDT Transcriptions status: Running
+08/02/2021 03:20:38 PM MDT Transcriptions status: Running
+08/02/2021 03:20:43 PM MDT Transcriptions status: Running
+08/02/2021 03:20:48 PM MDT Transcriptions status: Running
+08/02/2021 03:20:53 PM MDT Transcriptions status: Running
+08/02/2021 03:20:59 PM MDT Transcriptions status: Running
+08/02/2021 03:21:04 PM MDT Transcriptions status: Running
+08/02/2021 03:21:09 PM MDT Transcriptions status: Running
+08/02/2021 03:21:14 PM MDT Transcriptions status: Running
+08/02/2021 03:21:19 PM MDT Transcriptions status: Running
+08/02/2021 03:21:24 PM MDT Transcriptions status: Running
+08/02/2021 03:21:29 PM MDT Transcriptions status: Running
+08/02/2021 03:21:35 PM MDT Transcriptions status: Running
+08/02/2021 03:21:40 PM MDT Transcriptions status: Running
+08/02/2021 03:21:45 PM MDT Transcriptions status: Running
+08/02/2021 03:21:50 PM MDT Transcriptions status: Running
+08/02/2021 03:21:55 PM MDT Transcriptions status: Running
+08/02/2021 03:22:00 PM MDT Transcriptions status: Running
+08/02/2021 03:22:05 PM MDT Transcriptions status: Running
+08/02/2021 03:22:10 PM MDT Transcriptions status: Running
+08/02/2021 03:22:15 PM MDT Transcriptions status: Running
+08/02/2021 03:22:20 PM MDT Transcriptions status: Running
+08/02/2021 03:22:26 PM MDT Transcriptions status: Running
+08/02/2021 03:22:31 PM MDT Transcriptions status: Running
+08/02/2021 03:22:36 PM MDT Transcriptions status: Running
+08/02/2021 03:22:41 PM MDT Transcriptions status: Succeeded
+08/02/2021 03:22:42 PM MDT Results for contenturl_0.json:
+{
+  "source": "https://longaudiosaolme.blob.core.windows.net/minutesaudios/G-C3L1P-Apr11-C-Phuong_q2_02-05_3min_part2.wav",
+  "timestamp": "2021-08-02T21:22:38Z",
+  "durationInTicks": 2100000000,
+  "duration": "PT3M30S",
+  "combinedRecognizedPhrases": [
+    {
+      "channel": 0,
+      "lexical": "when is long hawaii grace you got it right the party last night harvey and i think they will order literally just added studies at walmart yummy yummy going on this morning no it's kissing no one second hello antonio broke into neautral emily timo alright the middle what else do you see LEGO stonebrae miss tomorrow night of forgetting is here in milwaukee done to you download secret nosey waddles therapist OK all you think of me OK hi i would like a dressy well represented a dress cuatro por K that we're going to fill in period right now don't test some of those tallahassee yeah necesita trish or dennis a necesita kamus last time you said it didn't matter hello i'm confirming we can add one more thing learn this",
+      "itn": "when is long hawaii grace you got it right the party last night harvey and i think they will order literally just added studies at walmart yummy yummy going on this morning no it's kissing no one second hello antonio broke into neautral emily timo alright the middle what else do you see LEGO stonebrae miss tomorrow night of forgetting is here in milwaukee done to you download secret nosey waddles therapist OK all you think of me OK hi i would like a dressy well represented a dress cuatro por K that we're going to fill in period right now don't test some of those tallahassee yeah necesita trish or dennis a necesita kamus last time you said it didn't matter hello i'm confirming we can add one more thing learn this",
+      "maskedITN": "when is long hawaii grace you got it right the party last night harvey and i think they will order literally just added studies at walmart yummy yummy going on this morning no it's kissing no one second hello antonio broke into neautral emily timo alright the middle what else do you see lego stonebrae miss tomorrow night of forgetting is here in milwaukee done to you download secret nosey waddles therapist ok all you think of me ok hi i would like a dressy well represented a dress cuatro por k that we're going to fill in period right now don't test some of those tallahassee yeah necesita trish or dennis a necesita kamus last time you said it didn't matter hello i'm confirming we can add one more thing learn this",
+      "display": "When is long. Hawaii. Grace. You got it right. The party last night Harvey and I think they will order. Literally just added studies at Walmart. Yummy yummy. Going on this morning. No, it's kissing. No one second. Hello Antonio, broke into neautral Emily Timo. Alright. The middle. What else do you see? Lego Stonebrae miss. Tomorrow night of forgetting is. Here in Milwaukee. Done to you. Download. Secret nosey waddles. Therapist OK, all you think of me OK? Hi I would like a dressy. Well represented a dress cuatro por K. That we're going to fill in. Right now. Don't test. Some of those Tallahassee, yeah? Necesita Trish or Dennis. A necesita kamus. Last time you said it didn't matter. Hello, I'm confirming. We can add one more thing. Learn this."
+    }
+  ],
+  "recognizedPhrases": [
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT0.3S",
+      "duration": "PT0.93S",
+      "offsetInTicks": 3000000.0,
+      "durationInTicks": 9300000.0,
+      "nBest": [
+        {
+          "confidence": 0.9528712,
+          "lexical": "when is long",
+          "itn": "when is long",
+          "maskedITN": "when is long",
+          "display": "When is long."
+        },
+        {
+          "confidence": 0.94767195,
+          "lexical": "what is long",
+          "itn": "what is long",
+          "maskedITN": "what is long",
+          "display": "what is long"
+        },
+        {
+          "confidence": 0.9609808,
+          "lexical": "what is wrong",
+          "itn": "what is wrong",
+          "maskedITN": "what is wrong",
+          "display": "what is wrong"
+        },
+        {
+          "confidence": 0.9348742,
+          "lexical": "what is long term",
+          "itn": "what is long term",
+          "maskedITN": "what is long term",
+          "display": "what is long term"
+        },
+        {
+          "confidence": 0.93545896,
+          "lexical": "what is love",
+          "itn": "what is love",
+          "maskedITN": "what is love",
+          "display": "what is love"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT2.8S",
+      "duration": "PT4.11S",
+      "offsetInTicks": 28000000.0,
+      "durationInTicks": 41100000.0,
+      "nBest": [
+        {
+          "confidence": 0.0,
+          "lexical": "",
+          "itn": "",
+          "maskedITN": "",
+          "display": ""
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT8.91S",
+      "duration": "PT11.22S",
+      "offsetInTicks": 89100000.0,
+      "durationInTicks": 112200000.0,
+      "nBest": [
+        {
+          "confidence": 0.0,
+          "lexical": "",
+          "itn": "",
+          "maskedITN": "",
+          "display": ""
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT22.37S",
+      "duration": "PT10.88S",
+      "offsetInTicks": 223700000.0,
+      "durationInTicks": 108800000.0,
+      "nBest": [
+        {
+          "confidence": 0.0,
+          "lexical": "",
+          "itn": "",
+          "maskedITN": "",
+          "display": ""
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT38.61S",
+      "duration": "PT4.96S",
+      "offsetInTicks": 386100000.0,
+      "durationInTicks": 49600000.0,
+      "nBest": [
+        {
+          "confidence": 0.0,
+          "lexical": "",
+          "itn": "",
+          "maskedITN": "",
+          "display": ""
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT45.24S",
+      "duration": "PT15.98S",
+      "offsetInTicks": 452400000.0,
+      "durationInTicks": 159800000.0,
+      "nBest": [
+        {
+          "confidence": 0.0,
+          "lexical": "",
+          "itn": "",
+          "maskedITN": "",
+          "display": ""
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT1M2.93S",
+      "duration": "PT1.97S",
+      "offsetInTicks": 629300000.0,
+      "durationInTicks": 19700000.0,
+      "nBest": [
+        {
+          "confidence": 0.96256375,
+          "lexical": "hawaii",
+          "itn": "hawaii",
+          "maskedITN": "hawaii",
+          "display": "Hawaii."
+        },
+        {
+          "confidence": 0.94850695,
+          "lexical": "sorry for awhile",
+          "itn": "sorry for awhile",
+          "maskedITN": "sorry for awhile",
+          "display": "sorry for awhile"
+        },
+        {
+          "confidence": 0.9561105,
+          "lexical": "parts for awhile",
+          "itn": "parts for awhile",
+          "maskedITN": "parts for awhile",
+          "display": "parts for awhile"
+        },
+        {
+          "confidence": 0.9011371,
+          "lexical": "worldwide",
+          "itn": "worldwide",
+          "maskedITN": "worldwide",
+          "display": "worldwide"
+        },
+        {
+          "confidence": 0.9597746,
+          "lexical": "parts for a while",
+          "itn": "parts for a while",
+          "maskedITN": "parts for a while",
+          "display": "parts for a while"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT1M6.44S",
+      "duration": "PT0.65S",
+      "offsetInTicks": 664400000.0,
+      "durationInTicks": 6500000.0,
+      "nBest": [
+        {
+          "confidence": 0.98708665,
+          "lexical": "grace",
+          "itn": "grace",
+          "maskedITN": "grace",
+          "display": "Grace."
+        },
+        {
+          "confidence": 0.98091304,
+          "lexical": "dress",
+          "itn": "dress",
+          "maskedITN": "dress",
+          "display": "dress"
+        },
+        {
+          "confidence": 0.970558,
+          "lexical": "brace",
+          "itn": "brace",
+          "maskedITN": "brace",
+          "display": "brace"
+        },
+        {
+          "confidence": 0.96207505,
+          "lexical": "trace",
+          "itn": "trace",
+          "maskedITN": "trace",
+          "display": "trace"
+        },
+        {
+          "confidence": 0.96094,
+          "lexical": "greece",
+          "itn": "greece",
+          "maskedITN": "greece",
+          "display": "greece"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT1M9.26S",
+      "duration": "PT0.75S",
+      "offsetInTicks": 692600000.0,
+      "durationInTicks": 7500000.0,
+      "nBest": [
+        {
+          "confidence": 0.98488295,
+          "lexical": "you got it right",
+          "itn": "you got it right",
+          "maskedITN": "you got it right",
+          "display": "You got it right."
+        },
+        {
+          "confidence": 0.9842543,
+          "lexical": "no you got it right",
+          "itn": "no you got it right",
+          "maskedITN": "no you got it right",
+          "display": "no you got it right"
+        },
+        {
+          "confidence": 0.9848649,
+          "lexical": "you got it right here",
+          "itn": "you got it right here",
+          "maskedITN": "you got it right here",
+          "display": "you got it right here"
+        },
+        {
+          "confidence": 0.9828394,
+          "lexical": "oh you got it right",
+          "itn": "oh you got it right",
+          "maskedITN": "oh you got it right",
+          "display": "oh you got it right"
+        },
+        {
+          "confidence": 0.98439777,
+          "lexical": "so you got it right",
+          "itn": "so you got it right",
+          "maskedITN": "so you got it right",
+          "display": "so you got it right"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT1M11.34S",
+      "duration": "PT3.26S",
+      "offsetInTicks": 713400000.0,
+      "durationInTicks": 32600000.0,
+      "nBest": [
+        {
+          "confidence": 0.94718933,
+          "lexical": "the party last night harvey and i think they will order",
+          "itn": "the party last night harvey and i think they will order",
+          "maskedITN": "the party last night harvey and i think they will order",
+          "display": "The party last night Harvey and I think they will order."
+        },
+        {
+          "confidence": 0.94600654,
+          "lexical": "the party last night harvey and i think they will",
+          "itn": "the party last night harvey and i think they will",
+          "maskedITN": "the party last night harvey and i think they will",
+          "display": "the party last night harvey and i think they will"
+        },
+        {
+          "confidence": 0.9405372,
+          "lexical": "apart from my hobbies and i think they ordered",
+          "itn": "apart from my hobbies and i think they ordered",
+          "maskedITN": "apart from my hobbies and i think they ordered",
+          "display": "apart from my hobbies and i think they ordered"
+        },
+        {
+          "confidence": 0.94966865,
+          "lexical": "the party last night harvey and i think they ordered",
+          "itn": "the party last night harvey and i think they ordered",
+          "maskedITN": "the party last night harvey and i think they ordered",
+          "display": "the party last night harvey and i think they ordered"
+        },
+        {
+          "confidence": 0.94270414,
+          "lexical": "apart from my hobby and i think they ordered",
+          "itn": "apart from my hobby and i think they ordered",
+          "maskedITN": "apart from my hobby and i think they ordered",
+          "display": "apart from my hobby and i think they ordered"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT1M16.2S",
+      "duration": "PT3.13S",
+      "offsetInTicks": 762000000.0,
+      "durationInTicks": 31300000.0,
+      "nBest": [
+        {
+          "confidence": 0.96776134,
+          "lexical": "literally just added studies at walmart",
+          "itn": "literally just added studies at walmart",
+          "maskedITN": "literally just added studies at walmart",
+          "display": "Literally just added studies at Walmart."
+        },
+        {
+          "confidence": 0.962917,
+          "lexical": "literally this saturday at walmart",
+          "itn": "literally this saturday at walmart",
+          "maskedITN": "literally this saturday at walmart",
+          "display": "literally this saturday at walmart"
+        },
+        {
+          "confidence": 0.97048676,
+          "lexical": "literally this saturday is working hard for you",
+          "itn": "literally this saturday is working hard for you",
+          "maskedITN": "literally this saturday is working hard for you",
+          "display": "literally this saturday is working hard for you"
+        },
+        {
+          "confidence": 0.9700322,
+          "lexical": "literally this saturday is working hard",
+          "itn": "literally this saturday is working hard",
+          "maskedITN": "literally this saturday is working hard",
+          "display": "literally this saturday is working hard"
+        },
+        {
+          "confidence": 0.9738874,
+          "lexical": "literally just added this study is working hard for you",
+          "itn": "literally just added this study is working hard for you",
+          "maskedITN": "literally just added this study is working hard for you",
+          "display": "literally just added this study is working hard for you"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT1M20.88S",
+      "duration": "PT0.69S",
+      "offsetInTicks": 808800000.0,
+      "durationInTicks": 6900000.0,
+      "nBest": [
+        {
+          "confidence": 0.8806605,
+          "lexical": "yummy yummy",
+          "itn": "yummy yummy",
+          "maskedITN": "yummy yummy",
+          "display": "Yummy yummy."
+        },
+        {
+          "confidence": 0.8903686,
+          "lexical": "yummy yummy song",
+          "itn": "yummy yummy song",
+          "maskedITN": "yummy yummy song",
+          "display": "yummy yummy song"
+        },
+        {
+          "confidence": 0.891455,
+          "lexical": "yummy yummy yummy",
+          "itn": "yummy yummy yummy",
+          "maskedITN": "yummy yummy yummy",
+          "display": "yummy yummy yummy"
+        },
+        {
+          "confidence": 0.82577777,
+          "lexical": "yummy yummy smore",
+          "itn": "yummy yummy smore",
+          "maskedITN": "yummy yummy smore",
+          "display": "yummy yummy smore"
+        },
+        {
+          "confidence": 0.8686239,
+          "lexical": "yummy yummy smore still",
+          "itn": "yummy yummy smore still",
+          "maskedITN": "yummy yummy smore still",
+          "display": "yummy yummy smore still"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT1M23.34S",
+      "duration": "PT0.83S",
+      "offsetInTicks": 833400000.0,
+      "durationInTicks": 8300000.0,
+      "nBest": [
+        {
+          "confidence": 0.9786389,
+          "lexical": "going on this morning",
+          "itn": "going on this morning",
+          "maskedITN": "going on this morning",
+          "display": "Going on this morning."
+        },
+        {
+          "confidence": 0.9819776,
+          "lexical": "going on this month",
+          "itn": "going on this month",
+          "maskedITN": "going on this month",
+          "display": "going on this month"
+        },
+        {
+          "confidence": 0.98121446,
+          "lexical": "going on this morning thank you",
+          "itn": "going on this morning thank you",
+          "maskedITN": "going on this morning thank you",
+          "display": "going on this morning thank you"
+        },
+        {
+          "confidence": 0.9782443,
+          "lexical": "on this morning",
+          "itn": "on this morning",
+          "maskedITN": "on this morning",
+          "display": "on this morning"
+        },
+        {
+          "confidence": 0.9770451,
+          "lexical": "online this morning",
+          "itn": "online this morning",
+          "maskedITN": "online this morning",
+          "display": "online this morning"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT1M25.78S",
+      "duration": "PT9.54S",
+      "offsetInTicks": 857800000.0,
+      "durationInTicks": 95400000.0,
+      "nBest": [
+        {
+          "confidence": 0.0,
+          "lexical": "",
+          "itn": "",
+          "maskedITN": "",
+          "display": ""
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT1M37.52S",
+      "duration": "PT1.28S",
+      "offsetInTicks": 975200000.0,
+      "durationInTicks": 12800000.0,
+      "nBest": [
+        {
+          "confidence": 0.9268852,
+          "lexical": "no it's kissing",
+          "itn": "no it's kissing",
+          "maskedITN": "no it's kissing",
+          "display": "No, it's kissing."
+        },
+        {
+          "confidence": 0.9484557,
+          "lexical": "no it's christian",
+          "itn": "no it's christian",
+          "maskedITN": "no it's christian",
+          "display": "no it's christian"
+        },
+        {
+          "confidence": 0.92414534,
+          "lexical": "no it's kiss you",
+          "itn": "no it's kiss you",
+          "maskedITN": "no it's kiss you",
+          "display": "no it's kiss you"
+        },
+        {
+          "confidence": 0.9210248,
+          "lexical": "no it's kacian",
+          "itn": "no it's kacian",
+          "maskedITN": "no it's kacian",
+          "display": "no it's kacian"
+        },
+        {
+          "confidence": 0.95096457,
+          "lexical": "no it's crazy",
+          "itn": "no it's crazy",
+          "maskedITN": "no it's crazy",
+          "display": "no it's crazy"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT1M40.3S",
+      "duration": "PT2.82S",
+      "offsetInTicks": 1003000000.0,
+      "durationInTicks": 28200000.0,
+      "nBest": [
+        {
+          "confidence": 0.8032117,
+          "lexical": "no one second",
+          "itn": "no one second",
+          "maskedITN": "no one second",
+          "display": "No one second."
+        },
+        {
+          "confidence": 0.810867,
+          "lexical": "no one seconds",
+          "itn": "no one seconds",
+          "maskedITN": "no one seconds",
+          "display": "no one seconds"
+        },
+        {
+          "confidence": 0.80006075,
+          "lexical": "no one second i",
+          "itn": "no one second i",
+          "maskedITN": "no one second i",
+          "display": "no one second i"
+        },
+        {
+          "confidence": 0.78884983,
+          "lexical": "no one second here",
+          "itn": "no one second here",
+          "maskedITN": "no one second here",
+          "display": "no one second here"
+        },
+        {
+          "confidence": 0.81133485,
+          "lexical": "no one second please",
+          "itn": "no one second please",
+          "maskedITN": "no one second please",
+          "display": "no one second please"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT1M43.45S",
+      "duration": "PT3.17S",
+      "offsetInTicks": 1034500000.0,
+      "durationInTicks": 31700000.0,
+      "nBest": [
+        {
+          "confidence": 0.5419557,
+          "lexical": "hello antonio broke into neautral emily timo",
+          "itn": "hello antonio broke into neautral emily timo",
+          "maskedITN": "hello antonio broke into neautral emily timo",
+          "display": "Hello Antonio, broke into neautral Emily Timo."
+        },
+        {
+          "confidence": 0.6097765,
+          "lexical": "hello antonio broke into neautral emily",
+          "itn": "hello antonio broke into neautral emily",
+          "maskedITN": "hello antonio broke into neautral emily",
+          "display": "hello antonio broke into neautral emily"
+        },
+        {
+          "confidence": 0.59485877,
+          "lexical": "hello antonio broke into neautral emily team",
+          "itn": "hello antonio broke into neautral emily team",
+          "maskedITN": "hello antonio broke into neautral emily team",
+          "display": "hello antonio broke into neautral emily team"
+        },
+        {
+          "confidence": 0.58170253,
+          "lexical": "hello antonio broke into neautral emily theme",
+          "itn": "hello antonio broke into neautral emily theme",
+          "maskedITN": "hello antonio broke into neautral emily theme",
+          "display": "hello antonio broke into neautral emily theme"
+        },
+        {
+          "confidence": 0.5408657,
+          "lexical": "hello antonio broke into neautral emily tivo",
+          "itn": "hello antonio broke into neautral emily tivo",
+          "maskedITN": "hello antonio broke into neautral emily tivo",
+          "display": "hello antonio broke into neautral emily tivo"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT1M48.14S",
+      "duration": "PT0.69S",
+      "offsetInTicks": 1081400000.0,
+      "durationInTicks": 6900000.0,
+      "nBest": [
+        {
+          "confidence": 0.98695433,
+          "lexical": "alright",
+          "itn": "alright",
+          "maskedITN": "alright",
+          "display": "Alright."
+        },
+        {
+          "confidence": 0.9795885,
+          "lexical": "all right",
+          "itn": "all right",
+          "maskedITN": "all right",
+          "display": "all right"
+        },
+        {
+          "confidence": 0.98101014,
+          "lexical": "alright i love you",
+          "itn": "alright i love you",
+          "maskedITN": "alright i love you",
+          "display": "alright i love you"
+        },
+        {
+          "confidence": 0.98072755,
+          "lexical": "alright and then we",
+          "itn": "alright and then we",
+          "maskedITN": "alright and then we",
+          "display": "alright and then we"
+        },
+        {
+          "confidence": 0.978188,
+          "lexical": "alright thank you",
+          "itn": "alright thank you",
+          "maskedITN": "alright thank you",
+          "display": "alright thank you"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT1M50.51S",
+      "duration": "PT0.45S",
+      "offsetInTicks": 1105100000.0,
+      "durationInTicks": 4500000.0,
+      "nBest": [
+        {
+          "confidence": 0.989869,
+          "lexical": "the middle",
+          "itn": "the middle",
+          "maskedITN": "the middle",
+          "display": "The middle."
+        },
+        {
+          "confidence": 0.98752815,
+          "lexical": "the middle east",
+          "itn": "the middle east",
+          "maskedITN": "the middle east",
+          "display": "the middle east"
+        },
+        {
+          "confidence": 0.98215353,
+          "lexical": "the middle school",
+          "itn": "the middle school",
+          "maskedITN": "the middle school",
+          "display": "the middle school"
+        },
+        {
+          "confidence": 0.9879883,
+          "lexical": "the middle tier",
+          "itn": "the middle tier",
+          "maskedITN": "the middle tier",
+          "display": "the middle tier"
+        },
+        {
+          "confidence": 0.9731703,
+          "lexical": "the middle school team",
+          "itn": "the middle school team",
+          "maskedITN": "the middle school team",
+          "display": "the middle school team"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT1M52.45S",
+      "duration": "PT1.47S",
+      "offsetInTicks": 1124500000.0,
+      "durationInTicks": 14700000.0,
+      "nBest": [
+        {
+          "confidence": 0.9784374,
+          "lexical": "what else do you see",
+          "itn": "what else do you see",
+          "maskedITN": "what else do you see",
+          "display": "What else do you see?"
+        },
+        {
+          "confidence": 0.94442105,
+          "lexical": "hotels and resorts in kc",
+          "itn": "hotels and resorts in kc",
+          "maskedITN": "hotels and resorts in kc",
+          "display": "hotels and resorts in KC"
+        },
+        {
+          "confidence": 0.9552565,
+          "lexical": "hotels and also kissy",
+          "itn": "hotels and also kissy",
+          "maskedITN": "hotels and also kissy",
+          "display": "hotels and also kissy"
+        },
+        {
+          "confidence": 0.9761914,
+          "lexical": "hotels and also pc",
+          "itn": "hotels and also pc",
+          "maskedITN": "hotels and also pc",
+          "display": "hotels and also PC"
+        },
+        {
+          "confidence": 0.97546005,
+          "lexical": "what else you got",
+          "itn": "what else you got",
+          "maskedITN": "what else you got",
+          "display": "what else you got"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT1M56.14S",
+      "duration": "PT1.31S",
+      "offsetInTicks": 1161400000.0,
+      "durationInTicks": 13100000.0,
+      "nBest": [
+        {
+          "confidence": 0.68317133,
+          "lexical": "LEGO stonebrae miss",
+          "itn": "LEGO stonebrae miss",
+          "maskedITN": "lego stonebrae miss",
+          "display": "Lego Stonebrae miss."
+        },
+        {
+          "confidence": 0.65672225,
+          "lexical": "lego stonebrae miss",
+          "itn": "lego stonebrae miss",
+          "maskedITN": "lego stonebrae miss",
+          "display": "lego stonebrae miss"
+        },
+        {
+          "confidence": 0.6849727,
+          "lexical": "lego stonebrae missed",
+          "itn": "lego stonebrae missed",
+          "maskedITN": "lego stonebrae missed",
+          "display": "LEGO stonebrae missed"
+        },
+        {
+          "confidence": 0.50276977,
+          "lexical": "laguna miss",
+          "itn": "laguna miss",
+          "maskedITN": "laguna miss",
+          "display": "laguna miss"
+        },
+        {
+          "confidence": 0.6776131,
+          "lexical": "lego tsunami",
+          "itn": "lego tsunami",
+          "maskedITN": "lego tsunami",
+          "display": "LEGO tsunami"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT1M58.99S",
+      "duration": "PT2.31S",
+      "offsetInTicks": 1189900000.0,
+      "durationInTicks": 23100000.0,
+      "nBest": [
+        {
+          "confidence": 0.9146568,
+          "lexical": "tomorrow night of forgetting is",
+          "itn": "tomorrow night of forgetting is",
+          "maskedITN": "tomorrow night of forgetting is",
+          "display": "Tomorrow night of forgetting is."
+        },
+        {
+          "confidence": 0.88147146,
+          "lexical": "tomorrow night all forget it is",
+          "itn": "tomorrow night all forget it is",
+          "maskedITN": "tomorrow night all forget it is",
+          "display": "tomorrow night all forget it is"
+        },
+        {
+          "confidence": 0.90037787,
+          "lexical": "somewhere over that all forget it is",
+          "itn": "somewhere over that all forget it is",
+          "maskedITN": "somewhere over that all forget it is",
+          "display": "somewhere over that all forget it is"
+        },
+        {
+          "confidence": 0.8828433,
+          "lexical": "somewhere over that up forget it is",
+          "itn": "somewhere over that up forget it is",
+          "maskedITN": "somewhere over that up forget it is",
+          "display": "somewhere over that up forget it is"
+        },
+        {
+          "confidence": 0.9335284,
+          "lexical": "somewhere over at all forget it is",
+          "itn": "somewhere over at all forget it is",
+          "maskedITN": "somewhere over at all forget it is",
+          "display": "somewhere over at all forget it is"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT2M2.77S",
+      "duration": "PT1.25S",
+      "offsetInTicks": 1227700000.0,
+      "durationInTicks": 12500000.0,
+      "nBest": [
+        {
+          "confidence": 0.09894434,
+          "lexical": "here in milwaukee",
+          "itn": "here in milwaukee",
+          "maskedITN": "here in milwaukee",
+          "display": "Here in Milwaukee."
+        },
+        {
+          "confidence": 0.3415041,
+          "lexical": "here in milwaukee wisconsin",
+          "itn": "here in milwaukee wisconsin",
+          "maskedITN": "here in milwaukee wisconsin",
+          "display": "here in milwaukee wisconsin"
+        },
+        {
+          "confidence": 0.24212195,
+          "lexical": "here in milwaukee master",
+          "itn": "here in milwaukee master",
+          "maskedITN": "here in milwaukee master",
+          "display": "here in milwaukee master"
+        },
+        {
+          "confidence": 0.2832626,
+          "lexical": "here in milwaukee monsters",
+          "itn": "here in milwaukee monsters",
+          "maskedITN": "here in milwaukee monsters",
+          "display": "here in milwaukee monsters"
+        },
+        {
+          "confidence": 0.27200967,
+          "lexical": "here in milwaukee mustangs",
+          "itn": "here in milwaukee mustangs",
+          "maskedITN": "here in milwaukee mustangs",
+          "display": "here in milwaukee mustangs"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT2M6.03S",
+      "duration": "PT2.07S",
+      "offsetInTicks": 1260300000.0,
+      "durationInTicks": 20700000.0,
+      "nBest": [
+        {
+          "confidence": 0.45544043,
+          "lexical": "done to you",
+          "itn": "done to you",
+          "maskedITN": "done to you",
+          "display": "Done to you."
+        },
+        {
+          "confidence": 0.80619395,
+          "lexical": "phantom",
+          "itn": "phantom",
+          "maskedITN": "phantom",
+          "display": "phantom"
+        },
+        {
+          "confidence": 0.7057159,
+          "lexical": "bantam",
+          "itn": "bantam",
+          "maskedITN": "bantam",
+          "display": "bantam"
+        },
+        {
+          "confidence": 0.53145576,
+          "lexical": "bantu",
+          "itn": "bantu",
+          "maskedITN": "bantu",
+          "display": "bantu"
+        },
+        {
+          "confidence": 0.6986903,
+          "lexical": "pantone",
+          "itn": "pantone",
+          "maskedITN": "pantone",
+          "display": "pantone"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT2M10.63S",
+      "duration": "PT0.45S",
+      "offsetInTicks": 1306300000.0,
+      "durationInTicks": 4500000.0,
+      "nBest": [
+        {
+          "confidence": 0.6678928,
+          "lexical": "download",
+          "itn": "download",
+          "maskedITN": "download",
+          "display": "Download."
+        },
+        {
+          "confidence": 0.54860014,
+          "lexical": "oh yes agreed and look",
+          "itn": "oh yes agreed and look",
+          "maskedITN": "oh yes agreed and look",
+          "display": "oh yes agreed and look"
+        },
+        {
+          "confidence": 0.55026,
+          "lexical": "yeah yes agreed and look",
+          "itn": "yeah yes agreed and look",
+          "maskedITN": "yeah yes agreed and look",
+          "display": "yeah yes agreed and look"
+        },
+        {
+          "confidence": 0.5324099,
+          "lexical": "yeah yeah cigarette and look",
+          "itn": "yeah yeah cigarette and look",
+          "maskedITN": "yeah yeah cigarette and look",
+          "display": "yeah yeah cigarette and look"
+        },
+        {
+          "confidence": 0.691326,
+          "lexical": "yeah yeah",
+          "itn": "yeah yeah",
+          "maskedITN": "yeah yeah",
+          "display": "yeah yeah"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT2M12.65S",
+      "duration": "PT1.31S",
+      "offsetInTicks": 1326500000.0,
+      "durationInTicks": 13100000.0,
+      "nBest": [
+        {
+          "confidence": 0.8157405,
+          "lexical": "secret nosey waddles",
+          "itn": "secret nosey waddles",
+          "maskedITN": "secret nosey waddles",
+          "display": "Secret nosey waddles."
+        },
+        {
+          "confidence": 0.8035161,
+          "lexical": "secret nosy waddles",
+          "itn": "secret nosy waddles",
+          "maskedITN": "secret nosy waddles",
+          "display": "secret nosy waddles"
+        },
+        {
+          "confidence": 0.836503,
+          "lexical": "sql nosey weirdos",
+          "itn": "sql nosey weirdos",
+          "maskedITN": "sql nosey weirdos",
+          "display": "SQL nosey weirdos"
+        },
+        {
+          "confidence": 0.8160136,
+          "lexical": "sql nosey waddles",
+          "itn": "sql nosey waddles",
+          "maskedITN": "sql nosey waddles",
+          "display": "SQL nosey waddles"
+        },
+        {
+          "confidence": 0.8022751,
+          "lexical": "sql nosy waddles",
+          "itn": "sql nosy waddles",
+          "maskedITN": "sql nosy waddles",
+          "display": "SQL nosy waddles"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT2M15.38S",
+      "duration": "PT3.47S",
+      "offsetInTicks": 1353800000.0,
+      "durationInTicks": 34700000.0,
+      "nBest": [
+        {
+          "confidence": 0.96138346,
+          "lexical": "therapist OK all you think of me OK",
+          "itn": "therapist OK all you think of me OK",
+          "maskedITN": "therapist ok all you think of me ok",
+          "display": "Therapist OK, all you think of me OK?"
+        },
+        {
+          "confidence": 0.9572528,
+          "lexical": "therapist ok all you could think of me ok",
+          "itn": "therapist ok all you could think of me ok",
+          "maskedITN": "therapist ok all you could think of me ok",
+          "display": "therapist OK all you could think of me OK"
+        },
+        {
+          "confidence": 0.95963204,
+          "lexical": "there appears ok all you could think of me ok",
+          "itn": "there appears ok all you could think of me ok",
+          "maskedITN": "there appears ok all you could think of me ok",
+          "display": "there appears OK all you could think of me OK"
+        },
+        {
+          "confidence": 0.9637901,
+          "lexical": "there appears ok all you think of me ok",
+          "itn": "there appears ok all you think of me ok",
+          "maskedITN": "there appears ok all you think of me ok",
+          "display": "there appears OK all you think of me OK"
+        },
+        {
+          "confidence": 0.9599507,
+          "lexical": "their first ok all you think of me ok",
+          "itn": "their first ok all you think of me ok",
+          "maskedITN": "their first ok all you think of me ok",
+          "display": "their first OK all you think of me OK"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT2M20.2S",
+      "duration": "PT2.37S",
+      "offsetInTicks": 1402000000.0,
+      "durationInTicks": 23700000.0,
+      "nBest": [
+        {
+          "confidence": 0.7108966,
+          "lexical": "hi i would like a dressy",
+          "itn": "hi i would like a dressy",
+          "maskedITN": "hi i would like a dressy",
+          "display": "Hi I would like a dressy."
+        },
+        {
+          "confidence": 0.6942766,
+          "lexical": "i would like a dressy",
+          "itn": "i would like a dressy",
+          "maskedITN": "i would like a dressy",
+          "display": "i would like a dressy"
+        },
+        {
+          "confidence": 0.68356806,
+          "lexical": "i would like a dressing",
+          "itn": "i would like a dressing",
+          "maskedITN": "i would like a dressing",
+          "display": "i would like a dressing"
+        },
+        {
+          "confidence": 0.7015206,
+          "lexical": "hi i would like a dressing",
+          "itn": "hi i would like a dressing",
+          "maskedITN": "hi i would like a dressing",
+          "display": "hi i would like a dressing"
+        },
+        {
+          "confidence": 0.68881285,
+          "lexical": "hi i would like a recipe",
+          "itn": "hi i would like a recipe",
+          "maskedITN": "hi i would like a recipe",
+          "display": "hi i would like a recipe"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT2M24.26S",
+      "duration": "PT5.43S",
+      "offsetInTicks": 1442600000.0,
+      "durationInTicks": 54300000.0,
+      "nBest": [
+        {
+          "confidence": 0.8913589,
+          "lexical": "well represented a dress cuatro por K",
+          "itn": "well represented a dress cuatro por K",
+          "maskedITN": "well represented a dress cuatro por k",
+          "display": "Well represented a dress cuatro por K."
+        },
+        {
+          "confidence": 0.8927616,
+          "lexical": "they all represent that's a dress cuatro por k",
+          "itn": "they all represent that's a dress cuatro por k",
+          "maskedITN": "they all represent that's a dress cuatro por k",
+          "display": "they all represent that's a dress cuatro por K"
+        },
+        {
+          "confidence": 0.89154875,
+          "lexical": "they are represented a dress cuatro por k",
+          "itn": "they are represented a dress cuatro por k",
+          "maskedITN": "they are represented a dress cuatro por k",
+          "display": "they are represented a dress cuatro por K"
+        },
+        {
+          "confidence": 0.8871996,
+          "lexical": "they're represented a dress cuatro por k",
+          "itn": "they're represented a dress cuatro por k",
+          "maskedITN": "they're represented a dress cuatro por k",
+          "display": "they're represented a dress cuatro por K"
+        },
+        {
+          "confidence": 0.89106923,
+          "lexical": "there are represented a dress cuatro por k",
+          "itn": "there are represented a dress cuatro por k",
+          "maskedITN": "there are represented a dress cuatro por k",
+          "display": "there are represented a dress cuatro por K"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT2M31.13S",
+      "duration": "PT2.99S",
+      "offsetInTicks": 1511300000.0,
+      "durationInTicks": 29900000.0,
+      "nBest": [
+        {
+          "confidence": 0.9350562,
+          "lexical": "that we're going to fill in period right now",
+          "itn": "that we're going to fill in period right now",
+          "maskedITN": "that we're going to fill in period right now",
+          "display": "That we're going to fill in. Right now."
+        },
+        {
+          "confidence": 0.9407473,
+          "lexical": "they were going to fill in period right now",
+          "itn": "they were going to fill in period right now",
+          "maskedITN": "they were going to fill in period right now",
+          "display": "they were going to fill in period right now"
+        },
+        {
+          "confidence": 0.9406585,
+          "lexical": "that we're going to currently available now",
+          "itn": "that we're going to currently available now",
+          "maskedITN": "that we're going to currently available now",
+          "display": "that we're going to currently available now"
+        },
+        {
+          "confidence": 0.9456555,
+          "lexical": "that we're going to currently only available now",
+          "itn": "that we're going to currently only available now",
+          "maskedITN": "that we're going to currently only available now",
+          "display": "that we're going to currently only available now"
+        },
+        {
+          "confidence": 0.9461205,
+          "lexical": "they were going to therapy period right now",
+          "itn": "they were going to therapy period right now",
+          "maskedITN": "they were going to therapy period right now",
+          "display": "they were going to therapy period right now"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT2M35.35S",
+      "duration": "PT0.67S",
+      "offsetInTicks": 1553500000.0,
+      "durationInTicks": 6700000.0,
+      "nBest": [
+        {
+          "confidence": 0.9865655,
+          "lexical": "don't test",
+          "itn": "don't test",
+          "maskedITN": "don't test",
+          "display": "Don't test."
+        },
+        {
+          "confidence": 0.98862195,
+          "lexical": "don't ask",
+          "itn": "don't ask",
+          "maskedITN": "don't ask",
+          "display": "don't ask"
+        },
+        {
+          "confidence": 0.9837792,
+          "lexical": "don't list",
+          "itn": "don't list",
+          "maskedITN": "don't list",
+          "display": "don't list"
+        },
+        {
+          "confidence": 0.980342,
+          "lexical": "dauntless",
+          "itn": "dauntless",
+          "maskedITN": "dauntless",
+          "display": "dauntless"
+        },
+        {
+          "confidence": 0.9870436,
+          "lexical": "don't let",
+          "itn": "don't let",
+          "maskedITN": "don't let",
+          "display": "don't let"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT2M37.99S",
+      "duration": "PT2.05S",
+      "offsetInTicks": 1579900000.0,
+      "durationInTicks": 20500000.0,
+      "nBest": [
+        {
+          "confidence": 0.95252186,
+          "lexical": "some of those tallahassee yeah",
+          "itn": "some of those tallahassee yeah",
+          "maskedITN": "some of those tallahassee yeah",
+          "display": "Some of those Tallahassee, yeah?"
+        },
+        {
+          "confidence": 0.9602229,
+          "lexical": "some of those tallahassee",
+          "itn": "some of those tallahassee",
+          "maskedITN": "some of those tallahassee",
+          "display": "some of those tallahassee"
+        },
+        {
+          "confidence": 0.95082974,
+          "lexical": "some of those tallahassee yet",
+          "itn": "some of those tallahassee yet",
+          "maskedITN": "some of those tallahassee yet",
+          "display": "some of those tallahassee yet"
+        },
+        {
+          "confidence": 0.95075595,
+          "lexical": "some of those tallahassee yes",
+          "itn": "some of those tallahassee yes",
+          "maskedITN": "some of those tallahassee yes",
+          "display": "some of those tallahassee yes"
+        },
+        {
+          "confidence": 0.9705644,
+          "lexical": "it's almost perfectly happy yeah",
+          "itn": "it's almost perfectly happy yeah",
+          "maskedITN": "it's almost perfectly happy yeah",
+          "display": "it's almost perfectly happy yeah"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT2M44.55S",
+      "duration": "PT2.71S",
+      "offsetInTicks": 1645500000.0,
+      "durationInTicks": 27100000.0,
+      "nBest": [
+        {
+          "confidence": 0.8258197,
+          "lexical": "necesita trish or dennis",
+          "itn": "necesita trish or dennis",
+          "maskedITN": "necesita trish or dennis",
+          "display": "Necesita Trish or Dennis."
+        },
+        {
+          "confidence": 0.83020705,
+          "lexical": "necesita trish or dinner",
+          "itn": "necesita trish or dinner",
+          "maskedITN": "necesita trish or dinner",
+          "display": "necesita trish or dinner"
+        },
+        {
+          "confidence": 0.8720527,
+          "lexical": "necesita trish ordinance",
+          "itn": "necesita trish ordinance",
+          "maskedITN": "necesita trish ordinance",
+          "display": "necesita trish ordinance"
+        },
+        {
+          "confidence": 0.8821454,
+          "lexical": "necesita trash ordinance",
+          "itn": "necesita trash ordinance",
+          "maskedITN": "necesita trash ordinance",
+          "display": "necesita trash ordinance"
+        },
+        {
+          "confidence": 0.88706136,
+          "lexical": "necesito trash ordinance",
+          "itn": "necesito trash ordinance",
+          "maskedITN": "necesito trash ordinance",
+          "display": "necesito trash ordinance"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT2M49.08S",
+      "duration": "PT2.66S",
+      "offsetInTicks": 1690800000.0,
+      "durationInTicks": 26600000.0,
+      "nBest": [
+        {
+          "confidence": 0.6061946,
+          "lexical": "a necesita kamus",
+          "itn": "a necesita kamus",
+          "maskedITN": "a necesita kamus",
+          "display": "A necesita kamus."
+        },
+        {
+          "confidence": 0.6042041,
+          "lexical": "uh necesita kamus",
+          "itn": "uh necesita kamus",
+          "maskedITN": "uh necesita kamus",
+          "display": "uh necesita kamus"
+        },
+        {
+          "confidence": 0.60318923,
+          "lexical": "a message to kim 's",
+          "itn": "a message to kim 's",
+          "maskedITN": "a message to kim 's",
+          "display": "a message to kim 's"
+        },
+        {
+          "confidence": 0.6252429,
+          "lexical": "a necesita came out",
+          "itn": "a necesita came out",
+          "maskedITN": "a necesita came out",
+          "display": "a necesita came out"
+        },
+        {
+          "confidence": 0.62316114,
+          "lexical": "uh necesita came out",
+          "itn": "uh necesita came out",
+          "maskedITN": "uh necesita came out",
+          "display": "uh necesita came out"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT2M53.25S",
+      "duration": "PT16.42S",
+      "offsetInTicks": 1732500000.0,
+      "durationInTicks": 164200000.0,
+      "nBest": [
+        {
+          "confidence": 0.0,
+          "lexical": "",
+          "itn": "",
+          "maskedITN": "",
+          "display": ""
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT3M13.9S",
+      "duration": "PT3.77S",
+      "offsetInTicks": 1939000000.0,
+      "durationInTicks": 37700000.0,
+      "nBest": [
+        {
+          "confidence": 0.91935265,
+          "lexical": "last time you said it didn't matter",
+          "itn": "last time you said it didn't matter",
+          "maskedITN": "last time you said it didn't matter",
+          "display": "Last time you said it didn't matter."
+        },
+        {
+          "confidence": 0.89977443,
+          "lexical": "last time we checked it didn't matter",
+          "itn": "last time we checked it didn't matter",
+          "maskedITN": "last time we checked it didn't matter",
+          "display": "last time we checked it didn't matter"
+        },
+        {
+          "confidence": 0.9174888,
+          "lexical": "last night we took you and it didn't matter",
+          "itn": "last night we took you and it didn't matter",
+          "maskedITN": "last night we took you and it didn't matter",
+          "display": "last night we took you and it didn't matter"
+        },
+        {
+          "confidence": 0.90900487,
+          "lexical": "last night we took it didn't matter",
+          "itn": "last night we took it didn't matter",
+          "maskedITN": "last night we took it didn't matter",
+          "display": "last night we took it didn't matter"
+        },
+        {
+          "confidence": 0.97072804,
+          "lexical": "last time you and it didn't matter",
+          "itn": "last time you and it didn't matter",
+          "maskedITN": "last time you and it didn't matter",
+          "display": "last time you and it didn't matter"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT3M19.13S",
+      "duration": "PT1.55S",
+      "offsetInTicks": 1991300000.0,
+      "durationInTicks": 15500000.0,
+      "nBest": [
+        {
+          "confidence": 0.9797407,
+          "lexical": "hello i'm confirming",
+          "itn": "hello i'm confirming",
+          "maskedITN": "hello i'm confirming",
+          "display": "Hello, I'm confirming."
+        },
+        {
+          "confidence": 0.97086245,
+          "lexical": "hello i'm confident",
+          "itn": "hello i'm confident",
+          "maskedITN": "hello i'm confident",
+          "display": "hello i'm confident"
+        },
+        {
+          "confidence": 0.968687,
+          "lexical": "hello i'm constantly",
+          "itn": "hello i'm constantly",
+          "maskedITN": "hello i'm constantly",
+          "display": "hello i'm constantly"
+        },
+        {
+          "confidence": 0.9724291,
+          "lexical": "hello i'm concerned",
+          "itn": "hello i'm concerned",
+          "maskedITN": "hello i'm concerned",
+          "display": "hello i'm concerned"
+        },
+        {
+          "confidence": 0.9713257,
+          "lexical": "hello i'm come from",
+          "itn": "hello i'm come from",
+          "maskedITN": "hello i'm come from",
+          "display": "hello i'm come from"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT3M22.37S",
+      "duration": "PT2.61S",
+      "offsetInTicks": 2023700000.0,
+      "durationInTicks": 26100000.0,
+      "nBest": [
+        {
+          "confidence": 0.9827931,
+          "lexical": "we can add one more thing",
+          "itn": "we can add one more thing",
+          "maskedITN": "we can add one more thing",
+          "display": "We can add one more thing."
+        },
+        {
+          "confidence": 0.97575265,
+          "lexical": "we can add one more seat",
+          "itn": "we can add one more seat",
+          "maskedITN": "we can add one more seat",
+          "display": "we can add one more seat"
+        },
+        {
+          "confidence": 0.97184545,
+          "lexical": "we can add one more important thing",
+          "itn": "we can add one more important thing",
+          "maskedITN": "we can add one more important thing",
+          "display": "we can add one more important thing"
+        },
+        {
+          "confidence": 0.96990913,
+          "lexical": "we can add one more important",
+          "itn": "we can add one more important",
+          "maskedITN": "we can add one more important",
+          "display": "we can add one more important"
+        },
+        {
+          "confidence": 0.9732251,
+          "lexical": "we can add one more important because",
+          "itn": "we can add one more important because",
+          "maskedITN": "we can add one more important because",
+          "display": "we can add one more important because"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT3M26.65S",
+      "duration": "PT0.83S",
+      "offsetInTicks": 2066500000.0,
+      "durationInTicks": 8300000.0,
+      "nBest": [
+        {
+          "confidence": 0.9672917,
+          "lexical": "learn this",
+          "itn": "learn this",
+          "maskedITN": "learn this",
+          "display": "Learn this."
+        },
+        {
+          "confidence": 0.9830415,
+          "lexical": "lenders",
+          "itn": "lenders",
+          "maskedITN": "lenders",
+          "display": "lenders"
+        },
+        {
+          "confidence": 0.98783433,
+          "lexical": "lettuce",
+          "itn": "lettuce",
+          "maskedITN": "lettuce",
+          "display": "lettuce"
+        },
+        {
+          "confidence": 0.976442,
+          "lexical": "and then this",
+          "itn": "and then this",
+          "maskedITN": "and then this",
+          "display": "and then this"
+        },
+        {
+          "confidence": 0.9812311,
+          "lexical": "let this",
+          "itn": "let this",
+          "maskedITN": "let this",
+          "display": "let this"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT3M28.92S",
+      "duration": "PT1.08S",
+      "offsetInTicks": 2089200000.0,
+      "durationInTicks": 10800000.0,
+      "nBest": [
+        {
+          "confidence": 0.0,
+          "lexical": "",
+          "itn": "",
+          "maskedITN": "",
+          "display": ""
+        },
+        {
+          "confidence": 0.98115224,
+          "lexical": "no",
+          "itn": "no",
+          "maskedITN": "no",
+          "display": "no"
+        },
+        {
+          "confidence": 0.9787325,
+          "lexical": "yeah",
+          "itn": "yeah",
+          "maskedITN": "yeah",
+          "display": "yeah"
+        },
+        {
+          "confidence": 0.9749496,
+          "lexical": "right",
+          "itn": "right",
+          "maskedITN": "right",
+          "display": "right"
+        },
+        {
+          "confidence": 0.9836482,
+          "lexical": "hello",
+          "itn": "hello",
+          "maskedITN": "hello",
+          "display": "hello"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1388 @@
+07/22/2021 04:34:47 PM CDT Starting transcription client...
+07/22/2021 04:34:47 PM CDT Created new transcription with id '3697bb89-d066-4523-a05e-a46af34c13c3' in region southcentralus
+07/22/2021 04:34:47 PM CDT Checking status.
+07/22/2021 04:34:52 PM CDT Transcriptions status: Running
+07/22/2021 04:34:57 PM CDT Transcriptions status: Running
+07/22/2021 04:35:02 PM CDT Transcriptions status: Running
+07/22/2021 04:35:07 PM CDT Transcriptions status: Running
+07/22/2021 04:35:12 PM CDT Transcriptions status: Running
+07/22/2021 04:35:17 PM CDT Transcriptions status: Running
+07/22/2021 04:35:22 PM CDT Transcriptions status: Running
+07/22/2021 04:35:27 PM CDT Transcriptions status: Running
+07/22/2021 04:35:32 PM CDT Transcriptions status: Running
+07/22/2021 04:35:38 PM CDT Transcriptions status: Running
+07/22/2021 04:35:43 PM CDT Transcriptions status: Running
+07/22/2021 04:35:48 PM CDT Transcriptions status: Running
+07/22/2021 04:35:53 PM CDT Transcriptions status: Running
+07/22/2021 04:35:58 PM CDT Transcriptions status: Running
+07/22/2021 04:36:03 PM CDT Transcriptions status: Running
+07/22/2021 04:36:08 PM CDT Transcriptions status: Running
+07/22/2021 04:36:13 PM CDT Transcriptions status: Succeeded
+07/22/2021 04:36:13 PM CDT Results for contenturl_0.json:
+{
+  "source": "https://longaudiosaolme.blob.core.windows.net/minutesaudios/interview1_3min_mono.wav",
+  "timestamp": "2021-07-22T21:36:08Z",
+  "durationInTicks": 2099900000,
+  "duration": "PT3M29.99S",
+  "combinedRecognizedPhrases": [
+    {
+      "channel": 0,
+      "lexical": "yeah so that's why and those are the binary numbers i think if you think OK that's cool that's nice so anything we want to tell you more about what you've learned in math in math at school we are we're going through where find the the uhm the tax of a number oh do you have you found any relationships between what you're learning here and what you're learning at school i have found some 'cause we've learned about the power of two at school so i'm kind of familiar with them and then for the for the table it also has to two by a power of two umm so when you were learning about exponentially at school you were familiar with it yeah cool what grade are you in i'm in sixth grade sixth grade OK nice but now let's go to programming so if we think about programming before and after where were you before how much you knew how much field where you are after i used to know nothing about programming OK so you would 'cause i was like i never got a chance to program anything and then i saw they allow me had a good programming and they had a bus so we decided i decided it enter and especially there's a bus 'cause my mom is busy and she can't really pick me up and you know do you think that the bus was really helpful for you to be able to come the best i would have been to the element right because you know there's no person who could actually take you back to home mom my people but other times this she's busy right it's very hard so i'm glad that there is a bus right cool so after being in all my work do you think you will place yourself in programming learning what for programming five OK so why do you think you're like a rough five now well 'cause i kind of know the programming but sometimes i have a little trouble me like on the part where we were learning like we were making the videos how you go like the new color in the box sometimes i get a little confused by that oh sometimes i just need someone to help me out get it you get it rows and columns their their roles and the roles on their columns right yeah how they help you program things or create things that where are you creating nope uh we working 'cause michaels he wanted pirates and we wanted cookies so we had to decide away where it was both so having a pair with a puppy puppy pirate oh that's cool pad goes up and then it winks",
+      "itn": "yeah so that's why and those are the binary numbers i think if you think OK that's cool that's nice so anything we want to tell you more about what you've learned in math in math at school we are we're going through where find the the uhm the tax of a number 0 do you have you found any relationships between what you're learning here and what you're learning at school i have found some 'cause we've learned about the power of two at school so i'm kind of familiar with them and then for the for the table it also has to two by a power of two umm so when you were learning about exponentially at school you were familiar with it yeah cool what grade are you in i'm in 6th grade 6th grade OK nice but now let's go to programming so if we think about programming before and after where were you before how much you knew how much field where you are after i used to know nothing about programming OK so you would 'cause i was like i never got a chance to program anything and then i saw they allow me had a good programming and they had a bus so we decided i decided it enter and especially there's a bus 'cause my mom is busy and she can't really pick me up and you know do you think that the bus was really helpful for you to be able to come the best i would have been to the element right because you know there's no person who could actually take you back to home mom my people but other times this she's busy right it's very hard so i'm glad that there is a bus right cool so after being in all my work do you think you will place yourself in programming learning what for programming five OK so why do you think you're like a rough 5 now well 'cause i kind of know the programming but sometimes i have a little trouble me like on the part where we were learning like we were making the videos how you go like the new color in the box sometimes i get a little confused by that oh sometimes i just need someone to help me out get it you get it rows and columns their their roles and the roles on their columns right yeah how they help you program things or create things that where are you creating nope uh we working 'cause michaels he wanted pirates and we wanted cookies so we had to decide away where it was both so having a pair with a puppy puppy pirate oh that's cool pad goes up and then it winks",
+      "maskedITN": "yeah so that's why and those are the binary numbers i think if you think ok that's cool that's nice so anything we want to tell you more about what you've learned in math in math at school we are we're going through where find the the uhm the tax of a number 0 do you have you found any relationships between what you're learning here and what you're learning at school i have found some 'cause we've learned about the power of two at school so i'm kind of familiar with them and then for the for the table it also has to two by a power of two umm so when you were learning about exponentially at school you were familiar with it yeah cool what grade are you in i'm in 6th grade 6th grade ok nice but now let's go to programming so if we think about programming before and after where were you before how much you knew how much field where you are after i used to know nothing about programming ok so you would 'cause i was like i never got a chance to program anything and then i saw they allow me had a good programming and they had a bus so we decided i decided it enter and especially there's a bus 'cause my mom is busy and she can't really pick me up and you know do you think that the bus was really helpful for you to be able to come the best i would have been to the element right because you know there's no person who could actually take you back to home mom my people but other times this she's busy right it's very hard so i'm glad that there is a bus right cool so after being in all my work do you think you will place yourself in programming learning what for programming five ok so why do you think you're like a rough 5 now well 'cause i kind of know the programming but sometimes i have a little trouble me like on the part where we were learning like we were making the videos how you go like the new color in the box sometimes i get a little confused by that oh sometimes i just need someone to help me out get it you get it rows and columns their their roles and the roles on their columns right yeah how they help you program things or create things that where are you creating nope uh we working 'cause michaels he wanted pirates and we wanted cookies so we had to decide away where it was both so having a pair with a puppy puppy pirate oh that's cool pad goes up and then it winks",
+      "display": "Yeah, so that's why. And those are the binary numbers. I think if you think OK, that's cool. That's nice. So anything we want to tell you more about what you've learned in math. In math at school we are we're going through where? Find the the. Uhm? The tax of a number 0. Do you have you found any relationships between what you're learning here and what you're learning at school? I have found some 'cause we've learned about the power of two at school, so I'm kind of familiar with them. And then for the. For the table, it also has to two by a power of two. Umm, so when you were learning about exponentially at school, you were familiar with it? Yeah, cool. What grade are you in? I'm in 6th grade, 6th grade. OK, nice, but now let's go to programming. So if we think about programming before and after, where were you before? How much you knew how much field where you are after? I used to know nothing about programming. OK so you would 'cause I was like I never got a chance to program anything and then I saw they allow me. Had a good programming and they had a bus so we decided I decided it. Enter and especially there's a bus 'cause my mom is busy and she can't really pick me up. And you know, do you think that the bus was really helpful for you to be able to come? The best I would have been to the element right? Because you know there's no person who could actually take you back to home. Mom, my people, but other times this she's busy, right? It's very hard, so I'm glad that there is a bus, right? Cool so after being in all my work, do you think you will place yourself in programming learning what? For programming five OK. So why do you think you're like a rough 5 now? Well 'cause? I kind of know the programming, but sometimes I have a little trouble me like on the part where we were learning like we were making the videos. How you go like. The new color in the box. Sometimes I get a little confused by that. Oh, sometimes I just need someone to help me out. Get it, you get it. Rows and columns. Their their roles and the roles on their columns, right? Yeah, how they help you program things or create things that where are you creating? Nope. Uh, we working 'cause Michaels he wanted pirates and we wanted cookies so we had to decide away where it was both. So having a pair with a puppy. Puppy pirate Oh, that's cool. Pad goes up and then it winks."
+    }
+  ],
+  "recognizedPhrases": [
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT0.68S",
+      "duration": "PT1.11S",
+      "offsetInTicks": 6800000.0,
+      "durationInTicks": 11100000.0,
+      "nBest": [
+        {
+          "confidence": 0.9853833,
+          "lexical": "yeah so that's why",
+          "itn": "yeah so that's why",
+          "maskedITN": "yeah so that's why",
+          "display": "Yeah, so that's why."
+        },
+        {
+          "confidence": 0.982619,
+          "lexical": "yeah so that's why i took",
+          "itn": "yeah so that's why i took",
+          "maskedITN": "yeah so that's why i took",
+          "display": "yeah so that's why i took"
+        },
+        {
+          "confidence": 0.9857896,
+          "lexical": "yeah that's right",
+          "itn": "yeah that's right",
+          "maskedITN": "yeah that's right",
+          "display": "yeah that's right"
+        },
+        {
+          "confidence": 0.98241395,
+          "lexical": "yeah so that's why it took",
+          "itn": "yeah so that's why it took",
+          "maskedITN": "yeah so that's why it took",
+          "display": "yeah so that's why it took"
+        },
+        {
+          "confidence": 0.9818284,
+          "lexical": "yeah so that's why i do it",
+          "itn": "yeah so that's why i do it",
+          "maskedITN": "yeah so that's why i do it",
+          "display": "yeah so that's why i do it"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT5.43S",
+      "duration": "PT1.49S",
+      "offsetInTicks": 54300000.0,
+      "durationInTicks": 14900000.0,
+      "nBest": [
+        {
+          "confidence": 0.9869494,
+          "lexical": "and those are the binary numbers",
+          "itn": "and those are the binary numbers",
+          "maskedITN": "and those are the binary numbers",
+          "display": "And those are the binary numbers."
+        },
+        {
+          "confidence": 0.683473,
+          "lexical": "no and those are the binary numbers",
+          "itn": "no and those are the binary numbers",
+          "maskedITN": "no and those are the binary numbers",
+          "display": "no and those are the binary numbers"
+        },
+        {
+          "confidence": 0.72712284,
+          "lexical": "yeah and those are the binary numbers",
+          "itn": "yeah and those are the binary numbers",
+          "maskedITN": "yeah and those are the binary numbers",
+          "display": "yeah and those are the binary numbers"
+        },
+        {
+          "confidence": 0.9872932,
+          "lexical": "and those other binary numbers",
+          "itn": "and those other binary numbers",
+          "maskedITN": "and those other binary numbers",
+          "display": "and those other binary numbers"
+        },
+        {
+          "confidence": 0.6667848,
+          "lexical": "me and those are the binary numbers",
+          "itn": "me and those are the binary numbers",
+          "maskedITN": "me and those are the binary numbers",
+          "display": "me and those are the binary numbers"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT8.62S",
+      "duration": "PT7.59S",
+      "offsetInTicks": 86200000.0,
+      "durationInTicks": 75900000.0,
+      "nBest": [
+        {
+          "confidence": 0.98226845,
+          "lexical": "i think if you think OK that's cool that's nice so anything we want to tell you more about what you've learned in math",
+          "itn": "i think if you think OK that's cool that's nice so anything we want to tell you more about what you've learned in math",
+          "maskedITN": "i think if you think ok that's cool that's nice so anything we want to tell you more about what you've learned in math",
+          "display": "I think if you think OK, that's cool. That's nice. So anything we want to tell you more about what you've learned in math."
+        },
+        {
+          "confidence": 0.9843955,
+          "lexical": "i think you think ok that's cool that's nice so anything we want to tell you more about what you've learned in math",
+          "itn": "i think you think ok that's cool that's nice so anything we want to tell you more about what you've learned in math",
+          "maskedITN": "i think you think ok that's cool that's nice so anything we want to tell you more about what you've learned in math",
+          "display": "i think you think OK that's cool that's nice so anything we want to tell you more about what you've learned in math"
+        },
+        {
+          "confidence": 0.9828899,
+          "lexical": "i think i think ok that's cool that's nice so anything we want to tell you more about what you've learned in math",
+          "itn": "i think i think ok that's cool that's nice so anything we want to tell you more about what you've learned in math",
+          "maskedITN": "i think i think ok that's cool that's nice so anything we want to tell you more about what you've learned in math",
+          "display": "i think i think OK that's cool that's nice so anything we want to tell you more about what you've learned in math"
+        },
+        {
+          "confidence": 0.98196,
+          "lexical": "thank you thank ok that's cool that's nice so anything we want to tell you more about what you've learned in math",
+          "itn": "thank you thank ok that's cool that's nice so anything we want to tell you more about what you've learned in math",
+          "maskedITN": "thank you thank ok that's cool that's nice so anything we want to tell you more about what you've learned in math",
+          "display": "thank you thank OK that's cool that's nice so anything we want to tell you more about what you've learned in math"
+        },
+        {
+          "confidence": 0.98208106,
+          "lexical": "i think i think i think ok that's cool that's nice so anything we want to tell you more about what you've learned in math",
+          "itn": "i think i think i think ok that's cool that's nice so anything we want to tell you more about what you've learned in math",
+          "maskedITN": "i think i think i think ok that's cool that's nice so anything we want to tell you more about what you've learned in math",
+          "display": "i think i think i think OK that's cool that's nice so anything we want to tell you more about what you've learned in math"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT17.03S",
+      "duration": "PT6.37S",
+      "offsetInTicks": 170300000.0,
+      "durationInTicks": 63700000.0,
+      "nBest": [
+        {
+          "confidence": 0.779773,
+          "lexical": "in math at school we are we're going through where",
+          "itn": "in math at school we are we're going through where",
+          "maskedITN": "in math at school we are we're going through where",
+          "display": "In math at school we are we're going through where?"
+        },
+        {
+          "confidence": 0.78700244,
+          "lexical": "in math at school we are we going through where",
+          "itn": "in math at school we are we going through where",
+          "maskedITN": "in math at school we are we going through where",
+          "display": "in math at school we are we going through where"
+        },
+        {
+          "confidence": 0.78617793,
+          "lexical": "in math at school we are we're going through where you",
+          "itn": "in math at school we are we're going through where you",
+          "maskedITN": "in math at school we are we're going through where you",
+          "display": "in math at school we are we're going through where you"
+        },
+        {
+          "confidence": 0.786255,
+          "lexical": "in math at school we are we are going through where",
+          "itn": "in math at school we are we are going through where",
+          "maskedITN": "in math at school we are we are going through where",
+          "display": "in math at school we are we are going through where"
+        },
+        {
+          "confidence": 0.7907875,
+          "lexical": "in math at school we are we going through where you",
+          "itn": "in math at school we are we going through where you",
+          "maskedITN": "in math at school we are we going through where you",
+          "display": "in math at school we are we going through where you"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT26.02S",
+      "duration": "PT2.52S",
+      "offsetInTicks": 260200000.0,
+      "durationInTicks": 25200000.0,
+      "nBest": [
+        {
+          "confidence": 0.95355654,
+          "lexical": "find the the",
+          "itn": "find the the",
+          "maskedITN": "find the the",
+          "display": "Find the the."
+        },
+        {
+          "confidence": 0.9625964,
+          "lexical": "find the",
+          "itn": "find the",
+          "maskedITN": "find the",
+          "display": "find the"
+        },
+        {
+          "confidence": 0.9650578,
+          "lexical": "find that the",
+          "itn": "find that the",
+          "maskedITN": "find that the",
+          "display": "find that the"
+        },
+        {
+          "confidence": 0.96370417,
+          "lexical": "fine then the",
+          "itn": "fine then the",
+          "maskedITN": "fine then the",
+          "display": "fine then the"
+        },
+        {
+          "confidence": 0.95520115,
+          "lexical": "fine the the",
+          "itn": "fine the the",
+          "maskedITN": "fine the the",
+          "display": "fine the the"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT29.66S",
+      "duration": "PT0.91S",
+      "offsetInTicks": 296600000.0,
+      "durationInTicks": 9100000.0,
+      "nBest": [
+        {
+          "confidence": 0.48765647,
+          "lexical": "uhm",
+          "itn": "uhm",
+          "maskedITN": "uhm",
+          "display": "Uhm?"
+        },
+        {
+          "confidence": 0.8266102,
+          "lexical": "come",
+          "itn": "come",
+          "maskedITN": "come",
+          "display": "come"
+        },
+        {
+          "confidence": 0.21999565,
+          "lexical": "umms",
+          "itn": "umms",
+          "maskedITN": "umms",
+          "display": "umms"
+        },
+        {
+          "confidence": 0.34633803,
+          "lexical": "um",
+          "itn": "um",
+          "maskedITN": "um",
+          "display": "UM"
+        },
+        {
+          "confidence": 0.74011046,
+          "lexical": "up",
+          "itn": "up",
+          "maskedITN": "up",
+          "display": "up"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT31.67S",
+      "duration": "PT2.65S",
+      "offsetInTicks": 316700000.0,
+      "durationInTicks": 26500000.0,
+      "nBest": [
+        {
+          "confidence": 0.85020244,
+          "lexical": "the tax of a number oh",
+          "itn": "the tax of a number 0",
+          "maskedITN": "the tax of a number 0",
+          "display": "The tax of a number 0."
+        },
+        {
+          "confidence": 0.85068667,
+          "lexical": "the attacks of a number oh",
+          "itn": "the attacks of a number oh",
+          "maskedITN": "the attacks of a number oh",
+          "display": "the attacks of a number oh"
+        },
+        {
+          "confidence": 0.7885851,
+          "lexical": "the tax of a number o",
+          "itn": "the tax of a number o",
+          "maskedITN": "the tax of a number o",
+          "display": "the tax of a number O"
+        },
+        {
+          "confidence": 0.8505064,
+          "lexical": "the tasks of a number oh",
+          "itn": "the tasks of a number oh",
+          "maskedITN": "the tasks of a number oh",
+          "display": "the tasks of a number oh"
+        },
+        {
+          "confidence": 0.78888917,
+          "lexical": "the tasks of a number o",
+          "itn": "the tasks of a number o",
+          "maskedITN": "the tasks of a number o",
+          "display": "the tasks of a number O"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT35.48S",
+      "duration": "PT0.64S",
+      "offsetInTicks": 354800000.0,
+      "durationInTicks": 6400000.0,
+      "nBest": [
+        {
+          "confidence": 0.0,
+          "lexical": "",
+          "itn": "",
+          "maskedITN": "",
+          "display": ""
+        },
+        {
+          "confidence": 0.9715162,
+          "lexical": "yeah",
+          "itn": "yeah",
+          "maskedITN": "yeah",
+          "display": "yeah"
+        },
+        {
+          "confidence": 0.9166335,
+          "lexical": "here",
+          "itn": "here",
+          "maskedITN": "here",
+          "display": "here"
+        },
+        {
+          "confidence": 0.8923041,
+          "lexical": "yep",
+          "itn": "yep",
+          "maskedITN": "yep",
+          "display": "yep"
+        },
+        {
+          "confidence": 0.95741475,
+          "lexical": "yes",
+          "itn": "yes",
+          "maskedITN": "yes",
+          "display": "yes"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT36.78S",
+      "duration": "PT6.01S",
+      "offsetInTicks": 367800000.0,
+      "durationInTicks": 60100000.0,
+      "nBest": [
+        {
+          "confidence": 0.9861512,
+          "lexical": "do you have you found any relationships between what you're learning here and what you're learning at school",
+          "itn": "do you have you found any relationships between what you're learning here and what you're learning at school",
+          "maskedITN": "do you have you found any relationships between what you're learning here and what you're learning at school",
+          "display": "Do you have you found any relationships between what you're learning here and what you're learning at school?"
+        },
+        {
+          "confidence": 0.9850869,
+          "lexical": "do you have you found any relationships between what you're learning here and what you are learning at school",
+          "itn": "do you have you found any relationships between what you're learning here and what you are learning at school",
+          "maskedITN": "do you have you found any relationships between what you're learning here and what you are learning at school",
+          "display": "do you have you found any relationships between what you're learning here and what you are learning at school"
+        },
+        {
+          "confidence": 0.98509616,
+          "lexical": "do you have you found any relationships between what you are learning here and what you're learning at school",
+          "itn": "do you have you found any relationships between what you are learning here and what you're learning at school",
+          "maskedITN": "do you have you found any relationships between what you are learning here and what you're learning at school",
+          "display": "do you have you found any relationships between what you are learning here and what you're learning at school"
+        },
+        {
+          "confidence": 0.9862475,
+          "lexical": "do you have you found any relationships between what you learning here and what you're learning at school",
+          "itn": "do you have you found any relationships between what you learning here and what you're learning at school",
+          "maskedITN": "do you have you found any relationships between what you learning here and what you're learning at school",
+          "display": "do you have you found any relationships between what you learning here and what you're learning at school"
+        },
+        {
+          "confidence": 0.9861683,
+          "lexical": "do you have you found any relationships between what you're learning here and what your learning at school",
+          "itn": "do you have you found any relationships between what you're learning here and what your learning at school",
+          "maskedITN": "do you have you found any relationships between what you're learning here and what your learning at school",
+          "display": "do you have you found any relationships between what you're learning here and what your learning at school"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT43.84S",
+      "duration": "PT9.22S",
+      "offsetInTicks": 438400000.0,
+      "durationInTicks": 92200000.0,
+      "nBest": [
+        {
+          "confidence": 0.8972903,
+          "lexical": "i have found some 'cause we've learned about the power of two at school so i'm kind of familiar with them and then for the",
+          "itn": "i have found some 'cause we've learned about the power of two at school so i'm kind of familiar with them and then for the",
+          "maskedITN": "i have found some 'cause we've learned about the power of two at school so i'm kind of familiar with them and then for the",
+          "display": "I have found some 'cause we've learned about the power of two at school, so I'm kind of familiar with them. And then for the."
+        },
+        {
+          "confidence": 0.8977914,
+          "lexical": "i have found some 'cause we've learned about the total power of two at school so i'm kind of familiar with them and then for the",
+          "itn": "i have found some 'cause we've learned about the total power of two at school so i'm kind of familiar with them and then for the",
+          "maskedITN": "i have found some 'cause we've learned about the total power of two at school so i'm kind of familiar with them and then for the",
+          "display": "i have found some 'cause we've learned about the total power of two at school so i'm kind of familiar with them and then for the"
+        },
+        {
+          "confidence": 0.8978381,
+          "lexical": "i have found some 'cause we've learned about the tutor part of two at school so i'm kind of familiar with them and then for the",
+          "itn": "i have found some 'cause we've learned about the tutor part of two at school so i'm kind of familiar with them and then for the",
+          "maskedITN": "i have found some 'cause we've learned about the tutor part of two at school so i'm kind of familiar with them and then for the",
+          "display": "i have found some 'cause we've learned about the tutor part of two at school so i'm kind of familiar with them and then for the"
+        },
+        {
+          "confidence": 0.8972037,
+          "lexical": "i have found some 'cause we've learned about the tutor power of two at school so i'm kind of familiar with them and then for the",
+          "itn": "i have found some 'cause we've learned about the tutor power of two at school so i'm kind of familiar with them and then for the",
+          "maskedITN": "i have found some 'cause we've learned about the tutor power of two at school so i'm kind of familiar with them and then for the",
+          "display": "i have found some 'cause we've learned about the tutor power of two at school so i'm kind of familiar with them and then for the"
+        },
+        {
+          "confidence": 0.89924955,
+          "lexical": "i have found some 'cause we've learned about the two power of two at school so i'm kind of familiar with them and then for the",
+          "itn": "i have found some 'cause we've learned about the two power of two at school so i'm kind of familiar with them and then for the",
+          "maskedITN": "i have found some 'cause we've learned about the two power of two at school so i'm kind of familiar with them and then for the",
+          "display": "i have found some 'cause we've learned about the two power of two at school so i'm kind of familiar with them and then for the"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT54.35S",
+      "duration": "PT2.63S",
+      "offsetInTicks": 543500000.0,
+      "durationInTicks": 26300000.0,
+      "nBest": [
+        {
+          "confidence": 0.98069984,
+          "lexical": "for the table it also has to two by a power of two",
+          "itn": "for the table it also has to two by a power of two",
+          "maskedITN": "for the table it also has to two by a power of two",
+          "display": "For the table, it also has to two by a power of two."
+        },
+        {
+          "confidence": 0.97888243,
+          "lexical": "for the table it also has to two by a power of two sofa",
+          "itn": "for the table it also has to two by a power of two sofa",
+          "maskedITN": "for the table it also has to two by a power of two sofa",
+          "display": "for the table it also has to two by a power of two sofa"
+        },
+        {
+          "confidence": 0.98060536,
+          "lexical": "for the table it also has a two by a power of two",
+          "itn": "for the table it also has a two by a power of two",
+          "maskedITN": "for the table it also has a two by a power of two",
+          "display": "for the table it also has a two by a power of two"
+        },
+        {
+          "confidence": 0.98098063,
+          "lexical": "for the table it also has the two by a power of two",
+          "itn": "for the table it also has the two by a power of two",
+          "maskedITN": "for the table it also has the two by a power of two",
+          "display": "for the table it also has the two by a power of two"
+        },
+        {
+          "confidence": 0.97817326,
+          "lexical": "for the table it also has to to buy a power of two",
+          "itn": "for the table it also has to to buy a power of two",
+          "maskedITN": "for the table it also has to to buy a power of two",
+          "display": "for the table it also has to to buy a power of two"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT58.82S",
+      "duration": "PT21.88S",
+      "offsetInTicks": 588200000.0,
+      "durationInTicks": 218800000.0,
+      "nBest": [
+        {
+          "confidence": 0.93977994,
+          "lexical": "umm so when you were learning about exponentially at school you were familiar with it yeah cool what grade are you in i'm in sixth grade sixth grade OK nice but now let's go to programming so if we think about programming before and after where were you before how much you knew how much field where you are after",
+          "itn": "umm so when you were learning about exponentially at school you were familiar with it yeah cool what grade are you in i'm in 6th grade 6th grade OK nice but now let's go to programming so if we think about programming before and after where were you before how much you knew how much field where you are after",
+          "maskedITN": "umm so when you were learning about exponentially at school you were familiar with it yeah cool what grade are you in i'm in 6th grade 6th grade ok nice but now let's go to programming so if we think about programming before and after where were you before how much you knew how much field where you are after",
+          "display": "Umm, so when you were learning about exponentially at school, you were familiar with it? Yeah, cool. What grade are you in? I'm in 6th grade, 6th grade. OK, nice, but now let's go to programming. So if we think about programming before and after, where were you before? How much you knew how much field where you are after?"
+        },
+        {
+          "confidence": 0.9397704,
+          "lexical": "umm so when you were learning about exponentially at school you were familiar with it yeah cool what grade are you in sixth grade sixth grade ok nice but now let's go to programming so if we think about programming before and after where were you before how much you knew how much field where you are after",
+          "itn": "umm so when you were learning about exponentially at school you were familiar with it yeah cool what grade are you in sixth grade sixth grade ok nice but now let's go to programming so if we think about programming before and after where were you before how much you knew how much field where you are after",
+          "maskedITN": "umm so when you were learning about exponentially at school you were familiar with it yeah cool what grade are you in sixth grade sixth grade ok nice but now let's go to programming so if we think about programming before and after where were you before how much you knew how much field where you are after",
+          "display": "umm so when you were learning about exponentially at school you were familiar with it yeah cool what grade are you in sixth grade sixth grade OK nice but now let's go to programming so if we think about programming before and after where were you before how much you knew how much field where you are after"
+        },
+        {
+          "confidence": 0.94047993,
+          "lexical": "umm so when you were learning about exponents at school you were familiar with it yeah cool what grade are you in i'm in six grade sixth grade ok nice but now let's go to programming so if we think about programming before and after where were you before how much you knew how much field where you are after",
+          "itn": "umm so when you were learning about exponents at school you were familiar with it yeah cool what grade are you in i'm in six grade sixth grade ok nice but now let's go to programming so if we think about programming before and after where were you before how much you knew how much field where you are after",
+          "maskedITN": "umm so when you were learning about exponents at school you were familiar with it yeah cool what grade are you in i'm in six grade sixth grade ok nice but now let's go to programming so if we think about programming before and after where were you before how much you knew how much field where you are after",
+          "display": "umm so when you were learning about exponents at school you were familiar with it yeah cool what grade are you in i'm in six grade sixth grade OK nice but now let's go to programming so if we think about programming before and after where were you before how much you knew how much field where you are after"
+        },
+        {
+          "confidence": 0.9358851,
+          "lexical": "me so when you were learning about exponentially at school you were familiar with it yeah cool what grade are you in i'm in six grade sixth grade ok nice but now let's go to programming so if we think about programming before and after where were you before how much you knew how much field where you are after",
+          "itn": "me so when you were learning about exponentially at school you were familiar with it yeah cool what grade are you in i'm in six grade sixth grade ok nice but now let's go to programming so if we think about programming before and after where were you before how much you knew how much field where you are after",
+          "maskedITN": "me so when you were learning about exponentially at school you were familiar with it yeah cool what grade are you in i'm in six grade sixth grade ok nice but now let's go to programming so if we think about programming before and after where were you before how much you knew how much field where you are after",
+          "display": "me so when you were learning about exponentially at school you were familiar with it yeah cool what grade are you in i'm in six grade sixth grade OK nice but now let's go to programming so if we think about programming before and after where were you before how much you knew how much field where you are after"
+        },
+        {
+          "confidence": 0.94024444,
+          "lexical": "umm so when you were learning about exponentially at school you were familiar with it yeah cool what grade are you in i'm in six grade sixth grade ok nice but now let's go to programming so if we think about programming before and after where were you before how much you knew how much field where you are after",
+          "itn": "umm so when you were learning about exponentially at school you were familiar with it yeah cool what grade are you in i'm in six grade sixth grade ok nice but now let's go to programming so if we think about programming before and after where were you before how much you knew how much field where you are after",
+          "maskedITN": "umm so when you were learning about exponentially at school you were familiar with it yeah cool what grade are you in i'm in six grade sixth grade ok nice but now let's go to programming so if we think about programming before and after where were you before how much you knew how much field where you are after",
+          "display": "umm so when you were learning about exponentially at school you were familiar with it yeah cool what grade are you in i'm in six grade sixth grade OK nice but now let's go to programming so if we think about programming before and after where were you before how much you knew how much field where you are after"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT1M22.3S",
+      "duration": "PT9.59S",
+      "offsetInTicks": 823000000.0,
+      "durationInTicks": 95900000.0,
+      "nBest": [
+        {
+          "confidence": 0.9752136,
+          "lexical": "i used to know nothing about programming OK so you would 'cause i was like i never got a chance to program anything and then i saw they allow me",
+          "itn": "i used to know nothing about programming OK so you would 'cause i was like i never got a chance to program anything and then i saw they allow me",
+          "maskedITN": "i used to know nothing about programming ok so you would 'cause i was like i never got a chance to program anything and then i saw they allow me",
+          "display": "I used to know nothing about programming. OK so you would 'cause I was like I never got a chance to program anything and then I saw they allow me."
+        },
+        {
+          "confidence": 0.96475613,
+          "lexical": "i used to know nothing about programming ok so you would 'cause i was like i never got a chance to program anything and then i saw the alumnae",
+          "itn": "i used to know nothing about programming ok so you would 'cause i was like i never got a chance to program anything and then i saw the alumnae",
+          "maskedITN": "i used to know nothing about programming ok so you would 'cause i was like i never got a chance to program anything and then i saw the alumnae",
+          "display": "i used to know nothing about programming OK so you would 'cause i was like i never got a chance to program anything and then i saw the alumnae"
+        },
+        {
+          "confidence": 0.975327,
+          "lexical": "i used to know nothing about programming ok so you were 'cause i was like i never got a chance to program anything and then i saw they allow me",
+          "itn": "i used to know nothing about programming ok so you were 'cause i was like i never got a chance to program anything and then i saw they allow me",
+          "maskedITN": "i used to know nothing about programming ok so you were 'cause i was like i never got a chance to program anything and then i saw they allow me",
+          "display": "i used to know nothing about programming OK so you were 'cause i was like i never got a chance to program anything and then i saw they allow me"
+        },
+        {
+          "confidence": 0.9520633,
+          "lexical": "i used to know nothing about programming ok so you would 'cause i was like i never got a chance to program anything and then i saw the eleme",
+          "itn": "i used to know nothing about programming ok so you would 'cause i was like i never got a chance to program anything and then i saw the eleme",
+          "maskedITN": "i used to know nothing about programming ok so you would 'cause i was like i never got a chance to program anything and then i saw the eleme",
+          "display": "i used to know nothing about programming OK so you would 'cause i was like i never got a chance to program anything and then i saw the eleme"
+        },
+        {
+          "confidence": 0.9750024,
+          "lexical": "i used to know nothing about programming ok so you would 'cause i was like i never got a chance to program anything and then i saw the element",
+          "itn": "i used to know nothing about programming ok so you would 'cause i was like i never got a chance to program anything and then i saw the element",
+          "maskedITN": "i used to know nothing about programming ok so you would 'cause i was like i never got a chance to program anything and then i saw the element",
+          "display": "i used to know nothing about programming OK so you would 'cause i was like i never got a chance to program anything and then i saw the element"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT1M33.09S",
+      "duration": "PT16.88S",
+      "offsetInTicks": 930900000.0,
+      "durationInTicks": 168800000.0,
+      "nBest": [
+        {
+          "confidence": 0.9775947,
+          "lexical": "had a good programming and they had a bus so we decided i decided it enter and especially there's a bus 'cause my mom is busy and she can't really pick me up and you know do you think that the bus was really helpful for you to be able to come",
+          "itn": "had a good programming and they had a bus so we decided i decided it enter and especially there's a bus 'cause my mom is busy and she can't really pick me up and you know do you think that the bus was really helpful for you to be able to come",
+          "maskedITN": "had a good programming and they had a bus so we decided i decided it enter and especially there's a bus 'cause my mom is busy and she can't really pick me up and you know do you think that the bus was really helpful for you to be able to come",
+          "display": "Had a good programming and they had a bus so we decided I decided it. Enter and especially there's a bus 'cause my mom is busy and she can't really pick me up. And you know, do you think that the bus was really helpful for you to be able to come?"
+        },
+        {
+          "confidence": 0.97764516,
+          "lexical": "had a good programming and they had a bus so we decided i decided it enter especially there's a bus 'cause my mom is busy and she can't really pick me up and you know do you think that the bus was really helpful for you to be able to come",
+          "itn": "had a good programming and they had a bus so we decided i decided it enter especially there's a bus 'cause my mom is busy and she can't really pick me up and you know do you think that the bus was really helpful for you to be able to come",
+          "maskedITN": "had a good programming and they had a bus so we decided i decided it enter especially there's a bus 'cause my mom is busy and she can't really pick me up and you know do you think that the bus was really helpful for you to be able to come",
+          "display": "had a good programming and they had a bus so we decided i decided it enter especially there's a bus 'cause my mom is busy and she can't really pick me up and you know do you think that the bus was really helpful for you to be able to come"
+        },
+        {
+          "confidence": 0.9776096,
+          "lexical": "had a programming and they had a bus so we decided i decided it enter especially there's a bus 'cause my mom is busy and she can't really pick me up and you know do you think that the bus was really helpful for you to be able to come",
+          "itn": "had a programming and they had a bus so we decided i decided it enter especially there's a bus 'cause my mom is busy and she can't really pick me up and you know do you think that the bus was really helpful for you to be able to come",
+          "maskedITN": "had a programming and they had a bus so we decided i decided it enter especially there's a bus 'cause my mom is busy and she can't really pick me up and you know do you think that the bus was really helpful for you to be able to come",
+          "display": "had a programming and they had a bus so we decided i decided it enter especially there's a bus 'cause my mom is busy and she can't really pick me up and you know do you think that the bus was really helpful for you to be able to come"
+        },
+        {
+          "confidence": 0.9775924,
+          "lexical": "had a good programming and then they had a bus so we decided i decided it enter especially there's a bus 'cause my mom is busy and she can't really pick me up and you know do you think that the bus was really helpful for you to be able to come",
+          "itn": "had a good programming and then they had a bus so we decided i decided it enter especially there's a bus 'cause my mom is busy and she can't really pick me up and you know do you think that the bus was really helpful for you to be able to come",
+          "maskedITN": "had a good programming and then they had a bus so we decided i decided it enter especially there's a bus 'cause my mom is busy and she can't really pick me up and you know do you think that the bus was really helpful for you to be able to come",
+          "display": "had a good programming and then they had a bus so we decided i decided it enter especially there's a bus 'cause my mom is busy and she can't really pick me up and you know do you think that the bus was really helpful for you to be able to come"
+        },
+        {
+          "confidence": 0.9774518,
+          "lexical": "had a good programming and they had a bus so we decided i decided it enter especially there's a bus 'cause my mom is busy and she can't really pick me up and you know do you think that the boss was really helpful for you to be able to come",
+          "itn": "had a good programming and they had a bus so we decided i decided it enter especially there's a bus 'cause my mom is busy and she can't really pick me up and you know do you think that the boss was really helpful for you to be able to come",
+          "maskedITN": "had a good programming and they had a bus so we decided i decided it enter especially there's a bus 'cause my mom is busy and she can't really pick me up and you know do you think that the boss was really helpful for you to be able to come",
+          "display": "had a good programming and they had a bus so we decided i decided it enter especially there's a bus 'cause my mom is busy and she can't really pick me up and you know do you think that the boss was really helpful for you to be able to come"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT1M51.42S",
+      "duration": "PT8.54S",
+      "offsetInTicks": 1114200000.0,
+      "durationInTicks": 85400000.0,
+      "nBest": [
+        {
+          "confidence": 0.9803271,
+          "lexical": "the best i would have been to the element right because you know there's no person who could actually take you back to home",
+          "itn": "the best i would have been to the element right because you know there's no person who could actually take you back to home",
+          "maskedITN": "the best i would have been to the element right because you know there's no person who could actually take you back to home",
+          "display": "The best I would have been to the element right? Because you know there's no person who could actually take you back to home."
+        },
+        {
+          "confidence": 0.98208094,
+          "lexical": "the best i would have been to the element right because you you there's no person who could actually take you back to home",
+          "itn": "the best i would have been to the element right because you you there's no person who could actually take you back to home",
+          "maskedITN": "the best i would have been to the element right because you you there's no person who could actually take you back to home",
+          "display": "the best i would have been to the element right because you you there's no person who could actually take you back to home"
+        },
+        {
+          "confidence": 0.9830312,
+          "lexical": "the best i would have been to the element right because you there's no person who could actually take you back to home",
+          "itn": "the best i would have been to the element right because you there's no person who could actually take you back to home",
+          "maskedITN": "the best i would have been to the element right because you there's no person who could actually take you back to home",
+          "display": "the best i would have been to the element right because you there's no person who could actually take you back to home"
+        },
+        {
+          "confidence": 0.98190475,
+          "lexical": "the best i would have been to the element right because you you there's no person who could actually take you back to your home",
+          "itn": "the best i would have been to the element right because you you there's no person who could actually take you back to your home",
+          "maskedITN": "the best i would have been to the element right because you you there's no person who could actually take you back to your home",
+          "display": "the best i would have been to the element right because you you there's no person who could actually take you back to your home"
+        },
+        {
+          "confidence": 0.98129386,
+          "lexical": "the best i would have been totally alone right because you you there's no person who could actually take you back to home",
+          "itn": "the best i would have been totally alone right because you you there's no person who could actually take you back to home",
+          "maskedITN": "the best i would have been totally alone right because you you there's no person who could actually take you back to home",
+          "display": "the best i would have been totally alone right because you you there's no person who could actually take you back to home"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT2M1.37S",
+      "duration": "PT7.2S",
+      "offsetInTicks": 1213700000.0,
+      "durationInTicks": 72000000.0,
+      "nBest": [
+        {
+          "confidence": 0.9652771,
+          "lexical": "mom my people but other times this she's busy right it's very hard so i'm glad that there is a bus right",
+          "itn": "mom my people but other times this she's busy right it's very hard so i'm glad that there is a bus right",
+          "maskedITN": "mom my people but other times this she's busy right it's very hard so i'm glad that there is a bus right",
+          "display": "Mom, my people, but other times this she's busy, right? It's very hard, so I'm glad that there is a bus, right?"
+        },
+        {
+          "confidence": 0.9660292,
+          "lexical": "mom my people but other times this cheesy right it's very hard so i'm glad that there is a bus right",
+          "itn": "mom my people but other times this cheesy right it's very hard so i'm glad that there is a bus right",
+          "maskedITN": "mom my people but other times this cheesy right it's very hard so i'm glad that there is a bus right",
+          "display": "mom my people but other times this cheesy right it's very hard so i'm glad that there is a bus right"
+        },
+        {
+          "confidence": 0.96924037,
+          "lexical": "my people but other times this cheesy right it's very hard so i'm glad that there is a bus right",
+          "itn": "my people but other times this cheesy right it's very hard so i'm glad that there is a bus right",
+          "maskedITN": "my people but other times this cheesy right it's very hard so i'm glad that there is a bus right",
+          "display": "my people but other times this cheesy right it's very hard so i'm glad that there is a bus right"
+        },
+        {
+          "confidence": 0.9663287,
+          "lexical": "mom my people but other times this cheesy right it's very hard so i'm glad that there's a bus right",
+          "itn": "mom my people but other times this cheesy right it's very hard so i'm glad that there's a bus right",
+          "maskedITN": "mom my people but other times this cheesy right it's very hard so i'm glad that there's a bus right",
+          "display": "mom my people but other times this cheesy right it's very hard so i'm glad that there's a bus right"
+        },
+        {
+          "confidence": 0.9663429,
+          "lexical": "mom my people but other times this cheesy right he's very hard so i'm glad that there is a bus right",
+          "itn": "mom my people but other times this cheesy right he's very hard so i'm glad that there is a bus right",
+          "maskedITN": "mom my people but other times this cheesy right he's very hard so i'm glad that there is a bus right",
+          "display": "mom my people but other times this cheesy right he's very hard so i'm glad that there is a bus right"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT2M10.06S",
+      "duration": "PT7.31S",
+      "offsetInTicks": 1300600000.0,
+      "durationInTicks": 73100000.0,
+      "nBest": [
+        {
+          "confidence": 0.9727995,
+          "lexical": "cool so after being in all my work do you think you will place yourself in programming learning what",
+          "itn": "cool so after being in all my work do you think you will place yourself in programming learning what",
+          "maskedITN": "cool so after being in all my work do you think you will place yourself in programming learning what",
+          "display": "Cool so after being in all my work, do you think you will place yourself in programming learning what?"
+        },
+        {
+          "confidence": 0.97163254,
+          "lexical": "cool so after being all my word do you think you will place yourself in programming learning what",
+          "itn": "cool so after being all my word do you think you will place yourself in programming learning what",
+          "maskedITN": "cool so after being all my word do you think you will place yourself in programming learning what",
+          "display": "cool so after being all my word do you think you will place yourself in programming learning what"
+        },
+        {
+          "confidence": 0.9731567,
+          "lexical": "cool so after being in all my word do you think you will place yourself in programming learning what",
+          "itn": "cool so after being in all my word do you think you will place yourself in programming learning what",
+          "maskedITN": "cool so after being in all my word do you think you will place yourself in programming learning what",
+          "display": "cool so after being in all my word do you think you will place yourself in programming learning what"
+        },
+        {
+          "confidence": 0.97131085,
+          "lexical": "cool so after being now all my word do you think you will place yourself in programming learning what",
+          "itn": "cool so after being now all my word do you think you will place yourself in programming learning what",
+          "maskedITN": "cool so after being now all my word do you think you will place yourself in programming learning what",
+          "display": "cool so after being now all my word do you think you will place yourself in programming learning what"
+        },
+        {
+          "confidence": 0.97314245,
+          "lexical": "cool so after being out all my word do you think you will place yourself in programming learning what",
+          "itn": "cool so after being out all my word do you think you will place yourself in programming learning what",
+          "maskedITN": "cool so after being out all my word do you think you will place yourself in programming learning what",
+          "display": "cool so after being out all my word do you think you will place yourself in programming learning what"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT2M18.81S",
+      "duration": "PT2.47S",
+      "offsetInTicks": 1388100000.0,
+      "durationInTicks": 24700000.0,
+      "nBest": [
+        {
+          "confidence": 0.98869157,
+          "lexical": "for programming five OK",
+          "itn": "for programming five OK",
+          "maskedITN": "for programming five ok",
+          "display": "For programming five OK."
+        },
+        {
+          "confidence": 0.97244936,
+          "lexical": "fall programming five ok",
+          "itn": "fall programming five ok",
+          "maskedITN": "fall programming five ok",
+          "display": "fall programming five OK"
+        },
+        {
+          "confidence": 0.9870389,
+          "lexical": "for programming fight ok",
+          "itn": "for programming fight ok",
+          "maskedITN": "for programming fight ok",
+          "display": "for programming fight OK"
+        },
+        {
+          "confidence": 0.9877006,
+          "lexical": "about programming five ok",
+          "itn": "about programming five ok",
+          "maskedITN": "about programming five ok",
+          "display": "about programming five OK"
+        },
+        {
+          "confidence": 0.97040176,
+          "lexical": "fall programming fight ok",
+          "itn": "fall programming fight ok",
+          "maskedITN": "fall programming fight ok",
+          "display": "fall programming fight OK"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT2M24.01S",
+      "duration": "PT3.4S",
+      "offsetInTicks": 1440100000.0,
+      "durationInTicks": 34000000.0,
+      "nBest": [
+        {
+          "confidence": 0.95644474,
+          "lexical": "so why do you think you're like a rough five now well 'cause",
+          "itn": "so why do you think you're like a rough 5 now well 'cause",
+          "maskedITN": "so why do you think you're like a rough 5 now well 'cause",
+          "display": "So why do you think you're like a rough 5 now? Well 'cause?"
+        },
+        {
+          "confidence": 0.9612326,
+          "lexical": "so why do you think you're like a rough five now workers",
+          "itn": "so why do you think you're like a rough five now workers",
+          "maskedITN": "so why do you think you're like a rough five now workers",
+          "display": "so why do you think you're like a rough five now workers"
+        },
+        {
+          "confidence": 0.9641581,
+          "lexical": "so why do you think you're like a tough five now well 'cause",
+          "itn": "so why do you think you're like a tough five now well 'cause",
+          "maskedITN": "so why do you think you're like a tough five now well 'cause",
+          "display": "so why do you think you're like a tough five now well 'cause"
+        },
+        {
+          "confidence": 0.95481867,
+          "lexical": "so why do you think you are like a rough five now well 'cause",
+          "itn": "so why do you think you are like a rough five now well 'cause",
+          "maskedITN": "so why do you think you are like a rough five now well 'cause",
+          "display": "so why do you think you are like a rough five now well 'cause"
+        },
+        {
+          "confidence": 0.96252465,
+          "lexical": "so why do you think you are like a tough five now well 'cause",
+          "itn": "so why do you think you are like a tough five now well 'cause",
+          "maskedITN": "so why do you think you are like a tough five now well 'cause",
+          "display": "so why do you think you are like a tough five now well 'cause"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT2M28.27S",
+      "duration": "PT10.72S",
+      "offsetInTicks": 1482700000.0,
+      "durationInTicks": 107200000.0,
+      "nBest": [
+        {
+          "confidence": 0.9258883,
+          "lexical": "i kind of know the programming but sometimes i have a little trouble me like on the part where we were learning like we were making the videos how you go like",
+          "itn": "i kind of know the programming but sometimes i have a little trouble me like on the part where we were learning like we were making the videos how you go like",
+          "maskedITN": "i kind of know the programming but sometimes i have a little trouble me like on the part where we were learning like we were making the videos how you go like",
+          "display": "I kind of know the programming, but sometimes I have a little trouble me like on the part where we were learning like we were making the videos. How you go like."
+        },
+        {
+          "confidence": 0.9254852,
+          "lexical": "i kind of know the program but sometimes i have a little trouble me like on the part where we were learning like we were making the videos how you go like",
+          "itn": "i kind of know the program but sometimes i have a little trouble me like on the part where we were learning like we were making the videos how you go like",
+          "maskedITN": "i kind of know the program but sometimes i have a little trouble me like on the part where we were learning like we were making the videos how you go like",
+          "display": "i kind of know the program but sometimes i have a little trouble me like on the part where we were learning like we were making the videos how you go like"
+        },
+        {
+          "confidence": 0.92828923,
+          "lexical": "i kind of know the programming but sometimes i have a little trouble me like on the part where we learning like we were making the videos how you go like",
+          "itn": "i kind of know the programming but sometimes i have a little trouble me like on the part where we learning like we were making the videos how you go like",
+          "maskedITN": "i kind of know the programming but sometimes i have a little trouble me like on the part where we learning like we were making the videos how you go like",
+          "display": "i kind of know the programming but sometimes i have a little trouble me like on the part where we learning like we were making the videos how you go like"
+        },
+        {
+          "confidence": 0.9278861,
+          "lexical": "i kind of know the program but sometimes i have a little trouble me like on the part where we learning like we were making the videos how you go like",
+          "itn": "i kind of know the program but sometimes i have a little trouble me like on the part where we learning like we were making the videos how you go like",
+          "maskedITN": "i kind of know the program but sometimes i have a little trouble me like on the part where we learning like we were making the videos how you go like",
+          "display": "i kind of know the program but sometimes i have a little trouble me like on the part where we learning like we were making the videos how you go like"
+        },
+        {
+          "confidence": 0.92754835,
+          "lexical": "i kind of know the program but sometimes i have a little trouble me like on the part where we will learning like we were making the videos how you go like",
+          "itn": "i kind of know the program but sometimes i have a little trouble me like on the part where we will learning like we were making the videos how you go like",
+          "maskedITN": "i kind of know the program but sometimes i have a little trouble me like on the part where we will learning like we were making the videos how you go like",
+          "display": "i kind of know the program but sometimes i have a little trouble me like on the part where we will learning like we were making the videos how you go like"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT2M41.17S",
+      "duration": "PT8.39S",
+      "offsetInTicks": 1611700000.0,
+      "durationInTicks": 83900000.0,
+      "nBest": [
+        {
+          "confidence": 0.8908679,
+          "lexical": "the new color in the box sometimes i get a little confused by that oh sometimes i just need someone to help me out",
+          "itn": "the new color in the box sometimes i get a little confused by that oh sometimes i just need someone to help me out",
+          "maskedITN": "the new color in the box sometimes i get a little confused by that oh sometimes i just need someone to help me out",
+          "display": "The new color in the box. Sometimes I get a little confused by that. Oh, sometimes I just need someone to help me out."
+        },
+        {
+          "confidence": 0.89035237,
+          "lexical": "a new color in the box sometimes i get a little confused by that oh sometimes i just need someone to help me out",
+          "itn": "a new color in the box sometimes i get a little confused by that oh sometimes i just need someone to help me out",
+          "maskedITN": "a new color in the box sometimes i get a little confused by that oh sometimes i just need someone to help me out",
+          "display": "a new color in the box sometimes i get a little confused by that oh sometimes i just need someone to help me out"
+        },
+        {
+          "confidence": 0.88756317,
+          "lexical": "new color in the box sometimes i get a little confused by that oh sometimes i just need someone to help me out",
+          "itn": "new color in the box sometimes i get a little confused by that oh sometimes i just need someone to help me out",
+          "maskedITN": "new color in the box sometimes i get a little confused by that oh sometimes i just need someone to help me out",
+          "display": "new color in the box sometimes i get a little confused by that oh sometimes i just need someone to help me out"
+        },
+        {
+          "confidence": 0.8906933,
+          "lexical": "any color in the box sometimes i get a little confused by that oh sometimes i just need someone to help me out",
+          "itn": "any color in the box sometimes i get a little confused by that oh sometimes i just need someone to help me out",
+          "maskedITN": "any color in the box sometimes i get a little confused by that oh sometimes i just need someone to help me out",
+          "display": "any color in the box sometimes i get a little confused by that oh sometimes i just need someone to help me out"
+        },
+        {
+          "confidence": 0.8906068,
+          "lexical": "can you color in the box sometimes i get a little confused by that oh sometimes i just need someone to help me out",
+          "itn": "can you color in the box sometimes i get a little confused by that oh sometimes i just need someone to help me out",
+          "maskedITN": "can you color in the box sometimes i get a little confused by that oh sometimes i just need someone to help me out",
+          "display": "can you color in the box sometimes i get a little confused by that oh sometimes i just need someone to help me out"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT2M50.82S",
+      "duration": "PT2.05S",
+      "offsetInTicks": 1708200000.0,
+      "durationInTicks": 20500000.0,
+      "nBest": [
+        {
+          "confidence": 0.9798491,
+          "lexical": "get it you get it",
+          "itn": "get it you get it",
+          "maskedITN": "get it you get it",
+          "display": "Get it, you get it."
+        },
+        {
+          "confidence": 0.9797277,
+          "lexical": "i get it you get it",
+          "itn": "i get it you get it",
+          "maskedITN": "i get it you get it",
+          "display": "i get it you get it"
+        },
+        {
+          "confidence": 0.97846574,
+          "lexical": "you get it you get it",
+          "itn": "you get it you get it",
+          "maskedITN": "you get it you get it",
+          "display": "you get it you get it"
+        },
+        {
+          "confidence": 0.9784009,
+          "lexical": "to get it you get it",
+          "itn": "to get it you get it",
+          "maskedITN": "to get it you get it",
+          "display": "to get it you get it"
+        },
+        {
+          "confidence": 0.9758879,
+          "lexical": "can you get it",
+          "itn": "can you get it",
+          "maskedITN": "can you get it",
+          "display": "can you get it"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT2M53.77S",
+      "duration": "PT2.29S",
+      "offsetInTicks": 1737700000.0,
+      "durationInTicks": 22900000.0,
+      "nBest": [
+        {
+          "confidence": 0.95892596,
+          "lexical": "rows and columns",
+          "itn": "rows and columns",
+          "maskedITN": "rows and columns",
+          "display": "Rows and columns."
+        },
+        {
+          "confidence": 0.9861923,
+          "lexical": "rose in the columns",
+          "itn": "rose in the columns",
+          "maskedITN": "rose in the columns",
+          "display": "rose in the columns"
+        },
+        {
+          "confidence": 0.9865143,
+          "lexical": "rose and the columns",
+          "itn": "rose and the columns",
+          "maskedITN": "rose and the columns",
+          "display": "rose and the columns"
+        },
+        {
+          "confidence": 0.98759294,
+          "lexical": "rose and columns",
+          "itn": "rose and columns",
+          "maskedITN": "rose and columns",
+          "display": "rose and columns"
+        },
+        {
+          "confidence": 0.98663545,
+          "lexical": "rose and then the columns",
+          "itn": "rose and then the columns",
+          "maskedITN": "rose and then the columns",
+          "display": "rose and then the columns"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT2M57.26S",
+      "duration": "PT8.92S",
+      "offsetInTicks": 1772600000.0,
+      "durationInTicks": 89200000.0,
+      "nBest": [
+        {
+          "confidence": 0.98302406,
+          "lexical": "their their roles and the roles on their columns right yeah how they help you program things or create things that where are you creating",
+          "itn": "their their roles and the roles on their columns right yeah how they help you program things or create things that where are you creating",
+          "maskedITN": "their their roles and the roles on their columns right yeah how they help you program things or create things that where are you creating",
+          "display": "Their their roles and the roles on their columns, right? Yeah, how they help you program things or create things that where are you creating?"
+        },
+        {
+          "confidence": 0.9828779,
+          "lexical": "their their roles and the roles and their columns right yeah how they help you program things or create things that where are you creating",
+          "itn": "their their roles and the roles and their columns right yeah how they help you program things or create things that where are you creating",
+          "maskedITN": "their their roles and the roles and their columns right yeah how they help you program things or create things that where are you creating",
+          "display": "their their roles and the roles and their columns right yeah how they help you program things or create things that where are you creating"
+        },
+        {
+          "confidence": 0.9830987,
+          "lexical": "their their roles and the roles on the columns right yeah how they help you program things or create things that where are you creating",
+          "itn": "their their roles and the roles on the columns right yeah how they help you program things or create things that where are you creating",
+          "maskedITN": "their their roles and the roles on the columns right yeah how they help you program things or create things that where are you creating",
+          "display": "their their roles and the roles on the columns right yeah how they help you program things or create things that where are you creating"
+        },
+        {
+          "confidence": 0.9830211,
+          "lexical": "their their roles and the roles and their colors right yeah how they help you program things or create things that where are you creating",
+          "itn": "their their roles and the roles and their colors right yeah how they help you program things or create things that where are you creating",
+          "maskedITN": "their their roles and the roles and their colors right yeah how they help you program things or create things that where are you creating",
+          "display": "their their roles and the roles and their colors right yeah how they help you program things or create things that where are you creating"
+        },
+        {
+          "confidence": 0.9828837,
+          "lexical": "their their roles and the roles are there columns right yeah how they help you program things or create things that where are you creating",
+          "itn": "their their roles and the roles are there columns right yeah how they help you program things or create things that where are you creating",
+          "maskedITN": "their their roles and the roles are there columns right yeah how they help you program things or create things that where are you creating",
+          "display": "their their roles and the roles are there columns right yeah how they help you program things or create things that where are you creating"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT3M7.69S",
+      "duration": "PT0.39S",
+      "offsetInTicks": 1876900000.0,
+      "durationInTicks": 3900000.0,
+      "nBest": [
+        {
+          "confidence": 0.97694063,
+          "lexical": "nope",
+          "itn": "nope",
+          "maskedITN": "nope",
+          "display": "Nope."
+        },
+        {
+          "confidence": 0.9592118,
+          "lexical": "poop",
+          "itn": "poop",
+          "maskedITN": "poop",
+          "display": "poop"
+        },
+        {
+          "confidence": 0.98623884,
+          "lexical": "help",
+          "itn": "help",
+          "maskedITN": "help",
+          "display": "help"
+        },
+        {
+          "confidence": 0.9846928,
+          "lexical": "hope",
+          "itn": "hope",
+          "maskedITN": "hope",
+          "display": "hope"
+        },
+        {
+          "confidence": 0.97743624,
+          "lexical": "group",
+          "itn": "group",
+          "maskedITN": "group",
+          "display": "group"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT3M8.78S",
+      "duration": "PT7.34S",
+      "offsetInTicks": 1887800000.0,
+      "durationInTicks": 73400000.0,
+      "nBest": [
+        {
+          "confidence": 0.9135909,
+          "lexical": "uh we working 'cause michaels he wanted pirates and we wanted cookies so we had to decide away where it was both",
+          "itn": "uh we working 'cause michaels he wanted pirates and we wanted cookies so we had to decide away where it was both",
+          "maskedITN": "uh we working 'cause michaels he wanted pirates and we wanted cookies so we had to decide away where it was both",
+          "display": "Uh, we working 'cause Michaels he wanted pirates and we wanted cookies so we had to decide away where it was both."
+        },
+        {
+          "confidence": 0.9158377,
+          "lexical": "uh we working 'cause michaels he wanted pirates and we wanted cookies so we had to decide a waiver it was both",
+          "itn": "uh we working 'cause michaels he wanted pirates and we wanted cookies so we had to decide a waiver it was both",
+          "maskedITN": "uh we working 'cause michaels he wanted pirates and we wanted cookies so we had to decide a waiver it was both",
+          "display": "uh we working 'cause michaels he wanted pirates and we wanted cookies so we had to decide a waiver it was both"
+        },
+        {
+          "confidence": 0.91551596,
+          "lexical": "uh we working 'cause michaels he wanted pirates and we wanna party so we had to decide away where it was both",
+          "itn": "uh we working 'cause michaels he wanted pirates and we wanna party so we had to decide away where it was both",
+          "maskedITN": "uh we working 'cause michaels he wanted pirates and we wanna party so we had to decide away where it was both",
+          "display": "uh we working 'cause michaels he wanted pirates and we wanna party so we had to decide away where it was both"
+        },
+        {
+          "confidence": 0.91812897,
+          "lexical": "uh we working 'cause michaels he wanted pirates and we wanna party so we had to decide a way where it was both",
+          "itn": "uh we working 'cause michaels he wanted pirates and we wanna party so we had to decide a way where it was both",
+          "maskedITN": "uh we working 'cause michaels he wanted pirates and we wanna party so we had to decide a way where it was both",
+          "display": "uh we working 'cause michaels he wanted pirates and we wanna party so we had to decide a way where it was both"
+        },
+        {
+          "confidence": 0.9177628,
+          "lexical": "uh we working 'cause michaels he wanted pirates and we wanna party so we had to decide a waiver it was both",
+          "itn": "uh we working 'cause michaels he wanted pirates and we wanna party so we had to decide a waiver it was both",
+          "maskedITN": "uh we working 'cause michaels he wanted pirates and we wanna party so we had to decide a waiver it was both",
+          "display": "uh we working 'cause michaels he wanted pirates and we wanna party so we had to decide a waiver it was both"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT3M16.81S",
+      "duration": "PT2.2S",
+      "offsetInTicks": 1968100000.0,
+      "durationInTicks": 22000000.0,
+      "nBest": [
+        {
+          "confidence": 0.91717196,
+          "lexical": "so having a pair with a puppy",
+          "itn": "so having a pair with a puppy",
+          "maskedITN": "so having a pair with a puppy",
+          "display": "So having a pair with a puppy."
+        },
+        {
+          "confidence": 0.9123562,
+          "lexical": "still having a pair with a puppy",
+          "itn": "still having a pair with a puppy",
+          "maskedITN": "still having a pair with a puppy",
+          "display": "still having a pair with a puppy"
+        },
+        {
+          "confidence": 0.91521907,
+          "lexical": "so having a pair with the puppy",
+          "itn": "so having a pair with the puppy",
+          "maskedITN": "so having a pair with the puppy",
+          "display": "so having a pair with the puppy"
+        },
+        {
+          "confidence": 0.91150784,
+          "lexical": "so having a player with a puppy",
+          "itn": "so having a player with a puppy",
+          "maskedITN": "so having a player with a puppy",
+          "display": "so having a player with a puppy"
+        },
+        {
+          "confidence": 0.9325541,
+          "lexical": "so having a paper with a puppy",
+          "itn": "so having a paper with a puppy",
+          "maskedITN": "so having a paper with a puppy",
+          "display": "so having a paper with a puppy"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT3M21.55S",
+      "duration": "PT1.25S",
+      "offsetInTicks": 2015500000.0,
+      "durationInTicks": 12500000.0,
+      "nBest": [
+        {
+          "confidence": 0.95557475,
+          "lexical": "puppy pirate",
+          "itn": "puppy pirate",
+          "maskedITN": "puppy pirate",
+          "display": "Puppy pirate"
+        },
+        {
+          "confidence": 0.95448667,
+          "lexical": "puppy pirates",
+          "itn": "puppy pirates",
+          "maskedITN": "puppy pirates",
+          "display": "puppy pirates"
+        },
+        {
+          "confidence": 0.98354775,
+          "lexical": "having a puppy pirate",
+          "itn": "having a puppy pirate",
+          "maskedITN": "having a puppy pirate",
+          "display": "having a puppy pirate"
+        },
+        {
+          "confidence": 0.96883535,
+          "lexical": "having puppy pirate",
+          "itn": "having puppy pirate",
+          "maskedITN": "having puppy pirate",
+          "display": "having puppy pirate"
+        },
+        {
+          "confidence": 0.9828444,
+          "lexical": "having a puppy pirates",
+          "itn": "having a puppy pirates",
+          "maskedITN": "having a puppy pirates",
+          "display": "having a puppy pirates"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT3M24.89S",
+      "duration": "PT0.8S",
+      "offsetInTicks": 2048900000.0,
+      "durationInTicks": 8000000.0,
+      "nBest": [
+        {
+          "confidence": 0.9650847,
+          "lexical": "oh that's cool",
+          "itn": "oh that's cool",
+          "maskedITN": "oh that's cool",
+          "display": "Oh, that's cool."
+        },
+        {
+          "confidence": 0.96696657,
+          "lexical": "well that's cool",
+          "itn": "well that's cool",
+          "maskedITN": "well that's cool",
+          "display": "well that's cool"
+        },
+        {
+          "confidence": 0.962146,
+          "lexical": "oh that's good",
+          "itn": "oh that's good",
+          "maskedITN": "oh that's good",
+          "display": "oh that's good"
+        },
+        {
+          "confidence": 0.96515125,
+          "lexical": "well that's good",
+          "itn": "well that's good",
+          "maskedITN": "well that's good",
+          "display": "well that's good"
+        },
+        {
+          "confidence": 0.980611,
+          "lexical": "that's cool",
+          "itn": "that's cool",
+          "maskedITN": "that's cool",
+          "display": "that's cool"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT3M27.08S",
+      "duration": "PT1.83S",
+      "offsetInTicks": 2070800000.0,
+      "durationInTicks": 18300000.0,
+      "nBest": [
+        {
+          "confidence": 0.9674774,
+          "lexical": "pad goes up and then it winks",
+          "itn": "pad goes up and then it winks",
+          "maskedITN": "pad goes up and then it winks",
+          "display": "Pad goes up and then it winks."
+        },
+        {
+          "confidence": 0.9761139,
+          "lexical": "pet goes up and then it winks",
+          "itn": "pet goes up and then it winks",
+          "maskedITN": "pet goes up and then it winks",
+          "display": "pet goes up and then it winks"
+        },
+        {
+          "confidence": 0.97629195,
+          "lexical": "pat goes up and then it winks",
+          "itn": "pat goes up and then it winks",
+          "maskedITN": "pat goes up and then it winks",
+          "display": "pat goes up and then it winks"
+        },
+        {
+          "confidence": 0.97215563,
+          "lexical": "pad goes up and then it wings",
+          "itn": "pad goes up and then it wings",
+          "maskedITN": "pad goes up and then it wings",
+          "display": "pad goes up and then it wings"
+        },
+        {
+          "confidence": 0.98079216,
+          "lexical": "pet goes up and then it wings",
+          "itn": "pet goes up and then it wings",
+          "maskedITN": "pet goes up and then it wings",
+          "display": "pet goes up and then it wings"
+        }
+      ]
+    }
+  ]
+}

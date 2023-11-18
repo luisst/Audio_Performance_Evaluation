@@ -1,0 +1,2433 @@
+Read csv file transcript_EN350_azureResults
+ ------------------------------ 
+GT: which ones were on
+PD: which ones were on
+>>> PD:w_ɪ_tʃ_ w_ʌ_n_z_ w_ɜː_ɹ_ ɔ_n 
+ >>>GT:w_ɪ_tʃ_ w_ʌ_n_z_ w_ɜː_ɹ_ ɔ_n
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: one one
+PD: one one
+>>> PD:w_ʌ_n_ w_ʌ_n 
+ >>>GT:w_ʌ_n_ w_ʌ_n
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: talking about timers
+PD: talking about timers 
+>>> PD:t_ɔː_k_ɪ_ŋ_ ɐ_b_aʊ_t_ t_aɪ_m_ɚ_z 
+ >>>GT:t_ɔː_k_ɪ_ŋ_ ɐ_b_aʊ_t_ t_aɪ_m_ɚ_z
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: so now
+PD: so now 
+>>> PD:s_oʊ_ n_aʊ 
+ >>>GT:s_oʊ_ n_aʊ
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: can i touch it
+PD: can i touch it
+>>> PD:k_æ_n_ aɪ_ t_ʌ_tʃ_ ɪ_t 
+ >>>GT:k_æ_n_ aɪ_ t_ʌ_tʃ_ ɪ_t
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: bigger numbers
+PD: bigger numbers 
+>>> PD:b_ɪ_ɡ_ɚ_ n_ʌ_m_b_ɚ_z 
+ >>>GT:b_ɪ_ɡ_ɚ_ n_ʌ_m_b_ɚ_z
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: it does work
+PD: it does 
+>>> PD:ɪ_t_ d_ʌ_z 
+ >>>GT:ɪ_t_ d_ʌ_z_ w_ɜː_k
+prob: 0.4166666666666667 
+ prob_ph: 0.4444444444444444 
+ -------------------------------------- 
+GT: seventy nine right
+PD: seventy-nine
+>>> PD:s_ɛ_v_ə_n_t_i_n_aɪ_n 
+ >>>GT:s_ɛ_v_ə_n_t_i_ n_aɪ_n_ ɹ_aɪ_t
+prob: 0.3888888888888889 
+ prob_ph: 0.3103448275862069 
+ -------------------------------------- 
+GT: because you wanna do it
+PD: because you want to do 
+>>> PD:b_ɪ_k_ʌ_z_ j_uː_ w_ɔ_n_t_ t_ə_ d_uː 
+ >>>GT:b_ɪ_k_ʌ_z_ j_uː_ w_ɔ_n_ə_ d_uː_ ɪ_t
+prob: 0.21739130434782608 
+ prob_ph: 0.2 
+ -------------------------------------- 
+GT: does your sixty four
+PD: is your sixty
+>>> PD:ɪ_z_ j_ʊɹ_ s_ɪ_k_s_t_i 
+ >>>GT:d_ʌ_z_ j_ʊɹ_ s_ɪ_k_s_t_i_ f_oːɹ
+prob: 0.4 
+ prob_ph: 0.3225806451612903 
+ -------------------------------------- 
+GT: all the way
+PD: all the way 
+>>> PD:ɔː_l_ ð_ə_ w_eɪ 
+ >>>GT:ɔː_l_ ð_ə_ w_eɪ
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: minus one
+PD: minus one 
+>>> PD:m_aɪ_n_ə_s_ w_ʌ_n 
+ >>>GT:m_aɪ_n_ə_s_ w_ʌ_n
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: i dont know
+PD: i dont know 
+>>> PD:aɪ_ d_oʊ_n_t_ n_oʊ 
+ >>>GT:aɪ_ d_oʊ_n_t_ n_oʊ
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: my mom and my dog
+PD: my mom and my dog 
+>>> PD:m_aɪ_ m_ɑː_m_ æ_n_d_ m_aɪ_ d_ɑː_ɡ 
+ >>>GT:m_aɪ_ m_ɑː_m_ æ_n_d_ m_aɪ_ d_ɑː_ɡ
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: shes nine
+PD: shes nice 
+>>> PD:ʃ_ᵻ_z_ n_aɪ_s 
+ >>>GT:ʃ_ᵻ_z_ n_aɪ_n
+prob: 0.1111111111111111 
+ prob_ph: 0.07692307692307693 
+ -------------------------------------- 
+GT: gonna group in fours
+PD: going to group in four 
+>>> PD:ɡ_oʊ_ɪ_ŋ_ t_ə_ ɡ_ɹ_uː_p_ ɪ_n_ f_oːɹ 
+ >>>GT:ɡ_ə_n_ə_ ɡ_ɹ_uː_p_ ɪ_n_ f_oːɹ_z
+prob: 0.3 
+ prob_ph: 0.3225806451612903 
+ -------------------------------------- 
+GT: there you go
+PD: there you go 
+>>> PD:ð_ɛɹ_ j_uː_ ɡ_oʊ 
+ >>>GT:ð_ɛɹ_ j_uː_ ɡ_oʊ
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: so whats that
+PD: so whats that
+>>> PD:s_oʊ_ w_ʌ_t_s_ ð_æ_t 
+ >>>GT:s_oʊ_ w_ʌ_t_s_ ð_æ_t
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: how did you do yours
+PD: how did you do yours
+>>> PD:h_aʊ_ d_ɪ_d_ j_uː_ d_uː_ j_oːɹ_z 
+ >>>GT:h_aʊ_ d_ɪ_d_ j_uː_ d_uː_ j_oːɹ_z
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: so you did yours
+PD: so you did your 
+>>> PD:s_oʊ_ j_uː_ d_ɪ_d_ j_ʊɹ 
+ >>>GT:s_oʊ_ j_uː_ d_ɪ_d_ j_oːɹ_z
+prob: 0.0625 
+ prob_ph: 0.15384615384615385 
+ -------------------------------------- 
+GT: each individual
+PD: individual 
+>>> PD:ɪ_n_d_ᵻ_v_ɪ_dʒ_uː_əl 
+ >>>GT:iː_tʃ_ ɪ_n_d_ᵻ_v_ɪ_dʒ_uː_əl
+prob: 0.3333333333333333 
+ prob_ph: 0.25925925925925924 
+ -------------------------------------- 
+GT: how about you guys explain
+PD: how about you guys explain
+>>> PD:h_aʊ_ ɐ_b_aʊ_t_ j_uː_ ɡ_aɪ_z_ ɛ_k_s_p_l_eɪ_n 
+ >>>GT:h_aʊ_ ɐ_b_aʊ_t_ j_uː_ ɡ_aɪ_z_ ɛ_k_s_p_l_eɪ_n
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: what is he doing
+PD: what does he do
+>>> PD:w_ʌ_t_ d_ʌ_z_ h_iː_ d_uː 
+ >>>GT:w_ʌ_t_ ɪ_z_ h_iː_ d_uː_ɪ_ŋ
+prob: 0.375 
+ prob_ph: 0.2692307692307692 
+ -------------------------------------- 
+GT: sixteen minus six
+PD: sixteen minutes 
+>>> PD:s_ɪ_k_s_t_iː_n_ m_ɪ_n_ɪ_t_s 
+ >>>GT:s_ɪ_k_s_t_iː_n_ m_aɪ_n_ə_s_ s_ɪ_k_s
+prob: 0.23529411764705882 
+ prob_ph: 0.2571428571428571 
+ -------------------------------------- 
+GT: sixty minus six
+PD: sixty minus six 
+>>> PD:s_ɪ_k_s_t_i_ m_aɪ_n_ə_s_ s_ɪ_k_s 
+ >>>GT:s_ɪ_k_s_t_i_ m_aɪ_n_ə_s_ s_ɪ_k_s
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: so complicated
+PD: so complicated 
+>>> PD:s_oʊ_ k_ɑː_m_p_l_ᵻ_k_eɪ_ɾ_ᵻ_d 
+ >>>GT:s_oʊ_ k_ɑː_m_p_l_ᵻ_k_eɪ_ɾ_ᵻ_d
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: he used that
+PD: he used that 
+>>> PD:h_iː_ j_uː_z_d_ ð_æ_t 
+ >>>GT:h_iː_ j_uː_z_d_ ð_æ_t
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: so now what i did
+PD: so now what i did
+>>> PD:s_oʊ_ n_aʊ_ w_ʌ_t_ aɪ_ d_ɪ_d 
+ >>>GT:s_oʊ_ n_aʊ_ w_ʌ_t_ aɪ_ d_ɪ_d
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: i turned on the sixty four
+PD: i turn on the sixty-four 
+>>> PD:aɪ_ t_ɜː_n_ ɔ_n_ð_ə_ s_ɪ_k_s_t_i_f_oːɹ 
+ >>>GT:aɪ_ t_ɜː_n_d_ ɔ_n_ð_ə_ s_ɪ_k_s_t_i_ f_oːɹ
+prob: 0.11538461538461539 
+ prob_ph: 0.07317073170731707 
+ -------------------------------------- 
+GT: the thirty two
+PD: the thirty
+>>> PD:ð_ə_ θ_ɜː_ɾ_i 
+ >>>GT:ð_ə_ θ_ɜː_ɾ_i_ t_uː
+prob: 0.2857142857142857 
+ prob_ph: 0.3157894736842105 
+ -------------------------------------- 
+GT: it was three
+PD: there was three 
+>>> PD:ð_ɛɹ_w_ʌ_z_ θ_ɹ_iː 
+ >>>GT:ɪ_t_ w_ʌ_z_ θ_ɹ_iː
+prob: 0.4166666666666667 
+ prob_ph: 0.2222222222222222 
+ -------------------------------------- 
+GT: you got four right
+PD: we got four 
+>>> PD:w_iː_ ɡ_ɑː_t_ f_oːɹ 
+ >>>GT:j_uː_ ɡ_ɑː_t_ f_oːɹ_ ɹ_aɪ_t
+prob: 0.5 
+ prob_ph: 0.37037037037037035 
+ -------------------------------------- 
+GT: okay ill go for you
+PD: ok  ill go for 
+>>> PD:oʊ_k_eɪ_ ɪ_l_ ɡ_oʊ_ f_ɔːɹ 
+ >>>GT:oʊ_k_eɪ_ ɪ_l_ ɡ_oʊ_ f_ɔːɹ_ j_uː
+prob: 0.3157894736842105 
+ prob_ph: 0.1935483870967742 
+ -------------------------------------- 
+GT: go ahead and do it
+PD: go ahead and do it 
+>>> PD:ɡ_oʊ_ ɐ_h_ɛ_d_ æ_n_d_ d_uː_ ɪ_t 
+ >>>GT:ɡ_oʊ_ ɐ_h_ɛ_d_ æ_n_d_ d_uː_ ɪ_t
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: where do i begin
+PD: where do i begin
+>>> PD:w_ɛɹ_ d_uː_ aɪ_ b_ɪ_ɡ_ɪ_n 
+ >>>GT:w_ɛɹ_ d_uː_ aɪ_ b_ɪ_ɡ_ɪ_n
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: your ages
+PD: your agent 
+>>> PD:j_ʊ_ɹ_ eɪ_dʒ_ə_n_t 
+ >>>GT:j_ʊ_ɹ_ eɪ_dʒ_ᵻ_z
+prob: 0.2222222222222222 
+ prob_ph: 0.25 
+ -------------------------------------- 
+GT: my brother and my mom
+PD: my brother and my mom 
+>>> PD:m_aɪ_ b_ɹ_ʌ_ð_ɚ_ æ_n_d_ m_aɪ_ m_ɑː_m 
+ >>>GT:m_aɪ_ b_ɹ_ʌ_ð_ɚ_ æ_n_d_ m_aɪ_ m_ɑː_m
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: the binary
+PD: the binary 
+>>> PD:ð_ə_ b_aɪ_n_ɚ_ɹ_i 
+ >>>GT:ð_ə_ b_aɪ_n_ɚ_ɹ_i
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: yeah the binary
+PD: yeah  but binary 
+>>> PD:j_ɛ_h_ b_ʌ_t_ b_aɪ_n_ɚ_ɹ_i 
+ >>>GT:j_ɛ_h_ ð_ə_ b_aɪ_n_ɚ_ɹ_i
+prob: 0.2 
+ prob_ph: 0.16666666666666666 
+ -------------------------------------- 
+GT: and then
+PD: and then 
+>>> PD:æ_n_d_ ð_ɛ_n 
+ >>>GT:æ_n_d_ ð_ɛ_n
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: how long it took you to make that
+PD: how long it took you to make that
+>>> PD:h_aʊ_ l_ɔ_ŋ_ ɪ_t_ t_ʊ_k_ j_uː_ t_ə_ m_eɪ_k_ ð_æ_t 
+ >>>GT:h_aʊ_ l_ɔ_ŋ_ ɪ_t_ t_ʊ_k_ j_uː_ t_ə_ m_eɪ_k_ ð_æ_t
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: give me two initials from your name
+PD: give me two initials from your name 
+>>> PD:ɡ_ɪ_v_ m_iː_ t_uː_ ɪ_n_ɪ_ʃ_əl_z_ f_ɹ_ʌ_m_ j_ʊɹ_ n_eɪ_m 
+ >>>GT:ɡ_ɪ_v_ m_iː_ t_uː_ ɪ_n_ɪ_ʃ_əl_z_ f_ɹ_ʌ_m_ j_ʊɹ_ n_eɪ_m
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: dont forget mine
+PD: dont forget mine 
+>>> PD:d_oʊ_n_t_ f_ɚ_ɡ_ɛ_t_ m_aɪ_n 
+ >>>GT:d_oʊ_n_t_ f_ɚ_ɡ_ɛ_t_ m_aɪ_n
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: give me marker please
+PD: marker please 
+>>> PD:m_ɑːɹ_k_ɚ_ p_l_iː_z 
+ >>>GT:ɡ_ɪ_v_ m_iː_ m_ɑːɹ_k_ɚ_ p_l_iː_z
+prob: 0.38095238095238093 
+ prob_ph: 0.40625 
+ -------------------------------------- 
+GT: hectors gonna get the e c
+PD: hectors going to get the icy 
+>>> PD:h_ɛ_k_t_ɚ_z_ ɡ_oʊ_ɪ_ŋ_ t_ə_ ɡ_ɛ_t_ ð_ɪ_ aɪ_s_i 
+ >>>GT:h_ɛ_k_t_ɚ_z_ ɡ_ə_n_ə_ ɡ_ɛ_t_ ð_ɪ_ iː_ s_iː
+prob: 0.32 
+ prob_ph: 0.2857142857142857 
+ -------------------------------------- 
+GT: okay so what are we doing
+PD: ok  so what are we doing
+>>> PD:oʊ_k_eɪ_ s_oʊ_ w_ʌ_t_ ɑːɹ_ w_iː_ d_uː_ɪ_ŋ 
+ >>>GT:oʊ_k_eɪ_ s_oʊ_ w_ʌ_t_ ɑːɹ_ w_iː_ d_uː_ɪ_ŋ
+prob: 0.08 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: oh okay i get it
+PD: ok  i get it 
+>>> PD:oʊ_k_eɪ_ aɪ_ ɡ_ɛ_t_ ɪ_t 
+ >>>GT:oʊ_ oʊ_k_eɪ_ aɪ_ ɡ_ɛ_t_ ɪ_t
+prob: 0.3125 
+ prob_ph: 0.14814814814814814 
+ -------------------------------------- 
+GT: you gonna have a d
+PD: youre gonna have a d 
+>>> PD:j_oːɹ_ ɡ_ə_n_ə_ h_æ_v_ ɐ_ d_iː 
+ >>>GT:j_uː_ ɡ_ə_n_ə_ h_æ_v_ ɐ_ d_iː
+prob: 0.1111111111111111 
+ prob_ph: 0.06896551724137931 
+ -------------------------------------- 
+GT: what you gonna do is you gonna convert this into binary number
+PD: what youre gonna do is youre going to convert this into a binary number 
+>>> PD:w_ʌ_t_ j_oːɹ_ ɡ_ə_n_ə_ d_uː_ ɪ_z_ j_oːɹ_ ɡ_oʊ_ɪ_ŋ_ t_ə_ k_ə_n_v_ɜː_t_ ð_ɪ_s_ ɪ_n_t_ʊ_ ɐ_ b_aɪ_n_ɚ_ɹ_i_ n_ʌ_m_b_ɚ 
+ >>>GT:w_ʌ_t_ j_uː_ ɡ_ə_n_ə_ d_uː_ ɪ_z_ j_uː_ ɡ_ə_n_ə_ k_ə_n_v_ɜː_t_ ð_ɪ_s_ ɪ_n_t_ʊ_ b_aɪ_n_ɚ_ɹ_i_ n_ʌ_m_b_ɚ
+prob: 0.1774193548387097 
+ prob_ph: 0.1485148514851485 
+ -------------------------------------- 
+GT: i need help
+PD: i need help 
+>>> PD:aɪ_ n_iː_d_ h_ɛ_l_p 
+ >>>GT:aɪ_ n_iː_d_ h_ɛ_l_p
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: i know what im gonna do
+PD: i know what im doing 
+>>> PD:aɪ_ n_oʊ_ w_ʌ_t_ ɪ_m_ d_uː_ɪ_ŋ 
+ >>>GT:aɪ_ n_oʊ_ w_ʌ_t_ ɪ_m_ ɡ_ə_n_ə_ d_uː
+prob: 0.2608695652173913 
+ prob_ph: 0.2857142857142857 
+ -------------------------------------- 
+GT: now we are gonna understand the internet protocol address
+PD: now were going to understand the internet protocol ive 
+>>> PD:n_aʊ_ w_ɜː_ ɡ_oʊ_ɪ_ŋ_ t_ʊ_ ʌ_n_d_ɚ_s_t_æ_n_d_ ð_ɪ_ ɪ_n_t_ɚ_n_ɛ_t_ p_ɹ_oʊ_ɾ_ə_k_ɑː_l_ aɪ_v 
+ >>>GT:n_aʊ_ w_iː_ ɑːɹ_ ɡ_ə_n_ə_ ʌ_n_d_ɚ_s_t_æ_n_d_ ð_ɪ_ ɪ_n_t_ɚ_n_ɛ_t_ p_ɹ_oʊ_ɾ_ə_k_ɑː_l_ ɐ_d_ɹ_ɛ_s
+prob: 0.22807017543859648 
+ prob_ph: 0.20430107526881722 
+ -------------------------------------- 
+GT: a grayscale pixel
+PD: grayscale pixel
+>>> PD:ɡ_ɹ_eɪ_s_k_eɪ_l_ p_ɪ_k_s_əl 
+ >>>GT:ɐ_ ɡ_ɹ_eɪ_s_k_eɪ_l_ p_ɪ_k_s_əl
+prob: 0.11764705882352941 
+ prob_ph: 0.1 
+ -------------------------------------- 
+GT: from zero to two fifty five
+PD: from zero to two hundred and fifty-five 
+>>> PD:f_ɹ_ʌ_m_ z_iə_ɹ_oʊ_ t_ə_ t_uː_ h_ʌ_n_d_ɹ_ɪ_d_ æ_n_d_ f_ɪ_f_t_i_f_aɪ_v 
+ >>>GT:f_ɹ_ʌ_m_ z_iə_ɹ_oʊ_ t_ə_ t_uː_ f_ɪ_f_t_i_ f_aɪ_v
+prob: 0.48148148148148145 
+ prob_ph: 0.4791666666666667 
+ -------------------------------------- 
+GT: in the computer
+PD: in the computer 
+>>> PD:ɪ_n_ð_ə_ k_ə_m_p_j_uː_ɾ_ɚ 
+ >>>GT:ɪ_n_ð_ə_ k_ə_m_p_j_uː_ɾ_ɚ
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: how many bits
+PD: how many bits
+>>> PD:h_aʊ_ m_ɛ_n_i_ b_ɪ_t_s 
+ >>>GT:h_aʊ_ m_ɛ_n_i_ b_ɪ_t_s
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: twenty five
+PD: twenty-five
+>>> PD:t_w_ɛ_n_t_i_f_aɪ_v 
+ >>>GT:t_w_ɛ_n_t_i_ f_aɪ_v
+prob: 0.09090909090909091 
+ prob_ph: 0.05263157894736842 
+ -------------------------------------- 
+GT: two divided by
+PD: two divided by 
+>>> PD:t_uː_ d_ᵻ_v_aɪ_d_ᵻ_d_ b_aɪ 
+ >>>GT:t_uː_ d_ᵻ_v_aɪ_d_ᵻ_d_ b_aɪ
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: so you guys see the mario
+PD: so you guys see the mario
+>>> PD:s_oʊ_ j_uː_ ɡ_aɪ_z_ s_iː_ ð_ə_ m_ɑːɹ_ɹ_ɪ_oʊ 
+ >>>GT:s_oʊ_ j_uː_ ɡ_aɪ_z_ s_iː_ ð_ə_ m_ɑːɹ_ɹ_ɪ_oʊ
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: you guys see this
+PD: you guys see this 
+>>> PD:j_uː_ ɡ_aɪ_z_ s_iː_ ð_ɪ_s 
+ >>>GT:j_uː_ ɡ_aɪ_z_ s_iː_ ð_ɪ_s
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: love math so much
+PD: i love math so much 
+>>> PD:aɪ_ l_ʌ_v_ m_æ_θ_ s_oʊ_ m_ʌ_tʃ 
+ >>>GT:l_ʌ_v_ m_æ_θ_ s_oʊ_ m_ʌ_tʃ
+prob: 0.11764705882352941 
+ prob_ph: 0.15384615384615385 
+ -------------------------------------- 
+GT: once you understand the math
+PD: once you understand the math 
+>>> PD:w_ʌ_n_s_ j_uː_ ʌ_n_d_ɚ_s_t_æ_n_d_ ð_ə_ m_æ_θ 
+ >>>GT:w_ʌ_n_s_ j_uː_ ʌ_n_d_ɚ_s_t_æ_n_d_ ð_ə_ m_æ_θ
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: i need it too
+PD: i needed to 
+>>> PD:aɪ_ n_iː_d_ᵻ_d_ t_uː 
+ >>>GT:aɪ_ n_iː_d_ ɪ_t_ t_uː
+prob: 0.3076923076923077 
+ prob_ph: 0.14285714285714285 
+ -------------------------------------- 
+GT: is because once you get into hexa
+PD: is because once you get into hexa 
+>>> PD:ɪ_z_ b_ɪ_k_ʌ_z_ w_ʌ_n_s_ j_uː_ ɡ_ɛ_t_ ɪ_n_t_ʊ_ h_ɛ_k_s_ə 
+ >>>GT:ɪ_z_ b_ɪ_k_ʌ_z_ w_ʌ_n_s_ j_uː_ ɡ_ɛ_t_ ɪ_n_t_ʊ_ h_ɛ_k_s_ə
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: you see how theres two fifty five
+PD: do you see how theres two hundred and fifty-five
+>>> PD:d_uː_ j_uː_ s_iː_ h_aʊ_ ð_ɚ_z_ t_uː_ h_ʌ_n_d_ɹ_ɪ_d_ æ_n_d_ f_ɪ_f_t_i_f_aɪ_v 
+ >>>GT:j_uː_ s_iː_ h_aʊ_ ð_ɚ_z_ t_uː_ f_ɪ_f_t_i_ f_aɪ_v
+prob: 0.48484848484848486 
+ prob_ph: 0.6041666666666666 
+ -------------------------------------- 
+GT: the computer understands these numbers
+PD: the computer understands these numbers 
+>>> PD:ð_ə_ k_ə_m_p_j_uː_ɾ_ɚ_ɹ_ ʌ_n_d_ɚ_s_t_æ_n_d_z_ ð_iː_z_ n_ʌ_m_b_ɚ_z 
+ >>>GT:ð_ə_ k_ə_m_p_j_uː_ɾ_ɚ_ɹ_ ʌ_n_d_ɚ_s_t_æ_n_d_z_ ð_iː_z_ n_ʌ_m_b_ɚ_z
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: letters and numbers
+PD: letters and numbers 
+>>> PD:l_ɛ_ɾ_ɚ_z_ æ_n_d_ n_ʌ_m_b_ɚ_z 
+ >>>GT:l_ɛ_ɾ_ɚ_z_ æ_n_d_ n_ʌ_m_b_ɚ_z
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: knows to stay white
+PD: knows to stay white 
+>>> PD:n_oʊ_z_ t_ə_ s_t_eɪ_ w_aɪ_t 
+ >>>GT:n_oʊ_z_ t_ə_ s_t_eɪ_ w_aɪ_t
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: i need a marker
+PD: money market 
+>>> PD:m_ʌ_n_i_ m_ɑːɹ_k_ɪ_t 
+ >>>GT:aɪ_ n_iː_d_ ɐ_ m_ɑːɹ_k_ɚ
+prob: 0.4666666666666667 
+ prob_ph: 0.5416666666666666 
+ -------------------------------------- 
+GT: hes already done
+PD: hes already done 
+>>> PD:h_iː_z_ ɔː_l_ɹ_ɛ_d_i_ d_ʌ_n 
+ >>>GT:h_iː_z_ ɔː_l_ɹ_ɛ_d_i_ d_ʌ_n
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: row one two three etc
+PD: so its row one hundred and twenty-three etcetera 
+>>> PD:s_oʊ_ ɪ_t_s_ ɹ_oʊ_ w_ʌ_n_ h_ʌ_n_d_ɹ_ɪ_d_ æ_n_d_ t_w_ɛ_n_t_i_θ_ɹ_iː_ ɛ_t_s_ɪ_ɾ_ɚ_ɹ_ə 
+ >>>GT:ɹ_oʊ_ w_ʌ_n_ t_uː_ θ_ɹ_iː_ ɛ_t_s_ɛ_t_ɹ_ə
+prob: 1.380952380952381 
+ prob_ph: 1.2 
+ -------------------------------------- 
+GT: oh i guess we are off a little bit so i guess zero would be this one
+PD: oh well  i guess where were off a little bit  so i guess zero zero would be this one 
+>>> PD:oʊ_ w_ɛ_l_ aɪ_ ɡ_ɛ_s_ w_ɛɹ_ w_ɜː_ɹ_ ɔ_f_ ɐ_ l_ɪ_ɾ_əl_ b_ɪ_t_ s_oʊ_ aɪ_ ɡ_ɛ_s_ z_iə_ɹ_oʊ_ z_iə_ɹ_oʊ_ w_ʊ_d_ b_iː_ ð_ɪ_s_w_ʌ_n 
+ >>>GT:oʊ_ aɪ_ ɡ_ɛ_s_ w_iː_ ɑː_ɹ_ ɔ_f_ ɐ_ l_ɪ_ɾ_əl_ b_ɪ_t_ s_oʊ_ aɪ_ ɡ_ɛ_s_ z_iə_ɹ_oʊ_ w_ʊ_d_ b_iː_ ð_ɪ_s_w_ʌ_n
+prob: 0.22058823529411764 
+ prob_ph: 0.22115384615384615 
+ -------------------------------------- 
+GT: in this case zero would be here
+PD: in this case  zero would be here 
+>>> PD:ɪ_n_ ð_ɪ_s_ k_eɪ_s_ z_iə_ɹ_oʊ_ w_ʊ_d_ b_iː_ h_ɪɹ 
+ >>>GT:ɪ_n_ ð_ɪ_s_ k_eɪ_s_ z_iə_ɹ_oʊ_ w_ʊ_d_ b_iː_ h_ɪɹ
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: it should be one right
+PD: should have been one  right
+>>> PD:ʃ_ʊ_d_ə_v_ b_ɪ_n_ w_ʌ_n_ ɹ_aɪ_t 
+ >>>GT:ɪ_t_ ʃ_ʊ_d_ b_iː_ w_ʌ_n_ ɹ_aɪ_t
+prob: 0.45454545454545453 
+ prob_ph: 0.2903225806451613 
+ -------------------------------------- 
+GT: is like this you have to put zero
+PD: its like this  you have to put stereo 
+>>> PD:ɪ_t_s_ l_aɪ_k_ ð_ɪ_s_ j_uː_ h_æ_v_ t_ə_ p_ʊ_t_ s_t_ɛ_ɹ_ɪ_oʊ 
+ >>>GT:ɪ_z_ l_aɪ_k_ ð_ɪ_s_ j_uː_ h_æ_v_ t_ə_ p_ʊ_t_ z_iə_ɹ_oʊ
+prob: 0.12121212121212122 
+ prob_ph: 0.16666666666666666 
+ -------------------------------------- 
+GT: one two three four five six
+PD: one hundred and twenty-three thousand, four hundred and fifty-six 
+>>> PD:w_ʌ_n_ h_ʌ_n_d_ɹ_ɪ_d_ æ_n_d_ t_w_ɛ_n_t_i_θ_ɹ_iː_ θ_aʊ_z_ə_n_d_ f_oːɹ_ h_ʌ_n_d_ɹ_ɪ_d_ æ_n_d_ f_ɪ_f_t_i_s_ɪ_k_s 
+ >>>GT:w_ʌ_n_ t_uː_ θ_ɹ_iː_ f_oːɹ_ f_aɪ_v_ s_ɪ_k_s
+prob: 1.5925925925925926 
+ prob_ph: 1.6744186046511629 
+ -------------------------------------- 
+GT: what zero you are talking about
+PD: whats your are you talking about
+>>> PD:w_ʌ_t_s_ j_ʊ_ɹ_ ɑːɹ_ j_uː_ t_ɔː_k_ɪ_ŋ_ ɐ_b_aʊ_t 
+ >>>GT:w_ʌ_t_ z_iə_ɹ_oʊ_ j_uː_ ɑːɹ_ t_ɔː_k_ɪ_ŋ_ ɐ_b_aʊ_t
+prob: 0.3225806451612903 
+ prob_ph: 0.2857142857142857 
+ -------------------------------------- 
+GT: he is slow i been like in a three
+PD: hes slow  ive been like in three steps 
+>>> PD:h_iː_z_ s_l_oʊ_ aɪ_v_ b_ɪ_n_ l_aɪ_k_ ɪ_n_ θ_ɹ_iː_ s_t_ɛ_p_s 
+ >>>GT:h_iː_ ɪ_z_ s_l_oʊ_ aɪ_ b_ɪ_n_ l_aɪ_k_ ɪ_n_ ɐ_ θ_ɹ_iː
+prob: 0.36363636363636365 
+ prob_ph: 0.34615384615384615 
+ -------------------------------------- 
+GT: we talk about how zero represents black
+PD: and talk about how zero represents black 
+>>> PD:æ_n_d_ t_ɔː_k_ ɐ_b_aʊ_t_ h_aʊ_ z_iə_ɹ_oʊ_ ɹ_ɛ_p_ɹ_ᵻ_z_ɛ_n_t_s_ b_l_æ_k 
+ >>>GT:w_iː_ t_ɔː_k_ ɐ_b_aʊ_t_ h_aʊ_ z_iə_ɹ_oʊ_ ɹ_ɛ_p_ɹ_ᵻ_z_ɛ_n_t_s_ b_l_æ_k
+prob: 0.07692307692307693 
+ prob_ph: 0.057971014492753624 
+ -------------------------------------- 
+GT: one representes white
+PD: one represents white 
+>>> PD:w_ʌ_n_ ɹ_ɛ_p_ɹ_ᵻ_z_ɛ_n_t_s_ w_aɪ_t 
+ >>>GT:w_ʌ_n_ ɹ_ɛ_p_ɹ_ᵻ_z_ɛ_n_t_s_ w_aɪ_t
+prob: 0.047619047619047616 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: what is in binary f f
+PD: and what is in binary f
+>>> PD:æ_n_d_ w_ʌ_t_ ɪ_z_ ɪ_n_ b_aɪ_n_ɚ_ɹ_i_ ɛ_f 
+ >>>GT:w_ʌ_t_ ɪ_z_ ɪ_n_ b_aɪ_n_ɚ_ɹ_i_ ɛ_f_ ɛ_f
+prob: 0.2857142857142857 
+ prob_ph: 0.3076923076923077 
+ -------------------------------------- 
+GT: one one
+PD: one one
+>>> PD:w_ʌ_n_ w_ʌ_n 
+ >>>GT:w_ʌ_n_ w_ʌ_n
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: f f in binary
+PD: ffm binary
+>>> PD:ɛ_f_ɛ_f_ɛ_m_ b_aɪ_n_ɚ_ɹ_i 
+ >>>GT:ɛ_f_ ɛ_f_ ɪ_n_ b_aɪ_n_ɚ_ɹ_i
+prob: 0.3076923076923077 
+ prob_ph: 0.14814814814814814 
+ -------------------------------------- 
+GT: so if everything is one everything is white ok
+PD: so if everything is one  that means everything is white turned on 
+>>> PD:s_oʊ_ ɪ_f_ ɛ_v_ɹ_ɪ_θ_ɪ_ŋ_ ɪ_z_ w_ʌ_n_ ð_æ_t_ m_iː_n_z_ ɛ_v_ɹ_ɪ_θ_ɪ_ŋ_ ɪ_z_ w_aɪ_t_ t_ɜː_n_d_ ɔ_n 
+ >>>GT:s_oʊ_ ɪ_f_ ɛ_v_ɹ_ɪ_θ_ɪ_ŋ_ ɪ_z_ w_ʌ_n_ ɛ_v_ɹ_ɪ_θ_ɪ_ŋ_ ɪ_z_ w_aɪ_t_ oʊ_k_eɪ
+prob: 0.41304347826086957 
+ prob_ph: 0.3835616438356164 
+ -------------------------------------- 
+GT: so zero zero
+PD: four hundred
+>>> PD:f_oːɹ_ h_ʌ_n_d_ɹ_ɪ_d 
+ >>>GT:s_oʊ_ z_iə_ɹ_oʊ_ z_iə_ɹ_oʊ
+prob: 0.9166666666666666 
+ prob_ph: 0.6538461538461539 
+ -------------------------------------- 
+GT: how many zeros
+PD: how many zeros
+>>> PD:h_aʊ_ m_ɛ_n_i_ z_iə_ɹ_oʊ_z 
+ >>>GT:h_aʊ_ m_ɛ_n_i_ z_iə_ɹ_oʊ_z
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: so two zero look like this
+PD: i felt so20 looks like this 
+>>> PD:aɪ_ f_ɛ_l_t_ s_oʊ_ t_w_ɛ_n_t_i_ l_ʊ_k_s_ l_aɪ_k_ ð_ɪ_s 
+ >>>GT:s_oʊ_ t_uː_ z_iə_ɹ_oʊ_ l_ʊ_k_ l_aɪ_k_ ð_ɪ_s
+prob: 0.4230769230769231 
+ prob_ph: 0.5348837209302325 
+ -------------------------------------- 
+GT: four binarys
+PD: four binaries ok 
+>>> PD:f_oːɹ_ b_aɪ_n_ɚ_ɹ_i_z_ oʊ_k_eɪ 
+ >>>GT:f_oːɹ_ b_aɪ_n_ɚ_ɹ_i_z
+prob: 0.4166666666666667 
+ prob_ph: 0.42857142857142855 
+ -------------------------------------- 
+GT: so the first zero have four zeros
+PD: so the first zero has four zeros 
+>>> PD:s_oʊ_ ð_ə_ f_ɜː_s_t_ z_iə_ɹ_oʊ_ h_ɐ_z_ f_oːɹ_ z_iə_ɹ_oʊ_z 
+ >>>GT:s_oʊ_ ð_ə_ f_ɜː_s_t_ z_iə_ɹ_oʊ_ h_æ_v_ f_oːɹ_ z_iə_ɹ_oʊ_z
+prob: 0.06060606060606061 
+ prob_ph: 0.03508771929824561 
+ -------------------------------------- 
+GT: two in binary is
+PD: what two in binary is
+>>> PD:w_ʌ_t_ t_uː_ ɪ_n_ b_aɪ_n_ɚ_ɹ_i_ ɪ_z 
+ >>>GT:t_uː_ ɪ_n_ b_aɪ_n_ɚ_ɹ_i_ ɪ_z
+prob: 0.3125 
+ prob_ph: 0.25 
+ -------------------------------------- 
+GT: binary
+PD: binary 
+>>> PD:b_aɪ_n_ɚ_ɹ_i 
+ >>>GT:b_aɪ_n_ɚ_ɹ_i
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: is really close to this one
+PD: is really close to this one 
+>>> PD:ɪ_z_ ɹ_iə_l_i_ k_l_oʊ_s_ t_ə_ ð_ɪ_s_w_ʌ_n 
+ >>>GT:ɪ_z_ ɹ_iə_l_i_ k_l_oʊ_s_ t_ə_ ð_ɪ_s_w_ʌ_n
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: the next one
+PD: how many the next one
+>>> PD:h_aʊ_ m_ɛ_n_i_ ð_ə_ n_ɛ_k_s_t_ w_ʌ_n 
+ >>>GT:ð_ə_ n_ɛ_k_s_t_ w_ʌ_n
+prob: 0.75 
+ prob_ph: 0.7142857142857143 
+ -------------------------------------- 
+GT: so three cero right
+PD: so30  right
+>>> PD:s_oʊ_ θ_ɜː_ɾ_i_ ɹ_aɪ_t 
+ >>>GT:s_oʊ_ θ_ɹ_iː_ s_iə_ɹ_oʊ_ ɹ_aɪ_t
+prob: 0.5789473684210527 
+ prob_ph: 0.3548387096774194 
+ -------------------------------------- 
+GT: again one cero
+PD: again  whats zero
+>>> PD:ɐ_ɡ_ɛ_n_ w_ʌ_t_s_ z_iə_ɹ_oʊ 
+ >>>GT:ɐ_ɡ_ɛ_n_ w_ʌ_n_ s_iə_ɹ_oʊ
+prob: 0.42857142857142855 
+ prob_ph: 0.16 
+ -------------------------------------- 
+GT: three was three
+PD: three  whats three
+>>> PD:θ_ɹ_iː_ w_ʌ_t_s_ θ_ɹ_iː 
+ >>>GT:θ_ɹ_iː_ w_ʌ_z_ θ_ɹ_iː
+prob: 0.13333333333333333 
+ prob_ph: 0.14285714285714285 
+ -------------------------------------- 
+GT: okey zero zero one one
+PD: ok  zero zero one one 
+>>> PD:oʊ_k_eɪ_ z_iə_ɹ_oʊ_ z_iə_ɹ_oʊ_ w_ʌ_n_ w_ʌ_n 
+ >>>GT:oʊ_k_i_ z_iə_ɹ_oʊ_ z_iə_ɹ_oʊ_ w_ʌ_n_ w_ʌ_n
+prob: 0.09090909090909091 
+ prob_ph: 0.047619047619047616 
+ -------------------------------------- 
+GT: go ahead and look at the last one
+PD: lets go ahead and look at the last one 
+>>> PD:l_ɛ_t_s_ ɡ_oʊ_ ɐ_h_ɛ_d_ æ_n_d_ l_ʊ_k_ æ_t_ ð_ə_ l_æ_s_t_ w_ʌ_n 
+ >>>GT:ɡ_oʊ_ ɐ_h_ɛ_d_ æ_n_d_ l_ʊ_k_ æ_t_ ð_ə_ l_æ_s_t_ w_ʌ_n
+prob: 0.15151515151515152 
+ prob_ph: 0.16981132075471697 
+ -------------------------------------- 
+GT: so this one is f zero
+PD: so this one f0 
+>>> PD:s_oʊ_ ð_ɪ_s_w_ʌ_n_ ɛ_f_ z_iə_ɹ_oʊ 
+ >>>GT:s_oʊ_ ð_ɪ_s_w_ʌ_n_ ɪ_z_ ɛ_f_ z_iə_ɹ_oʊ
+prob: 0.38095238095238093 
+ prob_ph: 0.13157894736842105 
+ -------------------------------------- 
+GT: so this one has some black
+PD: so this one has some black 
+>>> PD:s_oʊ_ ð_ɪ_s_w_ʌ_n_ h_ɐ_z_ s_ʌ_m_ b_l_æ_k 
+ >>>GT:s_oʊ_ ð_ɪ_s_w_ʌ_n_ h_ɐ_z_ s_ʌ_m_ b_l_æ_k
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: no is five five
+PD: no  its fifty-five 
+>>> PD:n_oʊ_ ɪ_t_s_ f_ɪ_f_t_i_f_aɪ_v 
+ >>>GT:n_oʊ_ ɪ_z_ f_aɪ_v_ f_aɪ_v
+prob: 0.3333333333333333 
+ prob_ph: 0.36 
+ -------------------------------------- 
+GT: look is this one
+PD: look is this one 
+>>> PD:l_ʊ_k_ ɪ_z_ ð_ɪ_s_w_ʌ_n 
+ >>>GT:l_ʊ_k_ ɪ_z_ ð_ɪ_s_w_ʌ_n
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: black is zero zero okey
+PD: the black is zero zero ok 
+>>> PD:ð_ə_ b_l_æ_k_ ɪ_z_ z_iə_ɹ_oʊ_ z_iə_ɹ_oʊ_ oʊ_k_eɪ 
+ >>>GT:b_l_æ_k_ ɪ_z_ z_iə_ɹ_oʊ_ z_iə_ɹ_oʊ_ oʊ_k_i
+prob: 0.2608695652173913 
+ prob_ph: 0.16666666666666666 
+ -------------------------------------- 
+GT: okey lets try zero one
+PD: ok  lets try zero one 
+>>> PD:oʊ_k_eɪ_ l_ɛ_t_s_ t_ɹ_aɪ_ z_iə_ɹ_oʊ_ w_ʌ_n 
+ >>>GT:oʊ_k_i_ l_ɛ_t_s_ t_ɹ_aɪ_ z_iə_ɹ_oʊ_ w_ʌ_n
+prob: 0.09090909090909091 
+ prob_ph: 0.04878048780487805 
+ -------------------------------------- 
+GT: cause zero zero is black
+PD: zero zero is black 
+>>> PD:z_iə_ɹ_oʊ_ z_iə_ɹ_oʊ_ ɪ_z_ b_l_æ_k 
+ >>>GT:k_ɔː_z_ z_iə_ɹ_oʊ_ z_iə_ɹ_oʊ_ ɪ_z_ b_l_æ_k
+prob: 0.25 
+ prob_ph: 0.19047619047619047 
+ -------------------------------------- 
+GT: do zero f
+PD: the 0f
+>>> PD:ð_ə_ z_iə_ɹ_oʊ_ ɛ_f 
+ >>>GT:d_uː_ z_iə_ɹ_oʊ_ ɛ_f
+prob: 0.7777777777777778 
+ prob_ph: 0.15 
+ -------------------------------------- 
+GT: which one is zero zero
+PD: which one zero zero
+>>> PD:w_ɪ_tʃ_ w_ʌ_n_ z_iə_ɹ_oʊ_ z_iə_ɹ_oʊ 
+ >>>GT:w_ɪ_tʃ_ w_ʌ_n_ ɪ_z_ z_iə_ɹ_oʊ_ z_iə_ɹ_oʊ
+prob: 0.13636363636363635 
+ prob_ph: 0.125 
+ -------------------------------------- 
+GT: like five tens we have right
+PD: like five tens we have  right
+>>> PD:l_aɪ_k_ f_aɪ_v_ t_ɛ_n_z_ w_iː_ h_æ_v_ ɹ_aɪ_t 
+ >>>GT:l_aɪ_k_ f_aɪ_v_ t_ɛ_n_z_ w_iː_ h_æ_v_ ɹ_aɪ_t
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: its two three or two
+PD: its two or three or two 
+>>> PD:ɪ_t_s_ t_uː_ ɔːɹ_ θ_ɹ_iː_ ɔːɹ_ t_uː 
+ >>>GT:ɪ_t_s_ t_uː_ θ_ɹ_iː_ ɔːɹ_ t_uː
+prob: 0.15 
+ prob_ph: 0.16666666666666666 
+ -------------------------------------- 
+GT: you choose the number
+PD: you choose the number 
+>>> PD:j_uː_ tʃ_uː_z_ ð_ə_ n_ʌ_m_b_ɚ 
+ >>>GT:j_uː_ tʃ_uː_z_ ð_ə_ n_ʌ_m_b_ɚ
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: its only four letters okey
+PD: its its only four letters  ok
+>>> PD:ɪ_t_s_ ɪ_t_s_ oʊ_n_l_i_ f_oːɹ_ l_ɛ_ɾ_ɚ_z_ oʊ_k_eɪ 
+ >>>GT:ɪ_t_s_ oʊ_n_l_i_ f_oːɹ_ l_ɛ_ɾ_ɚ_z_ oʊ_k_i
+prob: 0.23076923076923078 
+ prob_ph: 0.21951219512195122 
+ -------------------------------------- 
+GT: row one and what is the column
+PD: rule one and what is the column
+>>> PD:ɹ_uː_l_ w_ʌ_n_ æ_n_d_ w_ʌ_t_ ɪ_z_ ð_ə_ k_ɑː_l_ʌ_m 
+ >>>GT:ɹ_oʊ_ w_ʌ_n_ æ_n_d_ w_ʌ_t_ ɪ_z_ ð_ə_ k_ɑː_l_ʌ_m
+prob: 0.1 
+ prob_ph: 0.0851063829787234 
+ -------------------------------------- 
+GT: you put zero
+PD: or you bought zero
+>>> PD:ɔːɹ_ j_uː_ b_ɔː_t_ z_iə_ɹ_oʊ 
+ >>>GT:j_uː_ p_ʊ_t_ z_iə_ɹ_oʊ
+prob: 0.5833333333333334 
+ prob_ph: 0.36363636363636365 
+ -------------------------------------- 
+GT: so you need to put zero in every column
+PD: so you need to put zero in every color 
+>>> PD:s_oʊ_ j_uː_ n_iː_d_ t_ə_ p_ʊ_t_ z_iə_ɹ_oʊ_ ɪ_n_ ɛ_v_ɹ_i_ k_ʌ_l_ɚ 
+ >>>GT:s_oʊ_ j_uː_ n_iː_d_ t_ə_ p_ʊ_t_ z_iə_ɹ_oʊ_ ɪ_n_ ɛ_v_ɹ_i_ k_ɑː_l_ʌ_m
+prob: 0.07692307692307693 
+ prob_ph: 0.07462686567164178 
+ -------------------------------------- 
+GT: column two row three
+PD: the phone number is zero zero 
+>>> PD:ð_ə_ f_oʊ_n_ n_ʌ_m_b_ɚ_ɹ_ ɪ_z_ z_iə_ɹ_oʊ_ z_iə_ɹ_oʊ 
+ >>>GT:k_ɑː_l_ʌ_m_ t_uː_ ɹ_oʊ_ θ_ɹ_iː
+prob: 1.15 
+ prob_ph: 1.0666666666666667 
+ -------------------------------------- 
+GT: column three row four
+PD: column three 
+>>> PD:k_ɑː_l_ʌ_m_ θ_ɹ_iː 
+ >>>GT:k_ɑː_l_ʌ_m_ θ_ɹ_iː_ ɹ_oʊ_ f_oːɹ
+prob: 0.42857142857142855 
+ prob_ph: 0.41935483870967744 
+ -------------------------------------- 
+GT: column four row five
+PD: column four 
+>>> PD:k_ɑː_l_ʌ_m_ f_oːɹ 
+ >>>GT:k_ɑː_l_ʌ_m_ f_oːɹ_ ɹ_oʊ_ f_aɪ_v
+prob: 0.45 
+ prob_ph: 0.45161290322580644 
+ -------------------------------------- 
+GT: column six row four
+PD: carla six hundred and four 
+>>> PD:k_ɑːɹ_l_ə_ s_ɪ_k_s_ h_ʌ_n_d_ɹ_ɪ_d_ æ_n_d_ f_oːɹ 
+ >>>GT:k_ɑː_l_ʌ_m_ s_ɪ_k_s_ ɹ_oʊ_ f_oːɹ
+prob: 0.7894736842105263 
+ prob_ph: 0.6875 
+ -------------------------------------- 
+GT: its an another computer telling us the coordinates
+PD: also another computers telling us the coordinates 
+>>> PD:ɔː_l_s_oʊ_ ɐ_n_ʌ_ð_ɚ_ k_ə_m_p_j_uː_ɾ_ɚ_z_ t_ɛ_l_ɪ_ŋ_ ʌ_s_ ð_ə_ k_oʊ_ɔːɹ_d_ᵻ_n_ə_t_s 
+ >>>GT:ɪ_t_s_ ɐ_n_ ɐ_n_ʌ_ð_ɚ_ k_ə_m_p_j_uː_ɾ_ɚ_ t_ɛ_l_ɪ_ŋ_ ʌ_s_ ð_ə_ k_oʊ_ɔːɹ_d_ᵻ_n_ə_t_s
+prob: 0.12 
+ prob_ph: 0.10975609756097561 
+ -------------------------------------- 
+GT: at the end of the day
+PD: at the end of the day 
+>>> PD:æ_t_ ð_ɪ_ ɛ_n_d_ ʌ_v_ð_ə_ d_eɪ 
+ >>>GT:æ_t_ ð_ɪ_ ɛ_n_d_ ʌ_v_ð_ə_ d_eɪ
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: we are not expecting
+PD: were not expect 
+>>> PD:w_ɜː_ n_ɑː_t_ ɛ_k_s_p_ɛ_k_t 
+ >>>GT:w_iː_ ɑːɹ_ n_ɑː_t_ ɛ_k_s_p_ɛ_k_t_ɪ_ŋ
+prob: 0.25 
+ prob_ph: 0.2777777777777778 
+ -------------------------------------- 
+GT: what did we learn
+PD: what do we learn
+>>> PD:w_ʌ_t_ d_uː_ w_iː_ l_ɜː_n 
+ >>>GT:w_ʌ_t_ d_ɪ_d_ w_iː_ l_ɜː_n
+prob: 0.11764705882352941 
+ prob_ph: 0.11538461538461539 
+ -------------------------------------- 
+GT: the print command
+PD: command 
+>>> PD:k_ə_m_æ_n_d 
+ >>>GT:ð_ə_ p_ɹ_ɪ_n_t_ k_ə_m_æ_n_d
+prob: 0.5882352941176471 
+ prob_ph: 0.5925925925925926 
+ -------------------------------------- 
+GT: it creates
+PD: it creates 
+>>> PD:ɪ_t_ k_ɹ_iː_eɪ_t_s 
+ >>>GT:ɪ_t_ k_ɹ_iː_eɪ_t_s
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: pressed it
+PD: preston 
+>>> PD:p_ɹ_ɛ_s_t_ə_n 
+ >>>GT:p_ɹ_ɛ_s_t_ ɪ_t
+prob: 0.6 
+ prob_ph: 0.21428571428571427 
+ -------------------------------------- 
+GT: add numbers
+PD: that number 
+>>> PD:ð_æ_t_ n_ʌ_m_b_ɚ 
+ >>>GT:æ_d_ n_ʌ_m_b_ɚ_z
+prob: 0.45454545454545453 
+ prob_ph: 0.3125 
+ -------------------------------------- 
+GT: its gonna
+PD: its gone 
+>>> PD:ɪ_t_s_ ɡ_ɔ_n 
+ >>>GT:ɪ_t_s_ ɡ_ə_n_ə
+prob: 0.2222222222222222 
+ prob_ph: 0.21428571428571427 
+ -------------------------------------- 
+GT: what is your name
+PD: whats your name
+>>> PD:w_ʌ_t_s_ j_ʊɹ_ n_eɪ_m 
+ >>>GT:w_ʌ_t_ ɪ_z_ j_ʊɹ_ n_eɪ_m
+prob: 0.11764705882352941 
+ prob_ph: 0.16666666666666666 
+ -------------------------------------- 
+GT: the computer
+PD: well  lets have it 
+>>> PD:w_ɛ_l_ l_ɛ_t_s_ h_æ_v_ ɪ_t 
+ >>>GT:ð_ə_ k_ə_m_p_j_uː_ɾ_ɚ
+prob: 1.25 
+ prob_ph: 0.7619047619047619 
+ -------------------------------------- 
+GT: what do you think
+PD: what do you think
+>>> PD:w_ʌ_t_ d_uː_ j_uː_ θ_ɪ_ŋ_k 
+ >>>GT:w_ʌ_t_ d_uː_ j_uː_ θ_ɪ_ŋ_k
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: for example
+PD: for example 
+>>> PD:f_ɔː_ɹ_ ɛ_ɡ_z_æ_m_p_əl 
+ >>>GT:f_ɔː_ɹ_ ɛ_ɡ_z_æ_m_p_əl
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: it gives an interface
+PD: it gives an interface 
+>>> PD:ɪ_t_ ɡ_ɪ_v_z_ ɐ_n_ ɪ_n_t_ɚ_f_eɪ_s 
+ >>>GT:ɪ_t_ ɡ_ɪ_v_z_ ɐ_n_ ɪ_n_t_ɚ_f_eɪ_s
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: from this
+PD: from this
+>>> PD:f_ɹ_ʌ_m_ ð_ɪ_s 
+ >>>GT:f_ɹ_ʌ_m_ ð_ɪ_s
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: do you remember
+PD: do you mean
+>>> PD:d_uː_ j_uː_ m_iː_n 
+ >>>GT:d_uː_ j_uː_ ɹ_ᵻ_m_ɛ_m_b_ɚ
+prob: 0.4 
+ prob_ph: 0.4 
+ -------------------------------------- 
+GT: can you please tell us
+PD: can you please tell
+>>> PD:k_æ_n_ j_uː_ p_l_iː_z_ t_ɛ_l 
+ >>>GT:k_æ_n_ j_uː_ p_l_iː_z_ t_ɛ_l_ ʌ_s
+prob: 0.13636363636363635 
+ prob_ph: 0.15151515151515152 
+ -------------------------------------- 
+GT: opening the files from the
+PD: opening the files from the 
+>>> PD:oʊ_p_ə_n_ɪ_ŋ_ ð_ə_ f_aɪ_l_z_ f_ɹ_ʌ_m_ð_ə 
+ >>>GT:oʊ_p_ə_n_ɪ_ŋ_ ð_ə_ f_aɪ_l_z_ f_ɹ_ʌ_m_ð_ə
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: and the file inside
+PD: and the file in 
+>>> PD:æ_n_d_ ð_ə_ f_aɪ_l_ ɪ_n 
+ >>>GT:æ_n_d_ ð_ə_ f_aɪ_l_ ɪ_n_s_aɪ_d
+prob: 0.21052631578947367 
+ prob_ph: 0.23333333333333334 
+ -------------------------------------- 
+GT: whatever you see here
+PD: whatever you see here 
+>>> PD:w_ʌ_t_ɛ_v_ɚ_ j_uː_ s_iː_ h_ɪɹ 
+ >>>GT:w_ʌ_t_ɛ_v_ɚ_ j_uː_ s_iː_ h_ɪɹ
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: use to go to folder
+PD: we used to go to fold 
+>>> PD:w_iː_ j_uː_z_d_ t_ə_ ɡ_oʊ_ t_ə_ f_oʊ_l_d 
+ >>>GT:j_uː_s_ t_ə_ ɡ_oʊ_ t_ə_ f_oʊ_l_d_ɚ
+prob: 0.3157894736842105 
+ prob_ph: 0.3235294117647059 
+ -------------------------------------- 
+GT: one two three
+PD: want you
+>>> PD:w_ɔ_n_t_ j_uː 
+ >>>GT:w_ʌ_n_ t_uː_ θ_ɹ_iː
+prob: 0.8461538461538461 
+ prob_ph: 0.47368421052631576 
+ -------------------------------------- 
+GT: how do we create a file
+PD: how do we create a file
+>>> PD:h_aʊ_ d_uː_ w_iː_ k_ɹ_iː_eɪ_t_ ɐ_ f_aɪ_l 
+ >>>GT:h_aʊ_ d_uː_ w_iː_ k_ɹ_iː_eɪ_t_ ɐ_ f_aɪ_l
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: i dont remember the names
+PD: i dont remember the name 
+>>> PD:aɪ_ d_oʊ_n_t_ ɹ_ᵻ_m_ɛ_m_b_ɚ_ ð_ə_ n_eɪ_m 
+ >>>GT:aɪ_ d_oʊ_n_t_ ɹ_ᵻ_m_ɛ_m_b_ɚ_ ð_ə_ n_eɪ_m_z
+prob: 0.04 
+ prob_ph: 0.047619047619047616 
+ -------------------------------------- 
+GT: and then session two
+PD: and then season two 
+>>> PD:æ_n_d_ ð_ɛ_n_ s_iː_z_ə_n_ t_uː 
+ >>>GT:æ_n_d_ ð_ɛ_n_ s_ɛ_ʃ_ə_n_ t_uː
+prob: 0.1 
+ prob_ph: 0.10344827586206896 
+ -------------------------------------- 
+GT: already in session three
+PD: already doesnt 
+>>> PD:ɔː_l_ɹ_ɛ_d_i_ d_ʌ_z_ə_n_t 
+ >>>GT:ɔː_l_ɹ_ɛ_d_i_ ɪ_n_ s_ɛ_ʃ_ə_n_ θ_ɹ_iː
+prob: 0.5 
+ prob_ph: 0.4166666666666667 
+ -------------------------------------- 
+GT: control plus
+PD: control plus 
+>>> PD:k_ə_n_t_ɹ_oʊ_l_ p_l_ʌ_s 
+ >>>GT:k_ə_n_t_ɹ_oʊ_l_ p_l_ʌ_s
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: and if you do control plus
+PD: and if you do control plus 
+>>> PD:æ_n_d_ ɪ_f_ j_uː_ d_uː_ k_ə_n_t_ɹ_oʊ_l_ p_l_ʌ_s 
+ >>>GT:æ_n_d_ ɪ_f_ j_uː_ d_uː_ k_ə_n_t_ɹ_oʊ_l_ p_l_ʌ_s
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: if x is equal to ten
+PD: if x is equal to one zero 
+>>> PD:ɪ_f_ ɛ_k_s_ ɪ_z_ iː_k_w_əl_ t_ə_ w_ʌ_n_ z_iə_ɹ_oʊ 
+ >>>GT:ɪ_f_ ɛ_k_s_ ɪ_z_ iː_k_w_əl_ t_ə_ t_ɛ_n
+prob: 0.35 
+ prob_ph: 0.34210526315789475 
+ -------------------------------------- 
+GT: ten to x
+PD: one zero to x 
+>>> PD:w_ʌ_n_ z_iə_ɹ_oʊ_ t_ʊ_ ɛ_k_s 
+ >>>GT:t_ɛ_n_ t_ʊ_ ɛ_k_s
+prob: 0.875 
+ prob_ph: 0.7647058823529411 
+ -------------------------------------- 
+GT: x is equal to ten
+PD: x is equal to one zero 
+>>> PD:ɛ_k_s_ ɪ_z_ iː_k_w_əl_ t_ə_ w_ʌ_n_ z_iə_ɹ_oʊ 
+ >>>GT:ɛ_k_s_ ɪ_z_ iː_k_w_əl_ t_ə_ t_ɛ_n
+prob: 0.4117647058823529 
+ prob_ph: 0.3939393939393939 
+ -------------------------------------- 
+GT: printing x
+PD: printing
+>>> PD:p_ɹ_ɪ_n_t_ɪ_ŋ 
+ >>>GT:p_ɹ_ɪ_n_t_ɪ_ŋ_ ɛ_k_s
+prob: 0.2 
+ prob_ph: 0.35 
+ -------------------------------------- 
+GT: this value
+PD: and this value 
+>>> PD:æ_n_d_ ð_ɪ_s_ v_æ_l_j_uː 
+ >>>GT:ð_ɪ_s_ v_æ_l_j_uː
+prob: 0.4 
+ prob_ph: 0.4117647058823529 
+ -------------------------------------- 
+GT: what was the question again
+PD: what was your question again
+>>> PD:w_ʌ_t_ w_ʌ_z_ j_ʊɹ_ k_w_ɛ_s_tʃ_ə_n_ ɐ_ɡ_ɛ_n 
+ >>>GT:w_ʌ_t_ w_ʌ_z_ð_ə_ k_w_ɛ_s_tʃ_ə_n_ ɐ_ɡ_ɛ_n
+prob: 0.14814814814814814 
+ prob_ph: 0.0975609756097561 
+ -------------------------------------- 
+GT: and this value
+PD: and this value 
+>>> PD:æ_n_d_ ð_ɪ_s_ v_æ_l_j_uː 
+ >>>GT:æ_n_d_ ð_ɪ_s_ v_æ_l_j_uː
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: can someone change this
+PD: can someone change the
+>>> PD:k_æ_n_ s_ʌ_m_w_ʌ_n_ tʃ_eɪ_n_dʒ_ ð_ə 
+ >>>GT:k_æ_n_ s_ʌ_m_w_ʌ_n_ tʃ_eɪ_n_dʒ_ ð_ɪ_s
+prob: 0.08695652173913043 
+ prob_ph: 0.08108108108108109 
+ -------------------------------------- 
+GT: so what is happening
+PD: so what is happening
+>>> PD:s_oʊ_ w_ʌ_t_ ɪ_z_ h_æ_p_ə_n_ɪ_ŋ 
+ >>>GT:s_oʊ_ w_ʌ_t_ ɪ_z_ h_æ_p_ə_n_ɪ_ŋ
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: whatever you type here
+PD: whatever you type here 
+>>> PD:w_ʌ_t_ɛ_v_ɚ_ j_uː_ t_aɪ_p_ h_ɪɹ 
+ >>>GT:w_ʌ_t_ɛ_v_ɚ_ j_uː_ t_aɪ_p_ h_ɪɹ
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: is over there
+PD: its over 
+>>> PD:ɪ_t_s_ oʊ_v_ɚ 
+ >>>GT:ɪ_z_ oʊ_v_ɚ_ ð_ɛɹ
+prob: 0.5384615384615384 
+ prob_ph: 0.5294117647058824 
+ -------------------------------------- 
+GT: what is gonna print
+PD: what its going to print
+>>> PD:w_ʌ_t_ ɪ_t_s_ ɡ_oʊ_ɪ_ŋ_ t_ə_ p_ɹ_ɪ_n_t 
+ >>>GT:w_ʌ_t_ ɪ_z_ ɡ_ə_n_ə_ p_ɹ_ɪ_n_t
+prob: 0.3157894736842105 
+ prob_ph: 0.36666666666666664 
+ -------------------------------------- 
+GT: let us play again
+PD: let us play a game 
+>>> PD:l_ɛ_t_ ʌ_s_ p_l_eɪ_ ɐ_ ɡ_eɪ_m 
+ >>>GT:l_ɛ_t_ ʌ_s_ p_l_eɪ_ ɐ_ɡ_ɛ_n
+prob: 0.17647058823529413 
+ prob_ph: 0.14814814814814814 
+ -------------------------------------- 
+GT: so whatever you type here
+PD: so whatever you type here 
+>>> PD:s_oʊ_ w_ʌ_t_ɛ_v_ɚ_ j_uː_ t_aɪ_p_ h_ɪɹ 
+ >>>GT:s_oʊ_ w_ʌ_t_ɛ_v_ɚ_ j_uː_ t_aɪ_p_ h_ɪɹ
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: press enter
+PD: present 
+>>> PD:p_ɹ_ɛ_z_ə_n_t 
+ >>>GT:p_ɹ_ɛ_s_ ɛ_n_t_ɚ
+prob: 0.36363636363636365 
+ prob_ph: 0.3125 
+ -------------------------------------- 
+GT: multiplied by two
+PD: want to play with you
+>>> PD:w_ɔ_n_t_ t_ə_ p_l_eɪ_ w_ɪ_ð_ j_uː 
+ >>>GT:m_ʌ_l_t_ɪ_p_l_aɪ_d_ b_aɪ_ t_uː
+prob: 1.0 
+ prob_ph: 0.5333333333333333 
+ -------------------------------------- 
+GT: they ask you the number and you put the number
+PD: they asked you the number and you put the name 
+>>> PD:ð_eɪ_ æ_s_k_t_ j_uː_ ð_ə_ n_ʌ_m_b_ɚ_ æ_n_d_ j_uː_ p_ʊ_t_ ð_ə_ n_eɪ_m 
+ >>>GT:ð_eɪ_ æ_s_k_ j_uː_ ð_ə_ n_ʌ_m_b_ɚ_ æ_n_d_ j_uː_ p_ʊ_t_ ð_ə_ n_ʌ_m_b_ɚ
+prob: 0.10869565217391304 
+ prob_ph: 0.11594202898550725 
+ -------------------------------------- 
+GT: the opposite
+PD: the opposite 
+>>> PD:ð_ɪ_ ɑː_p_ə_z_ɪ_t 
+ >>>GT:ð_ɪ_ ɑː_p_ə_z_ɪ_t
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: this play button is like
+PD: this play button is like 
+>>> PD:ð_ɪ_s_ p_l_eɪ_ b_ʌ_ʔ_n̩_ ɪ_z_ l_aɪ_k 
+ >>>GT:ð_ɪ_s_ p_l_eɪ_ b_ʌ_ʔ_n̩_ ɪ_z_ l_aɪ_k
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: play something
+PD: play something 
+>>> PD:p_l_eɪ_ s_ʌ_m_θ_ɪ_ŋ 
+ >>>GT:p_l_eɪ_ s_ʌ_m_θ_ɪ_ŋ
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: x is five
+PD: x is fine 
+>>> PD:ɛ_k_s_ ɪ_z_ f_aɪ_n 
+ >>>GT:ɛ_k_s_ ɪ_z_ f_aɪ_v
+prob: 0.1111111111111111 
+ prob_ph: 0.05555555555555555 
+ -------------------------------------- 
+GT: thats why is five
+PD: thats why it is fine 
+>>> PD:ð_æ_t_s_ w_aɪ_ ɪ_ɾ_ ɪ_z_ f_aɪ_n 
+ >>>GT:ð_æ_t_s_ w_aɪ_ ɪ_z_ f_aɪ_v
+prob: 0.23529411764705882 
+ prob_ph: 0.23076923076923078 
+ -------------------------------------- 
+GT: it just prints it
+PD: it just prints it 
+>>> PD:ɪ_t_ dʒ_ʌ_s_t_ p_ɹ_ɪ_n_t_s_ ɪ_t 
+ >>>GT:ɪ_t_ dʒ_ʌ_s_t_ p_ɹ_ɪ_n_t_s_ ɪ_t
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: and then run
+PD: and then run 
+>>> PD:æ_n_d_ ð_ɛ_n_ ɹ_ʌ_n 
+ >>>GT:æ_n_d_ ð_ɛ_n_ ɹ_ʌ_n
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: so what did it print
+PD: so what did it print
+>>> PD:s_oʊ_ w_ʌ_t_ d_ɪ_d_ ɪ_t_ p_ɹ_ɪ_n_t 
+ >>>GT:s_oʊ_ w_ʌ_t_ d_ɪ_d_ ɪ_t_ p_ɹ_ɪ_n_t
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: fifteen goals
+PD: fighting gold 
+>>> PD:f_aɪ_ɾ_ɪ_ŋ_ ɡ_oʊ_l_d 
+ >>>GT:f_ɪ_f_t_iː_n_ ɡ_oʊ_l_z
+prob: 0.5384615384615384 
+ prob_ph: 0.36363636363636365 
+ -------------------------------------- 
+GT: what are those
+PD: what are those
+>>> PD:w_ʌ_t_ ɑːɹ_ ð_oʊ_z 
+ >>>GT:w_ʌ_t_ ɑːɹ_ ð_oʊ_z
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: forget it
+PD: forget 
+>>> PD:f_ɚ_ɡ_ɛ_t 
+ >>>GT:f_ɚ_ɡ_ɛ_t_ ɪ_t
+prob: 0.3333333333333333 
+ prob_ph: 0.35714285714285715 
+ -------------------------------------- 
+GT: what can you change
+PD: what can you change
+>>> PD:w_ʌ_t_ k_æ_n_ j_uː_ tʃ_eɪ_n_dʒ 
+ >>>GT:w_ʌ_t_ k_æ_n_ j_uː_ tʃ_eɪ_n_dʒ
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: anything in this
+PD: anything in this
+>>> PD:ɛ_n_ɪ_θ_ɪ_ŋ_ ɪ_n_ ð_ɪ_s 
+ >>>GT:ɛ_n_ɪ_θ_ɪ_ŋ_ ɪ_n_ ð_ɪ_s
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: if you change
+PD: if you change 
+>>> PD:ɪ_f_ j_uː_ tʃ_eɪ_n_dʒ 
+ >>>GT:ɪ_f_ j_uː_ tʃ_eɪ_n_dʒ
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: let me change this
+PD: let me change 
+>>> PD:l_ɛ_t_ m_iː_ tʃ_eɪ_n_dʒ 
+ >>>GT:l_ɛ_t_ m_iː_ tʃ_eɪ_n_dʒ_ ð_ɪ_s
+prob: 0.2777777777777778 
+ prob_ph: 0.23333333333333334 
+ -------------------------------------- 
+GT: what is your name
+PD: what is your name
+>>> PD:w_ʌ_t_ ɪ_z_ j_ʊɹ_ n_eɪ_m 
+ >>>GT:w_ʌ_t_ ɪ_z_ j_ʊɹ_ n_eɪ_m
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: and you put hello
+PD: and you pull hello 
+>>> PD:æ_n_d_ j_uː_ p_ʊ_l_ h_ə_l_oʊ 
+ >>>GT:æ_n_d_ j_uː_ p_ʊ_t_ h_ə_l_oʊ
+prob: 0.11764705882352941 
+ prob_ph: 0.03571428571428571 
+ -------------------------------------- 
+GT: what input is
+PD: what input is
+>>> PD:w_ʌ_t_ ɪ_n_p_ʊ_t_ ɪ_z 
+ >>>GT:w_ʌ_t_ ɪ_n_p_ʊ_t_ ɪ_z
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: to give an input
+PD: to give an input 
+>>> PD:t_ə_ ɡ_ɪ_v_ ɐ_n_ ɪ_n_p_ʊ_t 
+ >>>GT:t_ə_ ɡ_ɪ_v_ ɐ_n_ ɪ_n_p_ʊ_t
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: what is your name
+PD: what is your name
+>>> PD:w_ʌ_t_ ɪ_z_ j_ʊɹ_ n_eɪ_m 
+ >>>GT:w_ʌ_t_ ɪ_z_ j_ʊɹ_ n_eɪ_m
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: if i want to know your name
+PD: if i want to know your name 
+>>> PD:ɪ_f_ aɪ_ w_ɔ_n_t_ t_ə_ n_oʊ_ j_ʊɹ_ n_eɪ_m 
+ >>>GT:ɪ_f_ aɪ_ w_ɔ_n_t_ t_ə_ n_oʊ_ j_ʊɹ_ n_eɪ_m
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: whats your name
+PD: whats your
+>>> PD:w_ʌ_t_s_ j_ʊɹ 
+ >>>GT:w_ʌ_t_s_ j_ʊɹ_ n_eɪ_m
+prob: 0.3333333333333333 
+ prob_ph: 0.38095238095238093 
+ -------------------------------------- 
+GT: to do that
+PD: to do that
+>>> PD:t_ə_ d_uː_ ð_æ_t 
+ >>>GT:t_ə_ d_uː_ ð_æ_t
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: whatever it is here
+PD: whatever it is here 
+>>> PD:w_ʌ_t_ɛ_v_ɚ_ɹ_ ɪ_ɾ_ ɪ_z_ h_ɪɹ 
+ >>>GT:w_ʌ_t_ɛ_v_ɚ_ɹ_ ɪ_ɾ_ ɪ_z_ h_ɪɹ
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: change this
+PD: change this 
+>>> PD:tʃ_eɪ_n_dʒ_ ð_ɪ_s 
+ >>>GT:tʃ_eɪ_n_dʒ_ ð_ɪ_s
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: change this input
+PD: change this in 
+>>> PD:tʃ_eɪ_n_dʒ_ ð_ɪ_s_ ɪ_n 
+ >>>GT:tʃ_eɪ_n_dʒ_ ð_ɪ_s_ ɪ_n_p_ʊ_t
+prob: 0.17647058823529413 
+ prob_ph: 0.21428571428571427 
+ -------------------------------------- 
+GT: what is gonna happen
+PD: what is going to happen
+>>> PD:w_ʌ_t_ ɪ_z_ ɡ_oʊ_ɪ_ŋ_ t_ə_ h_æ_p_ə_n 
+ >>>GT:w_ʌ_t_ ɪ_z_ ɡ_ə_n_ə_ h_æ_p_ə_n
+prob: 0.25 
+ prob_ph: 0.26666666666666666 
+ -------------------------------------- 
+GT: computer doesnt know
+PD: computer doesnt know 
+>>> PD:k_ə_m_p_j_uː_ɾ_ɚ_ d_ʌ_z_ə_n_t_ n_oʊ 
+ >>>GT:k_ə_m_p_j_uː_ɾ_ɚ_ d_ʌ_z_ə_n_t_ n_oʊ
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: green color
+PD: green color 
+>>> PD:ɡ_ɹ_iː_n_ k_ʌ_l_ɚ 
+ >>>GT:ɡ_ɹ_iː_n_ k_ʌ_l_ɚ
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: if you put this
+PD: if you put this 
+>>> PD:ɪ_f_ j_uː_ p_ʊ_t_ ð_ɪ_s 
+ >>>GT:ɪ_f_ j_uː_ p_ʊ_t_ ð_ɪ_s
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: so i wanna change this
+PD: so i want to change the 
+>>> PD:s_oʊ_ aɪ_ w_ɔ_n_t_ t_ə_ tʃ_eɪ_n_dʒ_ ð_ə 
+ >>>GT:s_oʊ_ aɪ_ w_ɔ_n_ə_ tʃ_eɪ_n_dʒ_ ð_ɪ_s
+prob: 0.2727272727272727 
+ prob_ph: 0.2222222222222222 
+ -------------------------------------- 
+GT: if i change this what is gonna happen
+PD: if i change this  what is going to
+>>> PD:ɪ_f_ aɪ_ tʃ_eɪ_n_dʒ_ ð_ɪ_s_ w_ʌ_t_ ɪ_z_ ɡ_oʊ_ɪ_ŋ_ t_uː 
+ >>>GT:ɪ_f_ aɪ_ tʃ_eɪ_n_dʒ_ ð_ɪ_s_ w_ʌ_t_ ɪ_z_ ɡ_ə_n_ə_ h_æ_p_ə_n
+prob: 0.21621621621621623 
+ prob_ph: 0.20689655172413793 
+ -------------------------------------- 
+GT: are we going to
+PD: are we going to
+>>> PD:ɑːɹ_ w_iː_ ɡ_oʊ_ɪ_ŋ_ t_uː 
+ >>>GT:ɑːɹ_ w_iː_ ɡ_oʊ_ɪ_ŋ_ t_uː
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: whatever you want to
+PD: whatever you want 
+>>> PD:w_ʌ_t_ɛ_v_ɚ_ j_uː_ w_ɔ_n_t 
+ >>>GT:w_ʌ_t_ɛ_v_ɚ_ j_uː_ w_ɔ_n_t_ t_uː
+prob: 0.15 
+ prob_ph: 0.1875 
+ -------------------------------------- 
+GT: change name to color
+PD: change name to color 
+>>> PD:tʃ_eɪ_n_dʒ_ n_eɪ_m_ t_ə_ k_ʌ_l_ɚ 
+ >>>GT:tʃ_eɪ_n_dʒ_ n_eɪ_m_ t_ə_ k_ʌ_l_ɚ
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: forty five
+PD: forty
+>>> PD:f_ɔːɹ_ɾ_i 
+ >>>GT:f_ɔːɹ_ɾ_i_ f_aɪ_v
+prob: 0.5 
+ prob_ph: 0.47058823529411764 
+ -------------------------------------- 
+GT: hello name
+PD: lonely 
+>>> PD:l_oʊ_n_l_i 
+ >>>GT:h_ə_l_oʊ_ n_eɪ_m
+prob: 0.7 
+ prob_ph: 0.5 
+ -------------------------------------- 
+GT: what is here
+PD: what is here
+>>> PD:w_ʌ_t_ ɪ_z_ h_ɪɹ 
+ >>>GT:w_ʌ_t_ ɪ_z_ h_ɪɹ
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: you dont have anything
+PD: you dont have any 
+>>> PD:j_uː_ d_oʊ_n_t_ h_æ_v_ ɛ_n_i 
+ >>>GT:j_uː_ d_oʊ_n_t_ h_æ_v_ ɛ_n_ɪ_θ_ɪ_ŋ
+prob: 0.22727272727272727 
+ prob_ph: 0.20588235294117646 
+ -------------------------------------- 
+GT: for the thing you want to ask
+PD: for the team you want to ask 
+>>> PD:f_ɚ_ð_ə_ t_iː_m_ j_uː_ w_ɔ_n_t_ t_ʊ_ æ_s_k 
+ >>>GT:f_ɚ_ð_ə_ θ_ɪ_ŋ_ j_uː_ w_ɔ_n_t_ t_ʊ_ æ_s_k
+prob: 0.13793103448275862 
+ prob_ph: 0.0975609756097561 
+ -------------------------------------- 
+GT: since i typed this
+PD: since i have typed this 
+>>> PD:s_ɪ_n_s_ aɪ_ h_æ_v_ t_aɪ_p_d_ ð_ɪ_s 
+ >>>GT:s_ɪ_n_s_ aɪ_ t_aɪ_p_d_ ð_ɪ_s
+prob: 0.2777777777777778 
+ prob_ph: 0.25 
+ -------------------------------------- 
+GT: it is not
+PD: it is not 
+>>> PD:ɪ_ɾ_ ɪ_z_ n_ɑː_t 
+ >>>GT:ɪ_ɾ_ ɪ_z_ n_ɑː_t
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: what it is
+PD: what it is
+>>> PD:w_ʌ_t_ ɪ_ɾ_ ɪ_z 
+ >>>GT:w_ʌ_t_ ɪ_ɾ_ ɪ_z
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: so it doesnt know
+PD: so it doesnt 
+>>> PD:s_oʊ_ ɪ_t_ d_ʌ_z_ə_n_t 
+ >>>GT:s_oʊ_ ɪ_t_ d_ʌ_z_ə_n_t_ n_oʊ
+prob: 0.29411764705882354 
+ prob_ph: 0.21428571428571427 
+ -------------------------------------- 
+GT: color is black
+PD: the color is black 
+>>> PD:ð_ə_ k_ʌ_l_ɚ_ɹ_ ɪ_z_ b_l_æ_k 
+ >>>GT:k_ʌ_l_ɚ_ɹ_ ɪ_z_ b_l_æ_k
+prob: 0.2857142857142857 
+ prob_ph: 0.21739130434782608 
+ -------------------------------------- 
+GT: what is this
+PD: what is this
+>>> PD:w_ʌ_t_ ɪ_z_ ð_ɪ_s 
+ >>>GT:w_ʌ_t_ ɪ_z_ ð_ɪ_s
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: i have one question for you
+PD: i have one question for 
+>>> PD:aɪ_ h_æ_v_ w_ʌ_n_ k_w_ɛ_s_tʃ_ə_n_ f_ɔːɹ 
+ >>>GT:aɪ_ h_æ_v_ w_ʌ_n_ k_w_ɛ_s_tʃ_ə_n_ f_ɔːɹ_ j_uː
+prob: 0.14814814814814814 
+ prob_ph: 0.13333333333333333 
+ -------------------------------------- 
+GT: will this be printed
+PD: will this be printed
+>>> PD:w_ɪ_l_ ð_ɪ_s_ b_iː_ p_ɹ_ɪ_n_t_ᵻ_d 
+ >>>GT:w_ɪ_l_ ð_ɪ_s_ b_iː_ p_ɹ_ɪ_n_t_ᵻ_d
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: favorite color
+PD: your favorite color 
+>>> PD:j_ʊɹ_ f_eɪ_v_ɚ_ɹ_ᵻ_t_ k_ʌ_l_ɚ 
+ >>>GT:f_eɪ_v_ɚ_ɹ_ᵻ_t_ k_ʌ_l_ɚ
+prob: 0.35714285714285715 
+ prob_ph: 0.2608695652173913 
+ -------------------------------------- 
+GT: but will that be printed
+PD: but will that be printed
+>>> PD:b_ʌ_t_ w_ɪ_l_ ð_æ_t_ b_iː_ p_ɹ_ɪ_n_t_ᵻ_d 
+ >>>GT:b_ʌ_t_ w_ɪ_l_ ð_æ_t_ b_iː_ p_ɹ_ɪ_n_t_ᵻ_d
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: control plus
+PD: control plus 
+>>> PD:k_ə_n_t_ɹ_oʊ_l_ p_l_ʌ_s 
+ >>>GT:k_ə_n_t_ɹ_oʊ_l_ p_l_ʌ_s
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: to print both of them
+PD: to print both of them 
+>>> PD:t_ə_ p_ɹ_ɪ_n_t_ b_oʊ_θ_ ʌ_v_ ð_ɛ_m 
+ >>>GT:t_ə_ p_ɹ_ɪ_n_t_ b_oʊ_θ_ ʌ_v_ ð_ɛ_m
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: to print
+PD: how to print
+>>> PD:h_aʊ_ t_ə_ p_ɹ_ɪ_n_t 
+ >>>GT:t_ə_ p_ɹ_ɪ_n_t
+prob: 0.5 
+ prob_ph: 0.42857142857142855 
+ -------------------------------------- 
+GT: what is going to happen
+PD: what is going to
+>>> PD:w_ʌ_t_ ɪ_z_ ɡ_oʊ_ɪ_ŋ_ t_uː 
+ >>>GT:w_ʌ_t_ ɪ_z_ ɡ_oʊ_ɪ_ŋ_ t_ə_ h_æ_p_ə_n
+prob: 0.30434782608695654 
+ prob_ph: 0.3333333333333333 
+ -------------------------------------- 
+GT: and the color you picked
+PD: in the color you pick 
+>>> PD:ɪ_n_ð_ə_ k_ʌ_l_ɚ_ j_uː_ p_ɪ_k 
+ >>>GT:æ_n_d_ ð_ə_ k_ʌ_l_ɚ_ j_uː_ p_ɪ_k_t
+prob: 0.16666666666666666 
+ prob_ph: 0.17647058823529413 
+ -------------------------------------- 
+GT: and color blue
+PD: and color blue 
+>>> PD:æ_n_d_ k_ʌ_l_ɚ_ b_l_uː 
+ >>>GT:æ_n_d_ k_ʌ_l_ɚ_ b_l_uː
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: mine is blue too
+PD: mine is blue too 
+>>> PD:m_aɪ_n_ ɪ_z_ b_l_uː_ t_uː 
+ >>>GT:m_aɪ_n_ ɪ_z_ b_l_uː_ t_uː
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: its going to say
+PD: its going to 
+>>> PD:ɪ_t_s_ ɡ_oʊ_ɪ_ŋ_ t_uː 
+ >>>GT:ɪ_t_s_ ɡ_oʊ_ɪ_ŋ_ t_ə_ s_eɪ
+prob: 0.25 
+ prob_ph: 0.2692307692307692 
+ -------------------------------------- 
+GT: hi blue
+PD: high blue
+>>> PD:h_aɪ_ b_l_uː 
+ >>>GT:h_aɪ_ b_l_uː
+prob: 0.2857142857142857 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: for this i give hi
+PD: for this i give him 
+>>> PD:f_ɔːɹ_ ð_ɪ_s_ aɪ_ ɡ_ɪ_v_ h_ɪ_m 
+ >>>GT:f_ɔːɹ_ ð_ɪ_s_ aɪ_ ɡ_ɪ_v_ h_aɪ
+prob: 0.05555555555555555 
+ prob_ph: 0.10344827586206896 
+ -------------------------------------- 
+GT: and for this i give blue
+PD: and for this i gave 
+>>> PD:æ_n_d_ f_ɔːɹ_ ð_ɪ_s_ aɪ_ ɡ_eɪ_v 
+ >>>GT:æ_n_d_ f_ɔːɹ_ ð_ɪ_s_ aɪ_ ɡ_ɪ_v_ b_l_uː
+prob: 0.25 
+ prob_ph: 0.23684210526315788 
+ -------------------------------------- 
+GT: its gonna print the
+PD: thats good 
+>>> PD:ð_æ_t_s_ ɡ_ʊ_d 
+ >>>GT:ɪ_t_s_ ɡ_ə_n_ə_ p_ɹ_ɪ_n_t_ ð_ə
+prob: 0.8421052631578947 
+ prob_ph: 0.7666666666666667 
+ -------------------------------------- 
+GT: you have given here hi
+PD: you have given here hi 
+>>> PD:j_uː_ h_æ_v_ ɡ_ɪ_v_ə_n_ h_ɪɹ_ h_aɪ 
+ >>>GT:j_uː_ h_æ_v_ ɡ_ɪ_v_ə_n_ h_ɪɹ_ h_aɪ
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: and then run
+PD: and then run 
+>>> PD:æ_n_d_ ð_ɛ_n_ ɹ_ʌ_n 
+ >>>GT:æ_n_d_ ð_ɛ_n_ ɹ_ʌ_n
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: what is gonna be the output
+PD: what is going to be the out
+>>> PD:w_ʌ_t_ ɪ_z_ ɡ_oʊ_ɪ_ŋ_ t_ə_b_i_ ð_ɪ_ aʊ_t 
+ >>>GT:w_ʌ_t_ ɪ_z_ ɡ_ə_n_ə_ b_iː_ ð_ɪ_ aʊ_t_p_ʊ_t
+prob: 0.2962962962962963 
+ prob_ph: 0.35714285714285715 
+ -------------------------------------- 
+GT: you are multilingual
+PD: we are multilingual 
+>>> PD:w_iː_ ɑːɹ_ m_ʌ_l_t_ɪ_l_ɪ_ŋ_ɡ_w_əl 
+ >>>GT:j_uː_ ɑːɹ_ m_ʌ_l_t_ɪ_l_ɪ_ŋ_ɡ_w_əl
+prob: 0.15 
+ prob_ph: 0.06060606060606061 
+ -------------------------------------- 
+GT: a hundred one
+PD: one zero zero
+>>> PD:w_ʌ_n_ z_iə_ɹ_oʊ_ z_iə_ɹ_oʊ 
+ >>>GT:ɐ_ h_ʌ_n_d_ɹ_ɪ_d_ w_ʌ_n
+prob: 0.9230769230769231 
+ prob_ph: 0.7391304347826086 
+ -------------------------------------- 
+GT: to be twenty one
+PD: to be twenty-one 
+>>> PD:t_ə_b_i_ t_w_ɛ_n_t_i_w_ʌ_n 
+ >>>GT:t_ə_b_i_ t_w_ɛ_n_t_i_ w_ʌ_n
+prob: 0.0625 
+ prob_ph: 0.037037037037037035 
+ -------------------------------------- 
+GT: what does this operation mean
+PD: what is this operation
+>>> PD:w_ʌ_t_ ɪ_z_ ð_ɪ_s_ ɑː_p_ɚ_ɹ_eɪ_ʃ_ə_n 
+ >>>GT:w_ʌ_t_ d_ʌ_z_ ð_ɪ_s_ ɑː_p_ɚ_ɹ_eɪ_ʃ_ə_n_ m_iː_n
+prob: 0.27586206896551724 
+ prob_ph: 0.2391304347826087 
+ -------------------------------------- 
+GT: everybody knows this operation right
+PD: everybody knows this operation 
+>>> PD:ɛ_v_ɹ_ɪ_b_ɑː_d_i_ n_oʊ_z_ ð_ɪ_s_ ɑː_p_ɚ_ɹ_eɪ_ʃ_ə_n 
+ >>>GT:ɛ_v_ɹ_ɪ_b_ɑː_d_i_ n_oʊ_z_ ð_ɪ_s_ ɑː_p_ɚ_ɹ_eɪ_ʃ_ə_n_ ɹ_aɪ_t
+prob: 0.16666666666666666 
+ prob_ph: 0.13793103448275862 
+ -------------------------------------- 
+GT: this operation
+PD: this operation 
+>>> PD:ð_ɪ_s_ ɑː_p_ɚ_ɹ_eɪ_ʃ_ə_n 
+ >>>GT:ð_ɪ_s_ ɑː_p_ɚ_ɹ_eɪ_ʃ_ə_n
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: twenty two
+PD: twenty-two
+>>> PD:t_w_ɛ_n_t_i_t_uː 
+ >>>GT:t_w_ɛ_n_t_i_ t_uː
+prob: 0.1 
+ prob_ph: 0.058823529411764705 
+ -------------------------------------- 
+GT: i dont understand you
+PD: i dont understand 
+>>> PD:aɪ_ d_oʊ_n_t_ ʌ_n_d_ɚ_s_t_æ_n_d 
+ >>>GT:aɪ_ d_oʊ_n_t_ ʌ_n_d_ɚ_s_t_æ_n_d_ j_uː
+prob: 0.19047619047619047 
+ prob_ph: 0.16216216216216217 
+ -------------------------------------- 
+GT: can you say again
+PD: can you say
+>>> PD:k_æ_n_ j_uː_ s_eɪ 
+ >>>GT:k_æ_n_ j_uː_ s_eɪ_ ɐ_ɡ_ɛ_n
+prob: 0.35294117647058826 
+ prob_ph: 0.34615384615384615 
+ -------------------------------------- 
+GT: ten plus ten
+PD: one zero and one zero 
+>>> PD:w_ʌ_n_ z_iə_ɹ_oʊ_ æ_n_d_ w_ʌ_n_ z_iə_ɹ_oʊ 
+ >>>GT:t_ɛ_n_ p_l_ʌ_s_ t_ɛ_n
+prob: 1.4166666666666667 
+ prob_ph: 1.3333333333333333 
+ -------------------------------------- 
+GT: twenty one
+PD: twenty
+>>> PD:t_w_ɛ_n_t_i 
+ >>>GT:t_w_ɛ_n_t_i_ w_ʌ_n
+prob: 0.4 
+ prob_ph: 0.3888888888888889 
+ -------------------------------------- 
+GT: why is equal to ten
+PD: y is equal to one zero 
+>>> PD:w_aɪ_ ɪ_z_ iː_k_w_əl_ t_ə_ w_ʌ_n_ z_iə_ɹ_oʊ 
+ >>>GT:w_aɪ_ ɪ_z_ iː_k_w_əl_ t_ə_ t_ɛ_n
+prob: 0.47368421052631576 
+ prob_ph: 0.40625 
+ -------------------------------------- 
+GT: why is equal to ten
+PD: why is equal to
+>>> PD:w_aɪ_ ɪ_z_ iː_k_w_əl_ t_uː 
+ >>>GT:w_aɪ_ ɪ_z_ iː_k_w_əl_ t_ə_ t_ɛ_n
+prob: 0.21052631578947367 
+ prob_ph: 0.25 
+ -------------------------------------- 
+GT: it should be capital
+PD: which we kept 
+>>> PD:w_ɪ_tʃ_ w_iː_ k_ɛ_p_t 
+ >>>GT:ɪ_t_ ʃ_ʊ_d_ b_iː_ k_æ_p_ɪ_ɾ_əl
+prob: 0.7 
+ prob_ph: 0.5 
+ -------------------------------------- 
+GT: whats going to happen
+PD: was going to happen 
+>>> PD:w_ʌ_z_ ɡ_oʊ_ɪ_ŋ_ t_ə_ h_æ_p_ə_n 
+ >>>GT:w_ʌ_t_s_ ɡ_oʊ_ɪ_ŋ_ t_ə_ h_æ_p_ə_n
+prob: 0.09523809523809523 
+ prob_ph: 0.09090909090909091 
+ -------------------------------------- 
+GT: divided by one
+PD: divided by one 
+>>> PD:d_ᵻ_v_aɪ_d_ᵻ_d_ b_aɪ_ w_ʌ_n 
+ >>>GT:d_ᵻ_v_aɪ_d_ᵻ_d_ b_aɪ_ w_ʌ_n
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: is going to be twenty
+PD: its going to be two 
+>>> PD:ɪ_t_s_ ɡ_oʊ_ɪ_ŋ_ t_ə_b_i_ t_uː 
+ >>>GT:ɪ_z_ ɡ_oʊ_ɪ_ŋ_ t_ə_b_i_ t_w_ɛ_n_t_i
+prob: 0.23809523809523808 
+ prob_ph: 0.34285714285714286 
+ -------------------------------------- 
+GT: so ten plus ten
+PD: so one zero plus 
+>>> PD:s_oʊ_ w_ʌ_n_ z_iə_ɹ_oʊ_ p_l_ʌ_s 
+ >>>GT:s_oʊ_ t_ɛ_n_ p_l_ʌ_s_ t_ɛ_n
+prob: 0.7333333333333333 
+ prob_ph: 0.48148148148148145 
+ -------------------------------------- 
+GT: ten into one
+PD: one zero into one 
+>>> PD:w_ʌ_n_ z_iə_ɹ_oʊ_ ɪ_n_t_ʊ_ w_ʌ_n 
+ >>>GT:t_ɛ_n_ ɪ_n_t_ʊ_ w_ʌ_n
+prob: 0.5833333333333334 
+ prob_ph: 0.6190476190476191 
+ -------------------------------------- 
+GT: ten plus ten plus ten
+PD: one zero and one zero and one zero 
+>>> PD:w_ʌ_n_ z_iə_ɹ_oʊ_ æ_n_d_ w_ʌ_n_ z_iə_ɹ_oʊ_ æ_n_d_ w_ʌ_n_ z_iə_ɹ_oʊ 
+ >>>GT:t_ɛ_n_ p_l_ʌ_s_ t_ɛ_n_ p_l_ʌ_s_ t_ɛ_n
+prob: 1.2857142857142858 
+ prob_ph: 1.162162162162162 
+ -------------------------------------- 
+GT: divide by small
+PD: divided by symbol 
+>>> PD:d_ᵻ_v_aɪ_d_ᵻ_d_ b_aɪ_ s_ɪ_m_b_əl 
+ >>>GT:d_ᵻ_v_aɪ_d_ b_aɪ_ s_m_ɔː_l
+prob: 0.26666666666666666 
+ prob_ph: 0.34615384615384615 
+ -------------------------------------- 
+GT: what would you type
+PD: what would you
+>>> PD:w_ʌ_t_ w_ʊ_d_ j_uː 
+ >>>GT:w_ʌ_t_ w_ʊ_d_ j_uː_ t_aɪ_p
+prob: 0.2631578947368421 
+ prob_ph: 0.3076923076923077 
+ -------------------------------------- 
+GT: ten into two
+PD: one zero into two 
+>>> PD:w_ʌ_n_ z_iə_ɹ_oʊ_ ɪ_n_t_ʊ_ t_uː 
+ >>>GT:t_ɛ_n_ ɪ_n_t_ʊ_ t_uː
+prob: 0.5833333333333334 
+ prob_ph: 0.65 
+ -------------------------------------- 
+GT: not ten divided by two
+PD: not one zero divided by 
+>>> PD:n_ɑː_t_ w_ʌ_n_ z_iə_ɹ_oʊ_ d_ᵻ_v_aɪ_d_ᵻ_d_ b_aɪ 
+ >>>GT:n_ɑː_t_ t_ɛ_n_ d_ᵻ_v_aɪ_d_ᵻ_d_ b_aɪ_ t_uː
+prob: 0.5 
+ prob_ph: 0.4634146341463415 
+ -------------------------------------- 
+GT: ten multiplied by two
+PD: one zero * two 
+>>> PD:w_ʌ_n_ z_iə_ɹ_oʊ_ æ_s_t_ɚ_ɹ_ɪ_s_k_ t_uː 
+ >>>GT:t_ɛ_n_ m_ʌ_l_t_ɪ_p_l_aɪ_d_ b_aɪ_ t_uː
+prob: 0.7142857142857143 
+ prob_ph: 0.5405405405405406 
+ -------------------------------------- 
+GT: fifty thousand multiplied by fifty thousand
+PD: fifty zero zero zero * fifty-three 
+>>> PD:f_ɪ_f_t_i_ z_iə_ɹ_oʊ_ z_iə_ɹ_oʊ_ z_iə_ɹ_oʊ_ æ_s_t_ɚ_ɹ_ɪ_s_k_ f_ɪ_f_t_i_θ_ɹ_iː 
+ >>>GT:f_ɪ_f_t_i_ θ_aʊ_z_ə_n_d_ m_ʌ_l_t_ɪ_p_l_aɪ_d_ b_aɪ_ f_ɪ_f_t_i_ θ_aʊ_z_ə_n_d
+prob: 0.627906976744186 
+ prob_ph: 0.5405405405405406 
+ -------------------------------------- 
+GT: its very hard to calculate right
+PD: its very hard to calculate  right
+>>> PD:ɪ_t_s_ v_ɛ_ɹ_i_ h_ɑːɹ_d_ t_ə_ k_æ_l_k_j_ʊ_l_eɪ_t_ ɹ_aɪ_t 
+ >>>GT:ɪ_t_s_ v_ɛ_ɹ_i_ h_ɑːɹ_d_ t_ə_ k_æ_l_k_j_ʊ_l_eɪ_t_ ɹ_aɪ_t
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: its very hard
+PD: its very 
+>>> PD:ɪ_t_s_ v_ɛ_ɹ_i 
+ >>>GT:ɪ_t_s_ v_ɛ_ɹ_i_ h_ɑːɹ_d
+prob: 0.38461538461538464 
+ prob_ph: 0.391304347826087 
+ -------------------------------------- 
+GT: do that or not
+PD: do that or not 
+>>> PD:d_uː_ ð_æ_t_ ɔːɹ_ n_ɑː_t 
+ >>>GT:d_uː_ ð_æ_t_ ɔːɹ_ n_ɑː_t
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: so what is the value
+PD: so what is the value
+>>> PD:s_oʊ_ w_ʌ_t_ ɪ_z_ ð_ə_ v_æ_l_j_uː 
+ >>>GT:s_oʊ_ w_ʌ_t_ ɪ_z_ ð_ə_ v_æ_l_j_uː
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: thirty five
+PD: thirty-five
+>>> PD:θ_ɜː_ɾ_i_f_aɪ_v 
+ >>>GT:θ_ɜː_ɾ_i_ f_aɪ_v
+prob: 0.09090909090909091 
+ prob_ph: 0.0625 
+ -------------------------------------- 
+GT: i dont know what it would be i just know that
+PD: what would you want to stop at now
+>>> PD:w_ʌ_t_ w_ʊ_d_ j_uː_ w_ɔ_n_t_ t_ə_ s_t_ɑː_p_ æ_t_ n_aʊ 
+ >>>GT:aɪ_ d_oʊ_n_t_ n_oʊ_ w_ʌ_t_ ɪ_t_ w_ʊ_d_ b_iː_ aɪ_ dʒ_ʌ_s_t_ n_oʊ_ ð_æ_t
+prob: 0.7111111111111111 
+ prob_ph: 0.5857142857142857 
+ -------------------------------------- 
+GT: can i try
+PD: can i try
+>>> PD:k_æ_n_ aɪ_ t_ɹ_aɪ 
+ >>>GT:k_æ_n_ aɪ_ t_ɹ_aɪ
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: answer an equation
+PD: answering 
+>>> PD:æ_n_s_ɚ_ɹ_ɪ_ŋ 
+ >>>GT:æ_n_s_ɚ_ɹ_ ɐ_n_ ᵻ_k_w_eɪ_ʒ_ə_n
+prob: 0.6111111111111112 
+ prob_ph: 0.6 
+ -------------------------------------- 
+GT: this is like
+PD: this is 
+>>> PD:ð_ɪ_s_ ɪ_z 
+ >>>GT:ð_ɪ_s_ ɪ_z_ l_aɪ_k
+prob: 0.4166666666666667 
+ prob_ph: 0.4444444444444444 
+ -------------------------------------- 
+GT: what is in the codes
+PD: what is in the court
+>>> PD:w_ʌ_t_ ɪ_z_ ɪ_n_ð_ə_ k_oːɹ_t 
+ >>>GT:w_ʌ_t_ ɪ_z_ ɪ_n_ð_ə_ k_oʊ_d_z
+prob: 0.15 
+ prob_ph: 0.13793103448275862 
+ -------------------------------------- 
+GT: the value of this
+PD: the value of this 
+>>> PD:ð_ə_ v_æ_l_j_uː_ ʌ_v_ ð_ɪ_s 
+ >>>GT:ð_ə_ v_æ_l_j_uː_ ʌ_v_ ð_ɪ_s
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: all these variables a value
+PD: all these variables 
+>>> PD:ɔː_l_ ð_iː_z_ v_ɛ_ɹ_ɪ_ə_b_əl_z 
+ >>>GT:ɔː_l_ ð_iː_z_ v_ɛ_ɹ_ɪ_ə_b_əl_z_ ɐ_ v_æ_l_j_uː
+prob: 0.2962962962962963 
+ prob_ph: 0.3333333333333333 
+ -------------------------------------- 
+GT: three plus two is what
+PD: three and two is 
+>>> PD:θ_ɹ_iː_ æ_n_d_ t_uː_ ɪ_z 
+ >>>GT:θ_ɹ_iː_ p_l_ʌ_s_ t_uː_ ɪ_z_ w_ʌ_t
+prob: 0.4090909090909091 
+ prob_ph: 0.36363636363636365 
+ -------------------------------------- 
+GT: is going to print
+PD: is going to be 
+>>> PD:ɪ_z_ ɡ_oʊ_ɪ_ŋ_ t_ə_ b_iː 
+ >>>GT:ɪ_z_ ɡ_oʊ_ɪ_ŋ_ t_ə_ p_ɹ_ɪ_n_t
+prob: 0.29411764705882354 
+ prob_ph: 0.27586206896551724 
+ -------------------------------------- 
+GT: is going to print
+PD: its going to be 
+>>> PD:ɪ_t_s_ ɡ_oʊ_ɪ_ŋ_ t_ə_ b_iː 
+ >>>GT:ɪ_z_ ɡ_oʊ_ɪ_ŋ_ t_ə_ p_ɹ_ɪ_n_t
+prob: 0.35294117647058826 
+ prob_ph: 0.3793103448275862 
+ -------------------------------------- 
+GT: is going to do
+PD: hes going to do 
+>>> PD:h_iː_z_ ɡ_oʊ_ɪ_ŋ_ t_ə_ d_uː 
+ >>>GT:ɪ_z_ ɡ_oʊ_ɪ_ŋ_ t_ə_ d_uː
+prob: 0.14285714285714285 
+ prob_ph: 0.16666666666666666 
+ -------------------------------------- 
+GT: if i do like this
+PD: if i do like this 
+>>> PD:ɪ_f_ aɪ_ d_uː_ l_aɪ_k_ ð_ɪ_s 
+ >>>GT:ɪ_f_ aɪ_ d_uː_ l_aɪ_k_ ð_ɪ_s
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: so what is it happening
+PD: so what is it happen
+>>> PD:s_oʊ_ w_ʌ_t_ ɪ_z_ ɪ_t_ h_æ_p_ə_n 
+ >>>GT:s_oʊ_ w_ʌ_t_ ɪ_z_ ɪ_t_ h_æ_p_ə_n_ɪ_ŋ
+prob: 0.13043478260869565 
+ prob_ph: 0.1111111111111111 
+ -------------------------------------- 
+GT: is changing from
+PD: is changing 
+>>> PD:ɪ_z_ tʃ_eɪ_n_dʒ_ɪ_ŋ 
+ >>>GT:ɪ_z_ tʃ_eɪ_n_dʒ_ɪ_ŋ_ f_ɹ_ʌ_m
+prob: 0.3125 
+ prob_ph: 0.32142857142857145 
+ -------------------------------------- 
+GT: its not going to change right
+PD: its not going to change 
+>>> PD:ɪ_t_s_ n_ɑː_t_ ɡ_oʊ_ɪ_ŋ_ t_ə_ tʃ_eɪ_n_dʒ 
+ >>>GT:ɪ_t_s_ n_ɑː_t_ ɡ_oʊ_ɪ_ŋ_ t_ə_ tʃ_eɪ_n_dʒ_ ɹ_aɪ_t
+prob: 0.20689655172413793 
+ prob_ph: 0.16666666666666666 
+ -------------------------------------- 
+GT: can you type this
+PD: can you type
+>>> PD:k_æ_n_ j_uː_ t_aɪ_p 
+ >>>GT:k_æ_n_ j_uː_ t_aɪ_p_ ð_ɪ_s
+prob: 0.29411764705882354 
+ prob_ph: 0.2692307692307692 
+ -------------------------------------- 
+GT: do you understand
+PD: did you under
+>>> PD:d_ɪ_d_ j_uː_ ʌ_n_d_ɚ 
+ >>>GT:d_uː_ j_uː_ ʌ_n_d_ɚ_s_t_æ_n_d
+prob: 0.4117647058823529 
+ prob_ph: 0.4482758620689655 
+ -------------------------------------- 
+GT: go back like this
+PD: go back like 
+>>> PD:ɡ_oʊ_ b_æ_k_ l_aɪ_k 
+ >>>GT:ɡ_oʊ_ b_æ_k_ l_aɪ_k_ ð_ɪ_s
+prob: 0.29411764705882354 
+ prob_ph: 0.2692307692307692 
+ -------------------------------------- 
+GT: and then if you want to go change this
+PD: and then if you want to go change the 
+>>> PD:æ_n_d_ ð_ɛ_n_ ɪ_f_ j_uː_ w_ɔ_n_t_ t_ə_ ɡ_oʊ_ tʃ_eɪ_n_dʒ_ ð_ə 
+ >>>GT:æ_n_d_ ð_ɛ_n_ ɪ_f_ j_uː_ w_ɔ_n_t_ t_ə_ ɡ_oʊ_ tʃ_eɪ_n_dʒ_ ð_ɪ_s
+prob: 0.05263157894736842 
+ prob_ph: 0.04838709677419355 
+ -------------------------------------- 
+GT: what if i give
+PD: what if i give
+>>> PD:w_ʌ_t_ ɪ_f_ aɪ_ ɡ_ɪ_v 
+ >>>GT:w_ʌ_t_ ɪ_f_ aɪ_ ɡ_ɪ_v
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: you can do whatever you want
+PD: so you can do whatever you 
+>>> PD:s_oʊ_ j_uː_ k_æ_n_ d_uː_ w_ʌ_t_ɛ_v_ɚ_ j_uː 
+ >>>GT:j_uː_ k_æ_n_ d_uː_ w_ʌ_t_ɛ_v_ɚ_ j_uː_ w_ɔ_n_t
+prob: 0.2857142857142857 
+ prob_ph: 0.3333333333333333 
+ -------------------------------------- 
+GT: how it is here
+PD: how it is here
+>>> PD:h_aʊ_ ɪ_ɾ_ ɪ_z_ h_ɪɹ 
+ >>>GT:h_aʊ_ ɪ_ɾ_ ɪ_z_ h_ɪɹ
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: ahh when we try to compare
+PD: how it is here
+>>> PD:h_aʊ_ ɪ_ɾ_ ɪ_z_ h_ɪɹ 
+ >>>GT:ɑː_ w_ɛ_n_ w_iː_ t_ɹ_aɪ_ t_ə_ k_ə_m_p_ɛɹ
+prob: 0.6923076923076923 
+ prob_ph: 0.7 
+ -------------------------------------- 
+GT: what is the computer number
+PD: how it is here
+>>> PD:h_aʊ_ ɪ_ɾ_ ɪ_z_ h_ɪɹ 
+ >>>GT:w_ʌ_t_ ɪ_z_ ð_ə_ k_ə_m_p_j_uː_ɾ_ɚ_ n_ʌ_m_b_ɚ
+prob: 0.7037037037037037 
+ prob_ph: 0.75 
+ -------------------------------------- 
+GT: what is the number what is a computer number
+PD: how it is here
+>>> PD:h_aʊ_ ɪ_ɾ_ ɪ_z_ h_ɪɹ 
+ >>>GT:w_ʌ_t_ ɪ_z_ ð_ə_ n_ʌ_m_b_ɚ_ w_ʌ_t_ ɪ_z_ ɐ_ k_ə_m_p_j_uː_ɾ_ɚ_ n_ʌ_m_b_ɚ
+prob: 0.75 
+ prob_ph: 0.8142857142857143 
+ -------------------------------------- 
+GT: if its true then we go inside
+PD: how it is here
+>>> PD:h_aʊ_ ɪ_ɾ_ ɪ_z_ h_ɪɹ 
+ >>>GT:ɪ_f_ ɪ_t_s_ t_ɹ_uː_ ð_ɛ_n_ w_iː_ ɡ_oʊ_ ɪ_n_s_aɪ_d
+prob: 0.7586206896551724 
+ prob_ph: 0.7755102040816326 
+ -------------------------------------- 
+GT: if its true its gonna print this
+PD: how it is here
+>>> PD:h_aʊ_ ɪ_ɾ_ ɪ_z_ h_ɪɹ 
+ >>>GT:ɪ_f_ ɪ_t_s_ t_ɹ_uː_ ɪ_t_s_ ɡ_ə_n_ə_ p_ɹ_ɪ_n_t_ ð_ɪ_s
+prob: 0.78125 
+ prob_ph: 0.75 
+ -------------------------------------- 
+GT: so thats why it printed this
+PD: how it is here
+>>> PD:h_aʊ_ ɪ_ɾ_ ɪ_z_ h_ɪɹ 
+ >>>GT:s_oʊ_ ð_æ_t_s_ w_aɪ_ ɪ_t_ p_ɹ_ɪ_n_t_ᵻ_d_ ð_ɪ_s
+prob: 0.7142857142857143 
+ prob_ph: 0.6956521739130435 
+ -------------------------------------- 
+GT: so now we go back and we compare it again
+PD: how it is here
+>>> PD:h_aʊ_ ɪ_ɾ_ ɪ_z_ h_ɪɹ 
+ >>>GT:s_oʊ_ n_aʊ_ w_iː_ ɡ_oʊ_ b_æ_k_ æ_n_d_ w_iː_ k_ə_m_p_ɛ_ɹ_ ɪ_ɾ_ ɐ_ɡ_ɛ_n
+prob: 0.8048780487804879 
+ prob_ph: 0.8115942028985508 
+ -------------------------------------- 
+GT: so are these ones the same are these two different
+PD: how it is here
+>>> PD:h_aʊ_ ɪ_ɾ_ ɪ_z_ h_ɪɹ 
+ >>>GT:s_oʊ_ ɑːɹ_ ð_iː_z_ w_ʌ_n_z_ ð_ə_ s_eɪ_m_ ɑːɹ_ ð_iː_z_ t_uː_ d_ɪ_f_ɹ_ə_n_t
+prob: 0.82 
+ prob_ph: 0.7945205479452054 
+ -------------------------------------- 
+GT: so is false right
+PD: how it is here
+>>> PD:h_aʊ_ ɪ_ɾ_ ɪ_z_ h_ɪɹ 
+ >>>GT:s_oʊ_ ɪ_z_ f_ɔ_l_s_ ɹ_aɪ_t
+prob: 0.7058823529411765 
+ prob_ph: 0.5 
+ -------------------------------------- 
+GT: thats why it only prints one one less than so the secret number
+PD: how it is here
+>>> PD:h_aʊ_ ɪ_ɾ_ ɪ_z_ h_ɪɹ 
+ >>>GT:ð_æ_t_s_ w_aɪ_ ɪ_ɾ_ oʊ_n_l_i_ p_ɹ_ɪ_n_t_s_ w_ʌ_n_ w_ʌ_n_ l_ɛ_s_ ð_ɐ_n_ s_oʊ_ ð_ə_ s_iː_k_ɹ_ᵻ_t_ n_ʌ_m_b_ɚ
+prob: 0.7936507936507936 
+ prob_ph: 0.8571428571428571 
+ -------------------------------------- 
+GT: so thats what base ten and base ten what
+PD: how it is here
+>>> PD:h_aʊ_ ɪ_ɾ_ ɪ_z_ h_ɪɹ 
+ >>>GT:s_oʊ_ ð_æ_t_s_ w_ʌ_t_ b_eɪ_s_ t_ɛ_n_ æ_n_d_ b_eɪ_s_ t_ɛ_n_ w_ʌ_t
+prob: 0.8 
+ prob_ph: 0.796875 
+ -------------------------------------- 
+GT: so if you look at it
+PD: how it is here
+>>> PD:h_aʊ_ ɪ_ɾ_ ɪ_z_ h_ɪɹ 
+ >>>GT:s_oʊ_ ɪ_f_ j_uː_ l_ʊ_k_ æ_ɾ_ɪ_t
+prob: 0.8 
+ prob_ph: 0.5806451612903226 
+ -------------------------------------- 
+GT: thats why they call it base ten
+PD: how it is here
+>>> PD:h_aʊ_ ɪ_ɾ_ ɪ_z_ h_ɪɹ 
+ >>>GT:ð_æ_t_s_ w_aɪ_ ð_eɪ_ k_ɔː_l_ ɪ_t_ b_eɪ_s_ t_ɛ_n
+prob: 0.7419354838709677 
+ prob_ph: 0.7021276595744681 
+ -------------------------------------- 
+GT: binary numbers okay
+PD: how it is here
+>>> PD:h_aʊ_ ɪ_ɾ_ ɪ_z_ h_ɪɹ 
+ >>>GT:b_aɪ_n_ɚ_ɹ_i_ n_ʌ_m_b_ɚ_z_ oʊ_k_eɪ
+prob: 0.8421052631578947 
+ prob_ph: 0.6764705882352942 
+ -------------------------------------- 
+GT: binary
+PD: how it is here
+>>> PD:h_aʊ_ ɪ_ɾ_ ɪ_z_ h_ɪɹ 
+ >>>GT:b_aɪ_n_ɚ_ɹ_i
+prob: 2.0 
+ prob_ph: 1.0833333333333333 
+ -------------------------------------- 
+GT: digits
+PD: how it is here
+>>> PD:h_aʊ_ ɪ_ɾ_ ɪ_z_ h_ɪɹ 
+ >>>GT:d_ɪ_dʒ_ɪ_t_s
+prob: 1.8333333333333333 
+ prob_ph: 1.1666666666666667 
+ -------------------------------------- 
+GT: moving on moving on
+PD: how it is here
+>>> PD:h_aʊ_ ɪ_ɾ_ ɪ_z_ h_ɪɹ 
+ >>>GT:m_uː_v_ɪ_ŋ_ ɔ_n_ m_uː_v_ɪ_ŋ_ ɔ_n
+prob: 0.8421052631578947 
+ prob_ph: 0.65625 
+ -------------------------------------- 
+GT: square number
+PD: how it is here
+>>> PD:h_aʊ_ ɪ_ɾ_ ɪ_z_ h_ɪɹ 
+ >>>GT:s_k_w_ɛɹ_ n_ʌ_m_b_ɚ
+prob: 0.8461538461538461 
+ prob_ph: 0.7368421052631579 
+ -------------------------------------- 
+GT: minus two point one right yeah
+PD: how it is here
+>>> PD:h_aʊ_ ɪ_ɾ_ ɪ_z_ h_ɪɹ 
+ >>>GT:m_aɪ_n_ə_s_ t_uː_ p_ɔɪ_n_t_ w_ʌ_n_ ɹ_aɪ_t_ j_ɛ_h
+prob: 0.7333333333333333 
+ prob_ph: 0.7291666666666666 
+ -------------------------------------- 
+GT: just one
+PD: how it is here
+>>> PD:h_aʊ_ ɪ_ɾ_ ɪ_z_ h_ɪɹ 
+ >>>GT:dʒ_ʌ_s_t_ w_ʌ_n
+prob: 1.375 
+ prob_ph: 0.9333333333333333 
+ -------------------------------------- 
+GT: the abacus is on the computer
+PD: how it is here
+>>> PD:h_aʊ_ ɪ_ɾ_ ɪ_z_ h_ɪɹ 
+ >>>GT:ð_ɪ_ æ_b_æ_k_ə_s_ ɪ_z_ ɔ_n_ð_ə_ k_ə_m_p_j_uː_ɾ_ɚ
+prob: 0.7241379310344828 
+ prob_ph: 0.7708333333333334 
+ -------------------------------------- 
+GT: do you see the abacus uhh you have mario
+PD: how it is here
+>>> PD:h_aʊ_ ɪ_ɾ_ ɪ_z_ h_ɪɹ 
+ >>>GT:d_uː_ j_uː_ s_iː_ ð_ɪ_ æ_b_æ_k_ə_s_ uː_ j_uː_ h_æ_v_ m_ɑːɹ_ɹ_ɪ_oʊ
+prob: 0.775 
+ prob_ph: 0.8 
+ -------------------------------------- 
+GT: i dont think they have four here
+PD: how it is here
+>>> PD:h_aʊ_ ɪ_ɾ_ ɪ_z_ h_ɪɹ 
+ >>>GT:aɪ_ d_oʊ_n_t_ θ_ɪ_ŋ_k_ ð_eɪ_ h_æ_v_ f_oːɹ_ h_ɪɹ
+prob: 0.6875 
+ prob_ph: 0.6595744680851063 
+ -------------------------------------- 
+GT: okay so thats a simple one
+PD: how it is here
+>>> PD:h_aʊ_ ɪ_ɾ_ ɪ_z_ h_ɪɹ 
+ >>>GT:oʊ_k_eɪ_ s_oʊ_ ð_æ_t_s_ ɐ_ s_ɪ_m_p_əl_ w_ʌ_n
+prob: 0.7692307692307693 
+ prob_ph: 0.7272727272727273 
+ -------------------------------------- 
+GT: biggest two digit they can use right
+PD: how it is here
+>>> PD:h_aʊ_ ɪ_ɾ_ ɪ_z_ h_ɪɹ 
+ >>>GT:b_ɪ_ɡ_ɪ_s_t_ t_uː_ d_ɪ_dʒ_ɪ_t_ ð_eɪ_ k_æ_n_ j_uː_z_ ɹ_aɪ_t
+prob: 0.7777777777777778 
+ prob_ph: 0.7586206896551724 
+ -------------------------------------- 
+GT: after two digit you have to go to three right
+PD: how it is here
+>>> PD:h_aʊ_ ɪ_ɾ_ ɪ_z_ h_ɪɹ 
+ >>>GT:æ_f_t_ɚ_ t_uː_ d_ɪ_dʒ_ɪ_t_ j_uː_ h_æ_v_ t_ə_ ɡ_oʊ_ t_ə_ θ_ɹ_iː_ ɹ_aɪ_t
+prob: 0.7777777777777778 
+ prob_ph: 0.8142857142857143 
+ -------------------------------------- 
+GT: they dont they dont speak english
+PD: how it is here
+>>> PD:h_aʊ_ ɪ_ɾ_ ɪ_z_ h_ɪɹ 
+ >>>GT:ð_eɪ_ d_oʊ_n_t_ ð_eɪ_ d_oʊ_n_t_ s_p_iː_k_ ɪ_ŋ_ɡ_l_ɪ_ʃ
+prob: 0.7878787878787878 
+ prob_ph: 0.7547169811320755 
+ -------------------------------------- 
+GT: you need another talent you wanna show
+PD: how it is here
+>>> PD:h_aʊ_ ɪ_ɾ_ ɪ_z_ h_ɪɹ 
+ >>>GT:j_uː_ n_iː_d_ ɐ_n_ʌ_ð_ɚ_ t_æ_l_ə_n_t_ j_uː_ w_ɔ_n_ə_ ʃ_oʊ
+prob: 0.8157894736842105 
+ prob_ph: 0.8245614035087719 
+ -------------------------------------- 
+GT: switches
+PD: how it is here
+>>> PD:h_aʊ_ ɪ_ɾ_ ɪ_z_ h_ɪɹ 
+ >>>GT:s_w_ɪ_tʃ_ᵻ_z
+prob: 1.125 
+ prob_ph: 1.1666666666666667 
+ -------------------------------------- 
+GT: zero means off and we write from right to left okay
+PD: how it is here
+>>> PD:h_aʊ_ ɪ_ɾ_ ɪ_z_ h_ɪɹ 
+ >>>GT:z_iə_ɹ_oʊ_ m_iː_n_z_ ɔ_f_ æ_n_d_ w_iː_ ɹ_aɪ_t_ f_ɹ_ʌ_m_ ɹ_aɪ_t_ t_ə_ l_ɛ_f_t_ oʊ_k_eɪ
+prob: 0.8235294117647058 
+ prob_ph: 0.8470588235294118 
+ -------------------------------------- 
+GT: ah what is right
+PD: how it is here
+>>> PD:h_aʊ_ ɪ_ɾ_ ɪ_z_ h_ɪɹ 
+ >>>GT:ɑː_ w_ʌ_t_ ɪ_z_ ɹ_aɪ_t
+prob: 0.5625 
+ prob_ph: 0.5 
+ -------------------------------------- 
+GT: tell them to discuss
+PD: how it is here
+>>> PD:h_aʊ_ ɪ_ɾ_ ɪ_z_ h_ɪɹ 
+ >>>GT:t_ɛ_l_ ð_ɛ_m_ t_ə_ d_ɪ_s_k_ʌ_s
+prob: 0.8 
+ prob_ph: 0.6333333333333333 
+ -------------------------------------- 
+GT: so what is this number
+PD: so what is this number
+>>> PD:s_oʊ_ w_ʌ_t_ ɪ_z_ ð_ɪ_s_ n_ʌ_m_b_ɚ 
+ >>>GT:s_oʊ_ w_ʌ_t_ ɪ_z_ ð_ɪ_s_ n_ʌ_m_b_ɚ
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: one one one
+PD: where are you going
+>>> PD:w_ɛ_ɹ_ ɑːɹ_ j_uː_ ɡ_oʊ_ɪ_ŋ 
+ >>>GT:w_ʌ_n_ w_ʌ_n_ w_ʌ_n
+prob: 1.1818181818181819 
+ prob_ph: 0.7894736842105263 
+ -------------------------------------- 
+GT: which one is the biggest number here
+PD: which one is the biggest number in here
+>>> PD:w_ɪ_tʃ_ w_ʌ_n_ ɪ_z_ ð_ə_ b_ɪ_ɡ_ɪ_s_t_ n_ʌ_m_b_ɚ_ɹ_ ɪ_n_ h_ɪɹ 
+ >>>GT:w_ɪ_tʃ_ w_ʌ_n_ ɪ_z_ ð_ə_ b_ɪ_ɡ_ɪ_s_t_ n_ʌ_m_b_ɚ_ h_ɪɹ
+prob: 0.08333333333333333 
+ prob_ph: 0.1320754716981132 
+ -------------------------------------- 
+GT: column three is here
+PD: two thousand and three is here 
+>>> PD:t_uː_ θ_aʊ_z_ə_n_d_ æ_n_d_ θ_ɹ_iː_ ɪ_z_ h_ɪɹ 
+ >>>GT:k_ɑː_l_ʌ_m_ θ_ɹ_iː_ ɪ_z_ h_ɪɹ
+prob: 0.65 
+ prob_ph: 0.6896551724137931 
+ -------------------------------------- 
+GT: like eight plus four
+PD: like eight and four 
+>>> PD:l_aɪ_k_ eɪ_t_ æ_n_d_ f_oːɹ 
+ >>>GT:l_aɪ_k_ eɪ_t_ p_l_ʌ_s_ f_oːɹ
+prob: 0.2 
+ prob_ph: 0.17857142857142858 
+ -------------------------------------- 
+GT: like multiplying the numbers
+PD: like multiplying the numbers 
+>>> PD:l_aɪ_k_ m_ʌ_l_t_ɪ_p_l_aɪ_ɪ_ŋ_ ð_ə_ n_ʌ_m_b_ɚ_z 
+ >>>GT:l_aɪ_k_ m_ʌ_l_t_ɪ_p_l_aɪ_ɪ_ŋ_ ð_ə_ n_ʌ_m_b_ɚ_z
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: numbers and letters
+PD: numbers and letters 
+>>> PD:n_ʌ_m_b_ɚ_z_ æ_n_d_ l_ɛ_ɾ_ɚ_z 
+ >>>GT:n_ʌ_m_b_ɚ_z_ æ_n_d_ l_ɛ_ɾ_ɚ_z
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: programming and stuff
+PD: programming and 
+>>> PD:p_ɹ_oʊ_ɡ_ɹ_æ_m_ɪ_ŋ_ æ_n_d 
+ >>>GT:p_ɹ_oʊ_ɡ_ɹ_æ_m_ɪ_ŋ_ æ_n_d_ s_t_ʌ_f
+prob: 0.2857142857142857 
+ prob_ph: 0.2647058823529412 
+ -------------------------------------- 
+GT: and programming
+PD: and programming 
+>>> PD:æ_n_d_ p_ɹ_oʊ_ɡ_ɹ_æ_m_ɪ_ŋ 
+ >>>GT:æ_n_d_ p_ɹ_oʊ_ɡ_ɹ_æ_m_ɪ_ŋ
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: for mathematics
+PD: for mathematics 
+>>> PD:f_ɔːɹ_ m_æ_θ_ɪ_m_æ_ɾ_ɪ_k_s 
+ >>>GT:f_ɔːɹ_ m_æ_θ_ɪ_m_æ_ɾ_ɪ_k_s
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: one and zero
+PD: one in zero 
+>>> PD:w_ʌ_n_ ɪ_n_ z_iə_ɹ_oʊ 
+ >>>GT:w_ʌ_n_ æ_n_d_ z_iə_ɹ_oʊ
+prob: 0.16666666666666666 
+ prob_ph: 0.13043478260869565 
+ -------------------------------------- 
+GT: binary numbers
+PD: by the numbers 
+>>> PD:b_aɪ_ ð_ə_ n_ʌ_m_b_ɚ_z 
+ >>>GT:b_aɪ_n_ɚ_ɹ_i_ n_ʌ_m_b_ɚ_z
+prob: 0.35714285714285715 
+ prob_ph: 0.24 
+ -------------------------------------- 
+GT: two plus two
+>>> PD: 
+ >>>GT:t_uː_ p_l_ʌ_s_ t_uː
+prob: 1.0 
+ prob_ph: 1.0 
+ -------------------------------------- 
+GT: we separated them into fours
+PD: separate them into fours 
+>>> PD:s_ɛ_p_ɹ_ə_t_ ð_ɛ_m_ ɪ_n_t_ʊ_ f_oːɹ_z 
+ >>>GT:w_iː_ s_ɛ_p_ɚ_ɹ_eɪ_ɾ_ᵻ_d_ ð_ɛ_m_ ɪ_n_t_ʊ_ f_oːɹ_z
+prob: 0.14285714285714285 
+ prob_ph: 0.30612244897959184 
+ -------------------------------------- 
+GT: one zero
+PD: one zero
+>>> PD:w_ʌ_n_ z_iə_ɹ_oʊ 
+ >>>GT:w_ʌ_n_ z_iə_ɹ_oʊ
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: one zero one
+PD: one zero one
+>>> PD:w_ʌ_n_ z_iə_ɹ_oʊ_ w_ʌ_n 
+ >>>GT:w_ʌ_n_ z_iə_ɹ_oʊ_ w_ʌ_n
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: zero zero zero
+PD: zero zero zero
+>>> PD:z_iə_ɹ_oʊ_ z_iə_ɹ_oʊ_ z_iə_ɹ_oʊ 
+ >>>GT:z_iə_ɹ_oʊ_ z_iə_ɹ_oʊ_ z_iə_ɹ_oʊ
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: for programming
+PD: for program 
+>>> PD:f_ɔːɹ_ p_ɹ_oʊ_ɡ_ɹ_æ_m 
+ >>>GT:f_ɔːɹ_ p_ɹ_oʊ_ɡ_ɹ_æ_m_ɪ_ŋ
+prob: 0.26666666666666666 
+ prob_ph: 0.16 
+ -------------------------------------- 
+GT: how did you like math
+PD: how did you like mad
+>>> PD:h_aʊ_ d_ɪ_d_ j_uː_ l_aɪ_k_ m_æ_d 
+ >>>GT:h_aʊ_ d_ɪ_d_ j_uː_ l_aɪ_k_ m_æ_θ
+prob: 0.09523809523809523 
+ prob_ph: 0.03125 
+ -------------------------------------- 
+GT: tell me the numbers
+PD: tell me the number 
+>>> PD:t_ɛ_l_ m_iː_ ð_ə_ n_ʌ_m_b_ɚ 
+ >>>GT:t_ɛ_l_ m_iː_ ð_ə_ n_ʌ_m_b_ɚ_z
+prob: 0.05263157894736842 
+ prob_ph: 0.06896551724137931 
+ -------------------------------------- 
+GT: and for programming
+PD: and for programming 
+>>> PD:æ_n_d_ f_ɔːɹ_ p_ɹ_oʊ_ɡ_ɹ_æ_m_ɪ_ŋ 
+ >>>GT:æ_n_d_ f_ɔːɹ_ p_ɹ_oʊ_ɡ_ɹ_æ_m_ɪ_ŋ
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: binary numbers
+PD: binary numbers 
+>>> PD:b_aɪ_n_ɚ_ɹ_i_ n_ʌ_m_b_ɚ_z 
+ >>>GT:b_aɪ_n_ɚ_ɹ_i_ n_ʌ_m_b_ɚ_z
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: to program stuff
+PD: youtube program stuff 
+>>> PD:j_uː_t_uː_b_ p_ɹ_oʊ_ɡ_ɹ_æ_m_ s_t_ʌ_f 
+ >>>GT:t_ə_ p_ɹ_oʊ_ɡ_ɹ_æ_m_ s_t_ʌ_f
+prob: 0.375 
+ prob_ph: 0.32142857142857145 
+ -------------------------------------- 
+GT: on the graph
+PD: on the graph 
+>>> PD:ɔ_n_ð_ə_ ɡ_ɹ_æ_f 
+ >>>GT:ɔ_n_ð_ə_ ɡ_ɹ_æ_f
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: tell me about those numbers
+PD: tell me about those numbers 
+>>> PD:t_ɛ_l_ m_iː_ ɐ_b_aʊ_t_ ð_oʊ_z_ n_ʌ_m_b_ɚ_z 
+ >>>GT:t_ɛ_l_ m_iː_ ɐ_b_aʊ_t_ ð_oʊ_z_ n_ʌ_m_b_ɚ_z
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: one to two fifty five
+PD: one hundred and twenty-two fifty five 
+>>> PD:w_ʌ_n_ h_ʌ_n_d_ɹ_ɪ_d_ æ_n_d_ t_w_ɛ_n_t_i_t_uː_ f_ɪ_f_t_i_ f_aɪ_v 
+ >>>GT:w_ʌ_n_ t_ə_ t_uː_ f_ɪ_f_t_i_ f_aɪ_v
+prob: 0.8571428571428571 
+ prob_ph: 0.8857142857142857 
+ -------------------------------------- 
+GT: two fifty five
+PD: two hundred and fifty-five
+>>> PD:t_uː_ h_ʌ_n_d_ɹ_ɪ_d_ æ_n_d_ f_ɪ_f_t_i_f_aɪ_v 
+ >>>GT:t_uː_ f_ɪ_f_t_i_ f_aɪ_v
+prob: 0.9285714285714286 
+ prob_ph: 1.0 
+ -------------------------------------- 
+GT: we program
+PD: we program 
+>>> PD:w_iː_ p_ɹ_oʊ_ɡ_ɹ_æ_m 
+ >>>GT:w_iː_ p_ɹ_oʊ_ɡ_ɹ_æ_m
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: one square
+PD: one square
+>>> PD:w_ʌ_n_ s_k_w_ɛɹ 
+ >>>GT:w_ʌ_n_ s_k_w_ɛɹ
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: the numbers
+PD: the numbers 
+>>> PD:ð_ə_ n_ʌ_m_b_ɚ_z 
+ >>>GT:ð_ə_ n_ʌ_m_b_ɚ_z
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: math and programming
+PD: math and programming 
+>>> PD:m_æ_θ_ æ_n_d_ p_ɹ_oʊ_ɡ_ɹ_æ_m_ɪ_ŋ 
+ >>>GT:m_æ_θ_ æ_n_d_ p_ɹ_oʊ_ɡ_ɹ_æ_m_ɪ_ŋ
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: what about computer programming
+PD: what about computer programming
+>>> PD:w_ʌ_t_ ɐ_b_aʊ_t_ k_ə_m_p_j_uː_ɾ_ɚ_ p_ɹ_oʊ_ɡ_ɹ_æ_m_ɪ_ŋ 
+ >>>GT:w_ʌ_t_ ɐ_b_aʊ_t_ k_ə_m_p_j_uː_ɾ_ɚ_ p_ɹ_oʊ_ɡ_ɹ_æ_m_ɪ_ŋ
+prob: 0.0 
+ prob_ph: 0.0 
+ -------------------------------------- 
+GT: how much you like math
+PD: how much do you like my
+>>> PD:h_aʊ_ m_ʌ_tʃ_ d_uː_ j_uː_ l_aɪ_k_ m_aɪ 
+ >>>GT:h_aʊ_ m_ʌ_tʃ_ j_uː_ l_aɪ_k_ m_æ_θ
+prob: 0.2727272727272727 
+ prob_ph: 0.2727272727272727 
+ -------------------------------------- 
+GT: to tell me about what did you learn
+PD: to tell me about what did you
+>>> PD:t_ə_ t_ɛ_l_ m_iː_ ɐ_b_aʊ_t_ w_ʌ_t_ d_ɪ_d_ j_uː 
+ >>>GT:t_ə_ t_ɛ_l_ m_iː_ ɐ_b_aʊ_t_ w_ʌ_t_ d_ɪ_d_ j_uː_ l_ɜː_n
+prob: 0.17142857142857143 
+ prob_ph: 0.14814814814814814 
+ -------------------------------------- 
+Plain text: 0.72
+Phonemes: 0.75
+Empty predictions: 1   |   percentage: 0.29%

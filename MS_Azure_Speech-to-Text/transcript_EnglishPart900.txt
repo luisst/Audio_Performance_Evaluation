@@ -1,0 +1,462 @@
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Feb23-B-Shelby_02-06_English_025.wav	we need to get that
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/IS-C1L1P_May06_Jhon_01-01_English_010.wav	before the program
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_01-05_English_020.wav	opening the files from the
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/IS-C1L1P_Apr27_Jose_01-01_English_002.wav	so those are the binary numbers
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_02-05_English_025.wav	okay that is right
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_06-07_English_022.wav	i need it too
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_03-05_English_167.wav	answer an equation
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/IS-C1L1P_Apr27_Mathew_01-01_English_020.wav	binary numbers
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_02-05_English_136.wav	what it is
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_03-05_English_031.wav	i dont know how but
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_06-07_English_003.wav	a grayscale pixel
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Apr19-D-Chaitu_q2_04-05_English_008.wav	column five row five
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Feb23-B-Shelby_02-06_English_033.wav	let me know
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Apr19-D-Chaitu_q2_04-05_English_005.wav	column two row three
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_03-05_English_038.wav	question
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_02-05_English_064.wav	so you have to represent in base ten all the numbers that we know using ten digits right
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_02-05_English_000.wav	so
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_01-05_English_067.wav	this value
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_02-05_English_150.wav	i have one question for you
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Apr19-D-Chaitu_q2_03-05_English_001.wav	row two
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_03-07_English_032.wav	seventy two
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Feb23-B-Shelby_03-06_English_191.wav	what is your name
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_02-05_English_075.wav	i dont think they know what they mean by that
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_02-05_English_004.wav	so we are gonna have two
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_02-05_English_129.wav	for the thing you want to ask
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_03-07_English_058.wav	there you go
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_03-07_English_047.wav	next week
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_02-05_English_040.wav	they represent the same as these digits
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_02-05_English_137.wav	so it doesnt know
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_03-05_English_032.wav	for this i give hi
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Apr19-A-Allan_q2_04-05_English_028.wav	go ahead and look at the last one
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Feb23-B-Shelby_02-06_English_039.wav	piece of paper
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_02-05_English_050.wav	what can you change
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Feb23-B-Shelby_03-06_English_152.wav	add numbers
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Feb23-B-Shelby_03-06_English_135.wav	pressed it
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_03-05_English_088.wav	ten plus ten
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Feb23-B-Shelby_02-06_English_065.wav	each one of these
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_02-05_English_024.wav	it just prints it
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Apr19-A-Allan_q2_05-05_English_001.wav	cause zero zero is black
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_04-07_English_015.wav	you gonna do a d
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/IS-C1L1P_Apr27_Jose_01-01_English_003.wav	ones and zeros
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_03-07_English_013.wav	not until you finish this
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_02-05_English_010.wav	what is the computer number
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/IS-C1L1P_Apr27_Mathew_01-01_English_012.wav	one zero one
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_01-05_English_061.wav	ten to x
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_01-05_English_098.wav	i think five
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Apr19-D-Chaitu_q2_03-05_English_000.wav	its only four letters okey
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_04-07_English_013.wav	you gonna do e a
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_03-07_English_016.wav	you are not supposed to click
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_02-05_English_002.wav	when you want to
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Apr19-D-Chaitu_q2_02-05_English_005.wav	its two three or two
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/IS-C1L1P_May06_Draven_01-01_English_011.wav	zero to two fifty five
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_04-05_English_007.wav	four
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_04-05_English_143.wav	so what is it happening
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_02-05_English_051.wav	seven one one zero
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_01-05_English_004.wav	can you stop google
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_04-07_English_026.wav	it goes from zero to f f
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Apr19-D-Chaitu_q2_04-05_English_009.wav	column six row four
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_03-07_English_104.wav	alright do yours first
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_03-07_English_008.wav	talking something about timers
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_04-05_English_226.wav	you can do whatever you want
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Feb23-B-Shelby_03-06_English_387.wav	the computer
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Feb23-B-Shelby_03-06_English_180.wav	they like these words
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_02-05_English_036.wav	you how we learn
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_03-07_English_041.wav	my sister
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_02-05_English_028.wav	is it true or false
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_03-07_English_037.wav	talking about
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Apr19-A-Allan_q2_03-05_English_005.wav	what zero you are talking about
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Apr19-A-Allan_q2_04-05_English_027.wav	okey zero zero one one
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_03-07_English_042.wav	shes nine
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_04-05_English_015.wav	binary is what be na ry
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_02-05_English_065.wav	so it can be like usually this can be like one between
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_04-05_English_046.wav	now we do this one right what you doing
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_02-05_English_073.wav	binary
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_04-05_English_223.wav	can i do mine
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_06-07_English_032.wav	i need a marker
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_01-05_English_069.wav	what was the question again
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_03-05_English_072.wav	x is one
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_03-07_English_096.wav	in the last one
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_02-05_English_058.wav	ask your name
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_03-07_English_091.wav	i turned on the sixty four
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Feb23-B-Shelby_03-06_English_224.wav	alright so now we push
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_06-07_English_002.wav	totally check to see
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_03-07_English_018.wav	it does work
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_04-05_English_000.wav	the abacus is on the computer
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Feb23-B-Shelby_02-06_English_055.wav	gonna happen
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Apr19-A-Allan_q2_04-05_English_025.wav	four cero right here right
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_03-07_English_051.wav	mess with actual pictures
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_01-05_English_058.wav	if x is equal to ten
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_01-05_English_059.wav	printing x
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_03-05_English_013.wav	¿what time is it
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/IS-C1L1P_Apr27_Mathew_01-01_English_015.wav	how did you like math
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_01-05_English_029.wav	typed a ol me
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_03-05_English_017.wav	is just like
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Apr19-A-Allan_q2_04-05_English_001.wav	one representes white
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_03-05_English_029.wav	crazy which it
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_03-05_English_111.wav	it should be capital
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/IS-C1L1P_Apr27_Mathew_01-01_English_005.wav	binary numbers
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_02-05_English_046.wav	whatever goes to the
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_04-07_English_027.wav	i know what im gonna do
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Apr19-A-Allan_q2_04-05_English_023.wav	so three cero right
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_04-05_English_232.wav	should be on top
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_01-05_English_086.wav	whatever you type
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Feb23-B-Shelby_02-06_English_122.wav	and theyre gonna give you
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_03-05_English_040.wav	you have given here hi
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_04-07_English_006.wav	what are your initials
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Feb23-B-Shelby_03-06_English_052.wav	it creates
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_04-05_English_004.wav	do you see the abacus uhh you have mario
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_06-07_English_012.wav	twenty five
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Feb23-B-Shelby_02-06_English_029.wav	if i dont get that
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_02-05_English_034.wav	did did you got to the end
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_02-05_English_012.wav	oh really
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_04-05_English_138.wav	if i do like this
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Feb23-B-Shelby_02-06_English_183.wav	dont be shy
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_02-05_English_010.wav	x is five
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/IS-C1L1P_May06_Draven_01-01_English_005.wav	numbers for
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_03-05_English_013.wav	and this
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_03-07_English_038.wav	my mom and my dog
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_02-05_English_114.wav	hello name
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_03-05_English_034.wav	its going to
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Apr19-A-Allan_q2_04-05_English_037.wav	okey lets try zero one
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_03-07_English_026.wav	all the way up to nine
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_06-07_English_020.wav	love math so much
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_03-07_English_029.wav	bless you
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_02-05_English_080.wav	base ten okay
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr11-C-Phuong_q2_01-05_English_000.wav	ok row zero to fifteen to sexteen
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_06-07_English_025.wav	you see how theres two fifty five
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Apr19-D-Chaitu_q2_04-05_English_010.wav	go to the computer
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Feb23-B-Shelby_02-06_English_035.wav	i handed you
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_03-07_English_045.wav	its called racism
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_06-07_English_008.wav	in the computer
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_04-05_English_128.wav	multiply by three
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_02-05_English_079.wav	base ten
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_02-05_English_074.wav	want to know your name
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_04-05_English_040.wav	ready
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_03-05_English_151.wav	do that or not
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Apr19-D-Chaitu_q2_02-05_English_006.wav	thirty two
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_01-05_English_013.wav	anything you want to see
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_03-05_English_026.wav	its going to say
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_04-07_English_023.wav	whats extremely bright
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_03-07_English_009.wav	i know is weird
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_03-07_English_046.wav	do this tomorrow
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_02-05_English_061.wav	that means two so it menas its base two okay
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/IS-C1L1P_May06_Draven_01-01_English_004.wav	color spectrum
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Apr19-D-Chaitu_q2_05-05_English_000.wav	its an another computer telling us the coordinates
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_04-05_English_050.wav	you can think of it like when we wanna turn this off and when we wanna turn it on so its like a switch
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_04-07_English_011.wav	oh okay i get it
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_02-05_English_113.wav	i cant see it
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr11-C-Phuong_q2_03-05_English_018.wav	wait zero one two three
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_02-05_English_118.wav	last name
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_01-05_English_027.wav	its capital
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_02-05_English_057.wav	what is your name
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_01-05_English_038.wav	one two three
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Apr19-A-Allan_q2_02-05_English_023.wav	so you can do this one was one
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_02-05_English_034.wav	whatever you type
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_03-07_English_012.wav	so finish this
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_03-05_English_143.wav	not ten divided by two
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_02-05_English_104.wav	whatever you want to
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_04-07_English_019.wav	i need help
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_03-07_English_049.wav	did you get it
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_03-07_English_108.wav	my brother and my mom
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Apr19-A-Allan_q2_05-05_English_002.wav	do zero f
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Apr19-A-Allan_q2_02-05_English_029.wav	row one two three etc
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_02-05_English_070.wav	what is your name
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_03-05_English_133.wav	ten plus ten plus ten
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_02-05_English_074.wav	binary
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Apr19-A-Allan_q2_04-05_English_015.wav	so the first zero have four zeros
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_04-05_English_030.wav	power exactly i wanna ask
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_02-05_English_054.wav	any of these red letters
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_02-05_English_071.wav	tell her to put it here and then all three can
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_01-05_English_009.wav	watch a movie
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_06-07_English_028.wav	the mario
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/IS-C1L1P_Apr27_Jose_01-01_English_005.wav	the zeros and ones
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_03-05_English_169.wav	ohh okay
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_03-05_English_002.wav	zero is one okay and then this one mean
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_03-07_English_057.wav	zero zero
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_03-05_English_030.wav	so this is having only hi
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Apr19-A-Allan_q2_04-05_English_035.wav	look is this one
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_02-05_English_072.wav	binary numbers okay
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_03-05_English_017.wav	minus two point one right yeah
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_01-05_English_006.wav	raspberry pi
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_02-05_English_141.wav	what is this
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Apr19-A-Allan_q2_04-05_English_009.wav	so if everything is one everything is white ok
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_02-05_English_024.wav	and then theyre gonna change c here they change the value of the computer number
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_04-05_English_116.wav	is going to do
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_01-05_English_023.wav	how do we list
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_01-05_English_036.wav	jupyter notebook
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr11-C-Phuong_q2_03-05_English_020.wav	column three is here
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr11-C-Phuong_q2_02-05_English_007.wav	which one is the biggest number here
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_02-05_English_100.wav	forty five
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_03-07_English_084.wav	two to the power
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_02-05_English_049.wav	base ten blocks
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_03-05_English_038.wav	hi blue
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_03-07_English_056.wav	the sixteen remember
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_01-05_English_113.wav	the opposite
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Apr19-A-Allan_q2_04-05_English_008.wav	one
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_04-05_English_054.wav	ah what is right
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_02-05_English_013.wav	what is the number what is a computer number
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_03-05_English_012.wav	to print both of them
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_03-07_English_021.wav	would be what
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_03-05_English_094.wav	why is equal to ten
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_06-07_English_017.wav	so go ahead
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_04-07_English_005.wav	we cant do h either
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_03-05_English_027.wav	no copy
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Apr19-A-Allan_q2_05-05_English_004.wav	so two two probably still darker
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Apr19-A-Allan_q2_02-05_English_040.wav	and them the number fill every single file
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_04-05_English_011.wav	okay so thats a simple one
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_03-07_English_083.wav	so complicated
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/IS-C1L1P_Apr27_Jose_01-01_English_006.wav	like multiplying the numbers
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_01-05_English_097.wav	press enter
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_04-05_English_009.wav	he has the abacus
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_04-05_English_041.wav	you see it go zero one zero one zero one right for this goes for this column right here it goes zero zero one one
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_04-05_English_025.wav	no because i need a
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_03-07_English_088.wav	to help him solve
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_04-05_English_026.wav	i need a desk
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_03-05_English_150.wav	its very hard
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Feb23-B-Shelby_02-06_English_098.wav	the few sessions
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_03-05_English_116.wav	it should be uppercase
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Apr19-A-Allan_q2_03-05_English_007.wav	black is zezo
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_03-05_English_009.wav	this one
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_02-05_English_081.wav	to do that
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_04-05_English_032.wav	you need another talent you wanna show
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_03-07_English_069.wav	how about you guys explain
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_03-05_English_163.wav	i dont know what it would be i just know that
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_03-07_English_105.wav	go ahead and do it
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_02-05_English_026.wav	so now we go back and we compare it again
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_03-05_English_001.wav	favorite color
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_03-05_English_096.wav	right here
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_01-05_English_045.wav	and then session two
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_02-05_English_081.wav	okay
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_03-07_English_113.wav	yeah the binary
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/IS-C1L1P_May06_Draven_01-01_English_015.wav	the numbers
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_03-07_English_095.wav	and i got seventy nine
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_03-07_English_043.wav	your sisters age
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_03-05_English_000.wav	oh ms as an miss
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_02-05_English_002.wav	okay so
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr11-C-Phuong_q2_01-05_English_007.wav	one one one
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_02-05_English_097.wav	if i change this what is gonna happen
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_03-07_English_093.wav	the thirty two
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Apr19-A-Allan_q2_02-05_English_039.wav	ten to ten to zero to black
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Apr19-A-Allan_q2_04-05_English_022.wav	the next one
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_01-05_English_090.wav	whatever you tell it to do
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_02-05_English_042.wav	forget it
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_06-07_English_024.wav	is because once you get into hexa
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Apr19-D-Chaitu_q2_04-05_English_001.wav	we need a paper and we need two partners to play this game
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_06-07_English_036.wav	one more week
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_03-05_English_152.wav	it says to
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_06-07_English_030.wav	paper i used for this
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_02-05_English_019.wav	awkward
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_02-05_English_124.wav	whatever you are giving
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Apr19-A-Allan_q2_02-05_English_030.wav	oh i guess we are off a little bit so i guess zero would be this one
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_04-05_English_043.wav	zero zero zero zero one one one one
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_01-05_English_041.wav	i dont remember the names
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_02-05_English_046.wav	so then when you look at this everything is in base ten right hmmm if you want to put another one then it is gonna be that so this one is five ten cubed
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Feb23-B-Shelby_02-06_English_016.wav	nice to meet you
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_01-05_English_050.wav	control plus
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_03-07_English_090.wav	so now what i did
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_04-05_English_119.wav	he was going to
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr11-C-Phuong_q2_03-05_English_019.wav	so in order to get here is row three column three now i want to change this to black watch
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/IS-C1L1P_Apr27_Mathew_01-01_English_008.wav	you tell me
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_01-05_English_048.wav	on desktop we have
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Apr19-A-Allan_q2_04-05_English_036.wav	black is zero zero okey
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/IS-C1L1P_Apr27_Jose_01-01_English_009.wav	do all the kinds of programming
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_01-05_English_052.wav	control and then this
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_03-05_English_019.wav	what is going to happen
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_01-05_English_072.wav	computer is asking you to give an input
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Apr19-A-Allan_q2_04-05_English_002.wav	no six four
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_04-05_English_099.wav	three plus two is what
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Apr19-D-Chaitu_q2_05-05_English_001.wav	thats interesting one two three
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_02-05_English_062.wav	ten digits
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_03-05_English_104.wav	y equals ten
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_02-05_English_133.wav	since i typed this
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_04-05_English_055.wav	five nine five nine
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_02-05_English_092.wav	green color
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Feb23-B-Shelby_03-06_English_172.wav	the computer
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_01-05_English_034.wav	and here
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_04-07_English_009.wav	hectors gonna get the e c
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_04-05_English_151.wav	is equal to three
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/IS-C1L1P_May06_Draven_01-01_English_010.wav	two fifty five
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_04-05_English_207.wav	what if i give
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Apr19-A-Allan_q2_04-05_English_005.wav	two thirty seven minus one
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_01-05_English_096.wav	so whatever you type here
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/IS-C1L1P_May11_Angelina_01-01_English_001.wav	sure that is working
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_03-07_English_059.wav	so whats that
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Feb23-B-Shelby_03-06_English_035.wav	a through c
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_02-05_English_030.wav	what are those
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_04-05_English_157.wav	i was like
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_04-07_English_024.wav	and one is white
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_01-05_English_007.wav	and everything like that
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_04-05_English_150.wav	its not going to change right
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_01-05_English_083.wav	whatever you type here
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_06-07_English_006.wav	integer number
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Feb23-B-Shelby_03-06_English_027.wav	what did we learn
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_03-05_English_147.wav	fifty thousand multiplied by fifty thousand
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_04-07_English_029.wav	alright thanks
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_03-07_English_103.wav	okay ill go for you
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_02-05_English_089.wav	what is gonna happen
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Feb23-B-Shelby_02-06_English_106.wav	show everybody
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_04-05_English_021.wav	biggest two digit they can use right
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_02-05_English_029.wav	two values
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_06-07_English_027.wav	letters and numbers
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_03-05_English_022.wav	and the color you picked
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_01-05_English_093.wav	what is gonna print
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_03-07_English_005.wav	fifty nine
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/IS-C1L1P_May06_Draven_01-01_English_003.wav	on the graph
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_03-05_English_131.wav	ten into one
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Apr19-D-Chaitu_q2_04-05_English_000.wav	the row is aaa four
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_03-07_English_077.wav	sixteen minus six
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_03-07_English_004.wav	one one
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_02-05_English_080.wav	to know that
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_03-07_English_099.wav	the second one
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_02-05_English_062.wav	and you put hello
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_03-05_English_039.wav	they need to give us the other book yeah
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_01-05_English_008.wav	this is only
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_02-05_English_023.wav	no yes
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_03-07_English_052.wav	group in fours
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Feb23-B-Shelby_03-06_English_367.wav	for example
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_02-05_English_027.wav	so are these ones the same are these two different
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_03-05_English_136.wav	think of very complex
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Apr19-A-Allan_q2_02-05_English_018.wav	ten or two nine
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_02-05_English_001.wav	i got two
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Apr19-A-Allan_q2_04-05_English_031.wav	no is five five
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_01-05_English_111.wav	they ask you the number and you put the number
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_03-07_English_092.wav	i turned off
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_02-05_English_068.wav	okay
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Apr19-A-Allan_q2_04-05_English_014.wav	four binarys
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_03-07_English_060.wav	thats your hexadecimal
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Feb23-B-Shelby_03-06_English_196.wav	press it
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_03-07_English_101.wav	you got four right
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr11-C-Phuong_q2_04-05_English_036.wav	binary
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/IS-C1L1P_Apr27_Jose_01-01_English_004.wav	videos and programming
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_02-05_English_116.wav	what is here
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_03-05_English_137.wav	what would you type
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_02-05_English_130.wav	and then you go
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_03-05_English_140.wav	ten into two
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_04-05_English_007.wav	this is like
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_03-05_English_024.wav	whats two times three
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_04-05_English_010.wav	okay
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_02-05_English_101.wav	are we going to
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_04-05_English_059.wav	its okay
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_04-05_English_036.wav	whats the color for green oh wait
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Apr19-A-Allan_q2_04-05_English_026.wav	three was three
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_03-05_English_164.wav	so thats
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_03-07_English_075.wav	sixty minus six
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_01-05_English_075.wav	whatever you type
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Feb23-B-Shelby_03-06_English_037.wav	the print command
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_03-05_English_120.wav	whats going to happen
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_04-05_English_028.wav	okay
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_03-05_English_103.wav	why is equal to ten
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Apr19-A-Allan_q2_04-05_English_020.wav	so only have one one in here
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Apr19-A-Allan_q2_04-05_English_018.wav	binary
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_01-05_English_024.wav	the files
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_02-05_English_006.wav	two two
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_03-07_English_114.wav	and then
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_03-07_English_115.wav	figure out the binary
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_03-05_English_037.wav	what about a black and white house
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_03-07_English_076.wav	what is he doing
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_03-05_English_166.wav	can i try
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_03-07_English_007.wav	talking about timers
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Apr19-A-Allan_q2_02-05_English_033.wav	it should be one right
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_02-05_English_043.wav	so if you look at it
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_03-05_English_027.wav	hi scooby doo blue
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_01-05_English_099.wav	multiplied by two
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_06-07_English_018.wav	go ahead and do this
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_03-05_English_036.wav	the video changed
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_02-05_English_078.wav	digits
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_04-07_English_010.wav	okay so what are we doing
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_03-07_English_053.wav	by sixteen
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_01-05_English_001.wav	it gives an interface
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_03-07_English_074.wav	sixty four
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_01-05_English_033.wav	whatever you see here
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Apr19-D-Chaitu_q2_04-05_English_006.wav	column three row four
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/IS-C1L1P_May06_Draven_01-01_English_018.wav	math before the program
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_02-05_English_108.wav	change name to color
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_02-05_English_060.wav	the answer
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_03-05_English_004.wav	but will that be printed
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Feb23-B-Shelby_02-06_English_056.wav	and you guys
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/IS-C1L1P_Apr27_Jose_01-01_English_001.wav	like eight plus four
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_04-05_English_056.wav	what is this hi
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_01-05_English_115.wav	since we have done this
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_01-05_English_046.wav	already in session three
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Feb23-B-Shelby_02-06_English_075.wav	at the end
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_03-07_English_017.wav	bigger numbers
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_02-05_English_063.wav	you understand it now
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_04-05_English_056.wav	tell them to discuss
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_04-05_English_008.wav	i dont think they have four here
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_03-05_English_123.wav	is going to be twenty
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_03-07_English_082.wav	let hector explain
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/IS-C1L1P_May06_Draven_01-01_English_008.wav	one to two fifty five
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_03-05_English_055.wav	other number
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_02-05_English_014.wav	in the while loop each time its gonna compare these two
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Feb23-B-Shelby_02-06_English_171.wav	making it better
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Apr19-A-Allan_q2_04-05_English_033.wav	this is five zero
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_03-05_English_069.wav	this operation
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_03-05_English_032.wav	he didnt explain it they just copy i feel like they just copy
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_03-05_English_157.wav	so what is the value
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Feb23-B-Shelby_03-06_English_039.wav	lets read what it
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Feb23-B-Shelby_02-06_English_087.wav	pretty simple
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_01-05_English_051.wav	and control minus
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_03-05_English_010.wav	explain
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_03-07_English_112.wav	yeah binary
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Apr19-A-Allan_q2_04-05_English_029.wav	so this one is f zero
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Apr19-D-Chaitu_q2_03-05_English_005.wav	you put zero
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Apr19-D-Chaitu_q2_04-05_English_004.wav	column six row one
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Feb23-B-Shelby_03-06_English_023.wav	did they write something about
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_02-05_English_069.wav	¡moving on ¡moving on okay
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_03-05_English_011.wav	so since you are asking them
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_04-05_English_031.wav	wait wait wait
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_06-07_English_009.wav	how many bits
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_04-05_English_006.wav	i dont know how they got it observe it so what is the about open up the session what session are you on five four
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Feb23-B-Shelby_02-06_English_104.wav	at the end
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_02-05_English_053.wav	oh i think this is going to be hard we only have one hundred so change it to one
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_02-05_English_131.wav	have nothing
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_03-07_English_055.wav	gonna group in fours
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Feb23-B-Shelby_02-06_English_041.wav	what this is basically
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_03-05_English_008.wav	i mean single
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_04-05_English_038.wav	¡oh no actually for the first one the last digit it go zero one zero one zero one but the second one it go zero zero one one zero zero one one you see
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_03-07_English_098.wav	the first one gave me fifteen
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Feb23-B-Shelby_03-06_English_190.wav	its gonna
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Apr19-D-Chaitu_q2_02-05_English_007.wav	the binary number of this
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_02-05_English_064.wav	what input is
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_03-07_English_054.wav	oh whats going on
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Feb23-B-Shelby_02-06_English_043.wav	this is our little
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_03-07_English_035.wav	do what
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_02-05_English_011.wav	is when you go
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_03-05_English_021.wav	times zero which is one right because you have two hundred and sixty five
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_04-05_English_001.wav	oh really
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_04-05_English_058.wav	oh my god i cant say that like exponent thing
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_01-05_English_021.wav	command prompt
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Feb23-B-Shelby_03-06_English_397.wav	the number
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Apr19-D-Chaitu_q2_03-05_English_003.wav	row one right
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Feb23-B-Shelby_03-06_English_310.wav	im ready
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Feb23-B-Shelby_02-06_English_059.wav	its awesome
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Apr19-D-Chaitu_q2_03-05_English_006.wav	so you need to put zero in every column
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_01-05_English_094.wav	let us play again
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_04-07_English_007.wav	give me my pencil
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_03-05_English_168.wav	all the variables
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/IS-C1L1P_May06_Draven_01-01_English_012.wav	to the program
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_03-07_English_085.wav	the one that you two
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_01-05_English_003.wav	from this
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Apr19-A-Allan_q2_05-05_English_000.wav	i wanna do zero one
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/IS-C1L1P_Apr27_Jose_01-01_English_008.wav	programming and stuff
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_01-05_English_044.wav	i cant find the mouse
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_02-05_English_139.wav	color is black
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_03-05_English_124.wav	i dont think so
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_04-05_English_203.wav	and then if you want to go change this
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_04-05_English_005.wav	funny hey wait
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_01-05_English_081.wav	so what is happening
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Apr19-D-Chaitu_q2_02-05_English_002.wav	are we gonna use the computer today
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_04-05_English_020.wav	wait
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_03-05_English_040.wav	okay
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Apr19-D-Chaitu_q2_02-05_English_003.wav	can you do one another for me
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_01-05_English_030.wav	he opened
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_02-05_English_078.wav	whats your name
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_04-05_English_016.wav	binary
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_02-05_English_016.wav	okay so is one different from two
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Mar08-D-Chaitu_q2_02-05_English_110.wav	forty five
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C2L1P-Feb23-B-Shelby_03-06_English_174.wav	and set things equal to them
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_04-05_English_051.wav	switches
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C3L1P-Apr04-C-Phuong_04-05_English_060.wav	off off off okay
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/IS-C1L1P_May06_Draven_01-01_English_014.wav	one square
+/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS/G-C1L1P-Apr06-E-Irma_q2_03-07_English_072.wav	so what i did first

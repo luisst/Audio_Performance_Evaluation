@@ -1,0 +1,1623 @@
+{
+  "source": "https://longaudiosaolme.blob.core.windows.net/minutesaudios/guessing_irma_audio_s3.wav",
+  "timestamp": "2022-05-21T06:59:39Z",
+  "durationInTicks": 120000000,
+  "duration": "PT12S",
+  "combinedRecognizedPhrases": [
+    {
+      "channel": 0,
+      "lexical": "yep now let's go to the next one one zero one zero zero one one no sir what for two fifty three",
+      "itn": "yep now let's go to the next one 1010011 no sir what for 253",
+      "maskedITN": "yep now let's go to the next one 1010011 no sir what for 253",
+      "display": "Yep, now let's go to the next one. 1010011 No, Sir, what? For 253"
+    }
+  ],
+  "recognizedPhrases": [
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT0.05S",
+      "duration": "PT1.9S",
+      "offsetInTicks": 500000.0,
+      "durationInTicks": 19000000.0,
+      "nBest": [
+        {
+          "confidence": 0.83433855,
+          "lexical": "yep now let's go to the next one",
+          "itn": "yep now let's go to the next one",
+          "maskedITN": "yep now let's go to the next one",
+          "display": "Yep, now let's go to the next one."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT2.2S",
+      "duration": "PT4.12S",
+      "offsetInTicks": 22000000.0,
+      "durationInTicks": 41200000.0,
+      "nBest": [
+        {
+          "confidence": 0.83433855,
+          "lexical": "one zero one zero zero one one",
+          "itn": "1010011",
+          "maskedITN": "1010011",
+          "display": "1010011"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT7.11S",
+      "duration": "PT1.45S",
+      "offsetInTicks": 71100000.0,
+      "durationInTicks": 14500000.0,
+      "nBest": [
+        {
+          "confidence": 0.6841246,
+          "lexical": "no sir what",
+          "itn": "no sir what",
+          "maskedITN": "no sir what",
+          "display": "No, Sir, what?"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT10.68S",
+      "duration": "PT1.27S",
+      "offsetInTicks": 106800000.0,
+      "durationInTicks": 12700000.0,
+      "nBest": [
+        {
+          "confidence": 0.89623964,
+          "lexical": "for two fifty three",
+          "itn": "for 253",
+          "maskedITN": "for 253",
+          "display": "For 253"
+        }
+      ]
+    }
+  ]
+}
+{
+  "source": "https://longaudiosaolme.blob.core.windows.net/minutesaudios/math_irma_audio_s1.wav",
+  "timestamp": "2022-05-21T06:59:16Z",
+  "durationInTicks": 160000000,
+  "duration": "PT16S",
+  "combinedRecognizedPhrases": [
+    {
+      "channel": 0,
+      "lexical": "ohh divide divide that's gonna be the problem right because if you think about it we can divide by twenty subtract and then divide so you could get to right so that you can give back think of it if we if we divide",
+      "itn": "ohh divide divide that's gonna be the problem right because if you think about it we can divide by 20 subtract and then divide so you could get to right so that you can give back think of it if we if we divide",
+      "maskedITN": "ohh divide divide that's gonna be the problem right because if you think about it we can divide by 20 subtract and then divide so you could get to right so that you can give back think of it if we if we divide",
+      "display": "Ohh divide divide that's gonna be the problem right? Because if you think about it we can divide by 20 subtract and then divide. So you could get to right so that you can give back. Think of it if we if we divide."
+    }
+  ],
+  "recognizedPhrases": [
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT0.07S",
+      "duration": "PT15.89S",
+      "offsetInTicks": 700000.0,
+      "durationInTicks": 158900000.0,
+      "nBest": [
+        {
+          "confidence": 0.6711214,
+          "lexical": "ohh divide divide that's gonna be the problem right because if you think about it we can divide by twenty subtract and then divide so you could get to right so that you can give back think of it if we if we divide",
+          "itn": "ohh divide divide that's gonna be the problem right because if you think about it we can divide by 20 subtract and then divide so you could get to right so that you can give back think of it if we if we divide",
+          "maskedITN": "ohh divide divide that's gonna be the problem right because if you think about it we can divide by 20 subtract and then divide so you could get to right so that you can give back think of it if we if we divide",
+          "display": "Ohh divide divide that's gonna be the problem right? Because if you think about it we can divide by 20 subtract and then divide. So you could get to right so that you can give back. Think of it if we if we divide."
+        }
+      ]
+    }
+  ]
+}
+{
+  "source": "https://longaudiosaolme.blob.core.windows.net/minutesaudios/guessing_jenny_audio_s5.wav",
+  "timestamp": "2022-05-21T06:59:27Z",
+  "durationInTicks": 210000000,
+  "duration": "PT21S",
+  "combinedRecognizedPhrases": [
+    {
+      "channel": 0,
+      "lexical": "and yeah it's a hundred ninety seven third grade that's just confusing OK OK ohh negative seven and see if your breaks yep oh wait no i thought it was negative six no it was negative one i said it was how",
+      "itn": "and yeah it's 197 3rd grade that's just confusing OK OK ohh negative seven and see if your breaks yep oh wait no i thought it was negative six no it was negative one i said it was how",
+      "maskedITN": "and yeah it's 197 3rd grade that's just confusing ok ok ohh negative seven and see if your breaks yep oh wait no i thought it was negative six no it was negative one i said it was how",
+      "display": "And yeah, it's 197. 3rd grade that's just confusing. OK OK Ohh negative. Seven and see if your breaks. Yep. Oh wait, no, I thought it was negative six no. It was negative one I said it was how?"
+    }
+  ],
+  "recognizedPhrases": [
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT0.06S",
+      "duration": "PT2.83S",
+      "offsetInTicks": 600000.0,
+      "durationInTicks": 28300000.0,
+      "nBest": [
+        {
+          "confidence": 0.44565004,
+          "lexical": "and yeah it's a hundred ninety seven",
+          "itn": "and yeah it's 197",
+          "maskedITN": "and yeah it's 197",
+          "display": "And yeah, it's 197."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT2.9S",
+      "duration": "PT0.28S",
+      "offsetInTicks": 29000000.0,
+      "durationInTicks": 2800000.0,
+      "nBest": [
+        {
+          "confidence": 0.44565004,
+          "lexical": "third",
+          "itn": "3rd",
+          "maskedITN": "3rd",
+          "display": "3rd"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT3.19S",
+      "duration": "PT3.93S",
+      "offsetInTicks": 31900000.0,
+      "durationInTicks": 39300000.0,
+      "nBest": [
+        {
+          "confidence": 0.44565004,
+          "lexical": "grade that's just confusing OK OK ohh negative",
+          "itn": "grade that's just confusing OK OK ohh negative",
+          "maskedITN": "grade that's just confusing ok ok ohh negative",
+          "display": "grade that's just confusing. OK OK Ohh negative."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT9.18S",
+      "duration": "PT1.55S",
+      "offsetInTicks": 91800000.0,
+      "durationInTicks": 15500000.0,
+      "nBest": [
+        {
+          "confidence": 0.4834856,
+          "lexical": "seven and see if your breaks",
+          "itn": "seven and see if your breaks",
+          "maskedITN": "seven and see if your breaks",
+          "display": "Seven and see if your breaks."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT11.89S",
+      "duration": "PT0.33S",
+      "offsetInTicks": 118900000.0,
+      "durationInTicks": 3300000.0,
+      "nBest": [
+        {
+          "confidence": 0.93514824,
+          "lexical": "yep",
+          "itn": "yep",
+          "maskedITN": "yep",
+          "display": "Yep."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT13.24S",
+      "duration": "PT3.71S",
+      "offsetInTicks": 132400000.0,
+      "durationInTicks": 37100000.0,
+      "nBest": [
+        {
+          "confidence": 0.6848725,
+          "lexical": "oh wait no i thought it was negative six no",
+          "itn": "oh wait no i thought it was negative six no",
+          "maskedITN": "oh wait no i thought it was negative six no",
+          "display": "Oh wait, no, I thought it was negative six no."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT17.02S",
+      "duration": "PT3.75S",
+      "offsetInTicks": 170200000.0,
+      "durationInTicks": 37500000.0,
+      "nBest": [
+        {
+          "confidence": 0.6848725,
+          "lexical": "it was negative one i said it was how",
+          "itn": "it was negative one i said it was how",
+          "maskedITN": "it was negative one i said it was how",
+          "display": "It was negative one I said it was how?"
+        }
+      ]
+    }
+  ]
+}
+{
+  "source": "https://longaudiosaolme.blob.core.windows.net/minutesaudios/guessing_shelby_audio_s3.wav",
+  "timestamp": "2022-05-21T06:59:20Z",
+  "durationInTicks": 100000000,
+  "duration": "PT10S",
+  "combinedRecognizedPhrases": [
+    {
+      "channel": 0,
+      "lexical": "we i'm wondering if we could delete name and then tacos key equal input and then we put tacos and then we put name go ahead and try it see what happens so i'm ready",
+      "itn": "we i'm wondering if we could delete name and then tacos key equal input and then we put tacos and then we put name go ahead and try it see what happens so i'm ready",
+      "maskedITN": "we i'm wondering if we could delete name and then tacos key equal input and then we put tacos and then we put name go ahead and try it see what happens so i'm ready",
+      "display": "We, I'm wondering if we could delete name and then tacos key equal input and then we put tacos and then we put name. Go ahead and try it see what happens. So I'm ready."
+    }
+  ],
+  "recognizedPhrases": [
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT0.06S",
+      "duration": "PT9.27S",
+      "offsetInTicks": 600000.0,
+      "durationInTicks": 92700000.0,
+      "nBest": [
+        {
+          "confidence": 0.74179256,
+          "lexical": "we i'm wondering if we could delete name and then tacos key equal input and then we put tacos and then we put name go ahead and try it see what happens so i'm ready",
+          "itn": "we i'm wondering if we could delete name and then tacos key equal input and then we put tacos and then we put name go ahead and try it see what happens so i'm ready",
+          "maskedITN": "we i'm wondering if we could delete name and then tacos key equal input and then we put tacos and then we put name go ahead and try it see what happens so i'm ready",
+          "display": "We, I'm wondering if we could delete name and then tacos key equal input and then we put tacos and then we put name. Go ahead and try it see what happens. So I'm ready."
+        }
+      ]
+    }
+  ]
+}
+{
+  "source": "https://longaudiosaolme.blob.core.windows.net/minutesaudios/grid_allan_s1.wav",
+  "timestamp": "2022-05-21T06:58:57Z",
+  "durationInTicks": 210000000,
+  "duration": "PT21S",
+  "combinedRecognizedPhrases": [
+    {
+      "channel": 0,
+      "lexical": "this one is three to eight right and you want to do four to eight so have come in look at assembly quadrilatero quattro does anybody but the comments ideas silvassa serve and quatro",
+      "itn": "this one is 3 to 8 right and you want to do 4 to 8 so have come in look at assembly quadrilatero quattro does anybody but the comments ideas silvassa serve and quatro",
+      "maskedITN": "this one is 3 to 8 right and you want to do 4 to 8 so have come in look at assembly quadrilatero quattro does anybody but the comments ideas silvassa serve and quatro",
+      "display": "This one is 3 to 8 right? And you want to do 4 to 8 so. Have come in. Look at assembly quadrilatero. Quattro does anybody? But the comments, ideas, silvassa, serve, and quatro."
+    }
+  ],
+  "recognizedPhrases": [
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT0.05S",
+      "duration": "PT4.65S",
+      "offsetInTicks": 500000.0,
+      "durationInTicks": 46500000.0,
+      "nBest": [
+        {
+          "confidence": 0.70749927,
+          "lexical": "this one is three to eight right and you want to do four to eight so",
+          "itn": "this one is 3 to 8 right and you want to do 4 to 8 so",
+          "maskedITN": "this one is 3 to 8 right and you want to do 4 to 8 so",
+          "display": "This one is 3 to 8 right? And you want to do 4 to 8 so."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT5.95S",
+      "duration": "PT0.99S",
+      "offsetInTicks": 59500000.0,
+      "durationInTicks": 9900000.0,
+      "nBest": [
+        {
+          "confidence": 0.15684675,
+          "lexical": "have come in",
+          "itn": "have come in",
+          "maskedITN": "have come in",
+          "display": "Have come in."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT8.46S",
+      "duration": "PT1.42S",
+      "offsetInTicks": 84600000.0,
+      "durationInTicks": 14200000.0,
+      "nBest": [
+        {
+          "confidence": 0.15109743,
+          "lexical": "look at assembly quadrilatero",
+          "itn": "look at assembly quadrilatero",
+          "maskedITN": "look at assembly quadrilatero",
+          "display": "Look at assembly quadrilatero."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT11.56S",
+      "duration": "PT0.35S",
+      "offsetInTicks": 115600000.0,
+      "durationInTicks": 3500000.0,
+      "nBest": [
+        {
+          "confidence": 0.10859695,
+          "lexical": "quattro",
+          "itn": "quattro",
+          "maskedITN": "quattro",
+          "display": "Quattro"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT14.95S",
+      "duration": "PT0.59S",
+      "offsetInTicks": 149500000.0,
+      "durationInTicks": 5900000.0,
+      "nBest": [
+        {
+          "confidence": 0.75757706,
+          "lexical": "does anybody",
+          "itn": "does anybody",
+          "maskedITN": "does anybody",
+          "display": "does anybody?"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT18.13S",
+      "duration": "PT2.75S",
+      "offsetInTicks": 181300000.0,
+      "durationInTicks": 27500000.0,
+      "nBest": [
+        {
+          "confidence": 0.4646977,
+          "lexical": "but the comments ideas silvassa serve and quatro",
+          "itn": "but the comments ideas silvassa serve and quatro",
+          "maskedITN": "but the comments ideas silvassa serve and quatro",
+          "display": "But the comments, ideas, silvassa, serve, and quatro."
+        }
+      ]
+    }
+  ]
+}
+{
+  "source": "https://longaudiosaolme.blob.core.windows.net/minutesaudios/hexadecimal_hector_audio_s1.wav",
+  "timestamp": "2022-05-21T06:58:52Z",
+  "durationInTicks": 79400000,
+  "duration": "PT7.94S",
+  "combinedRecognizedPhrases": [
+    {
+      "channel": 0,
+      "lexical": "now now you do row three a blood test three things",
+      "itn": "now now you do row 3 a blood test three things",
+      "maskedITN": "now now you do row 3 a blood test three things",
+      "display": "Now now you do row 3. A blood test. Three things."
+    }
+  ],
+  "recognizedPhrases": [
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT0.23S",
+      "duration": "PT2.43S",
+      "offsetInTicks": 2300000.0,
+      "durationInTicks": 24300000.0,
+      "nBest": [
+        {
+          "confidence": 0.45677236,
+          "lexical": "now now you do row three",
+          "itn": "now now you do row 3",
+          "maskedITN": "now now you do row 3",
+          "display": "Now now you do row 3."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT3.79S",
+      "duration": "PT0.63S",
+      "offsetInTicks": 37900000.0,
+      "durationInTicks": 6300000.0,
+      "nBest": [
+        {
+          "confidence": 0.46731654,
+          "lexical": "a blood test",
+          "itn": "a blood test",
+          "maskedITN": "a blood test",
+          "display": "A blood test."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT6.79S",
+      "duration": "PT0.78S",
+      "offsetInTicks": 67900000.0,
+      "durationInTicks": 7800000.0,
+      "nBest": [
+        {
+          "confidence": 0.30279443,
+          "lexical": "three things",
+          "itn": "three things",
+          "maskedITN": "three things",
+          "display": "Three things."
+        }
+      ]
+    }
+  ]
+}
+{
+  "source": "https://longaudiosaolme.blob.core.windows.net/minutesaudios/guessing_shelby_audio_s1.wav",
+  "timestamp": "2022-05-21T06:59:44Z",
+  "durationInTicks": 290000000,
+  "duration": "PT29S",
+  "combinedRecognizedPhrases": [
+    {
+      "channel": 0,
+      "lexical": "the counter remember but don't tell me twenty one again there's not forty two carlos one plus three point five forty five OK please god yeah your number is twenty one twenty one point zero preston nominators daddy well because it",
+      "itn": "the counter remember but don't tell me 21 again there's not 42 carlos 1 + 3.545 OK please god yeah your number is 2121.0 preston nominators daddy well because it",
+      "maskedITN": "the counter remember but don't tell me 21 again there's not 42 carlos 1 + 3.545 ok please god yeah your number is 2121.0 preston nominators daddy well because it",
+      "display": "The counter remember, but don't tell me 21 again. There's not 42 Carlos. 1 + 3.545. OK. Please God, yeah your number is 2121.0 Preston nominators, Daddy? Well, because it."
+    }
+  ],
+  "recognizedPhrases": [
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT0.06S",
+      "duration": "PT4.36S",
+      "offsetInTicks": 600000.0,
+      "durationInTicks": 43600000.0,
+      "nBest": [
+        {
+          "confidence": 0.57126004,
+          "lexical": "the counter remember but don't tell me twenty one again",
+          "itn": "the counter remember but don't tell me 21 again",
+          "maskedITN": "the counter remember but don't tell me 21 again",
+          "display": "The counter remember, but don't tell me 21 again."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT5.79S",
+      "duration": "PT3.61S",
+      "offsetInTicks": 57900000.0,
+      "durationInTicks": 36100000.0,
+      "nBest": [
+        {
+          "confidence": 0.44807222,
+          "lexical": "there's not forty two carlos",
+          "itn": "there's not 42 carlos",
+          "maskedITN": "there's not 42 carlos",
+          "display": "There's not 42 Carlos."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT10.58S",
+      "duration": "PT2.57S",
+      "offsetInTicks": 105800000.0,
+      "durationInTicks": 25700000.0,
+      "nBest": [
+        {
+          "confidence": 0.72996855,
+          "lexical": "one plus three point five forty five",
+          "itn": "1 + 3.545",
+          "maskedITN": "1 + 3.545",
+          "display": "1 + 3.545."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT14.3S",
+      "duration": "PT0.45S",
+      "offsetInTicks": 143000000.0,
+      "durationInTicks": 4500000.0,
+      "nBest": [
+        {
+          "confidence": 0.031972945,
+          "lexical": "OK",
+          "itn": "OK",
+          "maskedITN": "ok",
+          "display": "OK."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT16.43S",
+      "duration": "PT9.69S",
+      "offsetInTicks": 164300000.0,
+      "durationInTicks": 96900000.0,
+      "nBest": [
+        {
+          "confidence": 0.6849884,
+          "lexical": "please god yeah your number is twenty one twenty one point zero preston nominators daddy",
+          "itn": "please god yeah your number is 2121.0 preston nominators daddy",
+          "maskedITN": "please god yeah your number is 2121.0 preston nominators daddy",
+          "display": "Please God, yeah your number is 2121.0 Preston nominators, Daddy?"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT28.3S",
+      "duration": "PT0.66S",
+      "offsetInTicks": 283000000.0,
+      "durationInTicks": 6600000.0,
+      "nBest": [
+        {
+          "confidence": 0.6868222,
+          "lexical": "well because it",
+          "itn": "well because it",
+          "maskedITN": "well because it",
+          "display": "Well, because it."
+        }
+      ]
+    }
+  ]
+}
+{
+  "source": "https://longaudiosaolme.blob.core.windows.net/minutesaudios/guessing_jenny_audio_s2.wav",
+  "timestamp": "2022-05-21T06:59:14Z",
+  "durationInTicks": 150000000,
+  "duration": "PT15S",
+  "combinedRecognizedPhrases": [
+    {
+      "channel": 0,
+      "lexical": "OK later we would definitely would be doing this six OK that time no no just enter OK multiply it by two six times two twelve",
+      "itn": "OK later we would definitely would be doing this six OK that time no no just enter OK multiply it by two 6 * 212",
+      "maskedITN": "ok later we would definitely would be doing this six ok that time no no just enter ok multiply it by two 6 * 212",
+      "display": "OK, later we would definitely would be doing this. Six OK. That time no no. Just enter. OK, multiply it by two 6 * 212."
+    }
+  ],
+  "recognizedPhrases": [
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT0.48S",
+      "duration": "PT2.49S",
+      "offsetInTicks": 4800000.0,
+      "durationInTicks": 24900000.0,
+      "nBest": [
+        {
+          "confidence": 0.56751573,
+          "lexical": "OK later we would definitely would be doing this",
+          "itn": "OK later we would definitely would be doing this",
+          "maskedITN": "ok later we would definitely would be doing this",
+          "display": "OK, later we would definitely would be doing this."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT3.02S",
+      "duration": "PT1.55S",
+      "offsetInTicks": 30200000.0,
+      "durationInTicks": 15500000.0,
+      "nBest": [
+        {
+          "confidence": 0.56751573,
+          "lexical": "six OK",
+          "itn": "six OK",
+          "maskedITN": "six ok",
+          "display": "Six OK."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT5.3S",
+      "duration": "PT1.17S",
+      "offsetInTicks": 53000000.0,
+      "durationInTicks": 11700000.0,
+      "nBest": [
+        {
+          "confidence": 0.4441273,
+          "lexical": "that time no no",
+          "itn": "that time no no",
+          "maskedITN": "that time no no",
+          "display": "That time no no."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT8.15S",
+      "duration": "PT0.91S",
+      "offsetInTicks": 81500000.0,
+      "durationInTicks": 9100000.0,
+      "nBest": [
+        {
+          "confidence": 0.4342512,
+          "lexical": "just enter",
+          "itn": "just enter",
+          "maskedITN": "just enter",
+          "display": "Just enter."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT9.89S",
+      "duration": "PT3.73S",
+      "offsetInTicks": 98900000.0,
+      "durationInTicks": 37300000.0,
+      "nBest": [
+        {
+          "confidence": 0.4342512,
+          "lexical": "OK multiply it by two six times two twelve",
+          "itn": "OK multiply it by two 6 * 212",
+          "maskedITN": "ok multiply it by two 6 * 212",
+          "display": "OK, multiply it by two 6 * 212."
+        }
+      ]
+    }
+  ]
+}
+{
+  "source": "https://longaudiosaolme.blob.core.windows.net/minutesaudios/guessing_shelby_audio_s4.wav",
+  "timestamp": "2022-05-21T06:59:03Z",
+  "durationInTicks": 300000000,
+  "duration": "PT30S",
+  "combinedRecognizedPhrases": [
+    {
+      "channel": 0,
+      "lexical": "right now we put enter or right right ohh cool that's so cool alright let's put it back to so what do you do you guys know what happened there so so i think so we i'm gonna let someone else talk i do not know carla steeler trey i understand i think it's because since it's like a hundred and probably when it's multiplied by a hundred",
+      "itn": "right now we put enter or right right ohh cool that's so cool alright let's put it back to so what do you do you guys know what happened there so so i think so we i'm gonna let someone else talk i do not know carla steeler trey i understand i think it's because since it's like 100 and probably when it's multiplied by 100",
+      "maskedITN": "right now we put enter or right right ohh cool that's so cool alright let's put it back to so what do you do you guys know what happened there so so i think so we i'm gonna let someone else talk i do not know carla steeler trey i understand i think it's because since it's like 100 and probably when it's multiplied by 100",
+      "display": "Right now we put enter or right right. Ohh cool, that's so cool. Alright, let's put it back to. So what do you do? You guys know what happened. There so, so I think so we I'm gonna let someone else talk. I do not. Know Carla Steeler Trey? I. Understand. I think it's because since it's like 100 and probably when it's multiplied by 100."
+    }
+  ],
+  "recognizedPhrases": [
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT0.08S",
+      "duration": "PT3.02S",
+      "offsetInTicks": 800000.0,
+      "durationInTicks": 30200000.0,
+      "nBest": [
+        {
+          "confidence": 0.7775465,
+          "lexical": "right now we put enter or right right",
+          "itn": "right now we put enter or right right",
+          "maskedITN": "right now we put enter or right right",
+          "display": "Right now we put enter or right right."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT5.14S",
+      "duration": "PT2.71S",
+      "offsetInTicks": 51400000.0,
+      "durationInTicks": 27100000.0,
+      "nBest": [
+        {
+          "confidence": 0.5236695,
+          "lexical": "ohh cool that's so cool",
+          "itn": "ohh cool that's so cool",
+          "maskedITN": "ohh cool that's so cool",
+          "display": "Ohh cool, that's so cool."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT8.91S",
+      "duration": "PT1.27S",
+      "offsetInTicks": 89100000.0,
+      "durationInTicks": 12700000.0,
+      "nBest": [
+        {
+          "confidence": 0.6667729,
+          "lexical": "alright let's put it back to",
+          "itn": "alright let's put it back to",
+          "maskedITN": "alright let's put it back to",
+          "display": "Alright, let's put it back to."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT10.29S",
+      "duration": "PT2.06S",
+      "offsetInTicks": 102900000.0,
+      "durationInTicks": 20600000.0,
+      "nBest": [
+        {
+          "confidence": 0.6667729,
+          "lexical": "so what do you do you guys know what happened",
+          "itn": "so what do you do you guys know what happened",
+          "maskedITN": "so what do you do you guys know what happened",
+          "display": "So what do you do? You guys know what happened."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT12.36S",
+      "duration": "PT5.08S",
+      "offsetInTicks": 123600000.0,
+      "durationInTicks": 50800000.0,
+      "nBest": [
+        {
+          "confidence": 0.6667729,
+          "lexical": "there so so i think so we i'm gonna let someone else talk i do not",
+          "itn": "there so so i think so we i'm gonna let someone else talk i do not",
+          "maskedITN": "there so so i think so we i'm gonna let someone else talk i do not",
+          "display": "There so, so I think so we I'm gonna let someone else talk. I do not."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT17.45S",
+      "duration": "PT1.76S",
+      "offsetInTicks": 174500000.0,
+      "durationInTicks": 17600000.0,
+      "nBest": [
+        {
+          "confidence": 0.6667729,
+          "lexical": "know carla steeler trey",
+          "itn": "know carla steeler trey",
+          "maskedITN": "know carla steeler trey",
+          "display": "Know Carla Steeler Trey?"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT20.35S",
+      "duration": "PT0.29S",
+      "offsetInTicks": 203500000.0,
+      "durationInTicks": 2900000.0,
+      "nBest": [
+        {
+          "confidence": 0.6667729,
+          "lexical": "i",
+          "itn": "i",
+          "maskedITN": "i",
+          "display": "I."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT20.91S",
+      "duration": "PT0.62S",
+      "offsetInTicks": 209100000.0,
+      "durationInTicks": 6200000.0,
+      "nBest": [
+        {
+          "confidence": 0.6667729,
+          "lexical": "understand",
+          "itn": "understand",
+          "maskedITN": "understand",
+          "display": "Understand."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT21.79S",
+      "duration": "PT6.93S",
+      "offsetInTicks": 217900000.0,
+      "durationInTicks": 69300000.0,
+      "nBest": [
+        {
+          "confidence": 0.6667729,
+          "lexical": "i think it's because since it's like a hundred and probably when it's multiplied by a hundred",
+          "itn": "i think it's because since it's like 100 and probably when it's multiplied by 100",
+          "maskedITN": "i think it's because since it's like 100 and probably when it's multiplied by 100",
+          "display": "I think it's because since it's like 100 and probably when it's multiplied by 100."
+        }
+      ]
+    }
+  ]
+}
+{
+  "source": "https://longaudiosaolme.blob.core.windows.net/minutesaudios/guessing_jenny_audio_s1.wav",
+  "timestamp": "2022-05-21T06:59:29Z",
+  "durationInTicks": 200000000,
+  "duration": "PT20S",
+  "combinedRecognizedPhrases": [
+    {
+      "channel": 0,
+      "lexical": "think of a number number five that's OK don't press five enter 's ideas what about two ten",
+      "itn": "think of a number #5 that's OK don't press 5 enter's ideas what about 2:10",
+      "maskedITN": "think of a number #5 that's ok don't press 5 enter's ideas what about 2:10",
+      "display": "Think of a number. #5, that's OK. Don't press 5. Enter's ideas. What about 2:10?"
+    }
+  ],
+  "recognizedPhrases": [
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT0.15S",
+      "duration": "PT0.89S",
+      "offsetInTicks": 1500000.0,
+      "durationInTicks": 8900000.0,
+      "nBest": [
+        {
+          "confidence": 0.7504384,
+          "lexical": "think of a number",
+          "itn": "think of a number",
+          "maskedITN": "think of a number",
+          "display": "Think of a number."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT4.93S",
+      "duration": "PT1.46S",
+      "offsetInTicks": 49300000.0,
+      "durationInTicks": 14600000.0,
+      "nBest": [
+        {
+          "confidence": 0.32902429,
+          "lexical": "number five that's OK",
+          "itn": "#5 that's OK",
+          "maskedITN": "#5 that's ok",
+          "display": "#5, that's OK."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT7.76S",
+      "duration": "PT1.03S",
+      "offsetInTicks": 77600000.0,
+      "durationInTicks": 10300000.0,
+      "nBest": [
+        {
+          "confidence": 0.45597324,
+          "lexical": "don't press five",
+          "itn": "don't press 5",
+          "maskedITN": "don't press 5",
+          "display": "Don't press 5."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT11.85S",
+      "duration": "PT1.97S",
+      "offsetInTicks": 118500000.0,
+      "durationInTicks": 19700000.0,
+      "nBest": [
+        {
+          "confidence": 0.75068754,
+          "lexical": "enter 's ideas",
+          "itn": "enter's ideas",
+          "maskedITN": "enter's ideas",
+          "display": "Enter's ideas."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT15.93S",
+      "duration": "PT1.35S",
+      "offsetInTicks": 159300000.0,
+      "durationInTicks": 13500000.0,
+      "nBest": [
+        {
+          "confidence": 0.6264263,
+          "lexical": "what about two ten",
+          "itn": "what about 2:10",
+          "maskedITN": "what about 2:10",
+          "display": "What about 2:10?"
+        }
+      ]
+    }
+  ]
+}
+{
+  "source": "https://longaudiosaolme.blob.core.windows.net/minutesaudios/guessing_issac_audio_s1.wav",
+  "timestamp": "2022-05-21T06:59:40Z",
+  "durationInTicks": 340000000,
+  "duration": "PT34S",
+  "combinedRecognizedPhrases": [
+    {
+      "channel": 0,
+      "lexical": "OK it's an easier number yeah because you'll understand better let's do three yeah it's a simple don't you put the devil number OK multiply by two and hit enter so we've seen this time my friend told me this six six don't push enter and then add three plus three enter is nine give me the result so it's nine press three",
+      "itn": "OK it's an easier number yeah because you'll understand better let's do three yeah it's a simple don't you put the devil number OK multiply by two and hit enter so we've seen this time my friend told me this 66 don't push enter and then add 3 + 3 enter is 9 give me the result so it's 9 press 3",
+      "maskedITN": "ok it's an easier number yeah because you'll understand better let's do three yeah it's a simple don't you put the devil number ok multiply by two and hit enter so we've seen this time my friend told me this 66 don't push enter and then add 3 + 3 enter is 9 give me the result so it's 9 press 3",
+      "display": "OK. It's an easier number, yeah? Because you'll understand better. Let's do three. Yeah, it's a simple. Don't you put the devil number? OK, multiply by two and hit enter, so we've. Seen this time my friend told me this. 66 don't push enter and then add 3 + 3 enter. Is 9. Give me the result so it's 9. Press 3."
+    }
+  ],
+  "recognizedPhrases": [
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT0.44S",
+      "duration": "PT1.45S",
+      "offsetInTicks": 4400000.0,
+      "durationInTicks": 14500000.0,
+      "nBest": [
+        {
+          "confidence": 0.007453501,
+          "lexical": "OK",
+          "itn": "OK",
+          "maskedITN": "ok",
+          "display": "OK."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT3.48S",
+      "duration": "PT1.08S",
+      "offsetInTicks": 34800000.0,
+      "durationInTicks": 10800000.0,
+      "nBest": [
+        {
+          "confidence": 0.7266548,
+          "lexical": "it's an easier number yeah",
+          "itn": "it's an easier number yeah",
+          "maskedITN": "it's an easier number yeah",
+          "display": "It's an easier number, yeah?"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT4.57S",
+      "duration": "PT1.89S",
+      "offsetInTicks": 45700000.0,
+      "durationInTicks": 18900000.0,
+      "nBest": [
+        {
+          "confidence": 0.7266548,
+          "lexical": "because you'll understand better",
+          "itn": "because you'll understand better",
+          "maskedITN": "because you'll understand better",
+          "display": "Because you'll understand better."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT7.71S",
+      "duration": "PT2.26S",
+      "offsetInTicks": 77100000.0,
+      "durationInTicks": 22600000.0,
+      "nBest": [
+        {
+          "confidence": 0.5603993,
+          "lexical": "let's do three yeah it's a simple",
+          "itn": "let's do three yeah it's a simple",
+          "maskedITN": "let's do three yeah it's a simple",
+          "display": "Let's do three. Yeah, it's a simple."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT11.56S",
+      "duration": "PT1.2S",
+      "offsetInTicks": 115600000.0,
+      "durationInTicks": 12000000.0,
+      "nBest": [
+        {
+          "confidence": 0.8601838,
+          "lexical": "don't you put the devil number",
+          "itn": "don't you put the devil number",
+          "maskedITN": "don't you put the devil number",
+          "display": "Don't you put the devil number?"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT13.77S",
+      "duration": "PT2.91S",
+      "offsetInTicks": 137700000.0,
+      "durationInTicks": 29100000.0,
+      "nBest": [
+        {
+          "confidence": 0.65737456,
+          "lexical": "OK multiply by two and hit enter so we've",
+          "itn": "OK multiply by two and hit enter so we've",
+          "maskedITN": "ok multiply by two and hit enter so we've",
+          "display": "OK, multiply by two and hit enter, so we've."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT16.69S",
+      "duration": "PT2.47S",
+      "offsetInTicks": 166900000.0,
+      "durationInTicks": 24700000.0,
+      "nBest": [
+        {
+          "confidence": 0.65737456,
+          "lexical": "seen this time my friend told me this",
+          "itn": "seen this time my friend told me this",
+          "maskedITN": "seen this time my friend told me this",
+          "display": "Seen this time my friend told me this."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT19.17S",
+      "duration": "PT4.59S",
+      "offsetInTicks": 191700000.0,
+      "durationInTicks": 45900000.0,
+      "nBest": [
+        {
+          "confidence": 0.65737456,
+          "lexical": "six six don't push enter and then add three plus three enter",
+          "itn": "66 don't push enter and then add 3 + 3 enter",
+          "maskedITN": "66 don't push enter and then add 3 + 3 enter",
+          "display": "66 don't push enter and then add 3 + 3 enter."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT23.77S",
+      "duration": "PT0.53S",
+      "offsetInTicks": 237700000.0,
+      "durationInTicks": 5300000.0,
+      "nBest": [
+        {
+          "confidence": 0.65737456,
+          "lexical": "is nine",
+          "itn": "is 9",
+          "maskedITN": "is 9",
+          "display": "Is 9."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT26.35S",
+      "duration": "PT2.09S",
+      "offsetInTicks": 263500000.0,
+      "durationInTicks": 20900000.0,
+      "nBest": [
+        {
+          "confidence": 0.87071145,
+          "lexical": "give me the result so it's nine",
+          "itn": "give me the result so it's 9",
+          "maskedITN": "give me the result so it's 9",
+          "display": "Give me the result so it's 9."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT30.66S",
+      "duration": "PT0.52S",
+      "offsetInTicks": 306600000.0,
+      "durationInTicks": 5200000.0,
+      "nBest": [
+        {
+          "confidence": 0.22648628,
+          "lexical": "press three",
+          "itn": "press 3",
+          "maskedITN": "press 3",
+          "display": "Press 3."
+        }
+      ]
+    }
+  ]
+}
+{
+  "source": "https://longaudiosaolme.blob.core.windows.net/minutesaudios/guessing_jenny_audio_s4.wav",
+  "timestamp": "2022-05-21T06:59:09Z",
+  "durationInTicks": 190000000,
+  "duration": "PT19S",
+  "combinedRecognizedPhrases": [
+    {
+      "channel": 0,
+      "lexical": "OK she's gonna do this problem OK what's your number marcus it's gonna be OK multiply by two it's is zero and add three that's three three so obviously he's gonna know our number zero",
+      "itn": "OK she's gonna do this problem OK what's your number marcus it's gonna be OK multiply by two it's is 0 and add three that's three three so obviously he's gonna know our #0",
+      "maskedITN": "ok she's gonna do this problem ok what's your number marcus it's gonna be ok multiply by two it's is 0 and add three that's three three so obviously he's gonna know our #0",
+      "display": "OK, she's gonna do this problem. OK, what's your number Marcus? It's gonna be OK. Multiply by two. It's is 0 and add three. That's three three. So obviously he's gonna know our #0."
+    }
+  ],
+  "recognizedPhrases": [
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT0.14S",
+      "duration": "PT6.82S",
+      "offsetInTicks": 1400000.0,
+      "durationInTicks": 68200000.0,
+      "nBest": [
+        {
+          "confidence": 0.75958943,
+          "lexical": "OK she's gonna do this problem OK what's your number marcus it's gonna be OK",
+          "itn": "OK she's gonna do this problem OK what's your number marcus it's gonna be OK",
+          "maskedITN": "ok she's gonna do this problem ok what's your number marcus it's gonna be ok",
+          "display": "OK, she's gonna do this problem. OK, what's your number Marcus? It's gonna be OK."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT8.27S",
+      "duration": "PT9.56S",
+      "offsetInTicks": 82700000.0,
+      "durationInTicks": 95600000.0,
+      "nBest": [
+        {
+          "confidence": 0.7184815,
+          "lexical": "multiply by two it's is zero and add three that's three three so obviously he's gonna know our number zero",
+          "itn": "multiply by two it's is 0 and add three that's three three so obviously he's gonna know our #0",
+          "maskedITN": "multiply by two it's is 0 and add three that's three three so obviously he's gonna know our #0",
+          "display": "Multiply by two. It's is 0 and add three. That's three three. So obviously he's gonna know our #0."
+        }
+      ]
+    }
+  ]
+}
+{
+  "source": "https://longaudiosaolme.blob.core.windows.net/minutesaudios/guessing_jenny_audio_s3.wav",
+  "timestamp": "2022-05-21T06:59:36Z",
+  "durationInTicks": 125000000,
+  "duration": "PT12.5S",
+  "combinedRecognizedPhrases": [
+    {
+      "channel": 0,
+      "lexical": "i'd say we should do OK but after we're going to do your billing i promise",
+      "itn": "i'd say we should do OK but after we're going to do your billing i promise",
+      "maskedITN": "i'd say we should do ok but after we're going to do your billing i promise",
+      "display": "I'd say we should do. OK. But after we're going to do your. Billing, I promise."
+    }
+  ],
+  "recognizedPhrases": [
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT1.51S",
+      "duration": "PT2.59S",
+      "offsetInTicks": 15100000.0,
+      "durationInTicks": 25900000.0,
+      "nBest": [
+        {
+          "confidence": 0.60915124,
+          "lexical": "i'd say we should do",
+          "itn": "i'd say we should do",
+          "maskedITN": "i'd say we should do",
+          "display": "I'd say we should do."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT6.42S",
+      "duration": "PT0.74S",
+      "offsetInTicks": 64200000.0,
+      "durationInTicks": 7400000.0,
+      "nBest": [
+        {
+          "confidence": 0.012785792,
+          "lexical": "OK",
+          "itn": "OK",
+          "maskedITN": "ok",
+          "display": "OK."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT8.75S",
+      "duration": "PT1.21S",
+      "offsetInTicks": 87500000.0,
+      "durationInTicks": 12100000.0,
+      "nBest": [
+        {
+          "confidence": 0.82576674,
+          "lexical": "but after we're going to do your",
+          "itn": "but after we're going to do your",
+          "maskedITN": "but after we're going to do your",
+          "display": "But after we're going to do your."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT9.97S",
+      "duration": "PT1.13S",
+      "offsetInTicks": 99700000.0,
+      "durationInTicks": 11300000.0,
+      "nBest": [
+        {
+          "confidence": 0.82576674,
+          "lexical": "billing i promise",
+          "itn": "billing i promise",
+          "maskedITN": "billing i promise",
+          "display": "Billing, I promise."
+        }
+      ]
+    }
+  ]
+}
+{
+  "source": "https://longaudiosaolme.blob.core.windows.net/minutesaudios/math_irma_audio_s2.wav",
+  "timestamp": "2022-05-21T06:59:03Z",
+  "durationInTicks": 180000000,
+  "duration": "PT18S",
+  "combinedRecognizedPhrases": [
+    {
+      "channel": 0,
+      "lexical": "so L times twenty plus two hundred plus two hundred two hundred two boat bring boy two hundred OK so now we're divided by two alright thank you",
+      "itn": "so l * 20 plus 200 plus 200 202 boat bring boy 200 OK so now we're divided by two alright thank you",
+      "maskedITN": "so l * 20 plus 200 plus 200 202 boat bring boy 200 ok so now we're divided by two alright thank you",
+      "display": "So L * 20 plus. 200 plus 200. 202 boat bring boy. 200 OK so. Now we're divided by two. Alright, thank you."
+    }
+  ],
+  "recognizedPhrases": [
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT0.05S",
+      "duration": "PT3.14S",
+      "offsetInTicks": 500000.0,
+      "durationInTicks": 31400000.0,
+      "nBest": [
+        {
+          "confidence": 0.668927,
+          "lexical": "so L times twenty plus",
+          "itn": "so l * 20 plus",
+          "maskedITN": "so l * 20 plus",
+          "display": "So L * 20 plus."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT3.24S",
+      "duration": "PT0.85S",
+      "offsetInTicks": 32400000.0,
+      "durationInTicks": 8500000.0,
+      "nBest": [
+        {
+          "confidence": 0.668927,
+          "lexical": "two hundred",
+          "itn": "200",
+          "maskedITN": "200",
+          "display": "200"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT4.66S",
+      "duration": "PT1.01S",
+      "offsetInTicks": 46600000.0,
+      "durationInTicks": 10100000.0,
+      "nBest": [
+        {
+          "confidence": 0.668927,
+          "lexical": "plus two hundred",
+          "itn": "plus 200",
+          "maskedITN": "plus 200",
+          "display": "plus 200."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT6.33S",
+      "duration": "PT3.6S",
+      "offsetInTicks": 63300000.0,
+      "durationInTicks": 36000000.0,
+      "nBest": [
+        {
+          "confidence": 0.668927,
+          "lexical": "two hundred two boat bring boy",
+          "itn": "202 boat bring boy",
+          "maskedITN": "202 boat bring boy",
+          "display": "202 boat bring boy."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT10.81S",
+      "duration": "PT2.01S",
+      "offsetInTicks": 108100000.0,
+      "durationInTicks": 20100000.0,
+      "nBest": [
+        {
+          "confidence": 0.5502473,
+          "lexical": "two hundred OK so",
+          "itn": "200 OK so",
+          "maskedITN": "200 ok so",
+          "display": "200 OK so."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT12.83S",
+      "duration": "PT1.83S",
+      "offsetInTicks": 128300000.0,
+      "durationInTicks": 18300000.0,
+      "nBest": [
+        {
+          "confidence": 0.5502473,
+          "lexical": "now we're divided by two",
+          "itn": "now we're divided by two",
+          "maskedITN": "now we're divided by two",
+          "display": "Now we're divided by two."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT15.89S",
+      "duration": "PT1.05S",
+      "offsetInTicks": 158900000.0,
+      "durationInTicks": 10500000.0,
+      "nBest": [
+        {
+          "confidence": 0.37337062,
+          "lexical": "alright thank you",
+          "itn": "alright thank you",
+          "maskedITN": "alright thank you",
+          "display": "Alright, thank you."
+        }
+      ]
+    }
+  ]
+}
+{
+  "source": "https://longaudiosaolme.blob.core.windows.net/minutesaudios/guessing_shelby_audio_s2.wav",
+  "timestamp": "2022-05-21T06:59:34Z",
+  "durationInTicks": 380000000,
+  "duration": "PT38S",
+  "combinedRecognizedPhrases": [
+    {
+      "channel": 0,
+      "lexical": "put it in the quotes it's going to like tell it to it's going to print the words that you put in there so it asks what is your name and then your name goes into name and you see how it says hello is in quotes so it's going to print print hello and then it says plus and it says name name look cold because you put it in like another box and then you press something and then and then the code moves under and then it says hello right you know and i could change name to anything that i want i could say school bus as long as it's all one word because the if you put space as the computer why don't we try that hello school",
+      "itn": "put it in the quotes it's going to like tell it to it's going to print the words that you put in there so it asks what is your name and then your name goes into name and you see how it says hello is in quotes so it's going to print print hello and then it says plus and it says name name look cold because you put it in like another box and then you press something and then and then the code moves under and then it says hello right you know and i could change name to anything that i want i could say school bus as long as it's all one word because the if you put space as the computer why don't we try that hello school",
+      "maskedITN": "put it in the quotes it's going to like tell it to it's going to print the words that you put in there so it asks what is your name and then your name goes into name and you see how it says hello is in quotes so it's going to print print hello and then it says plus and it says name name look cold because you put it in like another box and then you press something and then and then the code moves under and then it says hello right you know and i could change name to anything that i want i could say school bus as long as it's all one word because the if you put space as the computer why don't we try that hello school",
+      "display": "Put it in the quotes. It's going to like tell it to. It's going to print the words that you put in there, so it asks what is your name and then your name goes into name and you see how it says hello is in quotes. So it's going to print, print hello and then it says plus and it says name. Name? Look cold because you put it in like another box and then you press something and then and then the code moves under and then it says hello. Right, you know, and I could change name to anything that I want. I could say school bus as long as it's all one word, because the if you put space as the computer. Why don't we try that hello school?"
+    }
+  ],
+  "recognizedPhrases": [
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT0.61S",
+      "duration": "PT17.42S",
+      "offsetInTicks": 6100000.0,
+      "durationInTicks": 174200000.0,
+      "nBest": [
+        {
+          "confidence": 0.81767285,
+          "lexical": "put it in the quotes it's going to like tell it to it's going to print the words that you put in there so it asks what is your name and then your name goes into name and you see how it says hello is in quotes so it's going to print print hello and then it says plus and it says name",
+          "itn": "put it in the quotes it's going to like tell it to it's going to print the words that you put in there so it asks what is your name and then your name goes into name and you see how it says hello is in quotes so it's going to print print hello and then it says plus and it says name",
+          "maskedITN": "put it in the quotes it's going to like tell it to it's going to print the words that you put in there so it asks what is your name and then your name goes into name and you see how it says hello is in quotes so it's going to print print hello and then it says plus and it says name",
+          "display": "Put it in the quotes. It's going to like tell it to. It's going to print the words that you put in there, so it asks what is your name and then your name goes into name and you see how it says hello is in quotes. So it's going to print, print hello and then it says plus and it says name."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT18.04S",
+      "duration": "PT0.6S",
+      "offsetInTicks": 180400000.0,
+      "durationInTicks": 6000000.0,
+      "nBest": [
+        {
+          "confidence": 0.81767285,
+          "lexical": "name",
+          "itn": "name",
+          "maskedITN": "name",
+          "display": "Name?"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT19.91S",
+      "duration": "PT7.66S",
+      "offsetInTicks": 199100000.0,
+      "durationInTicks": 76600000.0,
+      "nBest": [
+        {
+          "confidence": 0.78784096,
+          "lexical": "look cold because you put it in like another box and then you press something and then and then the code moves under and then it says hello",
+          "itn": "look cold because you put it in like another box and then you press something and then and then the code moves under and then it says hello",
+          "maskedITN": "look cold because you put it in like another box and then you press something and then and then the code moves under and then it says hello",
+          "display": "Look cold because you put it in like another box and then you press something and then and then the code moves under and then it says hello."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT27.66S",
+      "duration": "PT8.19S",
+      "offsetInTicks": 276600000.0,
+      "durationInTicks": 81900000.0,
+      "nBest": [
+        {
+          "confidence": 0.78784096,
+          "lexical": "right you know and i could change name to anything that i want i could say school bus as long as it's all one word because the if you put space as the computer",
+          "itn": "right you know and i could change name to anything that i want i could say school bus as long as it's all one word because the if you put space as the computer",
+          "maskedITN": "right you know and i could change name to anything that i want i could say school bus as long as it's all one word because the if you put space as the computer",
+          "display": "Right, you know, and I could change name to anything that I want. I could say school bus as long as it's all one word, because the if you put space as the computer."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT35.86S",
+      "duration": "PT1.99S",
+      "offsetInTicks": 358600000.0,
+      "durationInTicks": 19900000.0,
+      "nBest": [
+        {
+          "confidence": 0.78784096,
+          "lexical": "why don't we try that hello school",
+          "itn": "why don't we try that hello school",
+          "maskedITN": "why don't we try that hello school",
+          "display": "Why don't we try that hello school?"
+        }
+      ]
+    }
+  ]
+}

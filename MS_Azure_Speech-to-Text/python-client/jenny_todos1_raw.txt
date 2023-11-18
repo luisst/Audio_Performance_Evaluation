@@ -1,0 +1,411 @@
+07/09/2022 02:20:59 PM MDT Starting transcription client...
+07/09/2022 02:21:00 PM MDT Created new transcription with id '09cb70ed-9c1d-469d-a537-48bf2cb926fd' in region southcentralus
+07/09/2022 02:21:00 PM MDT Checking status.
+07/09/2022 02:21:05 PM MDT Transcriptions status: Running
+07/09/2022 02:21:10 PM MDT Transcriptions status: Running
+07/09/2022 02:21:15 PM MDT Transcriptions status: Running
+07/09/2022 02:21:20 PM MDT Transcriptions status: Running
+07/09/2022 02:21:25 PM MDT Transcriptions status: Running
+07/09/2022 02:21:30 PM MDT Transcriptions status: Running
+07/09/2022 02:21:35 PM MDT Transcriptions status: Running
+07/09/2022 02:21:41 PM MDT Transcriptions status: Running
+07/09/2022 02:21:46 PM MDT Transcriptions status: Running
+07/09/2022 02:21:51 PM MDT Transcriptions status: Running
+07/09/2022 02:21:56 PM MDT Transcriptions status: Running
+07/09/2022 02:22:01 PM MDT Transcriptions status: Succeeded
+07/09/2022 02:22:01 PM MDT Results for contenturl_0.json:
+{
+  "source": "https://longaudiosaolme.blob.core.windows.net/minutesaudios/jenny_W_todos_1.wav",
+  "timestamp": "2022-07-09T20:21:58Z",
+  "durationInTicks": 1306700000,
+  "duration": "PT2M10.67S",
+  "combinedRecognizedPhrases": [
+    {
+      "channel": 0,
+      "lexical": "alright what what's new he wants to do it what's your name what's consent yeah human entered your number but do not tell me plus enter one number you want huh what's your number what's number just tell me first it's like you're breathing how about we start from small no we later we later make it harder harder OK how about OK but blaine is my favorite number OK later we definitely will be doing this six OK that time no OK multiply it by two six times twenty two twelve and then put them up and add three and hit enter at three fifteen two so which one is the first one down OK give me the result from this operation fifteen fifteen put it see your number is six are you not are you not impressive vivian yeah but i think i know how it did that how how it subtracted three and about twelve and then noon six six times two plus three is twelve and that's the only alternative like that's the only number wait could you repeat it so marcus you want to play marcus i understand do you understand what i did is so it took fifteen subtracted it by three and four you could do it like six times two is twelve plus three and so it would be the only alternative because two times hallmark",
+      "itn": "alright what what's new he wants to do it what's your name what's consent yeah human entered your number but do not tell me plus enter one number you want huh what's your number what's number just tell me first it's like you're breathing how about we start from small no we later we later make it harder harder OK how about OK but blaine is my favorite number OK later we definitely will be doing this six OK that time no OK multiply it by two 6 * 2212 and then put them up and add three and hit enter at 3:15 two so which one is the first one down OK give me the result from this operation 1515 put it see your number is 6 are you not are you not impressive vivian yeah but i think i know how it did that how how it subtracted 3 and about 12 and then noon six 6 * 2 + 3 is 12 and that's the only alternative like that's the only number wait could you repeat it so marcus you want to play marcus i understand do you understand what i did is so it took 15 subtracted it by three and four you could do it like 6 * 2 is 12 + 3 and so it would be the only alternative because two times hallmark",
+      "maskedITN": "alright what what's new he wants to do it what's your name what's consent yeah human entered your number but do not tell me plus enter one number you want huh what's your number what's number just tell me first it's like you're breathing how about we start from small no we later we later make it harder harder ok how about ok but blaine is my favorite number ok later we definitely will be doing this six ok that time no ok multiply it by two 6 * 2212 and then put them up and add three and hit enter at 3:15 two so which one is the first one down ok give me the result from this operation 1515 put it see your number is 6 are you not are you not impressive vivian yeah but i think i know how it did that how how it subtracted 3 and about 12 and then noon six 6 * 2 + 3 is 12 and that's the only alternative like that's the only number wait could you repeat it so marcus you want to play marcus i understand do you understand what i did is so it took 15 subtracted it by three and four you could do it like 6 * 2 is 12 + 3 and so it would be the only alternative because two times hallmark",
+      "display": "Alright, what? What's new. He wants to do it. What's your name? What's? Consent. Yeah. Human entered your number, but do not tell me. Plus enter one number you want, huh? What's your number? What's number? Just tell me first. It's like you're breathing. How about we start from small? No, we later we later make it harder, harder, OK? How about OK? But Blaine is my favorite number. OK, later we definitely will be doing this six, OK? That time, no. OK, multiply it by two 6 * 2212. And then put them up and add three and hit enter at 3:15 two. So which one is the first one down? OK, give me the result from this operation 1515 put it. See your number is 6. Are you not? Are you not impressive? Vivian, yeah, but I think I know how it did that, how how it subtracted 3 and about 12 and then noon six 6 * 2 + 3 is 12 and that's the only alternative like that's the only number. Wait, could you repeat it? So Marcus, you want to play Marcus I understand. Do you understand what I did is so it took 15 subtracted it by three and four? You could do it like 6 * 2 is 12 + 3 and so it would be the only alternative. Because two times hallmark."
+    }
+  ],
+  "recognizedPhrases": [
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT1.74S",
+      "duration": "PT1.74S",
+      "offsetInTicks": 17400000.0,
+      "durationInTicks": 17400000.0,
+      "nBest": [
+        {
+          "confidence": 0.44034597,
+          "lexical": "alright what",
+          "itn": "alright what",
+          "maskedITN": "alright what",
+          "display": "Alright, what?"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT3.62S",
+      "duration": "PT0.69S",
+      "offsetInTicks": 36200000.0,
+      "durationInTicks": 6900000.0,
+      "nBest": [
+        {
+          "confidence": 0.19957842,
+          "lexical": "what's new",
+          "itn": "what's new",
+          "maskedITN": "what's new",
+          "display": "What's new."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT5.01S",
+      "duration": "PT0.75S",
+      "offsetInTicks": 50100000.0,
+      "durationInTicks": 7500000.0,
+      "nBest": [
+        {
+          "confidence": 0.7857199,
+          "lexical": "he wants to do it",
+          "itn": "he wants to do it",
+          "maskedITN": "he wants to do it",
+          "display": "He wants to do it."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT8.77S",
+      "duration": "PT0.87S",
+      "offsetInTicks": 87700000.0,
+      "durationInTicks": 8700000.0,
+      "nBest": [
+        {
+          "confidence": 0.8553905,
+          "lexical": "what's your name",
+          "itn": "what's your name",
+          "maskedITN": "what's your name",
+          "display": "What's your name?"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT11.36S",
+      "duration": "PT0.35S",
+      "offsetInTicks": 113600000.0,
+      "durationInTicks": 3500000.0,
+      "nBest": [
+        {
+          "confidence": 0.31392503,
+          "lexical": "what's",
+          "itn": "what's",
+          "maskedITN": "what's",
+          "display": "What's?"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT13.96S",
+      "duration": "PT0.33S",
+      "offsetInTicks": 139600000.0,
+      "durationInTicks": 3300000.0,
+      "nBest": [
+        {
+          "confidence": 0.20670289,
+          "lexical": "consent",
+          "itn": "consent",
+          "maskedITN": "consent",
+          "display": "Consent."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT17.16S",
+      "duration": "PT0.37S",
+      "offsetInTicks": 171600000.0,
+      "durationInTicks": 3700000.0,
+      "nBest": [
+        {
+          "confidence": 0.10629472,
+          "lexical": "yeah",
+          "itn": "yeah",
+          "maskedITN": "yeah",
+          "display": "Yeah."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT21.01S",
+      "duration": "PT8.4S",
+      "offsetInTicks": 210100000.0,
+      "durationInTicks": 84000000.0,
+      "nBest": [
+        {
+          "confidence": 0.5442127,
+          "lexical": "human entered your number but do not tell me plus enter one number you want huh what's your number what's number just tell me first",
+          "itn": "human entered your number but do not tell me plus enter one number you want huh what's your number what's number just tell me first",
+          "maskedITN": "human entered your number but do not tell me plus enter one number you want huh what's your number what's number just tell me first",
+          "display": "Human entered your number, but do not tell me. Plus enter one number you want, huh? What's your number? What's number? Just tell me first."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT31.02S",
+      "duration": "PT1.51S",
+      "offsetInTicks": 310200000.0,
+      "durationInTicks": 15100000.0,
+      "nBest": [
+        {
+          "confidence": 0.4595666,
+          "lexical": "it's like you're breathing",
+          "itn": "it's like you're breathing",
+          "maskedITN": "it's like you're breathing",
+          "display": "It's like you're breathing."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT36.49S",
+      "duration": "PT7.21S",
+      "offsetInTicks": 364900000.0,
+      "durationInTicks": 72100000.0,
+      "nBest": [
+        {
+          "confidence": 0.46976942,
+          "lexical": "how about we start from small no we later we later make it harder harder OK",
+          "itn": "how about we start from small no we later we later make it harder harder OK",
+          "maskedITN": "how about we start from small no we later we later make it harder harder ok",
+          "display": "How about we start from small? No, we later we later make it harder, harder, OK?"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT45.75S",
+      "duration": "PT6.77S",
+      "offsetInTicks": 457500000.0,
+      "durationInTicks": 67700000.0,
+      "nBest": [
+        {
+          "confidence": 0.5086662,
+          "lexical": "how about OK but blaine is my favorite number OK later we definitely will be doing this six OK",
+          "itn": "how about OK but blaine is my favorite number OK later we definitely will be doing this six OK",
+          "maskedITN": "how about ok but blaine is my favorite number ok later we definitely will be doing this six ok",
+          "display": "How about OK? But Blaine is my favorite number. OK, later we definitely will be doing this six, OK?"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT53.29S",
+      "duration": "PT1.13S",
+      "offsetInTicks": 532900000.0,
+      "durationInTicks": 11300000.0,
+      "nBest": [
+        {
+          "confidence": 0.09844877,
+          "lexical": "that time no",
+          "itn": "that time no",
+          "maskedITN": "that time no",
+          "display": "That time, no."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT57.91S",
+      "duration": "PT3.75S",
+      "offsetInTicks": 579100000.0,
+      "durationInTicks": 37500000.0,
+      "nBest": [
+        {
+          "confidence": 0.5769191,
+          "lexical": "OK multiply it by two six times twenty two twelve",
+          "itn": "OK multiply it by two 6 * 2212",
+          "maskedITN": "ok multiply it by two 6 * 2212",
+          "display": "OK, multiply it by two 6 * 2212."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT1M4.2S",
+      "duration": "PT5.91S",
+      "offsetInTicks": 642000000.0,
+      "durationInTicks": 59100000.0,
+      "nBest": [
+        {
+          "confidence": 0.519972,
+          "lexical": "and then put them up and add three and hit enter at three fifteen two",
+          "itn": "and then put them up and add three and hit enter at 3:15 two",
+          "maskedITN": "and then put them up and add three and hit enter at 3:15 two",
+          "display": "And then put them up and add three and hit enter at 3:15 two."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT1M11.44S",
+      "duration": "PT2.61S",
+      "offsetInTicks": 714400000.0,
+      "durationInTicks": 26100000.0,
+      "nBest": [
+        {
+          "confidence": 0.5356156,
+          "lexical": "so which one is the first one down",
+          "itn": "so which one is the first one down",
+          "maskedITN": "so which one is the first one down",
+          "display": "So which one is the first one down?"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT1M15.56S",
+      "duration": "PT3.53S",
+      "offsetInTicks": 755600000.0,
+      "durationInTicks": 35300000.0,
+      "nBest": [
+        {
+          "confidence": 0.64710844,
+          "lexical": "OK give me the result from this operation fifteen fifteen put it",
+          "itn": "OK give me the result from this operation 1515 put it",
+          "maskedITN": "ok give me the result from this operation 1515 put it",
+          "display": "OK, give me the result from this operation 1515 put it."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT1M22.61S",
+      "duration": "PT1.47S",
+      "offsetInTicks": 826100000.0,
+      "durationInTicks": 14700000.0,
+      "nBest": [
+        {
+          "confidence": 0.8019029,
+          "lexical": "see your number is six",
+          "itn": "see your number is 6",
+          "maskedITN": "see your number is 6",
+          "display": "See your number is 6."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT1M26.68S",
+      "duration": "PT17.33S",
+      "offsetInTicks": 866800000.0,
+      "durationInTicks": 173300000.0,
+      "nBest": [
+        {
+          "confidence": 0.6109049,
+          "lexical": "are you not are you not impressive vivian yeah but i think i know how it did that how how it subtracted three and about twelve and then noon six six times two plus three is twelve and that's the only alternative like that's the only number",
+          "itn": "are you not are you not impressive vivian yeah but i think i know how it did that how how it subtracted 3 and about 12 and then noon six 6 * 2 + 3 is 12 and that's the only alternative like that's the only number",
+          "maskedITN": "are you not are you not impressive vivian yeah but i think i know how it did that how how it subtracted 3 and about 12 and then noon six 6 * 2 + 3 is 12 and that's the only alternative like that's the only number",
+          "display": "Are you not? Are you not impressive? Vivian, yeah, but I think I know how it did that, how how it subtracted 3 and about 12 and then noon six 6 * 2 + 3 is 12 and that's the only alternative like that's the only number."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT1M45.57S",
+      "duration": "PT1.5S",
+      "offsetInTicks": 1055700000.0,
+      "durationInTicks": 15000000.0,
+      "nBest": [
+        {
+          "confidence": 0.5934248,
+          "lexical": "wait could you repeat it",
+          "itn": "wait could you repeat it",
+          "maskedITN": "wait could you repeat it",
+          "display": "Wait, could you repeat it?"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT1M48.72S",
+      "duration": "PT18.11S",
+      "offsetInTicks": 1087200000.0,
+      "durationInTicks": 181100000.0,
+      "nBest": [
+        {
+          "confidence": 0.7024316,
+          "lexical": "so marcus you want to play marcus i understand do you understand what i did is so it took fifteen subtracted it by three and four you could do it like six times two is twelve plus three and so it would be the only alternative",
+          "itn": "so marcus you want to play marcus i understand do you understand what i did is so it took 15 subtracted it by three and four you could do it like 6 * 2 is 12 + 3 and so it would be the only alternative",
+          "maskedITN": "so marcus you want to play marcus i understand do you understand what i did is so it took 15 subtracted it by three and four you could do it like 6 * 2 is 12 + 3 and so it would be the only alternative",
+          "display": "So Marcus, you want to play Marcus I understand. Do you understand what I did is so it took 15 subtracted it by three and four? You could do it like 6 * 2 is 12 + 3 and so it would be the only alternative."
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT2M8.31S",
+      "duration": "PT2.32S",
+      "offsetInTicks": 1283100000.0,
+      "durationInTicks": 23200000.0,
+      "nBest": [
+        {
+          "confidence": 0.12585926,
+          "lexical": "because two times hallmark",
+          "itn": "because two times hallmark",
+          "maskedITN": "because two times hallmark",
+          "display": "Because two times hallmark."
+        }
+      ]
+    }
+  ]
+}

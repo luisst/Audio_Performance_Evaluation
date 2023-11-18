@@ -15,7 +15,7 @@ name_of_job = 'testBilingual'
 pred_col_name = 'bilingual'
 
 # input folder that MIRROR bucket in S3
-input_folder = r'/home/luis/Dropbox/DATASETS_AUDIO/AOLME/WAVs/Spanish/Testset_440_checked'
+input_folder = r'/home/luis/Dropbox/DATASETS_AUDIO/AOLME_bilingual/WAVS'
 
 dataset_name = input_folder.split('/')[-1]
 csv_output_path = path_this_file + '/' + dataset_name + '_aws' + '.csv'
@@ -36,8 +36,8 @@ for current_path in list_of_audios:
     current_name = current_path.split('/')[-1]
     print(current_name)
 
-    job_name = "{}_440_aolme_{}".format(name_of_job, cnt)
-    job_uri = "s3://myaolmebucket/{}".format(current_name)
+    job_name = "{}_Bilingual_aolme_{}".format(name_of_job, cnt)
+    job_uri = "s3://myaolmebilingual/{}".format(current_name)
     transcribe = boto3.client('transcribe')
     
     if pred_col_name == 'bilingual':

@@ -3,10 +3,13 @@ from num2words import num2words
 import numpy as np
 import os
 import unidecode
+import sys
 
 from phonemizer import phonemize
 from phonemizer.separator import Separator
 
+sys.path.append("./../")
+from my_files_utils import *
 
 def avg_wer(wer_scores, combined_ref_len):
     return float(sum(wer_scores)) / float(combined_ref_len)
@@ -206,7 +209,7 @@ def check_binary(string) :
         return False
 
 
-def std_my_phrases(my_input_str, empty_counter=0):
+def std_my_phrases(my_input_str,txt_type, log_result_path,  empty_counter=0):
 
     if my_input_str == 'nan':
         empty_counter = empty_counter + 1
@@ -215,12 +218,45 @@ def std_my_phrases(my_input_str, empty_counter=0):
         # remove question marks and commas
         line_text = my_input_str
 
-        line_text = line_text.replace('-', 'minus')
+        # line_text = line_text.replace('i\'m', 'i am')
+        # line_text = line_text.replace('i\'ve', 'i have')
+        # line_text = line_text.replace('i\'ll', 'i will')
+        # line_text = line_text.replace('i\'d', 'i would')
+
+        line_text = line_text.replace('9:00', 'nine')
+        line_text = line_text.replace('9:30', 'nine thirty')
+        line_text = line_text.replace('4:00', 'four')
+        line_text = line_text.replace('11:00', 'eleven')
+        line_text = line_text.replace('8:00', 'eight')
+        line_text = line_text.replace('7:30', 'seven thirty')
+        line_text = line_text.replace('10:44', 'ten forty four')
+        line_text = line_text.replace('$40,000', 'forty thousand dollars')
+        line_text = line_text.replace('3rd', 'third')
+        line_text = line_text.replace('8:30', 'eight thirty')
+        line_text = line_text.replace('10:00', 'ten')
+        line_text = line_text.replace('9:45', 'quarter to ten')
+
+        line_text = line_text.replace('10:30', 'ten thirty')
+        line_text = line_text.replace('50,000', 'fifty thousand')
+
+        line_text = line_text.replace('1/2', 'half')
+        line_text = line_text.replace('£1.00', 'one pound')
+
+        line_text = line_text.replace('3/4', 'three quarters')
+        line_text = line_text.replace('1/8', 'one eighth')
+        line_text = line_text.replace('$50', 'fifty dollars')
+        # line_text = line_text.replace(' AM ', ' A M ')
+
+        # line_text = line_text.replace('1 1/4', 'one and a quarter')
+        # line_text = line_text.replace('1/4', 'one quarter')
+        
+
+        # line_text = line_text.replace('-', 'minus')
         line_text = line_text.replace('=', 'equal')
         line_text = line_text.replace('+', 'and')
         line_text = line_text.replace('¿', '')
         line_text = line_text.replace('?', '')
-        line_text = line_text.replace('-', '')
+        line_text = line_text.replace('-', ' ')
         line_text = line_text.replace("'", '')
         line_text = line_text.replace(':', '')
         line_text = line_text.replace('/', '')
@@ -229,6 +265,10 @@ def std_my_phrases(my_input_str, empty_counter=0):
         line_text = line_text.replace(',', ' ')
         line_text = line_text.replace('[', '')
         line_text = line_text.replace(']', '')
+        line_text = line_text.replace('(', '')
+        line_text = line_text.replace(')', '')
+
+
         line_text = unidecode.unidecode(line_text)
 
         # to lower case
@@ -249,45 +289,39 @@ def std_my_phrases(my_input_str, empty_counter=0):
             std_list_output.append(processed_word)
 
         joined_output_words = ' '.join(std_list_output)
-        print(joined_output_words)
+        # print(joined_output_words)
+        msg = f'{txt_type}: {joined_output_words}\n'
+        log_message(msg, log_result_path, 'a')
 
         # remove extra blanc spaces
         final_word = " ".join(joined_output_words.split())
         return final_word, empty_counter
 
 
-def cer_phonemes(my_gt, my_pred, lang):
+def cer_phonemes(my_gt, my_pred, lang, log_result_path):
     c_sep = Separator(phone='_', syllable='', word=' ') #custom separator
     B_E = 'espeak' #back end
 
     #Parameters for phonemizer
-    if lang == 'english':
+    if lang == 'English':
         L = 'en-us'
         my_gt_phones = phonemize(my_gt, L, B_E, c_sep)[:-2]
         my_pred_phones = phonemize(my_pred, L, B_E, c_sep)[:-2]
-        print(my_gt_phones)
-        print(my_pred_phones)
+        msg = f'>>> PD:{my_pred_phones} \n >>>GT:{my_gt_phones}\n'
+        log_message(msg, log_result_path, 'a')
+
         phones_prob = cer(my_gt_phones, my_pred_phones)
         return phones_prob
-    elif lang == 'spanish':
+    elif lang == 'Spanish':
         L = 'es-419'
         my_gt_phones = phonemize(my_gt, L, B_E, c_sep)[:-2]
         my_pred_phones = phonemize(my_pred, L, B_E, c_sep)[:-2]
-        print(my_gt_phones)
-        print(my_pred_phones)
+
+        msg = f'>>> PD:{my_pred_phones} \n >>>GT:{my_gt_phones}\n'
+        log_message(msg, log_result_path, 'a')
+
         phones_prob = cer(my_gt_phones, my_pred_phones)
         return phones_prob
-    elif lang == 'bilingual':
-        my_gt_phones_eng = phonemize(my_gt, 'en-us', B_E, c_sep)[:-2]
-        my_pred_phones_eng = phonemize(my_pred, 'en-us', B_E, c_sep)[:-2]
-        phones_prob_eng = cer(my_gt_phones_eng, my_pred_phones_eng)
-
-        my_gt_phones_spa = phonemize(my_gt, 'es-419', B_E, c_sep)[:-2]
-        my_pred_phones_spa = phonemize(my_pred, 'es-419', B_E, c_sep)[:-2]
-        phones_prob_spa = cer(my_gt_phones_spa, my_pred_phones_spa)
-
-        phones_prob_bilingual = min(phones_prob_eng, phones_prob_spa)
-        return phones_prob_bilingual
     else:
         print(" error ")
         return 1

@@ -1,0 +1,105 @@
+guessing_irma_audio_s3.wav
+	1 (0.83): Yep, now let's go to the next one.
+	2 (0.83): 1010011
+	1 (0.68): No, Sir, what?
+	2 (0.90): For 253
+
+math_irma_audio_s1.wav
+	1 (0.67): Ohh divide divide that's gonna be the problem right? Because if you think about it we can divide by 20 subtract and then divide. So you could get to right so that you can give back. Think of it if we if we divide.
+
+guessing_jenny_audio_s5.wav
+	1 (0.45): And yeah, it's 197.
+	2 (0.45): 3rd
+	1 (0.45): grade that's just confusing. OK OK Ohh negative.
+	2 (0.48): Seven and see if your breaks.
+	1 (0.94): Yep.
+	1 (0.68): Oh wait, no, I thought it was negative six no.
+	2 (0.68): It was negative one I said it was how?
+
+guessing_shelby_audio_s3.wav
+	1 (0.74): We, I'm wondering if we could delete name and then tacos key equal input and then we put tacos and then we put name. Go ahead and try it see what happens. So I'm ready.
+
+grid_allan_s1.wav
+	1 (0.71): This one is 3 to 8 right? And you want to do 4 to 8 so.
+	1 (0.16): Have come in.
+	1 (0.15): Look at assembly quadrilatero.
+	1 (0.11): Quattro
+	1 (0.76): does anybody?
+	1 (0.46): But the comments, ideas, silvassa, serve, and quatro.
+
+hexadecimal_hector_audio_s1.wav
+	1 (0.46): Now now you do row 3.
+	1 (0.47): A blood test.
+	1 (0.30): Three things.
+
+guessing_shelby_audio_s1.wav
+	1 (0.57): The counter remember, but don't tell me 21 again.
+	1 (0.45): There's not 42 Carlos.
+	1 (0.73): 1 + 3.545.
+	1 (0.03): OK.
+	1 (0.68): Please God, yeah your number is 2121.0 Preston nominators, Daddy?
+	1 (0.69): Well, because it.
+
+guessing_jenny_audio_s2.wav
+	1 (0.57): OK, later we would definitely would be doing this.
+	2 (0.57): Six OK.
+	2 (0.44): That time no no.
+	1 (0.43): Just enter.
+	2 (0.43): OK, multiply it by two 6 * 212.
+
+guessing_shelby_audio_s4.wav
+	1 (0.78): Right now we put enter or right right.
+	1 (0.52): Ohh cool, that's so cool.
+	1 (0.67): Alright, let's put it back to.
+	2 (0.67): So what do you do? You guys know what happened.
+	1 (0.67): There so, so I think so we I'm gonna let someone else talk. I do not.
+	2 (0.67): Know Carla Steeler Trey?
+	1 (0.67): I.
+	2 (0.67): Understand.
+	1 (0.67): I think it's because since it's like 100 and probably when it's multiplied by 100.
+
+guessing_jenny_audio_s1.wav
+	1 (0.75): Think of a number.
+	1 (0.33): #5, that's OK.
+	1 (0.46): Don't press 5.
+	1 (0.75): Enter's ideas.
+	1 (0.63): What about 2:10?
+
+guessing_issac_audio_s1.wav
+	1 (0.01): OK.
+	2 (0.73): It's an easier number, yeah?
+	1 (0.73): Because you'll understand better.
+	2 (0.56): Let's do three. Yeah, it's a simple.
+	1 (0.86): Don't you put the devil number?
+	2 (0.66): OK, multiply by two and hit enter, so we've.
+	1 (0.66): Seen this time my friend told me this.
+	2 (0.66): 66 don't push enter and then add 3 + 3 enter.
+	1 (0.66): Is 9.
+	2 (0.87): Give me the result so it's 9.
+	1 (0.23): Press 3.
+
+guessing_jenny_audio_s4.wav
+	1 (0.76): OK, she's gonna do this problem. OK, what's your number Marcus? It's gonna be OK.
+	1 (0.72): Multiply by two. It's is 0 and add three. That's three three. So obviously he's gonna know our #0.
+
+guessing_jenny_audio_s3.wav
+	1 (0.61): I'd say we should do.
+	1 (0.01): OK.
+	2 (0.83): But after we're going to do your.
+	1 (0.83): Billing, I promise.
+
+math_irma_audio_s2.wav
+	1 (0.67): So L * 20 plus.
+	2 (0.67): 200
+	1 (0.67): plus 200.
+	2 (0.67): 202 boat bring boy.
+	1 (0.55): 200 OK so.
+	2 (0.55): Now we're divided by two.
+	1 (0.37): Alright, thank you.
+
+guessing_shelby_audio_s2.wav
+	1 (0.82): Put it in the quotes. It's going to like tell it to. It's going to print the words that you put in there, so it asks what is your name and then your name goes into name and you see how it says hello is in quotes. So it's going to print, print hello and then it says plus and it says name.
+	2 (0.82): Name?
+	2 (0.79): Look cold because you put it in like another box and then you press something and then and then the code moves under and then it says hello.
+	1 (0.79): Right, you know, and I could change name to anything that I want. I could say school bus as long as it's all one word, because the if you put space as the computer.
+	2 (0.79): Why don't we try that hello school?

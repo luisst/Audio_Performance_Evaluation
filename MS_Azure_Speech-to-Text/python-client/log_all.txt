@@ -1,0 +1,14 @@
+docs
+git_push.sh
+Log3minaolme.txt
+log_all.txt
+LogGroup1_3min_english.txt
+LogGroup1_3min_spanish.txt
+main.py
+README.md
+requirements.txt
+setup.py
+swagger_client
+test
+test-requirements.txt
+tox.ini

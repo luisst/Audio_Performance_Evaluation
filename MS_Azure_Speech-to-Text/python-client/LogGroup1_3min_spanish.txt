@@ -1,0 +1,1576 @@
+08/02/2021 03:32:07 PM MDT Starting transcription client...
+08/02/2021 03:32:08 PM MDT Created new transcription with id 'ab611de2-9c3e-4034-ad12-5152dd2abd99' in region southcentralus
+08/02/2021 03:32:08 PM MDT Checking status.
+08/02/2021 03:32:13 PM MDT Transcriptions status: NotStarted
+08/02/2021 03:32:18 PM MDT Transcriptions status: NotStarted
+08/02/2021 03:32:23 PM MDT Transcriptions status: NotStarted
+08/02/2021 03:32:28 PM MDT Transcriptions status: NotStarted
+08/02/2021 03:32:33 PM MDT Transcriptions status: NotStarted
+08/02/2021 03:32:38 PM MDT Transcriptions status: NotStarted
+08/02/2021 03:32:43 PM MDT Transcriptions status: Running
+08/02/2021 03:32:49 PM MDT Transcriptions status: Running
+08/02/2021 03:32:54 PM MDT Transcriptions status: Running
+08/02/2021 03:32:59 PM MDT Transcriptions status: Running
+08/02/2021 03:33:04 PM MDT Transcriptions status: Running
+08/02/2021 03:33:09 PM MDT Transcriptions status: Running
+08/02/2021 03:33:14 PM MDT Transcriptions status: Running
+08/02/2021 03:33:19 PM MDT Transcriptions status: Running
+08/02/2021 03:33:24 PM MDT Transcriptions status: Running
+08/02/2021 03:33:29 PM MDT Transcriptions status: Running
+08/02/2021 03:33:35 PM MDT Transcriptions status: Running
+08/02/2021 03:33:40 PM MDT Transcriptions status: Running
+08/02/2021 03:33:45 PM MDT Transcriptions status: Running
+08/02/2021 03:33:50 PM MDT Transcriptions status: Running
+08/02/2021 03:33:55 PM MDT Transcriptions status: Running
+08/02/2021 03:34:00 PM MDT Transcriptions status: Running
+08/02/2021 03:34:05 PM MDT Transcriptions status: Running
+08/02/2021 03:34:10 PM MDT Transcriptions status: Running
+08/02/2021 03:34:15 PM MDT Transcriptions status: Succeeded
+08/02/2021 03:34:16 PM MDT Results for contenturl_0.json:
+{
+  "source": "https://longaudiosaolme.blob.core.windows.net/minutesaudios/G-C3L1P-Apr11-C-Phuong_q2_02-05_3min_part2.wav",
+  "timestamp": "2021-08-02T21:34:14Z",
+  "durationInTicks": 2100000000,
+  "duration": "PT3M30S",
+  "combinedRecognizedPhrases": [
+    {
+      "channel": 0,
+      "lexical": "cuál es la once la once no sí subió cero por donde se supone que tienen que pensar quién no en cuál estás en el once vamos a las once la once no es sumar entendí entonces sí la hija de abrir seis seis estos son los pero para explicación la tienes acaba de decir que no lo entiendes ahora se lo entiende no es que si entiendo nada más que no le entendía la once tiene algún problema auditivo habla muy alto la costumbre claro porque es que cuando estoy en el básquet como estamos acostumbrados a gritar tanto y luego llegó también a la casa y a la escuela y así gritando sí que los iguaros hoy tres no representa usado cuatro porque cuatro ya nos aclaren tienen que estar entre entonces usamos pero sabes que esa silla es algo matemático viendo el ministro superacion no necesita tres tienes dos necesita que qué más hay uno aquí sí aquí dos un estrés sí el antes no",
+      "itn": "cuál es la 11 la 11 no sí subió cero por donde se supone que tienen que pensar quién no en cuál estás en el 11 vamos a las 11 la 11 no es sumar entendí entonces sí la hija de abrir 66 estos son los pero para explicación la tienes acaba de decir que no lo entiendes ahora se lo entiende no es que si entiendo nada más que no le entendía la 11 tiene algún problema auditivo habla muy alto la costumbre claro porque es que cuando estoy en el básquet como estamos acostumbrados a gritar tanto y luego llegó también a la casa y a la escuela y así gritando sí que los iguaros hoy 3 no representa usado cuatro porque cuatro ya nos aclaren tienen que estar entre entonces usamos pero sabes que esa silla es algo matemático viendo el ministro superacion no necesita 3 tienes 2 necesita que qué más hay uno aquí sí aquí 2 un estrés sí el antes no",
+      "maskedITN": "¿cuál es la 11 la 11 no sí subió cero por donde se supone que tienen que pensar ¿quién no ¿en cuál estás en el 11 vamos a las 11 la 11 no es sumar entendí entonces sí la hija de abrir 66 estos son los pero ¿para explicación la tienes acaba de decir que no lo entiendes ahora se lo entiende no es que si entiendo nada más que no le entendía la 11 ¿tiene algún problema auditivo habla muy alto la costumbre claro porque es que cuando estoy en el básquet como estamos acostumbrados a gritar tanto y luego llegó también a la casa y a la escuela y así gritando sí que los iguaros hoy 3 no representa usado cuatro porque cuatro ya nos aclaren tienen que estar entre entonces ¿usamos pero sabes que esa silla es algo matemático viendo el ministro superacion no necesita 3 tienes 2 ¿necesita que qué más hay uno aquí sí aquí 2 un estrés sí el antes no",
+      "display": "¿Cuál es la 11 la 11 no? Sí subió cero por donde se supone que tienen que pensar. ¿Quién? No. ¿En cuál estás en el 11? Vamos a las 11. La 11 no es sumar. Entendí entonces. Sí. La hija de. Abrir 66. Estos son los. Pero. ¿Para explicación la tienes? Acaba de decir que no lo entiendes, ahora se lo entiende. No es que si entiendo nada más que no le entendía la 11. ¿Tiene algún problema auditivo? Habla muy alto. La costumbre. Claro, porque es que cuando estoy en el básquet, como estamos acostumbrados a gritar tanto. Y luego llegó también a la casa y a la escuela y así gritando. Sí que los iguaros. Hoy. 3. No representa. Usado cuatro porque cuatro ya nos aclaren, tienen que estar entre. Entonces. ¿Usamos, pero sabes que esa silla es algo matemático? Viendo el ministro superacion no necesita 3 tienes 2. ¿Necesita que qué más? Hay uno aquí. Sí aquí 2. Un estrés. Sí. El antes. No."
+    }
+  ],
+  "recognizedPhrases": [
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT0.56S",
+      "duration": "PT2.11S",
+      "offsetInTicks": 5600000.0,
+      "durationInTicks": 21100000.0,
+      "nBest": [
+        {
+          "confidence": 0.89210474,
+          "lexical": "cuál es la once la once no",
+          "itn": "cuál es la 11 la 11 no",
+          "maskedITN": "¿cuál es la 11 la 11 no",
+          "display": "¿Cuál es la 11 la 11 no?"
+        },
+        {
+          "confidence": 0.86372524,
+          "lexical": "cuál es la once la once no la teme",
+          "itn": "cuál es la once la once no la teme",
+          "maskedITN": "cuál es la once la once no la teme",
+          "display": "cuál es la once la once no la teme"
+        },
+        {
+          "confidence": 0.8941594,
+          "lexical": "cuál es la once la once no la tengo",
+          "itn": "cuál es la once la once no la tengo",
+          "maskedITN": "cuál es la once la once no la tengo",
+          "display": "cuál es la once la once no la tengo"
+        },
+        {
+          "confidence": 0.8938394,
+          "lexical": "cuál es la once la once no lo tengo",
+          "itn": "cuál es la once la once no lo tengo",
+          "maskedITN": "cuál es la once la once no lo tengo",
+          "display": "cuál es la once la once no lo tengo"
+        },
+        {
+          "confidence": 0.89475286,
+          "lexical": "cuál es la once la once",
+          "itn": "cuál es la once la once",
+          "maskedITN": "cuál es la once la once",
+          "display": "cuál es la once la once"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT4.56S",
+      "duration": "PT4.04S",
+      "offsetInTicks": 45600000.0,
+      "durationInTicks": 40400000.0,
+      "nBest": [
+        {
+          "confidence": 0.8392393,
+          "lexical": "sí subió cero por donde se supone que tienen que pensar",
+          "itn": "sí subió cero por donde se supone que tienen que pensar",
+          "maskedITN": "sí subió cero por donde se supone que tienen que pensar",
+          "display": "Sí subió cero por donde se supone que tienen que pensar."
+        },
+        {
+          "confidence": 0.83704954,
+          "lexical": "sí subió cero por dónde se supone que tienen que pensar",
+          "itn": "sí subió cero por dónde se supone que tienen que pensar",
+          "maskedITN": "sí subió cero por dónde se supone que tienen que pensar",
+          "display": "sí subió cero por dónde se supone que tienen que pensar"
+        },
+        {
+          "confidence": 0.90650475,
+          "lexical": "sí por donde se supone que tienen que pensar",
+          "itn": "sí por donde se supone que tienen que pensar",
+          "maskedITN": "sí por donde se supone que tienen que pensar",
+          "display": "sí por donde se supone que tienen que pensar"
+        },
+        {
+          "confidence": 0.84300184,
+          "lexical": "se subió cero por donde se supone que tienen que pensar",
+          "itn": "se subió cero por donde se supone que tienen que pensar",
+          "maskedITN": "se subió cero por donde se supone que tienen que pensar",
+          "display": "se subió cero por donde se supone que tienen que pensar"
+        },
+        {
+          "confidence": 0.9059881,
+          "lexical": "si por donde se supone que tienen que pensar",
+          "itn": "si por donde se supone que tienen que pensar",
+          "maskedITN": "si por donde se supone que tienen que pensar",
+          "display": "si por donde se supone que tienen que pensar"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT12.79S",
+      "duration": "PT0.22S",
+      "offsetInTicks": 127900000.0,
+      "durationInTicks": 2200000.0,
+      "nBest": [
+        {
+          "confidence": 0.9107772,
+          "lexical": "quién",
+          "itn": "quién",
+          "maskedITN": "¿quién",
+          "display": "¿Quién?"
+        },
+        {
+          "confidence": 0.84975255,
+          "lexical": "quien lo lea",
+          "itn": "quien lo lea",
+          "maskedITN": "quien lo lea",
+          "display": "quien lo lea"
+        },
+        {
+          "confidence": 0.89990926,
+          "lexical": "quien",
+          "itn": "quien",
+          "maskedITN": "quien",
+          "display": "quien"
+        },
+        {
+          "confidence": 0.88478976,
+          "lexical": "quiero",
+          "itn": "quiero",
+          "maskedITN": "quiero",
+          "display": "quiero"
+        },
+        {
+          "confidence": 0.8488167,
+          "lexical": "quién lo lea",
+          "itn": "quién lo lea",
+          "maskedITN": "quién lo lea",
+          "display": "quién lo lea"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT20.52S",
+      "duration": "PT0.05S",
+      "offsetInTicks": 205200000.0,
+      "durationInTicks": 500000.0,
+      "nBest": [
+        {
+          "confidence": 0.92569214,
+          "lexical": "no",
+          "itn": "no",
+          "maskedITN": "no",
+          "display": "No."
+        },
+        {
+          "confidence": 0.91576177,
+          "lexical": "y",
+          "itn": "y",
+          "maskedITN": "y",
+          "display": "y"
+        },
+        {
+          "confidence": 0.89643025,
+          "lexical": "sí",
+          "itn": "sí",
+          "maskedITN": "sí",
+          "display": "sí"
+        },
+        {
+          "confidence": 0.90812266,
+          "lexical": "a",
+          "itn": "a",
+          "maskedITN": "a",
+          "display": "a"
+        },
+        {
+          "confidence": 0.8865683,
+          "lexical": "ah",
+          "itn": "ah",
+          "maskedITN": "ah",
+          "display": "ah"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT35.36S",
+      "duration": "PT2.03S",
+      "offsetInTicks": 353600000.0,
+      "durationInTicks": 20300000.0,
+      "nBest": [
+        {
+          "confidence": 0.8894329,
+          "lexical": "en cuál estás en el once",
+          "itn": "en cuál estás en el 11",
+          "maskedITN": "¿en cuál estás en el 11",
+          "display": "¿En cuál estás en el 11?"
+        },
+        {
+          "confidence": 0.8683729,
+          "lexical": "en cuál estás",
+          "itn": "en cuál estás",
+          "maskedITN": "en cuál estás",
+          "display": "en cuál estás"
+        },
+        {
+          "confidence": 0.8928737,
+          "lexical": "en cual estas en el once",
+          "itn": "en cual estas en el once",
+          "maskedITN": "en cual estas en el once",
+          "display": "en cual estas en el once"
+        },
+        {
+          "confidence": 0.87359524,
+          "lexical": "en cual estas",
+          "itn": "en cual estas",
+          "maskedITN": "en cual estas",
+          "display": "en cual estas"
+        },
+        {
+          "confidence": 0.8596197,
+          "lexical": "en cual estás",
+          "itn": "en cual estás",
+          "maskedITN": "en cual estás",
+          "display": "en cual estás"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT41.31S",
+      "duration": "PT1.34S",
+      "offsetInTicks": 413100000.0,
+      "durationInTicks": 13400000.0,
+      "nBest": [
+        {
+          "confidence": 0.8127843,
+          "lexical": "vamos a las once",
+          "itn": "vamos a las 11",
+          "maskedITN": "vamos a las 11",
+          "display": "Vamos a las 11."
+        },
+        {
+          "confidence": 0.8021647,
+          "lexical": "vamos a la once la once",
+          "itn": "vamos a la once la once",
+          "maskedITN": "vamos a la once la once",
+          "display": "vamos a la once la once"
+        },
+        {
+          "confidence": 0.76483744,
+          "lexical": "vamos a la once",
+          "itn": "vamos a la once",
+          "maskedITN": "vamos a la once",
+          "display": "vamos a la once"
+        },
+        {
+          "confidence": 0.8324701,
+          "lexical": "vamos a las once la once",
+          "itn": "vamos a las once la once",
+          "maskedITN": "vamos a las once la once",
+          "display": "vamos a las once la once"
+        },
+        {
+          "confidence": 0.7112308,
+          "lexical": "vamos ala once",
+          "itn": "vamos ala once",
+          "maskedITN": "vamos ala once",
+          "display": "vamos ala once"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT44.84S",
+      "duration": "PT1.28S",
+      "offsetInTicks": 448400000.0,
+      "durationInTicks": 12800000.0,
+      "nBest": [
+        {
+          "confidence": 0.75058913,
+          "lexical": "la once no es sumar",
+          "itn": "la 11 no es sumar",
+          "maskedITN": "la 11 no es sumar",
+          "display": "La 11 no es sumar."
+        },
+        {
+          "confidence": 0.6999502,
+          "lexical": "la onceno es sumar",
+          "itn": "la onceno es sumar",
+          "maskedITN": "la onceno es sumar",
+          "display": "la onceno es sumar"
+        },
+        {
+          "confidence": 0.90309566,
+          "lexical": "la once no es humano",
+          "itn": "la once no es humano",
+          "maskedITN": "la once no es humano",
+          "display": "la once no es humano"
+        },
+        {
+          "confidence": 0.7520879,
+          "lexical": "las once no es sumar",
+          "itn": "las once no es sumar",
+          "maskedITN": "las once no es sumar",
+          "display": "las once no es sumar"
+        },
+        {
+          "confidence": 0.8964834,
+          "lexical": "la once no es humana",
+          "itn": "la once no es humana",
+          "maskedITN": "la once no es humana",
+          "display": "la once no es humana"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT48.79S",
+      "duration": "PT1.19S",
+      "offsetInTicks": 487900000.0,
+      "durationInTicks": 11900000.0,
+      "nBest": [
+        {
+          "confidence": 0.7948114,
+          "lexical": "entendí entonces",
+          "itn": "entendí entonces",
+          "maskedITN": "entendí entonces",
+          "display": "Entendí entonces."
+        },
+        {
+          "confidence": 0.7802529,
+          "lexical": "entendió entonces",
+          "itn": "entendió entonces",
+          "maskedITN": "entendió entonces",
+          "display": "entendió entonces"
+        },
+        {
+          "confidence": 0.8727591,
+          "lexical": "yo entendí entonces",
+          "itn": "yo entendí entonces",
+          "maskedITN": "yo entendí entonces",
+          "display": "yo entendí entonces"
+        },
+        {
+          "confidence": 0.8821432,
+          "lexical": "no entendí entonces",
+          "itn": "no entendí entonces",
+          "maskedITN": "no entendí entonces",
+          "display": "no entendí entonces"
+        },
+        {
+          "confidence": 0.91459227,
+          "lexical": "entonces",
+          "itn": "entonces",
+          "maskedITN": "entonces",
+          "display": "entonces"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT53.56S",
+      "duration": "PT0.05S",
+      "offsetInTicks": 535600000.0,
+      "durationInTicks": 500000.0,
+      "nBest": [
+        {
+          "confidence": 0.9139451,
+          "lexical": "sí",
+          "itn": "sí",
+          "maskedITN": "sí",
+          "display": "Sí."
+        },
+        {
+          "confidence": 0.8817316,
+          "lexical": "eh",
+          "itn": "eh",
+          "maskedITN": "eh",
+          "display": "eh"
+        },
+        {
+          "confidence": 0.9069022,
+          "lexical": "a",
+          "itn": "a",
+          "maskedITN": "a",
+          "display": "a"
+        },
+        {
+          "confidence": 0.8850502,
+          "lexical": "ah",
+          "itn": "ah",
+          "maskedITN": "ah",
+          "display": "ah"
+        },
+        {
+          "confidence": 0.9123907,
+          "lexical": "y",
+          "itn": "y",
+          "maskedITN": "y",
+          "display": "y"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT1M12.71S",
+      "duration": "PT0.88S",
+      "offsetInTicks": 727100000.0,
+      "durationInTicks": 8800000.0,
+      "nBest": [
+        {
+          "confidence": 0.9098329,
+          "lexical": "la hija de",
+          "itn": "la hija de",
+          "maskedITN": "la hija de",
+          "display": "La hija de."
+        },
+        {
+          "confidence": 0.80794126,
+          "lexical": "lamentamos la hija de",
+          "itn": "lamentamos la hija de",
+          "maskedITN": "lamentamos la hija de",
+          "display": "lamentamos la hija de"
+        },
+        {
+          "confidence": 0.8131695,
+          "lexical": "la hija d",
+          "itn": "la hija d",
+          "maskedITN": "la hija d",
+          "display": "la hija d"
+        },
+        {
+          "confidence": 0.7526244,
+          "lexical": "hija de",
+          "itn": "hija de",
+          "maskedITN": "hija de",
+          "display": "hija de"
+        },
+        {
+          "confidence": 0.8257594,
+          "lexical": "a hija de",
+          "itn": "a hija de",
+          "maskedITN": "a hija de",
+          "display": "a hija de"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT1M19.29S",
+      "duration": "PT0.82S",
+      "offsetInTicks": 792900000.0,
+      "durationInTicks": 8200000.0,
+      "nBest": [
+        {
+          "confidence": 0.8368395,
+          "lexical": "abrir seis seis",
+          "itn": "abrir 66",
+          "maskedITN": "abrir 66",
+          "display": "Abrir 66."
+        },
+        {
+          "confidence": 0.37919322,
+          "lexical": "avisáis",
+          "itn": "avisáis",
+          "maskedITN": "avisáis",
+          "display": "avisáis"
+        },
+        {
+          "confidence": 0.69655114,
+          "lexical": "abrir seis",
+          "itn": "abrir seis",
+          "maskedITN": "abrir seis",
+          "display": "abrir seis"
+        },
+        {
+          "confidence": 0.8948482,
+          "lexical": "abrir",
+          "itn": "abrir",
+          "maskedITN": "abrir",
+          "display": "abrir"
+        },
+        {
+          "confidence": 0.6481379,
+          "lexical": "avisa y seis",
+          "itn": "avisa y seis",
+          "maskedITN": "avisa y seis",
+          "display": "avisa y seis"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT1M22.96S",
+      "duration": "PT0.72S",
+      "offsetInTicks": 829600000.0,
+      "durationInTicks": 7200000.0,
+      "nBest": [
+        {
+          "confidence": 0.89809144,
+          "lexical": "estos son los",
+          "itn": "estos son los",
+          "maskedITN": "estos son los",
+          "display": "Estos son los."
+        },
+        {
+          "confidence": 0.8527749,
+          "lexical": "estos son",
+          "itn": "estos son",
+          "maskedITN": "estos son",
+          "display": "estos son"
+        },
+        {
+          "confidence": 0.8974242,
+          "lexical": "estos son los mismos",
+          "itn": "estos son los mismos",
+          "maskedITN": "estos son los mismos",
+          "display": "estos son los mismos"
+        },
+        {
+          "confidence": 0.82194054,
+          "lexical": "éstos son los",
+          "itn": "éstos son los",
+          "maskedITN": "éstos son los",
+          "display": "éstos son los"
+        },
+        {
+          "confidence": 0.8507656,
+          "lexical": "estos son los mismo",
+          "itn": "estos son los mismo",
+          "maskedITN": "estos son los mismo",
+          "display": "estos son los mismo"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT1M27.04S",
+      "duration": "PT0.21S",
+      "offsetInTicks": 870400000.0,
+      "durationInTicks": 2100000.0,
+      "nBest": [
+        {
+          "confidence": 0.94110644,
+          "lexical": "pero",
+          "itn": "pero",
+          "maskedITN": "pero",
+          "display": "Pero."
+        },
+        {
+          "confidence": 0.842824,
+          "lexical": "tienes",
+          "itn": "tienes",
+          "maskedITN": "tienes",
+          "display": "tienes"
+        },
+        {
+          "confidence": 0.89228994,
+          "lexical": "el perdón",
+          "itn": "el perdón",
+          "maskedITN": "el perdón",
+          "display": "el perdón"
+        },
+        {
+          "confidence": 0.88024276,
+          "lexical": "el perú",
+          "itn": "el perú",
+          "maskedITN": "el perú",
+          "display": "el perú"
+        },
+        {
+          "confidence": 0.7042542,
+          "lexical": "el",
+          "itn": "el",
+          "maskedITN": "el",
+          "display": "el"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT1M30.06S",
+      "duration": "PT2.18S",
+      "offsetInTicks": 900600000.0,
+      "durationInTicks": 21800000.0,
+      "nBest": [
+        {
+          "confidence": 0.7755058,
+          "lexical": "para explicación la tienes",
+          "itn": "para explicación la tienes",
+          "maskedITN": "¿para explicación la tienes",
+          "display": "¿Para explicación la tienes?"
+        },
+        {
+          "confidence": 0.8125154,
+          "lexical": "para explicaciones en la tienda tienes",
+          "itn": "para explicaciones en la tienda tienes",
+          "maskedITN": "para explicaciones en la tienda tienes",
+          "display": "para explicaciones en la tienda tienes"
+        },
+        {
+          "confidence": 0.86466986,
+          "lexical": "para explicaciones",
+          "itn": "para explicaciones",
+          "maskedITN": "para explicaciones",
+          "display": "para explicaciones"
+        },
+        {
+          "confidence": 0.84353817,
+          "lexical": "para explicaciones en la tienda",
+          "itn": "para explicaciones en la tienda",
+          "maskedITN": "para explicaciones en la tienda",
+          "display": "para explicaciones en la tienda"
+        },
+        {
+          "confidence": 0.78532964,
+          "lexical": "para explicación en la tienda tienes",
+          "itn": "para explicación en la tienda tienes",
+          "maskedITN": "para explicación en la tienda tienes",
+          "display": "para explicación en la tienda tienes"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT1M34.36S",
+      "duration": "PT6.93S",
+      "offsetInTicks": 943600000.0,
+      "durationInTicks": 69300000.0,
+      "nBest": [
+        {
+          "confidence": 0.87094647,
+          "lexical": "acaba de decir que no lo entiendes ahora se lo entiende no es que si entiendo nada más que no le entendía la once",
+          "itn": "acaba de decir que no lo entiendes ahora se lo entiende no es que si entiendo nada más que no le entendía la 11",
+          "maskedITN": "acaba de decir que no lo entiendes ahora se lo entiende no es que si entiendo nada más que no le entendía la 11",
+          "display": "Acaba de decir que no lo entiendes, ahora se lo entiende. No es que si entiendo nada más que no le entendía la 11."
+        },
+        {
+          "confidence": 0.87221134,
+          "lexical": "acaba de decir que no lo entiendes ahora se lo entiende no es que sí entiendo nada más que no le entendía la once",
+          "itn": "acaba de decir que no lo entiendes ahora se lo entiende no es que sí entiendo nada más que no le entendía la once",
+          "maskedITN": "acaba de decir que no lo entiendes ahora se lo entiende no es que sí entiendo nada más que no le entendía la once",
+          "display": "acaba de decir que no lo entiendes ahora se lo entiende no es que sí entiendo nada más que no le entendía la once"
+        },
+        {
+          "confidence": 0.86712694,
+          "lexical": "acabas de decir que no lo entiendes ahora se lo entiende no es que si entiendo nada más que no le entendía la once",
+          "itn": "acabas de decir que no lo entiendes ahora se lo entiende no es que si entiendo nada más que no le entendía la once",
+          "maskedITN": "acabas de decir que no lo entiendes ahora se lo entiende no es que si entiendo nada más que no le entendía la once",
+          "display": "acabas de decir que no lo entiendes ahora se lo entiende no es que si entiendo nada más que no le entendía la once"
+        },
+        {
+          "confidence": 0.86408615,
+          "lexical": "acaba de decir que no lo entiendes ahora se entiende no es que si entiendo nada más que no le entendía la once",
+          "itn": "acaba de decir que no lo entiendes ahora se entiende no es que si entiendo nada más que no le entendía la once",
+          "maskedITN": "acaba de decir que no lo entiendes ahora se entiende no es que si entiendo nada más que no le entendía la once",
+          "display": "acaba de decir que no lo entiendes ahora se entiende no es que si entiendo nada más que no le entendía la once"
+        },
+        {
+          "confidence": 0.8683918,
+          "lexical": "acabas de decir que no lo entiendes ahora se lo entiende no es que sí entiendo nada más que no le entendía la once",
+          "itn": "acabas de decir que no lo entiendes ahora se lo entiende no es que sí entiendo nada más que no le entendía la once",
+          "maskedITN": "acabas de decir que no lo entiendes ahora se lo entiende no es que sí entiendo nada más que no le entendía la once",
+          "display": "acabas de decir que no lo entiendes ahora se lo entiende no es que sí entiendo nada más que no le entendía la once"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT1M45.1S",
+      "duration": "PT1.53S",
+      "offsetInTicks": 1051000000.0,
+      "durationInTicks": 15300000.0,
+      "nBest": [
+        {
+          "confidence": 0.9453396,
+          "lexical": "tiene algún problema auditivo",
+          "itn": "tiene algún problema auditivo",
+          "maskedITN": "¿tiene algún problema auditivo",
+          "display": "¿Tiene algún problema auditivo?"
+        },
+        {
+          "confidence": 0.92269886,
+          "lexical": "niño tiene algún problema auditivo",
+          "itn": "niño tiene algún problema auditivo",
+          "maskedITN": "niño tiene algún problema auditivo",
+          "display": "niño tiene algún problema auditivo"
+        },
+        {
+          "confidence": 0.9450372,
+          "lexical": "algún problema auditivo",
+          "itn": "algún problema auditivo",
+          "maskedITN": "algún problema auditivo",
+          "display": "algún problema auditivo"
+        },
+        {
+          "confidence": 0.9224865,
+          "lexical": "niños en algún problema auditivo",
+          "itn": "niños en algún problema auditivo",
+          "maskedITN": "niños en algún problema auditivo",
+          "display": "niños en algún problema auditivo"
+        },
+        {
+          "confidence": 0.92497313,
+          "lexical": "será algún problema auditivo",
+          "itn": "será algún problema auditivo",
+          "maskedITN": "será algún problema auditivo",
+          "display": "será algún problema auditivo"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT1M49.81S",
+      "duration": "PT0.77S",
+      "offsetInTicks": 1098100000.0,
+      "durationInTicks": 7700000.0,
+      "nBest": [
+        {
+          "confidence": 0.81442434,
+          "lexical": "habla muy alto",
+          "itn": "habla muy alto",
+          "maskedITN": "habla muy alto",
+          "display": "Habla muy alto."
+        },
+        {
+          "confidence": 0.8250961,
+          "lexical": "habla muy alto pero",
+          "itn": "habla muy alto pero",
+          "maskedITN": "habla muy alto pero",
+          "display": "habla muy alto pero"
+        },
+        {
+          "confidence": 0.8782025,
+          "lexical": "muy alto",
+          "itn": "muy alto",
+          "maskedITN": "muy alto",
+          "display": "muy alto"
+        },
+        {
+          "confidence": 0.87428266,
+          "lexical": "pero",
+          "itn": "pero",
+          "maskedITN": "pero",
+          "display": "pero"
+        },
+        {
+          "confidence": 0.81461585,
+          "lexical": "alto",
+          "itn": "alto",
+          "maskedITN": "alto",
+          "display": "alto"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT1M56.17S",
+      "duration": "PT0.91S",
+      "offsetInTicks": 1161700000.0,
+      "durationInTicks": 9100000.0,
+      "nBest": [
+        {
+          "confidence": 0.9141732,
+          "lexical": "la costumbre",
+          "itn": "la costumbre",
+          "maskedITN": "la costumbre",
+          "display": "La costumbre."
+        },
+        {
+          "confidence": 0.8144904,
+          "lexical": "la costumbre mis",
+          "itn": "la costumbre mis",
+          "maskedITN": "la costumbre mis",
+          "display": "la costumbre mis"
+        },
+        {
+          "confidence": 0.7619757,
+          "lexical": "la costumbre miss",
+          "itn": "la costumbre miss",
+          "maskedITN": "la costumbre miss",
+          "display": "la costumbre miss"
+        },
+        {
+          "confidence": 0.787825,
+          "lexical": "costumbre",
+          "itn": "costumbre",
+          "maskedITN": "costumbre",
+          "display": "costumbre"
+        },
+        {
+          "confidence": 0.8338124,
+          "lexical": "la costumbre mí",
+          "itn": "la costumbre mí",
+          "maskedITN": "la costumbre mí",
+          "display": "la costumbre mí"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT1M59.35S",
+      "duration": "PT11.74S",
+      "offsetInTicks": 1193500000.0,
+      "durationInTicks": 117400000.0,
+      "nBest": [
+        {
+          "confidence": 0.8769546,
+          "lexical": "claro porque es que cuando estoy en el básquet como estamos acostumbrados a gritar tanto y luego llegó también a la casa y a la escuela y así gritando",
+          "itn": "claro porque es que cuando estoy en el básquet como estamos acostumbrados a gritar tanto y luego llegó también a la casa y a la escuela y así gritando",
+          "maskedITN": "claro porque es que cuando estoy en el básquet como estamos acostumbrados a gritar tanto y luego llegó también a la casa y a la escuela y así gritando",
+          "display": "Claro, porque es que cuando estoy en el básquet, como estamos acostumbrados a gritar tanto. Y luego llegó también a la casa y a la escuela y así gritando."
+        },
+        {
+          "confidence": 0.87745154,
+          "lexical": "claro porque es que cuando estoy en el basket como estamos acostumbrados a gritar tanto y luego llegó también a la casa y a la escuela y así gritando",
+          "itn": "claro porque es que cuando estoy en el basket como estamos acostumbrados a gritar tanto y luego llegó también a la casa y a la escuela y así gritando",
+          "maskedITN": "claro porque es que cuando estoy en el basket como estamos acostumbrados a gritar tanto y luego llegó también a la casa y a la escuela y así gritando",
+          "display": "claro porque es que cuando estoy en el basket como estamos acostumbrados a gritar tanto y luego llegó también a la casa y a la escuela y así gritando"
+        },
+        {
+          "confidence": 0.87377185,
+          "lexical": "claro porque es que cuando estoy en el básquet como estamos acostumbrados a gritar tanto y luego llegó también a la casa y a la escuela y asi gritando",
+          "itn": "claro porque es que cuando estoy en el básquet como estamos acostumbrados a gritar tanto y luego llegó también a la casa y a la escuela y asi gritando",
+          "maskedITN": "claro porque es que cuando estoy en el básquet como estamos acostumbrados a gritar tanto y luego llegó también a la casa y a la escuela y asi gritando",
+          "display": "claro porque es que cuando estoy en el básquet como estamos acostumbrados a gritar tanto y luego llegó también a la casa y a la escuela y asi gritando"
+        },
+        {
+          "confidence": 0.8742688,
+          "lexical": "claro porque es que cuando estoy en el basket como estamos acostumbrados a gritar tanto y luego llegó también a la casa y a la escuela y asi gritando",
+          "itn": "claro porque es que cuando estoy en el basket como estamos acostumbrados a gritar tanto y luego llegó también a la casa y a la escuela y asi gritando",
+          "maskedITN": "claro porque es que cuando estoy en el basket como estamos acostumbrados a gritar tanto y luego llegó también a la casa y a la escuela y asi gritando",
+          "display": "claro porque es que cuando estoy en el basket como estamos acostumbrados a gritar tanto y luego llegó también a la casa y a la escuela y asi gritando"
+        },
+        {
+          "confidence": 0.87419814,
+          "lexical": "claro porque es que cuando estoy en el basquet como estamos acostumbrados a gritar tanto y luego llegó también a la casa y a la escuela y así gritando",
+          "itn": "claro porque es que cuando estoy en el basquet como estamos acostumbrados a gritar tanto y luego llegó también a la casa y a la escuela y así gritando",
+          "maskedITN": "claro porque es que cuando estoy en el basquet como estamos acostumbrados a gritar tanto y luego llegó también a la casa y a la escuela y así gritando",
+          "display": "claro porque es que cuando estoy en el basquet como estamos acostumbrados a gritar tanto y luego llegó también a la casa y a la escuela y así gritando"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT2M12.6S",
+      "duration": "PT1.38S",
+      "offsetInTicks": 1326000000.0,
+      "durationInTicks": 13800000.0,
+      "nBest": [
+        {
+          "confidence": 0.75408584,
+          "lexical": "sí que los iguaros",
+          "itn": "sí que los iguaros",
+          "maskedITN": "sí que los iguaros",
+          "display": "Sí que los iguaros."
+        },
+        {
+          "confidence": 0.7661538,
+          "lexical": "así que los iguaros",
+          "itn": "así que los iguaros",
+          "maskedITN": "así que los iguaros",
+          "display": "así que los iguaros"
+        },
+        {
+          "confidence": 0.8085277,
+          "lexical": "sí que los igualados",
+          "itn": "sí que los igualados",
+          "maskedITN": "sí que los igualados",
+          "display": "sí que los igualados"
+        },
+        {
+          "confidence": 0.82073206,
+          "lexical": "así que los igualados",
+          "itn": "así que los igualados",
+          "maskedITN": "así que los igualados",
+          "display": "así que los igualados"
+        },
+        {
+          "confidence": 0.848206,
+          "lexical": "sí que los igual dos",
+          "itn": "sí que los igual dos",
+          "maskedITN": "sí que los igual dos",
+          "display": "sí que los igual dos"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT2M17.22S",
+      "duration": "PT0.24S",
+      "offsetInTicks": 1372200000.0,
+      "durationInTicks": 2400000.0,
+      "nBest": [
+        {
+          "confidence": 0.8217173,
+          "lexical": "hoy",
+          "itn": "hoy",
+          "maskedITN": "hoy",
+          "display": "Hoy."
+        },
+        {
+          "confidence": 0.8702364,
+          "lexical": "qué",
+          "itn": "qué",
+          "maskedITN": "qué",
+          "display": "qué"
+        },
+        {
+          "confidence": 0.79197776,
+          "lexical": "okey",
+          "itn": "okey",
+          "maskedITN": "okey",
+          "display": "okey"
+        },
+        {
+          "confidence": 0.8736466,
+          "lexical": "que",
+          "itn": "que",
+          "maskedITN": "que",
+          "display": "que"
+        },
+        {
+          "confidence": 0.8258959,
+          "lexical": "ok",
+          "itn": "ok",
+          "maskedITN": "ok",
+          "display": "ok"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT2M21.89S",
+      "duration": "PT0.29S",
+      "offsetInTicks": 1418900000.0,
+      "durationInTicks": 2900000.0,
+      "nBest": [
+        {
+          "confidence": 0.9309789,
+          "lexical": "tres",
+          "itn": "3",
+          "maskedITN": "3",
+          "display": "3."
+        },
+        {
+          "confidence": 0.867255,
+          "lexical": "tres si",
+          "itn": "tres si",
+          "maskedITN": "tres si",
+          "display": "tres si"
+        },
+        {
+          "confidence": 0.8609667,
+          "lexical": "tres sí",
+          "itn": "tres sí",
+          "maskedITN": "tres sí",
+          "display": "tres sí"
+        },
+        {
+          "confidence": 0.765815,
+          "lexical": "tres y",
+          "itn": "tres y",
+          "maskedITN": "tres y",
+          "display": "tres y"
+        },
+        {
+          "confidence": 0.731603,
+          "lexical": "tres i",
+          "itn": "tres i",
+          "maskedITN": "tres i",
+          "display": "tres i"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT2M24.38S",
+      "duration": "PT1.41S",
+      "offsetInTicks": 1443800000.0,
+      "durationInTicks": 14100000.0,
+      "nBest": [
+        {
+          "confidence": 0.7902144,
+          "lexical": "no representa",
+          "itn": "no representa",
+          "maskedITN": "no representa",
+          "display": "No representa."
+        },
+        {
+          "confidence": 0.7778592,
+          "lexical": "no representar",
+          "itn": "no representar",
+          "maskedITN": "no representar",
+          "display": "no representar"
+        },
+        {
+          "confidence": 0.7864891,
+          "lexical": "no representan",
+          "itn": "no representan",
+          "maskedITN": "no representan",
+          "display": "no representan"
+        },
+        {
+          "confidence": 0.6479987,
+          "lexical": "elio representa",
+          "itn": "elio representa",
+          "maskedITN": "elio representa",
+          "display": "elio representa"
+        },
+        {
+          "confidence": 0.76229703,
+          "lexical": "no representas",
+          "itn": "no representas",
+          "maskedITN": "no representas",
+          "display": "no representas"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT2M27.87S",
+      "duration": "PT4.8S",
+      "offsetInTicks": 1478700000.0,
+      "durationInTicks": 48000000.0,
+      "nBest": [
+        {
+          "confidence": 0.74503475,
+          "lexical": "usado cuatro porque cuatro ya nos aclaren tienen que estar entre",
+          "itn": "usado cuatro porque cuatro ya nos aclaren tienen que estar entre",
+          "maskedITN": "usado cuatro porque cuatro ya nos aclaren tienen que estar entre",
+          "display": "Usado cuatro porque cuatro ya nos aclaren, tienen que estar entre."
+        },
+        {
+          "confidence": 0.74218786,
+          "lexical": "usa cuatro porque cuatro ya nos aclaren tienen que estar entre",
+          "itn": "usa cuatro porque cuatro ya nos aclaren tienen que estar entre",
+          "maskedITN": "usa cuatro porque cuatro ya nos aclaren tienen que estar entre",
+          "display": "usa cuatro porque cuatro ya nos aclaren tienen que estar entre"
+        },
+        {
+          "confidence": 0.768217,
+          "lexical": "usado cuatro porque cuatro ya las cosas claramente",
+          "itn": "usado cuatro porque cuatro ya las cosas claramente",
+          "maskedITN": "usado cuatro porque cuatro ya las cosas claramente",
+          "display": "usado cuatro porque cuatro ya las cosas claramente"
+        },
+        {
+          "confidence": 0.7461212,
+          "lexical": "usado cuatro porque cuatro ya nos aclaren tiene que estar entre",
+          "itn": "usado cuatro porque cuatro ya nos aclaren tiene que estar entre",
+          "maskedITN": "usado cuatro porque cuatro ya nos aclaren tiene que estar entre",
+          "display": "usado cuatro porque cuatro ya nos aclaren tiene que estar entre"
+        },
+        {
+          "confidence": 0.68618214,
+          "lexical": "usado cuatro porque cuatro lanosas grande",
+          "itn": "usado cuatro porque cuatro lanosas grande",
+          "maskedITN": "usado cuatro porque cuatro lanosas grande",
+          "display": "usado cuatro porque cuatro lanosas grande"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT2M35.21S",
+      "duration": "PT0.74S",
+      "offsetInTicks": 1552100000.0,
+      "durationInTicks": 7400000.0,
+      "nBest": [
+        {
+          "confidence": 0.96046865,
+          "lexical": "entonces",
+          "itn": "entonces",
+          "maskedITN": "entonces",
+          "display": "Entonces."
+        },
+        {
+          "confidence": 0.9513485,
+          "lexical": "entonces eh",
+          "itn": "entonces eh",
+          "maskedITN": "entonces eh",
+          "display": "entonces eh"
+        },
+        {
+          "confidence": 0.84522617,
+          "lexical": "en tonces",
+          "itn": "en tonces",
+          "maskedITN": "en tonces",
+          "display": "en tonces"
+        },
+        {
+          "confidence": 0.82632536,
+          "lexical": "enton ces",
+          "itn": "enton ces",
+          "maskedITN": "enton ces",
+          "display": "enton ces"
+        },
+        {
+          "confidence": 0.9546699,
+          "lexical": "entonces sí",
+          "itn": "entonces sí",
+          "maskedITN": "entonces sí",
+          "display": "entonces sí"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT2M37.88S",
+      "duration": "PT3.28S",
+      "offsetInTicks": 1578800000.0,
+      "durationInTicks": 32800000.0,
+      "nBest": [
+        {
+          "confidence": 0.8177181,
+          "lexical": "usamos pero sabes que esa silla es algo matemático",
+          "itn": "usamos pero sabes que esa silla es algo matemático",
+          "maskedITN": "¿usamos pero sabes que esa silla es algo matemático",
+          "display": "¿Usamos, pero sabes que esa silla es algo matemático?"
+        },
+        {
+          "confidence": 0.8890915,
+          "lexical": "pero sabes que esa silla es algo matemático",
+          "itn": "pero sabes que esa silla es algo matemático",
+          "maskedITN": "pero sabes que esa silla es algo matemático",
+          "display": "pero sabes que esa silla es algo matemático"
+        },
+        {
+          "confidence": 0.8253135,
+          "lexical": "usamos pero sabes que es así ya es algo matemático",
+          "itn": "usamos pero sabes que es así ya es algo matemático",
+          "maskedITN": "usamos pero sabes que es así ya es algo matemático",
+          "display": "usamos pero sabes que es así ya es algo matemático"
+        },
+        {
+          "confidence": 0.7946568,
+          "lexical": "usamos pero sabés que esa silla es algo matemático",
+          "itn": "usamos pero sabés que esa silla es algo matemático",
+          "maskedITN": "usamos pero sabés que esa silla es algo matemático",
+          "display": "usamos pero sabés que esa silla es algo matemático"
+        },
+        {
+          "confidence": 0.80925745,
+          "lexical": "usamos pero sabes qué esa silla es algo matemático",
+          "itn": "usamos pero sabes qué esa silla es algo matemático",
+          "maskedITN": "usamos pero sabes qué esa silla es algo matemático",
+          "display": "usamos pero sabes qué esa silla es algo matemático"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT2M42.7S",
+      "duration": "PT4.88S",
+      "offsetInTicks": 1627000000.0,
+      "durationInTicks": 48800000.0,
+      "nBest": [
+        {
+          "confidence": 0.83071464,
+          "lexical": "viendo el ministro superacion no necesita tres tienes dos",
+          "itn": "viendo el ministro superacion no necesita 3 tienes 2",
+          "maskedITN": "viendo el ministro superacion no necesita 3 tienes 2",
+          "display": "Viendo el ministro superacion no necesita 3 tienes 2."
+        },
+        {
+          "confidence": 0.783319,
+          "lexical": "viendo el ministro superacion necesita tres tienes dos",
+          "itn": "viendo el ministro superacion necesita tres tienes dos",
+          "maskedITN": "viendo el ministro superacion necesita tres tienes dos",
+          "display": "viendo el ministro superacion necesita tres tienes dos"
+        },
+        {
+          "confidence": 0.82487285,
+          "lexical": "siendo el ministro superacion no necesita tres tienes dos",
+          "itn": "siendo el ministro superacion no necesita tres tienes dos",
+          "maskedITN": "siendo el ministro superacion no necesita tres tienes dos",
+          "display": "siendo el ministro superacion no necesita tres tienes dos"
+        },
+        {
+          "confidence": 0.81891215,
+          "lexical": "viendo el ministro superacion no necesitó tres tienes dos",
+          "itn": "viendo el ministro superacion no necesitó tres tienes dos",
+          "maskedITN": "viendo el ministro superacion no necesitó tres tienes dos",
+          "display": "viendo el ministro superacion no necesitó tres tienes dos"
+        },
+        {
+          "confidence": 0.8281211,
+          "lexical": "viendo el ministro superacion no necesito tres tienes dos",
+          "itn": "viendo el ministro superacion no necesito tres tienes dos",
+          "maskedITN": "viendo el ministro superacion no necesito tres tienes dos",
+          "display": "viendo el ministro superacion no necesito tres tienes dos"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT2M50.21S",
+      "duration": "PT1.58S",
+      "offsetInTicks": 1702100000.0,
+      "durationInTicks": 15800000.0,
+      "nBest": [
+        {
+          "confidence": 0.87937385,
+          "lexical": "necesita que qué más",
+          "itn": "necesita que qué más",
+          "maskedITN": "¿necesita que qué más",
+          "display": "¿Necesita que qué más?"
+        },
+        {
+          "confidence": 0.8591898,
+          "lexical": "necesitaba que qué más",
+          "itn": "necesitaba que qué más",
+          "maskedITN": "necesitaba que qué más",
+          "display": "necesitaba que qué más"
+        },
+        {
+          "confidence": 0.7870372,
+          "lexical": "necesita que quemas",
+          "itn": "necesita que quemas",
+          "maskedITN": "necesita que quemas",
+          "display": "necesita que quemas"
+        },
+        {
+          "confidence": 0.89256334,
+          "lexical": "necesita que que más",
+          "itn": "necesita que que más",
+          "maskedITN": "necesita que que más",
+          "display": "necesita que que más"
+        },
+        {
+          "confidence": 0.7704625,
+          "lexical": "necesitaba que quemas",
+          "itn": "necesitaba que quemas",
+          "maskedITN": "necesitaba que quemas",
+          "display": "necesitaba que quemas"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT2M54.4S",
+      "duration": "PT0.76S",
+      "offsetInTicks": 1744000000.0,
+      "durationInTicks": 7600000.0,
+      "nBest": [
+        {
+          "confidence": 0.87917674,
+          "lexical": "hay uno aquí",
+          "itn": "hay uno aquí",
+          "maskedITN": "hay uno aquí",
+          "display": "Hay uno aquí."
+        },
+        {
+          "confidence": 0.8891449,
+          "lexical": "uno aquí",
+          "itn": "uno aquí",
+          "maskedITN": "uno aquí",
+          "display": "uno aquí"
+        },
+        {
+          "confidence": 0.8213444,
+          "lexical": "ay uno aquí",
+          "itn": "ay uno aquí",
+          "maskedITN": "ay uno aquí",
+          "display": "ay uno aquí"
+        },
+        {
+          "confidence": 0.9188543,
+          "lexical": "no aquí",
+          "itn": "no aquí",
+          "maskedITN": "no aquí",
+          "display": "no aquí"
+        },
+        {
+          "confidence": 0.8942024,
+          "lexical": "aquí",
+          "itn": "aquí",
+          "maskedITN": "aquí",
+          "display": "aquí"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT2M57.98S",
+      "duration": "PT2.25S",
+      "offsetInTicks": 1779800000.0,
+      "durationInTicks": 22500000.0,
+      "nBest": [
+        {
+          "confidence": 0.8268788,
+          "lexical": "sí aquí dos",
+          "itn": "sí aquí 2",
+          "maskedITN": "sí aquí 2",
+          "display": "Sí aquí 2."
+        },
+        {
+          "confidence": 0.81049657,
+          "lexical": "si aquí dos",
+          "itn": "si aquí dos",
+          "maskedITN": "si aquí dos",
+          "display": "si aquí dos"
+        },
+        {
+          "confidence": 0.8251889,
+          "lexical": "sí aquí",
+          "itn": "sí aquí",
+          "maskedITN": "sí aquí",
+          "display": "sí aquí"
+        },
+        {
+          "confidence": 0.8039261,
+          "lexical": "si aquí",
+          "itn": "si aquí",
+          "maskedITN": "si aquí",
+          "display": "si aquí"
+        },
+        {
+          "confidence": 0.81253034,
+          "lexical": "ok sí aquí dos",
+          "itn": "ok sí aquí dos",
+          "maskedITN": "ok sí aquí dos",
+          "display": "ok sí aquí dos"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT3M2.83S",
+      "duration": "PT1.2S",
+      "offsetInTicks": 1828300000.0,
+      "durationInTicks": 12000000.0,
+      "nBest": [
+        {
+          "confidence": 0.74922085,
+          "lexical": "un estrés",
+          "itn": "un estrés",
+          "maskedITN": "un estrés",
+          "display": "Un estrés."
+        },
+        {
+          "confidence": 0.7173411,
+          "lexical": "uno estrés",
+          "itn": "uno estrés",
+          "maskedITN": "uno estrés",
+          "display": "uno estrés"
+        },
+        {
+          "confidence": 0.7512144,
+          "lexical": "uno estrella",
+          "itn": "uno estrella",
+          "maskedITN": "uno estrella",
+          "display": "uno estrella"
+        },
+        {
+          "confidence": 0.76304704,
+          "lexical": "un estreno",
+          "itn": "un estreno",
+          "maskedITN": "un estreno",
+          "display": "un estreno"
+        },
+        {
+          "confidence": 0.8194964,
+          "lexical": "uno es tres",
+          "itn": "uno es tres",
+          "maskedITN": "uno es tres",
+          "display": "uno es tres"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT3M5.67S",
+      "duration": "PT0.05S",
+      "offsetInTicks": 1856700000.0,
+      "durationInTicks": 500000.0,
+      "nBest": [
+        {
+          "confidence": 0.929348,
+          "lexical": "sí",
+          "itn": "sí",
+          "maskedITN": "sí",
+          "display": "Sí."
+        },
+        {
+          "confidence": 0.9295153,
+          "lexical": "si",
+          "itn": "si",
+          "maskedITN": "si",
+          "display": "si"
+        },
+        {
+          "confidence": 0.9245456,
+          "lexical": "y",
+          "itn": "y",
+          "maskedITN": "y",
+          "display": "y"
+        },
+        {
+          "confidence": 0.8834879,
+          "lexical": "eh",
+          "itn": "eh",
+          "maskedITN": "eh",
+          "display": "eh"
+        },
+        {
+          "confidence": 0.91817343,
+          "lexical": "no",
+          "itn": "no",
+          "maskedITN": "no",
+          "display": "no"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT3M26.72S",
+      "duration": "PT0.64S",
+      "offsetInTicks": 2067200000.0,
+      "durationInTicks": 6400000.0,
+      "nBest": [
+        {
+          "confidence": 0.7952236,
+          "lexical": "el antes",
+          "itn": "el antes",
+          "maskedITN": "el antes",
+          "display": "El antes."
+        },
+        {
+          "confidence": 0.7709409,
+          "lexical": "entonces",
+          "itn": "entonces",
+          "maskedITN": "entonces",
+          "display": "entonces"
+        },
+        {
+          "confidence": 0.74653906,
+          "lexical": "delante",
+          "itn": "delante",
+          "maskedITN": "delante",
+          "display": "delante"
+        },
+        {
+          "confidence": 0.8071741,
+          "lexical": "él antes",
+          "itn": "él antes",
+          "maskedITN": "él antes",
+          "display": "él antes"
+        },
+        {
+          "confidence": 0.6687009,
+          "lexical": "en lances",
+          "itn": "en lances",
+          "maskedITN": "en lances",
+          "display": "en lances"
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT3M29.75S",
+      "duration": "PT0.05S",
+      "offsetInTicks": 2097500000.0,
+      "durationInTicks": 500000.0,
+      "nBest": [
+        {
+          "confidence": 0.9193007,
+          "lexical": "no",
+          "itn": "no",
+          "maskedITN": "no",
+          "display": "No."
+        },
+        {
+          "confidence": 0.90517986,
+          "lexical": "sí",
+          "itn": "sí",
+          "maskedITN": "sí",
+          "display": "sí"
+        },
+        {
+          "confidence": 0.90981007,
+          "lexical": "a",
+          "itn": "a",
+          "maskedITN": "a",
+          "display": "a"
+        },
+        {
+          "confidence": 0.8886683,
+          "lexical": "ah",
+          "itn": "ah",
+          "maskedITN": "ah",
+          "display": "ah"
+        },
+        {
+          "confidence": 0.87467414,
+          "lexical": "eh",
+          "itn": "eh",
+          "maskedITN": "eh",
+          "display": "eh"
+        }
+      ]
+    }
+  ]
+}

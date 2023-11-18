@@ -1,0 +1,220 @@
+c1	PER 	WER	Target IPAs	Predicted IPAs
+1	0.6364	1.5000	aɪ s_o_l_a_m_ɛ_n_t_e		a_e_s_ɔ_l_e ɛ_n d_e
+2	0.7273	1.0000	d_o_s b_a_l_ɔ_ɾ_ɛ_s		u_n_b_a u_s
+3	1.0000	2.0000	s_ɛ_ɾ_ɔ		s_e d_ɛ
+4	1.0000	1.0000	m_e_x_ɔ_ɾ		a_β_a
+5	0.7500	1.0000	e_s_t_a		e_s_e_n_ɔ
+6	0.8000	1.0000	a b_ɛ_ɾ		ɔ_ɾ
+7	0.8462	1.0000	ʝ_a p_ɛ_ɾ_ɔ a b_ɛ_ɾ		l_o_b_l_ɔ_ɾ
+8	0.8000	1.0000	e_s_t_o t_j_e_n_e b_a_ɾ_j_o_s b_a_l_ɔ_ɾ_ɛ_s		k_e_s_i_s_d_w_ɔ i_e_b_j_ɾ
+9	0.7576	1.4000	t_j_e_n_e k_o_m_o k_e b_a_ɾ_j_a_s i_n_t_ɛ_n_s_i_ð_a_ð_e_s		ʝ_u_m_e ɡ_ɔ a_m ɛ_ɾ d_e a_o a_ɾ_s
+10	0.5172	1.0000	i a_k_i s_o_l_o e_s_t_a_m_o_s t_ɾ_a_β_a_x_a_n_d_o		n_e_k_i_s_l_o_s  m_o_t_ɾ_o_a_β_a n_o
+11	0.4000	1.0000	u_n_o i s_ɛ_ɾ_ɔ		m_u_n_o e_k_i_a_s_ɛ_ɾ_ɔ
+12	0.5556	1.0000	p_ɾ_ɛ_n_d_i_ð_o o a_p_a_ɣ_a_ð_o		ɾ_ɛ_n_ɡ_ɾ_i_β_o a_β_a o
+13	0.5200	1.0000	b_a_s a p_o_ð_ɛ_ɾ a_s_ɛ_ɾ l_o_s o_x_o_s		o_s_a p_w_ɛ_ɾ_o_s_e m_u_s_o_s_o_s
+14	0.7500	1.2500	p_ɛ_ɾ_ɔ ʝ_a m_a_s a_j_j_a		b_e l_ɔ_n_ʝ_a b_o_a a_s b_ɾ_j_j
+15	0.3333	1.0000	k_o_m_o a_s_e_s		u_n_o a_s_e_s 
+16	0.7500	1.0000	s_ɛ_ɾ_ɔ p_u_n_t_o s_i_n_k_o		s_l_u_t_e u_s_ɛ_i_l_b_i_ɣ_o
+17	0.6429	1.0000	s_ɛ_ɾ_ɔ p_u_n_t_o s_eɪ_s		o_o u_n_d_o_s e
+18	0.4737	1.0000	e_s_t_o l_o p_w_e_ð_e_s a_s_ɛ_ɾ		e_s_t b_e p_w_e_s_e_s
+19	0.7778	2.0000	s_o_l_a_m_ɛ_n_t_e		o_s ɔ_ɾ_ɔ_n_d_e
+20	1.2000	3.0000	s_ɛ_ɾ_ɔ_s		s_e_β_ɔ ɛ a
+21	1.2500	2.0000	e_s_t_a		i_s_ð_o ɔ
+22	0.8333	2.0000	e_s_p_a_ð_a		o b_a
+23	0.4000	1.0000	n_o s_e		o_s_e
+24	1.0000	1.0000	o_j_j_e		k_a_n_a
+25	0.5385	1.0000	n_o s_e k_e a_s_ɛ_ɾ		n_s_e_k_e ɾ_o_d_e
+26	0.6667	1.0000	a_k_a		a_t_a_ɾ
+27	0.7143	1.0000	p_ɛ_ɾ_ɔ e_s		d_e_s
+28	0.6364	1.0000	t_o_ð_o l_o k_e e_s_t_a d_ɛ_n_t_ɾ_o		ɔ_u l t_e_s_t_e e b_o
+29	0.6250	1.0000	a_s_l_o u_n_a		a_ð_j_o_l u_ð_o
+30	0.6471	1.0000	i t_o_ð_o l_o k_e e_s_t_a		i_u_e r_e_s_t_a
+31	0.8333	1.0000	e_s_p_a_ð_a		t_ɔ_a
+32	0.1429	0.5000	u_n s_ɛ_ɾ_ɔ		ɔ_n s_ɛ_ɾ_ɔ
+33	0.5000	1.0000	s_ɛ_ɾ_ɔ		β_ɛ_ɾ_o
+34	0.9167	1.0000	l_o d_e a_f_w_ɛ_ɾ_a		u_m_o_ɛ_s b_o
+35	0.8000	1.0000	k_l_a_ɾ_ɔ		w_ɛ_ɾ
+36	0.8235	1.0000	k_ɔ_n u_n s_o_l_o k_o_l_ɔ_ɾ		u n_p_ɔ r
+37	0.5217	1.0000	b_a a s_ɛ_ɾ k_o_m_o l_a s_ɔ_m_b_ɾ_a		o_s e_k_ɛ_o l_a_s s_ɔ_n_b_ɾ_a
+38	0.8333	1.0000	m_e ɛ_n_t_j_ɛ_n_d_e_s		ɾ_j_e_n_e_s s
+39	0.7000	2.0000	e_s_t_a p_a_ɾ_t_e		e_s a_ɾ_a b_a_l t_o
+40	0.7500	1.0000	t_o_ð_o		t_ɔ_ɔ
+41	0.3333	1.0000	k_ɔ_n u_n k_o_l_ɔ_ɾ		ɔ_n u_n k_ɡ_o_ð_ɔ_o 
+42	0.8333	1.0000	a_f_w_ɛ_ɾ_a		ɛ_r_ɔ_a
+43	0.0000	0.0000	s_i		s_i
+44	0.2222	0.5000	p_a_ɾ_a t_o_ð_o		ɾ_a t_o_ð_o
+45	0.8824	1.0000	i_n_k_l_u_i_ð_o e_l f_ɔ_n_d_o		u_d_b_ɛ_n_t_a
+46	0.8333	1.0000	a_s_i k_e		t_a_s_b_ɛ
+47	0.8065	1.0000	t_o_ð_a l_a e_s_p_a_ð_a d_e u_n s_o_l_o k_o_l_ɔ_ɾ		ɔ_ɾ_t_ɔ_ɔ_ɾ n_s ɛ_β_ɔ_ɾ
+48	1.4000	1.5000	a b_ɛ_ɾ		o a_o_ɔ_ɛ ɛ_l
+49	0.5000	1.0000	e_s_t_a		k_e_s_d_a
+50	2.0000	2.0000	ʝ_a		ʝ_e_a a_ð
+51	0.9000	2.0000	e_s_t_a p_a_ɾ_t_e		l_e r_ɾ_ɔ e_l d_e
+52	1.0000	1.0000	k_e m_a_s		e e_r_ɾ_o_s_e
+53	2.5000	2.0000	ʝ_a		d_e_a a_a
+54	0.7500	1.0000	a_ɔ_ɾ_a		ɔ_l_o
+55	0.7000	1.0000	p_a_ɾ_a a_r_i_β_a		t_ɾ_a_ɛ_ɾ a
+56	0.2500	1.0000	a_ɔ_ɾ_a		a_ɔ_ɾ_a_o
+57	0.6000	1.0000	t_ɛ_ŋ_ɡ_o		ɛ_ɾ_o
+58	0.7500	1.0000	l_a p_a_ɾ_t_e		β_a_ð_ɾ a_s_d_e
+59	0.8750	1.0000	r_e_k_w_ɛ_ɾ_ð_a		b_o_e_ɣ_a
+60	0.6957	1.0000	u_n s_o_l_o k_o_l_ɔ_ɾ p_a_ɾ_a t_o_ð_o		u_s_ɾ ɔ_ð_o n_o_o
+61	0.6667	1.0000	a_k_i		ɔ_m_i
+62	0.8000	1.0000	o s_e_a		o_ʝ_a d_a
+63	0.5000	2.0000	s_u_β_e		s_i e
+64	0.4000	0.5000	o s_e_a		s_e_a
+65	1.0000	1.0000	s_i		
+66	0.6000	1.0000	s_u_β_e n_o_m_a_s		s_m_e_l_u_o_s
+67	0.8000	1.5000	p_ɔ_n_l_o t_o_ð_o		o o b_ɔ
+68	1.0000	1.0000	ʝ_a		ɾ_l
+69	0.9167	1.0000	i e_s_t_a p_a_ɾ_t_e		j_e n_ɛ_n_d_ɛ_n_b_d_e
+70	0.5000	1.0000	n_o		d_o
+71	0.5000	1.0000	a_i		a
+72	0.6250	1.0000	e_l ɔ_t_ɾ_o e_k_s_t_ɾ_e_m_o		e_ð_o f_e_m_o
+73	0.8000	1.0000	s_ɛ_ɾ_i_a		s_j_e_n_e
+74	0.8000	1.0000	k_l_a_ɾ_ɔ		ɔ_ɾ
+75	0.8333	1.0000	i a_i x_u_n_t_a_l_o		a i e_n_a_ɔ_u_n_d_ɛ_ɾ_ɔ
+76	0.5556	2.0000	e_s_t_e e_s_t_e		e e_s_t_e e_s t_e e
+77	1.0000	1.0000	ʝ_a		ɾ_o
+78	0.7500	1.0000	l_o_s t_ɾ_e_s		e_ð_o d_e_s_o
+79	0.2500	1.0000	t_ɾ_e_s		ɾ_e_s
+80	0.4615	1.0000	i e_s_t_e d_e a_k_a		ʝ_e_s_e e ð_a
+81	0.7500	2.0000	k_e_ð_a		u a
+82	0.6429	1.0000	s_i k_j_ɛ_ɾ_ɛ_s m_e_t_e_l_e u_n_a m_a_s a_k_a		b_ɾ_e m_e d_ɛ_n_e_u_n m_e_β_a_s a_t_ɾ_a
+83	0.5000	1.0000	ʝ_a		a
+84	1.0000	2.0000	k_l_a_ɾ_ɔ		l_o a_o
+85	1.0000	1.0000	s_i		j
+86	0.5714	1.0000	r_e_f_l_e_x_o		ɾ_ɛ_b_l_e_β_o
+87	0.7353	1.0000	b_w_e_n_o a_s l_o k_e t_u k_j_ɛ_ɾ_a_s l_a b_ɛ_ɾ_ð_a_d		u_l_a p_a_l_o b_ɛ_ɾ_u_β_b_e_ɾ_a
+88	0.7000	1.5000	e_s_t_a p_a_ɾ_t_e		ɛ_n_a a_l_a e
+89	0.7857	1.0000	k_o_m_o l_a d_e a_k_i		u_l_u d_a_a_ɾ_j_e
+90	0.5000	1.0000	ʝ_a		n_a
+91	0.5714	1.5000	a_ɔ_ɾ_a a_k_w_ɛ_ɾ_ð_a_t_e		ɔ_ɾ a p_o_e_ð_a_ð
+92	0.7000	1.0000	l_o k_e e_s_t_a		u m_e_s_tʃ_o_a
+93	0.5714	0.6667	e_s_t_o e_s b_l_a_n_k_o		e_s b_e_ð_l_a_l_ɣ_o
+94	0.4444	0.6667	i e_s_t_o e_s		i e_s d_o_s
+95	0.6667	1.0000	a_s_i k_e		n_s_e_β_e
+96	0.7778	1.5000	t_ɾ_aɪ_ɣ_a_m_o_s e_s_o d_e a_i		o e l_o u_n_ɔ  
+97	0.2500	1.0000	k_o_m_o		o_m_o
+98	0.7000	1.5000	e_s_t_a p_a_ɾ_t_e		e_ɣ_u_ɾ_a p_ɛ u_ɔ
+99	0.6364	1.3333	k_o_m_o e_l o_tʃ_o		u_n_o l_o  s_o
+100	0.3333	1.0000	u_n_o		ɛ_n_o
+101	0.2857	0.5000	s_i m_i_ɾ_a		s_i n_i_a
+102	0.9091	1.5000	p_ɔ_ɾ e_x_e_m_p_l_o		l_o ð_e n_d_w_a
+103	0.6286	1.0000	e_s_t_a p_a_ɾ_t_e l_a k_j_ɛ_ɾ_ɛ_s b_l_a_n_k_a o n_e_ɣ_ɾ_a		e_s_a ɣ_a_m_b_e_s l_i_ɡ_u_l_a_ɾ_s_b_a_n_e
+104	0.8333	2.0000	b_l_a_n_k_a		ɔ u_t_a
+105	0.8333	1.0000	b_l_a_n_k_a		m_j_ɛ_n_o
+106	0.9000	1.0000	ʝ_a ɛ_n_t_ɛ_n_d_i		t_ɛ_n_d_u_l_a e
+107	0.6000	1.0000	k_l_a_ɾ_ɔ		k_a_ɣ_a
+108	0.4400	1.0000	l_e t_ɛ_ŋ_ɡ_o k_e p_o_n_ɛ_ɾ e_l s_ɛ_ɾ_ɔ		e e m_o d_e β_o_n_e_ɾ ɛ_n_s_ɛ_ɾ_ɔ
+109	0.7333	1.0000	i ɛ_n l_a_s p_a_ɾ_t_e_s		ɛ_l_e b_ɔ_ð_e
+110	0.6667	1.0000	i ɛ_n e_s_t_a		o e b_ɾ_a
+111	0.7857	1.6667	t_ɛ_ŋ_ɡ_o k_e p_o_n_ɛ_ɾ		l_e l e_l d_e p_ɾ_ɔ_n_e_ɾ
+112	0.2222	0.3333	ɛ_n e_l s_eɪ_s		ɛ_n e_l s
+113	2.3333	3.0000	u_n_o		ɔ_ɾ_a l_o u
+114	1.0000	1.0000	s_i		m
+115	0.7000	1.0000	a_k_i b_a a e_s_t_a_ɾ i_ɣ_w_a_l		i_n_oɪ_i_ɾ_a e r_a β_ɛ_ɡ_w_a_m_o
+116	0.7500	1.0000	s_a_β_e_s k_e		s_o e_d_j
+117	0.5000	1.0000	m_i_ɾ_a		m_i_n_e_a
+118	0.5455	1.0000	e_s_t_e k_ɔ_ð_i_ɣ_o		e_s_k_e f_u_n_i_β_u
+119	1.0000	1.0000	a_k_a		a_ɣ_ɾ_w_a
+120	0.8000	2.0000	r_e_β_ɛ_s		ɾ_e d_e_s
+121	0.5000	1.0000	a_s_i k_e		a_s_ɛ_t_e
+122	1.0000	1.0000	t_a b_j_ɛ_n		o_l_e
+123	0.6923	1.0000	a_s_l_o a_l r_e_β_ɛ_s		a_n_e ɣ_ɾ_e e_s
+124	0.6818	1.0000	ɛ_n b_e_s d_e u_n_o p_ɔ_n s_ɛ_ɾ_ɔ		ɛ_d_e_ɾ_u_n s e_tʃ_e
+125	0.5294	0.7500	a_s l_a p_ɾ_u_e_β_a m_i_ɾ_a		a l_a b_e_a_m_e
+126	0.2857	1.0000	ɛ_n e_s_t_e		e_n_e_s_t_e
+127	0.8235	1.0000	l_o k_j_ɛ_ɾ_ɛ_s b_l_a_n_k_o o l_o k_j_ɛ_ɾ_ɛ_s n_e_ɣ_ɾ_o		u n_i_β_i_m_e_p_o d_ɣ_u_n_a_ɾ
+128	0.6667	1.0000	b_l_a_n_k_o		a_l_a_d_e
+129	0.5385	1.0000	s_i l_e p_o_n_e_m_o_s s_ɛ_ɾ_ɔ k_e p_a_s_a		s_l_e b_n_o_s_ɛ_ɾ d_e_ɡ_a_o_s
+130	0.6667	1.0000	s_e_ɣ_i_ɾ b_l_a_n_k_o		e_b_e e_l_a_m_ɡ_u
+131	0.6957	1.0000	o s_e_a k_e t_ɛ_ŋ_ɡ_o k_e p_o_n_ɛ_ɾ		u_ɾ_a_ɣ_ɛ e_a e o_n_e
+132	0.8333	1.5000	e_l u_n_o		i_n n_e o
+133	0.0000	1.0000	u_n_o		u_n_o 
+134	0.3636	1.0000	i l_o_s s_ɛ_ɾ_ɔ_s		i_l_o s_ɛ_ɾ_a
+135	0.7500	1.0000	p_a_ɾ_a		a_l_a_ɾ
+136	1.4286	4.0000	e_k_s_a_k_t_o		e e_s_t_e ɛ_a ɡ_ɾ_ɛ
+137	1.0000	1.0000	a_i		ɛ
+138	0.6250	1.0000	l_o_s u_n_o_s		l_e_s_e_l_o
+139	0.7500	1.0000	p_a_ɾ_a		b_e_a
+140	0.7895	1.0000	p_a_ɾ_a s_a_k_a_ɾ e_l k_o_l_ɔ_ɾ		a_e_s p_ɾ_ɛ_ð t_ð_o
+141	0.7500	2.0000	s_ɛ_ɾ_ɔ		β_e ɔ
+142	0.8333	1.0000	k_o_m_o p_a_ɾ_a p_o_n_ɛ_ɾ e_l k_o_l_ɔ_ɾ		n_u m_u_a_ɾ_a ɔ_r_u_s r_o_e_m_a_ɾ e_p_u
+143	1.0000	1.0000	p_e_l_e_a		o
+144	0.5000	1.0000	k_ɔ_n_t_ɾ_a		ɔ_n_t_e
+145	0.8750	1.0000	k_j_ɛ_n ɛ_ɾ_a		i_β_u_ɛ_ð_ɔ
+146	0.7778	1.0000	k_j_ɛ_n s_a_β_e		l_a o_β_a_β_u
+147	0.4444	1.0000	s_i k_j_ɛ_ɾ_ɛ_s		s_i_k_i_ɾ_e_s 
+148	0.9231	1.6667	b_ɛ_ɾ l_a i_m_a_x_ɛ_n		a b_e i_n_o x_e_l e
+149	0.6000	1.0000	t_a_n_t_o		ɔ_n_d_o
+150	0.7778	1.0000	p_ɔ_n_l_e a_k_a		u_n_a_d_a ɔ
+151	0.7778	1.0000	p_o_k_o r_a_ɾ_ɔ		ɣ_u_n_a_ɾ_a
+152	0.6000	1.0000	t_e ʝ_a_m_a_ɾ_ɔ_n a t_i		t b_u_n_a_l_a a_x_i
+153	0.6667	1.0000	i t_u k_e a_s_e_s		 t_u_m_ɾ_o_s s 
+154	0.7778	1.0000	l_a e_s_p_a_ð_a		ɣ_a_s t_o
+155	0.5000	1.0000	s_i		s_e
+156	0.7778	0.6667	b_a_s a b_ɛ_ɾ		a b_o_e_ŋ_o
+157	0.6667	1.0000	e_s m_e_x_ɔ_ɾ l_a m_i_a k_e l_a t_u_j_j_a		i_n_e_s b_o_β_o a_l m_a t_e_ð_a_ɾ b_e_a
+158	0.6897	1.0000	m_i_ɾ_a b_e_s k_e e_s_t_a k_e_ð_a_n_d_o b_j_ɛ_n		u_n_i_a d e_s_t_e t_e_d_n_a
+159	0.7143	1.0000	k_e p_a_s_o		t_e_b_a_s a
+160	0.6667	1.0000	k_w_a_n_t_o_s a_ɲ_o_s t_j_e_n_e		a_s_t_e_ɾ a_n_e_n_o
+161	0.6250	1.0000	e_s_t_a_t_u_ɾ_a		a_a_b_u_a
+162	1.0000	1.0000	n_o		o_s
+163	0.7143	1.0000	k_o_m_o b_a_n tʃ_i_k_o_s		t_o s_d_o_s
+164	0.5556	1.0000	k_e e_s e_s_o		e_a ɾ_e_s_o_s_o
+165	0.6875	1.0000	m_u_j_j i_n_t_ɛ_ɾ_ɛ_s_a_n_t_e		u_ɛ_n_t_ɔ_n s_ɔ_t_o
+166	0.3077	1.0000	d_j_e_s p_ɔ_ɾ d_j_e_s		d_e_s k_ɔ_ɾ_d_j_o_s
+167	0.5714	1.0000	k_e_ð_a_n_d_o		ɛ_ɾ_a_d_o
+168	0.6512	1.0000	d_i_l_e k_e s_i k_j_ɛ_ɾ_ɛ p_ɔ_ɾ m_j_ɛ_n_t_ɾ_a_s b_ɛ_ɾ l_a i_m_a_x_ɛ_n		i_l_e t_e n_m_i_ɣ_ɛ_ɾ_ɛ_n_r_o_m_e_ɾ_e_l_ɾ_ɛ_n_l_i_l_a_s_ɾ_ɛ
+169	0.8182	1.0000	k_e s_i k_j_ɛ_ɾ_ɛ		u_ð_o a p_ɛ_a
+170	0.6667	1.5000	l_a i_m_a_x_ɛ_n		a ɛ_r_a_ɾ i
+171	1.0000	2.0000	k_w_a_l		o o
+172	0.5789	1.0000	p_a k_e b_e_a l_a i_m_a_x_ɛ_n		o l e_l_e_a l_e m_a_s_o
+173	0.7692	1.0000	n_o e_l ʝ_a s_a_β_e		ɔ ɾ_o_s a
+174	0.8462	1.6667	b_w_e_n_o n_o s_a_β_e		o l_o l_o_s o b_o_o
+175	0.7222	1.0000	t_o_ð_o e_s_o ɛ_n b_l_a_n_k_o		o_s a_l_o_o
+176	1.7500	3.0000	s_ɛ_ɾ_ɔ		ɛ b_e_ɛ n_o
+177	0.5556	2.0000	d_e_s_i_m_a_l_e_s		ɾ_s m_a_ɾ_o_s
+178	0.7333	1.0000	b_ɛ_n a a_j_j_u_ð_a_ɾ_m_e		u_m_e a_ɾ_a_n_a
+179	0.8000	1.0000	b_ɛ_n a a_j_j_u_ð_a_ɾ_m_e		a_ɾ_a_ɔ_ɛ_ɾ_l_a
+180	0.7826	1.0000	a_j_j_u_ð_a_m_e ɛ_n l_o_s n_u_m_ɛ_ɾ_ɔ_s		ɛ_l u_o_n_a_m_n_o_a
+181	0.9000	2.0000	m_e e_s_t_oɪ k_ɔ_m_f_u_n_d_j_ɛ_n_d_o		n u_n_d_a a ɛ_ŋ_ɡ_o ɛ_ŋ_ɡ_o a
+182	0.7778	1.0000	k_e e_s e_s_o		e_s_o o_ɔ
+183	1.3333	2.0000	e_s_o		e_l s_ɔ_ɾ
+184	0.5000	1.0000	k_a_ɾ_a		b_a_a
+185	0.8571	1.0000	s_o_l_o t_e p_w_e_ð_o a_j_j_u_ð_a_ɾ		s_u_s_p_u_n
+186	0.7500	1.0000	k_e e_s_t_a_s a_s_j_ɛ_n_d_o		u_s_t_e o_s u_ɾ
+187	1.0000	1.0000	a b_ɛ_ɾ		ɔ 
+188	1.0000	2.0000	u_n_o		u_l d_o
+189	1.0000	2.0000	s_eɪ_s		s_oɪ e_s
+190	0.1429	0.5000	ʝ_a e_s_t_a		l_a e_s_t_a
+191	1.6667	3.0000	u_n_o		a n_n_o o
+192	1.3333	2.0000	s_eɪ_s		e i_l_s
+193	1.0000	3.0000	s_j_e_t_e		j_e s d_e
+194	0.6667	1.0000	o_tʃ_o		o
+195	0.6667	2.0000	d_o_s		ɔ s
+196	0.8000	2.0000	s_i_n_k_o		s_e u
+197	0.8000	1.0000	s_eɪ_s s_j_e_t_e i o_tʃ_o		 s_e_ɛ_n_s_l_o d_i_l_a o_ð_u
+198	0.6667	2.0000	d_o_s		o o_s
+199	0.4000	1.3333	a_k_i d_i_s_e k_w_a_t_ɾ_o		o k_ɛ e_s_e k_w_a_t_o
+200	0.8889	3.0000	s_i_n_k_o s_eɪ_s		i  ɾ_o_s s_w_ɔ e_s 
+201	0.8000	1.0000	s_j_e_t_e		s_e_l_e_ɾ_ɔ
+202	0.7500	1.0000	t_ɾ_e_s		u_l_e_a_s
+203	0.6667	2.0000	k_w_a_t_ɾ_o		a a_p_ð_o
+204	0.8182	1.0000	s_j_e_t_e i o_tʃ_o		s_o_f_e_ɣ_a_ɾ a_a
+205	1.0000	2.0000	k_w_a_t_ɾ_o		ɔ_a k_l_o_ɔ
+206	1.0000	2.0000	s_j_e_t_e		s_i_e l_d_ɛ
+207	0.8182	1.3333	s_j_e_t_e i o_tʃ_o		i a_l e_ɔ e_ɣ_o
+208	0.8333	1.0000	k_w_a_t_ɾ_o		ɔ_p_l_o
+209	0.8000	2.0000	s_i_n_k_o		s u
+210	1.0000	2.0000	s_i_n_k_o		s_j ɛ_n_u
+211	1.0000	1.0000	s_j_e_t_e i o_tʃ_o		u b_ɛ_n_b_a_a_ɔ_n
+212	1.0000	2.0000	s_j_e_t_e		u_s_l_ɛ_t_o e
+213	0.5000	1.0000	e_l s_eɪ_s		s eɪ_s
+214	0.5000	1.0000	e_l s_eɪ_s		e_s_eɪ_s_e
+215	0.6667	1.0000	e_l k_w_a_t_ɾ_o		e ɔ_t_u
+216	0.6667	3.0000	u_n_o		 u_n_a o
+217	0.5000	1.0000	k_w_a_t_ɾ_o u_n_o		a_t_l_ɔ u_ɣ_o
+218	1.0000	1.0000	t_ɾ_e_s		o_ɣ_ɛ
+219	0.5000	2.0000	t_ɾ_e_s		ɾ e_s
